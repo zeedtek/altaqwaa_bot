@@ -30,8 +30,14 @@ export default async (error, client) => {
         else if (error.response.description === "Bad Request: need administrator rights in the channel chat") {
 
             let id_user = error.on.payload.chat_id
-            fs.existsSync(path?.join(__dirname, `./database/${id_user}.json`)) ?
-                fs.removeSync(path?.join(__dirname, `./database/${id_user}.json`)) : false;
+            let existsSync = fs.existsSync(path?.join(__dirname, `./database/${id_user}.json`));
+            
+            if (existsSync) {
+
+                let fileJson = fs?.readJsonSync(path?.join(__dirname, `./database/${id_user}.json`));
+                fileJson.evenPost = false;
+                fs.writeJsonSync(path.join(__dirname, `./database/${id_new}.json`), fileJson);     
+            }
 
         }
         
@@ -47,15 +53,6 @@ export default async (error, client) => {
             let id_user = error.on.payload.chat_id
             let message = 'طلب غير صالح: لا توجد حقوق كافية لإرسال الصور إلى الدردشة'
             await client.telegram.sendMessage(id_user, message);
-        }
-
-        else if (error.response.description === "Bad Request: need administrator rights in the channel chat") {
-
-            let id_user = error.on.payload.chat_id
-
-            fs.existsSync(path?.join(__dirname, `./database/${id_user}.json`)) ?
-                fs.removeSync(path?.join(__dirname, `./database/${id_user}.json`)) : false;
-
         }
 
         else if (error.response.description === "Forbidden: bot was blocked by the user") {
