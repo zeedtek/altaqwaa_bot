@@ -5,6 +5,7 @@ import get_database_telegram from './get_database_telegram.js';
 import file_size from './file_size.js';
 import tafseerMouaser from './tafseerMouaser/index.js';
 import Hijri from './Hijri/index.js';
+import error_handling from './error_handling.js';
 
 export default async (client) => {
 
@@ -25,7 +26,7 @@ export default async (client) => {
 
             for (let item of GetAllUsers) {
 
-                if (item?.evenPost) {
+                if (item?.evenPost || item?.evenPost === undefined && item?.type === "private") {
 
                     let random = mp3quran[Math.floor(Math.random() * mp3quran.length)];
                     let mp3quranRandom = random?.audio[Math.floor(Math.random() * random?.audio.length)];
@@ -43,7 +44,9 @@ export default async (client) => {
                         message += `\n▪️ <b>رابط ملف الصوت:</b> \n\n${mp3quranRandom?.link}`
                         await client.telegram.sendMessage(item?.id, message, {
                             parse_mode: 'HTML'
-                        })
+                        }).catch(async error => {
+                            await error_handling(error, client);
+                        });
 
                     }
 
@@ -52,7 +55,10 @@ export default async (client) => {
                         await client.telegram.sendAudio(item?.id, { url: mp3quranRandom?.link }, {
                             caption: message,
                             parse_mode: 'HTML'
+                        }).catch(async error => {
+                            await error_handling(error, client);
                         });
+
                     }
                 }
 
@@ -66,10 +72,13 @@ export default async (client) => {
 
             for (let item of GetAllUsers) {
 
-                if (item?.evenPost) {
+                if (item?.evenPost || item?.evenPost === undefined && item?.type === "private") {
 
                     let random = video[Math.floor(Math.random() * video.length)];
-                    await client.telegram.sendVideo(item?.id, { url: random?.path });
+                    await client.telegram.sendVideo(item?.id, { url: random?.path }).catch(async error => {
+                        await error_handling(error, client);
+                    });
+
                 }
 
             }
@@ -82,7 +91,7 @@ export default async (client) => {
 
             for (let item of GetAllUsers) {
 
-                if (item?.evenPost) {
+                if (item?.evenPost || item?.evenPost === undefined && item?.type === "private") {
 
                     let message = `ـ ❁ …\n\n\nسورة <b>${TFSMouaser?.sura}</b> الآية: ${TFSMouaser?.ayahID}\n\n`
                     message += `<b>${TFSMouaser?.ayah}</b>\n\n`
@@ -93,7 +102,10 @@ export default async (client) => {
                         await client.telegram.sendPhoto(item?.id, { source: TFSMouaser?.buffer }, {
                             parse_mode: 'HTML',
                             caption: message
+                        }).catch(async error => {
+                            await error_handling(error, client);
                         });
+
 
                     }
                 }
@@ -108,7 +120,7 @@ export default async (client) => {
 
             for (let item of GetAllUsers) {
 
-                if (item?.evenPost) {
+                if (item?.evenPost || item?.evenPost === undefined && item?.type === "private") {
 
                     let message = '#التقويم_الهجري 📅\n\n'
                     message += `#${Hijri_?.today} | #${Hijri_.todayEn}\n`
@@ -122,7 +134,10 @@ export default async (client) => {
                         await client.telegram.sendPhoto(item?.id, { source: Hijri_?.buffer }, {
                             parse_mode: 'HTML',
                             caption: message
+                        }).catch(async error => {
+                            await error_handling(error, client);
                         });
+
 
                     }
 
