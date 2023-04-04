@@ -36,7 +36,7 @@ export default async (error, client) => {
 
                 let fileJson = fs?.readJsonSync(path?.join(__dirname, `./database/${id_user}.json`));
                 fileJson.evenPost = false;
-                fs.writeJsonSync(path.join(__dirname, `./database/${id_new}.json`), fileJson);     
+                fs.writeJsonSync(path.join(__dirname, `./database/${id_user}.json`), fileJson);     
             }
 
         }
