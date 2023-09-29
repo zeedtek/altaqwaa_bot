@@ -28,6 +28,7 @@
 - اسماء الله الحسنى
 - آية وتفسير | نص و صورة
 - التاريخ الهجري | نص و صورة
+- التعرف على الصور الاباحية والجنسية وحذفها يعمل فقط في القروبات (supergroup)
 
 
 # المتطلبات
@@ -41,11 +42,23 @@
 ```json
 {
     "token_telegram": "5798247559:AAHdBHKKbA1l6mg2PA5EijTLcVNqEsBR-6U",
-    "executablePath": "/snap/bin/chromium"
+    "executablePath": "/snap/bin/chromium",
+    "version": "v3",
+    "model_v2": "https://bot.altaqwaa.org/model-v2-224-90/model.json",
+    "model_v3": "https://bot.altaqwaa.org/model-v3/model.json",
+    "neutralDrawingThreshold": 50,
+    "pornSexyThreshold": 50
 }
 ```
 
-executablePath = مسار متصفح chromium او chrom
+
+- token_telegram =  رمز التوكن الخاص بالبوت ينمكنك انشائه من خلال [@BotFather](https://t.me/BotFather)
+- version = اصدار الموديل الخاص بالتعرف على الصور الاباحيه او الجنسية v2 يستغر حول 10 ثواني للمعالجة v3 يستغرق حول 50 ثانيهه
+- model_v2 = رابط المودل الاصدار الثاني 
+- model_v3 = رابط المودل الاصدار الثالث
+- neutralDrawingThreshold =  حد الصور الطبيعية كنسبة مئوية
+- pornSexyThreshold =  حد الصور الإباحية والجنسية كنسبة مئوية 
+- executablePath = مسار متصفح chromium او chrom
 
 
 في الغالب هذه المسارات لجميع الانظمة
