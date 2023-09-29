@@ -36,8 +36,6 @@
     "telegraf": "^4.14.0"
   },
   "devDependencies": {
-    "electron": "^22.3.2",
-    "electron-builder": "^23.6.0",
     "nodemon": "^3.0.1"
   }
 }
