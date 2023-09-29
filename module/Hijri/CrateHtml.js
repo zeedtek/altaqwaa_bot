@@ -3,9 +3,12 @@ import path from 'path';
 import moment_hijri from 'moment-hijri';
 import filterSpan from '../filterSpan.js';
 
-
+/**
+ * القائمة CrateHtml هي وظيفة لإنشاء صفحة HTML تحتوي على تفاصيل التاريخ الهجري ومحتوى عشوائي.
+ *
+ * @returns {Object} - كائن يحتوي على تفاصيل التاريخ الهجري ومحتوى عشوائي.
+ */
 export default async function CrateHtml() {
-
     let Arr = [
         'ayaatiha',
         'maeni_asamuha',
@@ -14,7 +17,8 @@ export default async function CrateHtml() {
         'sabab_nuzuliha',
         'fadluha',
         'munasabatiha'
-    ]
+    ];
+
     let __dirname = path.resolve();
     let today = moment_hijri().locale('ar-SA').format('dddd'); // اليوم
     let todayEn = moment_hijri().locale('en').format('dddd'); // اليوم
@@ -24,9 +28,8 @@ export default async function CrateHtml() {
     let albitaqat = fs.readJsonSync('./files/json/albitaqat.json');
     let random = albitaqat[Math.floor(Math.random() * albitaqat.length)];
     let randomArr = Arr[Math.floor(Math.random() * Arr.length)];
-    let title = randomArr === 'ayaatiha' ? 'آيَـــــــــــــــاتُـــــها' : randomArr === 'maeni_asamuha' ? 'مَعــــــنَـى اسْـــــــمِها' : randomArr === 'sabab_tasmiatiha' ? 'سَبَبُ تَسْمِيَتِها' : randomArr === 'maqsiduha_aleamu' ? 'مَقْصِدُها العَامُّ' : randomArr === 'sabab_nuzuliha' ? 'سَبَبُ نُزُولِهَا' : randomArr === 'fadluha' ? 'فَضْــــــلُها' : 'مُنَــاسَــبَاتُــها';
-    let body = Array.isArray(random?.[randomArr]) ? random?.[randomArr].join('<br>') : random?.[randomArr];
-
+    let title = getTitle(randomArr);
+    let body = getBody(random, randomArr);
 
     let html = `<!DOCTYPE html>
 <html lang="en">
@@ -91,8 +94,7 @@ export default async function CrateHtml() {
 
 </body>
 
-</html>`
-
+</html>`;
 
     fs.writeFileSync(path.join(__dirname, './module/Hijri/index.html'), html);
 
@@ -103,6 +105,46 @@ export default async function CrateHtml() {
         Gregorian: moment_hijri().locale('en').format('YYYY/M/D'),
         title: title,
         surah: random?.surah,
-        body: Array.isArray(random?.[randomArr]) ? random?.[randomArr].join('\n') : random?.[randomArr]
+        body: body
+    };
+}
+
+/**
+ * القائمة getTitle هي وظيفة للحصول على عنوان العنصر العشوائي بناءً على القيمة الممررة.
+ *
+ * @param {string} randomArr - القيمة العشوائية الممررة.
+ * @returns {string} - العنوان المناسب بناءً على القيمة الممررة.
+ */
+function getTitle(randomArr) {
+    switch (randomArr) {
+        case 'ayaatiha':
+            return 'آيَـــــــــــــــاتُـــــها';
+        case 'maeni_asamuha':
+            return 'مَعــــــنَـى اسْـــــــمِها';
+        case 'sabab_tasmiatiha':
+            return 'سَبَبُ تَسْمِيَتِها';
+        case 'maqsiduha_aleamu':
+            return 'مَقْصِدُها العَامُّ';
+        case 'sabab_nuzuliha':
+            return 'سَبَبُ نُزُولِهَا';
+        case 'fadluha':
+            return 'فَضْــــــلُها';
+        default:
+            return 'مُنَــاسَــبَاتُــها';
+    }
+}
+
+/**
+ * القائمة getBody هي وظيفة للحصول على محتوى العنصر العشوائي بناءً على القيم الممررة.
+ *
+ * @param {Object} random - كائن القيم العشوائية.
+ * @param {string} randomArr - القيمة العشوائية الممررة.
+ * @returns {string} - المحتوى المناسب بناءً على القيم الممررة.
+ */
+function getBody(random, randomArr) {
+    if (Array.isArray(random?.[randomArr])) {
+        return random?.[randomArr].join('<br>');
+    } else {
+        return random?.[randomArr];
     }
 }

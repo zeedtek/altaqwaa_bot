@@ -2,7 +2,6 @@ import fs from 'fs-extra';
 import path from 'path';
 import database_telegram from '../module/database_telegram.js';
 
-
 export default async (client, Markup) => {
 
     client.action("video", async (ctx) => {
@@ -20,7 +19,7 @@ export default async (client, Markup) => {
             name: ctx?.chat?.first_name ? ctx?.chat?.first_name : ctx?.chat?.last_name ? ctx?.chat?.last_name : ctx?.chat?.title,
             type: ctx?.chat?.type,
             message_id: ctx?.message?.message_id
-        });
+        }, client);
 
         await ctx.replyWithVideo({ url: random?.path}, {
             reply_markup: button.reply_markup

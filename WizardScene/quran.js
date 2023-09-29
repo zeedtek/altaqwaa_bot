@@ -1,7 +1,7 @@
 import fs from 'fs-extra';
 import path from 'path';
 import { Scenes, Markup } from 'telegraf';
-import file_size from '../module/file_size.js';
+import getFileSize from '../module/getFileSize.js';
 
 const __dirname = path.resolve();
 const mp3quran = fs.readJsonSync(path.join(__dirname, './files/json/mp3quran.json'));
@@ -20,7 +20,7 @@ export default new Scenes.WizardScene(
 
         }
 
-        await ctx.reply(message, { parse_mode: 'HTML' });
+        await ctx.reply(message, { parse_mode: 'HTML', reply_to_message_id: ctx?.message?.message_id });
 
 
         let message2 = ''
@@ -30,7 +30,7 @@ export default new Scenes.WizardScene(
 
         }
 
-        await ctx.reply(message2, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+        await ctx.reply(message2, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
 
         return ctx.wizard.next();
     },
@@ -53,7 +53,7 @@ export default new Scenes.WizardScene(
             if (ctx.wizard.state.reader === undefined) {
 
                 let message = 'قم بكتابة إسم القارئ او رقمه بشكل صحيح !';
-                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
                 return ctx.wizard.selectStep(1);
 
             }
@@ -69,7 +69,7 @@ export default new Scenes.WizardScene(
 
                 }
 
-                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
 
                 return ctx.wizard.next();
 
@@ -98,7 +98,7 @@ export default new Scenes.WizardScene(
                     if (body === String(item?.id) || item?.name?.includes(body)) {
 
                         readerAudio = false
-                        let FileSize = await file_size(item?.link);
+                        let FileSize = await getFileSize(item?.link);
 
                         let message = `▪️ <b>القارئ:</b> ${reader?.name} \n`
                         message += `▪️ <b>الرواية:</b> ${reader?.rewaya} \n`
@@ -112,7 +112,8 @@ export default new Scenes.WizardScene(
 
                             message += `\n▪️ <b>رابط ملف الصوت:</b> \n\n${item?.link}`
                             await ctx.reply(message, {
-                                parse_mode: 'HTML'
+                                parse_mode: 'HTML',
+                                reply_to_message_id: ctx?.message?.message_id
                             })
 
                         }
@@ -121,7 +122,8 @@ export default new Scenes.WizardScene(
 
                             await ctx.replyWithAudio(item?.link, {
                                 caption: message,
-                                parse_mode: 'HTML'
+                                parse_mode: 'HTML',
+                                reply_to_message_id: ctx?.message?.message_id
                             });
                         }
 

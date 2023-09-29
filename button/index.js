@@ -28,7 +28,8 @@ export default async function button(client, Markup) {
 
     } catch (error) {
 
-        console.log(error);
+        console.error('An error occurred:', error);
+        // Handle the error based on your requirements
 
     }
 

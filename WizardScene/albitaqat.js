@@ -1,7 +1,8 @@
 import fs from 'fs-extra';
-import path, { join } from 'path';
+import path from 'path';
 import { Scenes, Markup } from 'telegraf';
 
+// تعريف المتغيرات
 const __dirname = path.resolve();
 const albitaqat = fs.readJsonSync(path.join(__dirname, './files/json/albitaqat.json'));
 const but_1 = [Markup.button.callback('الرجوع للقائمة الرئيسية 🏠', 'start')];
@@ -12,13 +13,13 @@ export default new Scenes.WizardScene(
     async (ctx) => {
 
         let message = '<b>بطاقات القرآن الكريم🏰 :</b>\n\n'
-        message += 'مشروع يهدف إلى خدمة القرآن الكريم وحفّاظِهِ وقارئيه، عن طريق توفير مَتْنٍ مختصرٍ شاملٍ لسور القرآن، وتوفير محتواه مرئياً ومسموعاً  \n\n\n'
-        message += '<b>محتوياتُ (البِطَاقَات) :</b>\n\n'
-        message += 'وضعتُ ثمانيةَ (8) عناصرَ موحَّدَةً في كلِّ بطاقةِ تعريفٍ بالسورةِ، مرتبةً ومُرَقَّمَةً، وكتبت بعباراتٍ واضحةٍ، وجُمَلٍ مختصرةٍ، وأسلوبٍ ميسرٍ ليسهُلَ حفظُهَا.\n\n\n'
-        message += '<b>لإرسال البطاقة قم بإرسال إسم السورة او رقمها ✉️</b>'
+        message += 'مشروع يهدف إلى خدمة القرآن الكريم وحفظه وقرائه، عن طريق توفير نص مختصر شامل لسور القرآن، وتوفير محتواه مرئيًا ومسموعًا\n\n\n'
+        message += '<b>محتويات البطاقات:</b>\n\n'
+        message += 'تحتوي كل بطاقة تعريف للسورة على ثمانية عناصر موحدة، مرتبة ومُرقمة، ومكتوبة بعبارات واضحة وجُمل مختصرة، بأسلوب ميسر لتسهيل حفظها.\n\n\n'
+        message += '<b>لإرسال البطاقة، قم بإرسال اسم السورة أو رقمها ✉️</b>'
 
-
-        await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+        // إرسال الرسالة
+        await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
         return ctx?.wizard?.next();
     },
     async (ctx) => {
@@ -29,8 +30,10 @@ export default new Scenes.WizardScene(
 
             let albitaqatStatus = true;
 
-            body?.includes('سورة') | body?.includes('سوره ') ? body = body?.split('سورة ')?.join('')?.split('سوره')?.join('') : body;
+            // تحويل النص إلى الصيغة الصحيحة
+            body = body?.replace('سورة', '').replace('سوره', '').trim();
 
+            // البحث عن السورة وإرسال البطاقة
             for (let item of albitaqat) {
 
                 if (body === String(item?.id) || body === item?.surah) {
@@ -61,10 +64,11 @@ export default new Scenes.WizardScene(
 
             }
 
+            // إذا لم يتم العثور على السورة
             if (albitaqatStatus) {
 
-                let message = 'قم بكتابة إسم السورة او رقمه بشكل صحيح !';
-                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+                let message = 'قم بكتابة اسم السورة أو رقمها بشكل صحيح!';
+                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
 
             }
 

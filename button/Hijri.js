@@ -25,14 +25,13 @@ export default async (client, Markup) => {
             name: ctx?.chat?.first_name ? ctx?.chat?.first_name : ctx?.chat?.last_name ? ctx?.chat?.last_name : ctx?.chat?.title,
             type: ctx?.chat?.type,
             message_id: ctx?.message?.message_id
-        });
+        }, client);
 
         if (Hijri_) {
 
             await ctx.replyWithPhoto({ source: Hijri_?.buffer }, {
-                parse_mode: 'HTML',
                 caption: message,
-                reply_markup: button.reply_markup
+                reply_markup: button.reply_markup,
             });
 
         }

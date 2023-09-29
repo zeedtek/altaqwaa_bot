@@ -63,7 +63,7 @@ export default new Scenes.WizardScene(
         message += 'القنوات: يجب ان يكون البوت مشرف ويمتلك صلاحية الكتابة\n\n\n'
         message += 'قم بالتنقل بين الخدمات بالضغط على الازرار التي بالأسفل 🔘'
 
-        await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+        await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: message_id });
 
         return ctx?.scene?.leave()
     }

@@ -21,7 +21,7 @@ export default new Scenes.WizardScene(
 
         }
 
-        await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+        await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
         return ctx?.wizard?.next();
     },
     async (ctx) => {
@@ -43,6 +43,7 @@ export default new Scenes.WizardScene(
                         await ctx.replyWithAudio(iterator?.audio, {
                             parse_mode: 'HTML',
                             caption: message,
+                            reply_to_message_id: ctx?.message?.message_id
                         });
 
                     }
@@ -56,7 +57,7 @@ export default new Scenes.WizardScene(
             if (hisnmuslimStatus) {
 
                 let message = 'قم بكتابة إسم الفئة او رقمه بشكل صحيح !';
-                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+                await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup, reply_to_message_id: ctx?.message?.message_id });
 
             }
 

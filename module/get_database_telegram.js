@@ -2,32 +2,32 @@ import fs from 'fs-extra';
 import path from 'path';
 
 /**
- * 
+ * هذه الدالة تسترجع قاعدة بيانات تيليجرام بناءً على النوع المحدد
  * @param {"all"|"private"|"group"|"supergroup"|"channel"} type 
  * @returns 
  */
+
 export default async function get_database_telegram(type) {
+    const __dirname = path.resolve();
+    const databasePath = path.join(__dirname, './database');
+    const databaseFiles = fs.readdirSync(databasePath);
+    const result = [];
 
-    let __dirname = path.resolve();
-    let database = fs.readdirSync(path.join(__dirname, './database'));
-    let array = []
-
-    for (let item of database) {
-
-        let id = item.split('.json')[0]
-        let chatJson = fs.readJsonSync(path.join(__dirname, `./database/${item}`));
+    for (const file of databaseFiles) {
+        const id = file.split('.json')[0];
+        const chatJson = fs.readJsonSync(path.join(databasePath, file));
         if (chatJson?.type === type || type === 'all') {
-
-            array.push({
+            result.push({
                 id: chatJson?.id,
                 username: chatJson?.username,
                 name: chatJson?.name,
                 type: chatJson?.type,
                 status: chatJson?.status,
-                evenPost: chatJson?.evenPost
+                evenPost: chatJson?.evenPost,
+                permissions: chatJson?.permissions
             });
         }
     }
 
-    return array
+    return result;
 }

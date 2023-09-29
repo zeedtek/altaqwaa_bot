@@ -20,7 +20,7 @@ export default async (client, Markup) => {
             name: ctx?.chat?.first_name ? ctx?.chat?.first_name : ctx?.chat?.last_name ? ctx?.chat?.last_name : ctx?.chat?.title,
             type: ctx?.chat?.type,
             message_id: ctx?.message?.message_id
-        });
+        }, client);
 
         await ctx.replyWithPhoto({ url: random }, {
             reply_markup: button.reply_markup
