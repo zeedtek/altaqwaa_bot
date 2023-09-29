@@ -47,7 +47,7 @@ export default async function EventPhoto(client) {
 
             if (nsfw?.sharing === false) {
 
-                let Permission = await getBotPermissions(client, id_chat)
+                let Permission = await getBotPermissions(client, id_chat, type)
                 let message = "تنبيه: يُشتبه في أن هذه الرسالة تحتوي على محتوى جنسي أو إباحي أو أشياء مخلة بالأدب. وفقًا لتعاليم الإسلامية نحن نحثك على تجنب مشاركة مثل هذه الرسالة وحذفها فورًا. نسأل الله أن يهدينا جميعًا إلى الخير والاستقامة. \n\n"
                 message += `❁ <b>تحليل الصورة</b> \n\n`
                 message += `▪️ ${filteredData?.[0]?.message}\n`

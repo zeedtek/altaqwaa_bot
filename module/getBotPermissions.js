@@ -2,7 +2,7 @@ import fs from 'fs-extra';
 import path from 'path';
 import error_handling from './error_handling.js';
 
-export default async function getBotPermissions(client, chatId) {
+export default async function getBotPermissions(client, chatId, type) {
     const __dirname = path.resolve();
     const configPath = path.join(__dirname, './config.json');
     const config = await fs.readJson(configPath).catch(() => ({}));
@@ -23,7 +23,7 @@ export default async function getBotPermissions(client, chatId) {
     // تحديد حالتك في المجموعة عضو او مشرف  member | administrator
     const canStatus = botMember?.status;
     // يحدد ما إذا كان يمكن للمستخدم إرسال رسائل في القناة أو المجموعة. 
-    const canSendMessages = botMember?.can_post_messages;
+    const canSendMessages = type === 'channel' ? botMember?.can_post_messages : true;
     // يحدد ما إذا كان يمكن للمستخدم حذف الرسائل في القناة أو المجموعة. 
     const candDeleteMessages = botMember?.can_delete_messages;
     // يحدد ما إذا كان يمكن للمستخدم تقييد أعضاء القناة أو المجموعة، مثل حظرهم أو تقييدهم من إرسال الرسائل. 

@@ -16,7 +16,7 @@ export default async function database_telegram(options, client) {
 
     // تحقق من وجود معلمة "client" واستدعاء وظيفة "getBotPermissions".
     if (client && (!create_db_user || options?.EditPermissions || Object.keys(db_user?.permissions || {})?.length === 0)) {
-        permissions = await getBotPermissions(client, options?.id);
+        permissions = await getBotPermissions(client, options?.id, options?.type);
     }
     // If the user's database file doesn't exist, create it and write the data
     if (!create_db_user) {
