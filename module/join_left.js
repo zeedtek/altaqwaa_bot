@@ -3,8 +3,8 @@ import path from 'path';
 import database_telegram from './database_telegram.js';
 
 export default async function join_left(client) {
-
     // هذا الكود يقوم بالتعامل مع أحداث تغيير حالة العضو في المجموعة
+    const sentMessages = new Set(); // متغير مؤقت لتتبع الرسائل المرسلة
 
     client.on("my_chat_member", async (ctx) => {
         // الحصول على مسار المجلد الحالي
@@ -20,6 +20,7 @@ export default async function join_left(client) {
         const can = Object.fromEntries(
             Object.entries(new_chat_member).filter(([key]) => key.startsWith('can'))
         );
+        const existsSync = fs.existsSync(path.join(__dirname, `./database/${id_chat}.json`));
 
         if (status === 'member' || status === 'administrator') {
             await database_telegram({
@@ -32,19 +33,21 @@ export default async function join_left(client) {
                 EditPermissions: true
             }, client);
 
-            if (type !== "channel") {
+            if (type !== "channel" && !sentMessages.has(id_chat) && !existsSync) {
                 const message = username_chat ?
                     `مرحبا @${username_chat} لقد تم تفعيل خدمة إرسال الرسائل بشكل تلقائي \nلتعطيل الخدمة أرسل كلمة تعطيل` :
                     `مرحبا ${name_chat} لقد تم تفعيل خدمة إرسال الرسائل بشكل تلقائي \nلتعطيل الخدمة أرسل كلمة تعطيل`;
 
                 await ctx.reply(message);
+                sentMessages.add(id_chat); // إضافة معرف الدردشة للرسائل المرسلة
             }
         } else if (status === 'left' || status === 'kicked') {
-            const existsSync = fs.existsSync(path.join(__dirname, `./database/${id_chat}.json`));
 
             if (existsSync) {
                 fs.removeSync(path.join(__dirname, `./database/${id_chat}.json`));
             }
+
+            sentMessages.delete(id_chat); // ازالة معرف الدردشة للرسائل المرسلة
         }
     });
 }

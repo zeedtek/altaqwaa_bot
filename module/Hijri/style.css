@@ -13,14 +13,16 @@
 
 html,
 body {
-    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Vazirmatn_Bold';
+    min-height: 100%; /* Set a minimum height of 100% to ensure the background color covers the entire viewport */
     background-color: #e9d7b7;
     background-image: url(./old.svg);
     background-size: cover;
-    margin: 0px 0px 0px 0px;
-    direction: rtl;
-    font-family: 'Vazirmatn_Bold';
     background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
 }
 
 /* =========== header ===========*/
@@ -86,7 +88,8 @@ body {
 /* =========== content ===========*/
 
 #content {
-    margin-bottom: 40px;
+    flex-grow: 1;
+    padding-bottom: 60px; /* Match the footer height */
 }
 #title {
     position: absolute;
@@ -120,9 +123,8 @@ body {
 
 /* =========== footer ===========*/
 
-#footer{
-    width: 100%;
-    margin-top: 0px;
+#footer {
+    height: 60px;
     background-color: #a52a2a;
     display: flex;
     flex-direction: row;
@@ -130,6 +132,7 @@ body {
     justify-content: space-around;
     align-items: center;
 }
+
 
 #logo{
     width: 100px;

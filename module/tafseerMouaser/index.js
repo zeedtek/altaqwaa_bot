@@ -15,7 +15,7 @@ export default async function tafseermouaser(filename) {
         let config = fs.readJSONSync(path.join(__dirname, './config.json'));
         let launchOptions = {
             // تشغيل المتصفح بدون واجهة رسومية
-            headless: true,
+            headless: "new",
             args: ['--start-maximized', '--no-sandbox', '--disable-setuid-sandbox'],
             executablePath: config?.executablePath
         };

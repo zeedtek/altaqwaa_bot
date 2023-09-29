@@ -10,8 +10,10 @@ export async function scan(input, options) {
     let check = await checkInput(input);
     if (check?.type === "Link") {
         let buffer = await getBuffer(input).catch(e => console.log(e));
-        let Result = await nsfwModel(Buffer.from(buffer), options).catch(e => console.log(e));
-        return convertToPercentage(Result, options);
+        if (buffer) {
+            let Result = await nsfwModel(Buffer.from(buffer), options).catch(e => console.log(e));
+            return convertToPercentage(Result, options);
+        }
     } else if (check?.type === "Buffer") {
         let Result = await nsfwModel(input, options).catch(e => console.log(e));
         return convertToPercentage(Result, options);

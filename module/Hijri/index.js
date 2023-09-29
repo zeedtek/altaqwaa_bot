@@ -48,7 +48,7 @@ export default async function Hijri_calendar(filename) {
     });
 
     // تعيين حجم العرض للصفحة
-    await page?.setViewport({ width: 650, height: 100 });
+    await page?.setViewport({ width: 900, height: 100 });
 
     // التوجه إلى صفحة التقويم الهجري المحلية
     await page?.goto(`file://${path.join(__dirname, './module/Hijri/index.html')}`, {
