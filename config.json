@@ -1,9 +1,4 @@
 {
     "token_telegram": "5798247559:AAHdBHKKbA1l6mg2PA5EijTLcVNqEsBR-6U",
-    "executablePath": "/snap/bin/chromium",
-    "version": "v3",
-    "model_v2": "https://bot.altaqwaa.org/model-v2-224-90/model.json",
-    "model_v3": "https://bot.altaqwaa.org/model-v3/model.json",
-    "neutralDrawingThreshold": 50,
-    "pornSexyThreshold": 50
+    "executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 }

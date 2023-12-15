@@ -6,7 +6,6 @@ import WizardScene from './WizardScene/index.js';
 import join_left from './module/join_left.js';
 import EventText from './module/EventText.js';
 import EventTextChannel from './module/EventTextChannel.js';
-import EventPhoto from './module/EventPhoto.js';
 import command from './command/index.js';
 import button from "./button/index.js";
 import error_handling from './module/error_handling.js';
@@ -40,7 +39,6 @@ async function teleAltaqwaa() {
     await join_left(client);
     await EventText(client);
     await EventTextChannel(client);
-    await EventPhoto(client);
 
     // جدولة الرسائل
 
@@ -48,7 +46,9 @@ async function teleAltaqwaa() {
 
     // ابدأ التطبيق
 
-    client.launch();
+    client.launch().catch(async (error) => {
+        await error_handling(error, client);
+    });
 
     // تجاوز معالجة الأخطاء
 

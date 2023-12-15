@@ -6,12 +6,14 @@ import getFileSize from './getFileSize.js';
 import tafseerMouaser from './tafseerMouaser/index.js';
 import Hijri from './Hijri/index.js';
 import error_handling from './error_handling.js';
+import convertHTMLandCSSToImage from '../module/convertHTMLandCSSToImage.js';
 
-export default async (client) => {
+export default async function scheduling_messages(client) {
     // تنفيذ الكود بشكل متكرر كل دقيقة
     setInterval(async () => {
         // الحصول على مسار المجلد الحالي
         const __dirname = path.resolve();
+        const config = fs.readJSONSync(path.join(__dirname, './config.json'));
         // الحصول على الوقت الحالي وتنسيقه
         const time = moment().locale('en-EN').format('LT');
         // الحصول على اليوم الحالي وتنسيقه باللغة العربية
@@ -21,6 +23,7 @@ export default async (client) => {
         const time_video = ["8:00 AM"];
         const time_tafseer = ["7:00 PM"];
         const time_Hijri = ["12:02 AM"];
+        const time_names_off_allah = ["6:00 AM"];
         // الحصول على جميع المستخدمين
         const GetAllUsers = await get_database_telegram("all");
 
@@ -28,11 +31,9 @@ export default async (client) => {
         if (time_quran.includes(time)) {
             // قراءة ملف JSON يحتوي على تفاصيل تلاوات القرآن
             const mp3quran = fs.readJsonSync(path.join(__dirname, './files/json/mp3quran.json'));
-
             for (const item of GetAllUsers) {
                 if (item?.evenPost && item?.permissions?.canSendMessages || item?.type === "private") {
                     try {
-                        // اختيار تفاصيل تلاوة عشوائية
                         const random = mp3quran[Math.floor(Math.random() * mp3quran.length)];
                         const mp3quranRandom = random?.audio[Math.floor(Math.random() * random?.audio.length)];
                         const FileSize = await getFileSize(mp3quranRandom?.link);
@@ -45,14 +46,9 @@ export default async (client) => {
 
                         if (FileSize.split('.')[0] >= 20 && FileSize.split(' ')[1] === 'MB') {
                             message += `\n▪️ <b>رابط ملف الصوت:</b> \n\n${mp3quranRandom?.link}`
-                            await client.telegram.sendMessage(item?.id, message, {
-                                parse_mode: 'HTML'
-                            });
+                            await sendMessageWithRetry(item?.id, message);
                         } else {
-                            await client.telegram.sendAudio(item?.id, { url: mp3quranRandom?.link }, {
-                                caption: message,
-                                parse_mode: 'HTML'
-                            });
+                            await sendAudioWithRetry(item?.id, { url: mp3quranRandom?.link }, message);
                         }
                     } catch (error) {
                         await error_handling(error, client);
@@ -65,13 +61,11 @@ export default async (client) => {
         else if (time_video.includes(time)) {
             // قراءة ملف JSON يحتوي على تفاصيل مقاطع الفيديو
             const video = fs.readJsonSync(path.join(__dirname, './files/json/video.json'));
-
             for (const item of GetAllUsers) {
                 if (item?.evenPost && item?.permissions?.canSendMessages || item?.type === "private") {
                     try {
-                        // اختيار مقطع فيديو عشوائي
                         const random = video[Math.floor(Math.random() * video.length)];
-                        await client.telegram.sendVideo(item?.id, { url: random?.path });
+                        await sendVideoWithRetry(item?.id, { url: random?.path });
                     } catch (error) {
                         await error_handling(error, client);
                     }
@@ -83,7 +77,6 @@ export default async (client) => {
         else if (time_tafseer.includes(time)) {
             // الحصول على تفاصيل التفسير الميسر
             const TFSMouaser = await tafseerMouaser(path.join(__dirname, './tafseerMouaser.jpeg')).catch(e => console.log(e));
-
             for (const item of GetAllUsers) {
                 if (item?.evenPost && item?.permissions?.canSendMessages || item?.type === "private") {
                     try {
@@ -92,10 +85,7 @@ export default async (client) => {
                         message += `${TFSMouaser?.tafseer}`
 
                         if (TFSMouaser?.buffer) {
-                            await client.telegram.sendPhoto(item?.id, { source: TFSMouaser?.buffer }, {
-                                parse_mode: 'HTML',
-                                caption: message
-                            });
+                            await sendPhotoWithRetry(item?.id, { source: TFSMouaser?.buffer }, message);
                         }
                     } catch (error) {
                         await error_handling(error, client);
@@ -106,9 +96,7 @@ export default async (client) => {
 
         // تنفيذ الأحداث المتعلقة بمشاركة التقويم الهجري
         else if (time_Hijri.includes(time)) {
-            // الحصول على تفاصيل التقويم الهجري
             const Hijri_ = await Hijri(path.join(__dirname, './Hijri.jpeg')).catch(e => console.log(e));
-
             for (const item of GetAllUsers) {
                 if (item?.evenPost && item?.permissions?.canSendMessages || item?.type === "private") {
                     try {
@@ -120,9 +108,167 @@ export default async (client) => {
                         message += `${Hijri_?.body}`
 
                         if (Hijri_) {
-                            await client.telegram.sendPhoto(item?.id, { source: Hijri_?.buffer }, {
-                                caption: message
-                            });
+                            await sendPhotoWithRetry(item?.id, { source: Hijri_?.buffer }, message);
+                        }
+                    } catch (error) {
+                        await error_handling(error, client);
+                    }
+                }
+            }
+        }
+
+        // تنفيذ الأحداث المتعلقة بمشاركة اسماء الله الحسنى
+        else if (time_names_off_allah.includes(time)) {
+            // الحصول على تفاصيل التفسير الميسر
+            const Names_Of_Allah = fs.readJsonSync(path.join(__dirname, './files/json/Names_Of_Allah.json'));
+            const puppeteerConfig = {
+                headless: "new", // تشغيل متصفح بدون واجهة رسومية
+                args: [
+                    '--no-sandbox', // تجنب مشكلات التشغيل على Linux
+                    '--disable-setuid-sandbox', // تجنب مشكلات التشغيل على Linux
+                    '--disable-dev-shm-usage', // تجنب مشكلات الذاكرة المشتركة على Linux
+                    '--disable-accelerated-2d-canvas', // تجنب مشكلات الرسومات على Linux
+                    '--disable-gpu', // تجنب استخدام وحدة المعالجة الرسومية
+                ],
+                executablePath: config?.executablePath
+            };
+
+            for (const item of GetAllUsers) {
+                if (item?.evenPost && item?.permissions?.canSendMessages || item?.type === "private") {
+                    try {
+
+                        const random = Names_Of_Allah[Math.floor(Math.random() * Names_Of_Allah.length)];
+                        let message = `<b>الإسم: ${random.name}</b>\n\n`
+                        message += `المعنى: ${random.text}\n\n`
+
+                        const result = await convertHTMLandCSSToImage({
+                            htmlCode: `<!DOCTYPE html>
+                            <html lang="en">
+                            
+                            <head>
+                                <meta charset="UTF-8">
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                            </head>
+                            
+                            <body>
+                            
+                                <div id="main-container">
+                            
+                                    <div id="container">
+                                        <h1 id="name">
+                                        ${random.name}
+                                        </h1>
+                                    
+                                        <p id="description">
+                                        ${random.text}
+                                        </p>
+                                
+                                      
+                                    </div>
+                            
+                                </div>
+                            
+                                <div id="username">
+                                    ${ctx?.chat?.username ? `@${ctx?.chat?.username}` : ctx?.chat?.first_name ? ctx?.chat?.first_name : ctx?.chat?.last_name ? ctx?.chat?.last_name : ctx?.chat?.title}
+                                </div>
+                            
+                                <div id="bot">
+                                    بوت أذكار : adhk2r_bot
+                                </div>
+                            
+                            </body>
+                            
+                            </html>`,
+                            cssCode: `@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@1000&family=Vazirmatn&display=swap');
+                            @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@1000&family=Tajawal:wght@900&family=Vazirmatn&display=swap');
+                            @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@1000&family=Tajawal:wght@400;900&family=Vazirmatn&display=swap');
+                            
+                            body {
+                                margin: 0;
+                                padding: 0;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                min-height: 100vh;
+                                background-color: #04364A;
+                                width: 100%;
+                                font-family: 'Vazirmatn', sans-serif;
+                            }
+                            
+                            #main-container {
+                                position: absolute;
+                                top: 100px;
+                                bottom: 100px;
+                                left: 100px;
+                                right: 100px;
+                                background-color: #176B87;
+                                box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+                                margin-left: auto;
+                                margin-right: auto;
+                                border-radius: 30px;
+                            }
+                            
+                            #container {
+                                display: flex;
+                                justify-content: center;
+                                flex-wrap: wrap;
+                                align-items: center;
+                                text-align: center;
+                                box-sizing: border-box;
+                                position: relative;
+                            }
+                            
+                            #name {
+                                color: #64CCC5;
+                                font-size: 120px;
+                                font-family: 'Tajawal', sans-serif;
+                                position: absolute;
+                                top: -140px;
+                                text-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+                            }
+                            
+                            #description {
+                                margin-top: 200px;
+                                margin-bottom: 0px;
+                                width: 100%;
+                                color: #64CCC5;
+                                font-family: 'Tajawal', sans-serif;
+                                font-size: 33px;
+                                margin-left: 20px;
+                                margin-right: 20px;
+                            }
+                            
+                            #username {
+                                position: absolute;
+                                bottom: 60px;
+                                color: #176B87;
+                                font-size: 16px;
+                            }
+                            
+                            #bot {
+                                position: absolute;
+                                bottom: 20px;
+                                color: #176B87;
+                                font-size: 15px;
+                                direction: rtl;
+                            }`,
+                            outputPath: 'output.png',
+                            width: 1180,
+                            height: 700,
+                            quality: 100,
+                            format: 'png',
+                            retryLimit: 3,
+                            puppeteerConfig: puppeteerConfig,
+                        });
+
+                        if (result?.success) {
+
+                            await sendPhotoWithRetry(item?.id, { source: result?.buffer }, message);
+
+                        }
+
+                        else {
+                            await sendMessageWithRetry(item?.id, message);
                         }
                     } catch (error) {
                         await error_handling(error, client);
@@ -131,4 +277,35 @@ export default async (client) => {
             }
         }
     }, 60000);
+
+    async function sendMediaWithRetry(chatId, media, method, caption) {
+        try {
+            await client.telegram[method](chatId, media, { parse_mode: 'HTML', caption });
+        } catch (error) {
+            if (error.response && error.response.ok === false && error.response.error_code === 504) {
+                // Network timeout, retry after a delay (e.g., 5 seconds)
+                console.log("Network timeout, retry after a delay (e.g., 5 seconds)");
+                setTimeout(() => sendMediaWithRetry(chatId, media, method, caption), 5000);
+            } else {
+                // Handle other errors
+                await error_handling(error, client);
+            }
+        }
+    }
+
+    async function sendAudioWithRetry(chatId, audio, caption) {
+        await sendMediaWithRetry(chatId, audio, 'sendAudio', caption);
+    }
+
+    async function sendMessageWithRetry(chatId, message) {
+        await sendMediaWithRetry(chatId, message, 'sendMessage');
+    }
+
+    async function sendPhotoWithRetry(chatId, photo, caption) {
+        await sendMediaWithRetry(chatId, photo, 'sendPhoto', caption);
+    }
+
+    async function sendVideoWithRetry(chatId, video) {
+        await sendMediaWithRetry(chatId, video, 'sendVideo');
+    }
 }
