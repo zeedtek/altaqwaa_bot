@@ -12,7 +12,7 @@ export default async (client, Markup) => {
         message += '- بوت إسلامي يقدم العديد من الخدمات التي يحتاجها المسلم في يومه \n\n'
         message += '- بوت مفتوح المصدر تحت ترخيص <b>MIT</b> \n\n'
         message += `- يمكن المساهمه في تطوير البوت عبر طلب سحب على <b><a href="https://github.com/rn0x/altaqwaa_bot">جيتهب</a></b> \n\n`
-        message += `- يمكن التبليغ عن المشاكل او طلب مميزات عبر مراسلتي على <b><a href="https://t.me/binattia">الخاص</a></b>`
+        message += `- يمكن التبليغ عن المشاكل او طلب مميزات عبر مراسلتي على <b><a href="https://t.me/aleabiri">الخاص</a></b>`
 
         await database_telegram({
             id: ctx?.chat?.id,
