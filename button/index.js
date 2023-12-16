@@ -9,6 +9,7 @@ import Names_Of_Allah from './Names_Of_Allah.js';
 import tafseer from './tafseer.js';
 import Hijri from './Hijri.js';
 import info from './info.js';
+import fatwas from './fatwas.js';
 
 export default async function button(client, Markup) {
 
@@ -25,6 +26,7 @@ export default async function button(client, Markup) {
         await tafseer(client, Markup);
         await Hijri(client, Markup);
         await info(client, Markup);
+        await fatwas(client, Markup);
 
     } catch (error) {
 

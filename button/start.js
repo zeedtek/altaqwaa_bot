@@ -28,7 +28,8 @@ export default async function start(client, Markup) {
         message += '6- بطاقات القرآن 🎴 \n'
         message += '7- حصن المسلم 🏰 \n'
         message += '8- آية وتفسير 🌾 \n'
-        message += '9- التاريخ الهجري 📅 \n\n\n'
+        message += '9- فتاوى ابن باز رحمه الله 🔊 \n'
+        message += '10- التاريخ الهجري 📅 \n\n\n'
         message += 'إحصائيات البوت \n\n'
         message += `عدد المحادثات : ${getUserAll.length}\n`
         message += `عدد المجموعات : ${getSupergroup.length}\n`
@@ -54,9 +55,9 @@ export default async function start(client, Markup) {
         const but_2 = [Markup.button.callback('أذكار 📿', 'adhkar'), Markup.button.callback('بطاقات 🎴', 'albitaqat')];
         const but_3 = [Markup.button.callback('فيديو 🎥', 'video'), Markup.button.callback('صور 🖼️', 'photo')];
         const but_4 = [Markup.button.callback('آية وتفسير 🌾', 'tafseer'), Markup.button.callback('أسماء الله الحسنى ✨', 'Names_Of_Allah')];
-        const but_5 = [Markup.button.callback('التاريخ الهجري 📅', 'Hijri')];
+        const but_5 = [Markup.button.callback('التاريخ الهجري 📅', 'Hijri'), Markup.button.callback('فتاوى ابن باز 🔊', 'fatwas')];
         const but_6 = [Markup.button.callback('معلومات حول البوت ℹ️', 'info')];
-        const button = Markup.inlineKeyboard([but_1, but_2, but_3, but_4, but_5, but_6]);
+        const button = Markup.inlineKeyboard([but_1, but_2, but_3, but_4, but_5, but_6]); 
 
         await ctx.reply(message, { parse_mode: 'HTML', reply_markup: button.reply_markup });
 

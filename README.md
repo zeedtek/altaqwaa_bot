@@ -91,7 +91,7 @@ npm start
 ```
 
 
-#  مثال على آية وتفسير و التاريخ الهجري واسماء الله الحسنى
+#  مثال على آية وتفسير و التاريخ الهجري واسماء الله الحسنى و فتاوى الشيخ ابن باز رحمه الله
 
 <div align="center">
 
@@ -106,6 +106,11 @@ npm start
   <br>
 
   <img align="center" src="./output.png">
+
+  <br>
+  <br>
+
+  <img align="center" src="./fatwas.png">
 
   <br>
   <br>

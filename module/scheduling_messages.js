@@ -7,6 +7,7 @@ import tafseerMouaser from './tafseerMouaser/index.js';
 import Hijri from './Hijri/index.js';
 import error_handling from './error_handling.js';
 import convertHTMLandCSSToImage from '../module/convertHTMLandCSSToImage.js';
+import fatwas from './fatwas/index.js';
 
 export default async function scheduling_messages(client) {
     // تنفيذ الكود بشكل متكرر كل دقيقة
@@ -19,11 +20,12 @@ export default async function scheduling_messages(client) {
         // الحصول على اليوم الحالي وتنسيقه باللغة العربية
         const today = moment().locale('ar-SA').format('dddd');
         // أوقات تنفيذ الأحداث
-        const time_quran = ["2:00 PM"];
+        const time_quran = ["3:00 PM"];
         const time_video = ["8:00 AM"];
         const time_tafseer = ["8:00 PM"];
         const time_Hijri = ["12:02 AM"];
         const time_names_off_allah = ["6:00 PM"];
+        const time_fatwas = ["3:00 PM"];
         // الحصول على جميع المستخدمين
         const GetAllUsers = await get_database_telegram("all");
 
@@ -134,7 +136,7 @@ export default async function scheduling_messages(client) {
             };
 
             for (const item of GetAllUsers) {
-                if (item?.evenPost && item?.permissions?.canSendMessages || item?.type === "private") {
+                if (item?.evenPost && item?.permissions?.canSendMessages && item?.type !== "private") {
                     try {
 
                         const random = Names_Of_Allah[Math.floor(Math.random() * Names_Of_Allah.length)];
@@ -276,6 +278,55 @@ export default async function scheduling_messages(client) {
                 }
             }
         }
+
+        // تنفيذ الأحداث المتعلقة بمشاركة فتاوى ابن باز رحمه الله
+        else if (time_fatwas.includes(time)) {
+            for (const item of GetAllUsers) {
+                if (item?.evenPost && item?.permissions?.canSendMessages && item?.type !== "private") {
+                    const nameUser = item?.username ? `@${item?.username}` : item?.name;
+                    try {
+                        const resultFatwas = await fatwas(nameUser).catch(error => console.log(error));
+                        let categories = []
+                        if (resultFatwas?.categories) {
+                            for (const lop of resultFatwas?.categories) {
+                                categories.push(`#${lop?.split(" ")?.join("_")}`)
+                            }
+                        }
+                        let message = '<b>فتاوى #ابن_باز رحمه الله</b>\n\n\n'
+                        message += `#${resultFatwas?.fatwas_title?.split(" ")?.join("_")}\n\n`
+                        message += `<b>س:</b> ${resultFatwas?.question}\n\n`
+                        message += `<b>${resultFatwas?.answer}</b>\n\n\n`
+                        message += categories;
+                        
+
+                        if (resultFatwas?.buffer) {
+                            if (message.length >= 1024) {
+                                await sendMessageWithRetry(item?.id, message?.slice(0, 4095));
+                            }
+
+                            await sendPhotoWithRetry(item?.id, { source: resultFatwas?.buffer }, message.length >= 1024 ? undefined : message);
+                        }
+                
+                        if (resultFatwas?.audio) {
+                            await sendAudioWithRetry(item?.id, { url: resultFatwas?.audio }, `<b>فتاوى #ابن_باز رحمه الله</b> \n\n${resultFatwas?.title}\n\n${categories}`);
+                        }
+                
+                        if (resultFatwas?.imagePath) {
+                            fs.removeSync(path.join(__dirname, resultFatwas?.imagePath));
+                            fs.removeSync(path.join(__dirname, resultFatwas?.path));
+                        }
+                
+                        else if (!resultFatwas?.buffer) {
+                            await sendMessageWithRetry(item?.id, message?.slice(0, 4095));
+                        }
+                        
+                    } catch (error) {
+                        await error_handling(error, client);
+                    }
+                }
+            }
+        }
+
     }, 60000);
 
     async function sendMediaWithRetry(chatId, media, method, caption) {

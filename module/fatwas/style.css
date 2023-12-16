@@ -1,0 +1,121 @@
+@font-face {
+    font-family: "Tajawal";
+    src: url(./font/Tajawal/Tajawal-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "ArefRuqaaInk";
+    src: url(./font/Aref_Ruqaa_Ink/ArefRuqaaInk-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "BalooBhaijaan2";
+    src: url(./font/Baloo_Bhaijaan_2/BalooBhaijaan2-VariableFont_wght.ttf) format("truetype");
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #092635;
+    width: 100%;
+    font-family: 'Tajawal', sans-serif;
+    position: relative;
+    direction: rtl;
+}
+
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 250px;
+}
+
+#id {
+    color: #9EC8B9;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 18px;
+    background-color: #1B4242;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+#fatwas {
+    color: #9EC8B9;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 18px;
+}
+
+#container {
+    text-align: center;
+    padding: 10px;
+}
+
+#title {
+    color: #9EC8B9;
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+#question {
+    display: inline-block;
+    color: #9EC8B9;
+    background-color: #1B4242;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+
+#categories {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#answer {
+    color: #5C8374;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    word-wrap:break-word;
+}
+
+#categories p {
+    color: #9EC8B9;
+    background-color: #1B4242;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+
+#bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #9EC8B9;
+    font-size: 13px;
+    position: absolute;
+    bottom: 0px;
+    padding: 10px;
+    left: 0;
+    right: 0;
+}
+
+#group {
+    direction: ltr;
+}
