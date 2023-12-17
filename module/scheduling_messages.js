@@ -50,7 +50,7 @@ export default async function scheduling_messages(client) {
                             message += `\n▪️ <b>رابط ملف الصوت:</b> \n\n${mp3quranRandom?.link}`
                             await sendMessageWithRetry(item?.id, message);
                         } else {
-                            await sendAudioWithRetry(item?.id, { url: mp3quranRandom?.link }, message);
+                            await sendAudioWithRetry(item?.id, { url: mp3quranRandom?.link, filename: `${random?.name} - ${random?.name} - tg@tqw24h.mp3` }, message);
                         }
                     } catch (error) {
                         await error_handling(error, client);
@@ -87,7 +87,7 @@ export default async function scheduling_messages(client) {
                         message += `${TFSMouaser?.tafseer}`
 
                         if (TFSMouaser?.buffer) {
-                            await sendPhotoWithRetry(item?.id, { source: TFSMouaser?.buffer }, message);
+                            await sendPhotoWithRetry(item?.id, { source: TFSMouaser?.buffer, filename: `سورة ${TFSMouaser?.sura} الآية: ${TFSMouaser?.ayahID}.jpeg` }, message);
                         }
                     } catch (error) {
                         await error_handling(error, client);
@@ -110,7 +110,7 @@ export default async function scheduling_messages(client) {
                         message += `${Hijri_?.body}`
 
                         if (Hijri_) {
-                            await sendPhotoWithRetry(item?.id, { source: Hijri_?.buffer }, message);
+                            await sendPhotoWithRetry(item?.id, { source: Hijri_?.buffer, filename: `${Hijri_?.Hijri}_📅.jpeg` }, message);
                         }
                     } catch (error) {
                         await error_handling(error, client);
@@ -265,7 +265,7 @@ export default async function scheduling_messages(client) {
 
                         if (result?.success) {
 
-                            await sendPhotoWithRetry(item?.id, { source: result?.buffer }, message);
+                            await sendPhotoWithRetry(item?.id, { source: result?.buffer, filename: `${random.name}.jpeg` }, message);
 
                         }
 

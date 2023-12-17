@@ -159,7 +159,7 @@ export default async (client, Markup) => {
 
         if (result?.success) {
 
-            await ctx.replyWithPhoto({ source: result?.buffer }, {
+            await ctx.replyWithPhoto({ source: result?.buffer, filename: random?.name + ".jpeg" }, {
                 caption: message,
                 parse_mode: 'HTML',
                 reply_markup: button.reply_markup

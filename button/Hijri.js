@@ -29,7 +29,7 @@ export default async (client, Markup) => {
 
         if (Hijri_) {
 
-            await ctx.replyWithPhoto({ source: Hijri_?.buffer }, {
+            await ctx.replyWithPhoto({ source: Hijri_?.buffer, filename: `${Hijri_?.Hijri}_📅.jpeg` }, {
                 caption: message,
                 reply_markup: button.reply_markup,
             });

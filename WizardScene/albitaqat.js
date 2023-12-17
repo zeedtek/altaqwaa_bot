@@ -42,7 +42,8 @@ export default new Scenes.WizardScene(
 
                     await ctx.replyWithPhoto(
                         {
-                            url: item?.image
+                            url: item?.image,
+                            filename: `بطاقة_سورة_${item?.surah.split(" ").join("_")}.jpeg`
                         },
                         {
                             parse_mode: 'HTML',
@@ -51,7 +52,8 @@ export default new Scenes.WizardScene(
 
                     await ctx.replyWithAudio(
                         {
-                            url: item?.audio
+                            url: item?.audio,
+                            filename: `بطاقة_سورة_${item?.surah.split(" ").join("_")}.mp3`
                         },
                         {
                             parse_mode: 'HTML',

@@ -46,7 +46,8 @@ export default async (client, Markup) => {
         }
 
         if (resultFatwas?.audio) {
-            await ctx.replyWithAudio({ url: resultFatwas?.audio }, {
+            const filename = `${resultFatwas?.fatwas_title?.split(" ")?.join("_")}_فتوى رقم_${resultFatwas?.id}.mp3`
+            await ctx.replyWithAudio({ url: resultFatwas?.audio, filename: filename }, {
                 parse_mode: 'HTML',
                 caption: `<b>فتاوى #ابن_باز رحمه الله</b> \n\n${resultFatwas?.title}\n\n${categories}`,
             });

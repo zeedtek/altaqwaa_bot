@@ -26,7 +26,7 @@ export default async (client, Markup) => {
 
         if (TFSMouaser?.buffer) {
 
-            await ctx.replyWithPhoto({ source: TFSMouaser?.buffer }, {
+            await ctx.replyWithPhoto({ source: TFSMouaser?.buffer, filename: `سورة ${TFSMouaser?.sura} الآية: ${TFSMouaser?.ayahID}.jpeg` }, {
                 parse_mode: 'HTML',
                 caption: message,
                 reply_markup: button.reply_markup

@@ -7,7 +7,7 @@ const __dirname = path.resolve();
 const mp3quran = fs.readJsonSync(path.join(__dirname, './files/json/mp3quran.json'));
 const but_1 = [Markup.button.callback('الرجوع للقائمة الرئيسية 🏠', 'start')];
 const button = Markup.inlineKeyboard([but_1]);
- 
+
 export default new Scenes.WizardScene(
     'quran',
     async (ctx) => {
@@ -102,7 +102,7 @@ export default new Scenes.WizardScene(
 
                         let message = `▪️ <b>القارئ:</b> ${reader?.name} \n`
                         message += `▪️ <b>الرواية:</b> ${reader?.rewaya} \n`
-                        message += `▪️ <b>إسم السورة بالعربي:</b> ${item?.name} \n`
+                        message += `▪️ <b>إسم السورة بالعربي:</b> ${reader?.name} \n`
                         message += `▪️ <b>إسم السورة بالإنجليزي:</b> ${item?.english_name} \n`
                         message += `▪️ <b>رقم السورة:</b> ${item?.id} \n`
                         message += `▪️ <b>مكان النزول:</b> ${item?.descent} | ${item?.descent_english}`
@@ -120,7 +120,10 @@ export default new Scenes.WizardScene(
 
                         else {
 
-                            await ctx.replyWithAudio(item?.link, {
+                            await ctx.replyWithAudio({
+                                url: item?.link,
+                                filename: `${reader?.name} - ${reader?.name} - tg@tqw24h.mp3`
+                            }, {
                                 caption: message,
                                 parse_mode: 'HTML',
                                 reply_to_message_id: ctx?.message?.message_id

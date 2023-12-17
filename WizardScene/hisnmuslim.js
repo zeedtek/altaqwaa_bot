@@ -40,7 +40,11 @@ export default new Scenes.WizardScene(
 
                         let message = `${iterator?.text}`
 
-                        await ctx.replyWithAudio(iterator?.audio, {
+                        await ctx.replyWithAudio(
+                            {
+                                url: iterator?.audio,
+                                filename: `${iterator?.text}.mp3`
+                            }, {
                             parse_mode: 'HTML',
                             caption: message,
                             reply_to_message_id: ctx?.message?.message_id
