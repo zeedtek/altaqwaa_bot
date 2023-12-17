@@ -25,7 +25,7 @@ export default async function scheduling_messages(client) {
         const time_tafseer = ["8:00 PM"];
         const time_Hijri = ["12:02 AM"];
         const time_names_off_allah = ["6:00 PM"];
-        const time_fatwas = ["3:00 PM"];
+        const time_fatwas = ["3:00 AM"];
         // الحصول على جميع المستخدمين
         const GetAllUsers = await get_database_telegram("all");
 
@@ -292,34 +292,35 @@ export default async function scheduling_messages(client) {
                                 categories.push(`#${lop?.split(" ")?.join("_")}`)
                             }
                         }
+                        const filename = `${resultFatwas?.fatwas_title?.split(" ")?.join("_")}_فتوى رقم_${resultFatwas?.id}.mp3`
                         let message = '<b>فتاوى #ابن_باز رحمه الله</b>\n\n\n'
                         message += `#${resultFatwas?.fatwas_title?.split(" ")?.join("_")}\n\n`
                         message += `<b>س:</b> ${resultFatwas?.question}\n\n`
-                        message += `<b>${resultFatwas?.answer}</b>\n\n\n`
+                        message += `<b>${resultFatwas?.answer?.slice(0, 3350)}</b>\n\n\n`
                         message += categories;
-                        
+
 
                         if (resultFatwas?.buffer) {
                             if (message.length >= 1024) {
-                                await sendMessageWithRetry(item?.id, message?.slice(0, 4095));
+                                await sendMessageWithRetry(item?.id, message);
                             }
 
                             await sendPhotoWithRetry(item?.id, { source: resultFatwas?.buffer }, message.length >= 1024 ? undefined : message);
                         }
-                
+
                         if (resultFatwas?.audio) {
-                            await sendAudioWithRetry(item?.id, { url: resultFatwas?.audio }, `<b>فتاوى #ابن_باز رحمه الله</b> \n\n${resultFatwas?.title}\n\n${categories}`);
+                            await sendAudioWithRetry(item?.id, { url: resultFatwas?.audio, filename: filename }, `<b>فتاوى #ابن_باز رحمه الله</b> \n\n${resultFatwas?.title}\n\n${categories}`);
                         }
-                
+
                         if (resultFatwas?.imagePath) {
                             fs.removeSync(path.join(__dirname, resultFatwas?.imagePath));
                             fs.removeSync(path.join(__dirname, resultFatwas?.path));
                         }
-                
+
                         else if (!resultFatwas?.buffer) {
-                            await sendMessageWithRetry(item?.id, message?.slice(0, 4095));
+                            await sendMessageWithRetry(item?.id, message);
                         }
-                        
+
                     } catch (error) {
                         await error_handling(error, client);
                     }
