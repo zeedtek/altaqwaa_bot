@@ -102,7 +102,7 @@ export default new Scenes.WizardScene(
 
                         let message = `▪️ <b>القارئ:</b> ${reader?.name} \n`
                         message += `▪️ <b>الرواية:</b> ${reader?.rewaya} \n`
-                        message += `▪️ <b>إسم السورة بالعربي:</b> ${reader?.name} \n`
+                        message += `▪️ <b>إسم السورة بالعربي:</b> ${item?.name} \n`
                         message += `▪️ <b>إسم السورة بالإنجليزي:</b> ${item?.english_name} \n`
                         message += `▪️ <b>رقم السورة:</b> ${item?.id} \n`
                         message += `▪️ <b>مكان النزول:</b> ${item?.descent} | ${item?.descent_english}`
@@ -122,7 +122,7 @@ export default new Scenes.WizardScene(
 
                             await ctx.replyWithAudio({
                                 url: item?.link,
-                                filename: `${reader?.name} - ${reader?.name} - tg@tqw24h.mp3`
+                                filename: `${reader?.name} - ${item?.name} - tg@tqw24h.mp3`
                             }, {
                                 caption: message,
                                 parse_mode: 'HTML',
