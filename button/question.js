@@ -6,9 +6,24 @@ import qimg from '../module/qimg/qimg.js';
 
 export default async (client, Markup) => {
 
+    // Function to handle button callbacks
+    async function handleCallback(ctx, callbackData) {
+        try {
+            const but_1 = [Markup.button.callback('اسئلة دينية ⁉️', 'question')];
+            const but_2 = [Markup.button.callback('الرجوع للقائمة الرئيسية 🏠', 'start')];
+            const button = Markup.inlineKeyboard([but_1, but_2]);
+            const notificationMessage = "انتهت الفترة الزمنية لهذا السؤال ⌛. شكرًا لمشاركتك!";
+            await ctx.reply(notificationMessage, { parse_mode: 'HTML', reply_markup: button.reply_markup });
+
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
     client.action("question", async (ctx) => {
 
         try {
+
 
             const __dirname = path.resolve();
             const id_chat = ctx?.chat?.id;
@@ -23,7 +38,6 @@ export default async (client, Markup) => {
                 type: ctx?.chat?.type,
                 message_id: ctx?.message?.message_id
             }, client);
-
 
             const Qimg = await qimg();
 
@@ -93,9 +107,16 @@ export default async (client, Markup) => {
                 });
 
                 await ctx.reply("◃─────•●•─────▹");
+
             }
         } catch (error) {
             console.error(error);
         }
+    });
+
+    // Handle callbacks outside of the action block
+    client.on('callback_query', async (ctx) => {
+        const callbackData = ctx.update.callback_query.data;
+        await handleCallback(ctx, callbackData);
     });
 }
