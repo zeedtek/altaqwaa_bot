@@ -9,10 +9,10 @@ export default async (client, Markup) => {
     // Function to handle button callbacks
     async function handleCallback(ctx, callbackData) {
         try {
-            const but_1 = [Markup.button.callback('اسئلة دينية ⁉️', 'question')];
+            const but_1 = [Markup.button.callback('ابدأ سؤال جديد ⁉️', 'question')];
             const but_2 = [Markup.button.callback('الرجوع للقائمة الرئيسية 🏠', 'start')];
             const button = Markup.inlineKeyboard([but_1, but_2]);
-            const notificationMessage = "انتهت الفترة الزمنية لهذا السؤال ⌛. شكرًا لمشاركتك!";
+            const notificationMessage = "انتهت الفترة الزمنية لهذه الأزرار ⌛. شكرًا لمشاركتك!";
             await ctx.reply(notificationMessage, { parse_mode: 'HTML', reply_markup: button.reply_markup });
 
         } catch (error) {
