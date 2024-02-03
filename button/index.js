@@ -10,6 +10,7 @@ import tafseer from './tafseer.js';
 import Hijri from './Hijri.js';
 import info from './info.js';
 import fatwas from './fatwas.js';
+import question from './question.js';
 
 export default async function button(client, Markup) {
 
@@ -27,6 +28,7 @@ export default async function button(client, Markup) {
         await Hijri(client, Markup);
         await info(client, Markup);
         await fatwas(client, Markup);
+        await question(client, Markup);
 
     } catch (error) {
 

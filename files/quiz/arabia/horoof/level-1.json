@@ -1,0 +1,542 @@
+[
+	{
+		"id": 7026,
+		"q": {
+			"q": "حَرف (إنْ) يأتي على وُجوهٍ منها:",
+			"audio": "/files/quiz/arabia/horoof/audio/7026.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1453",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "حَرفُ نِداءٍ",
+				"t": 0
+			},
+			{
+				"answer": "حَرفُ شَرطٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7026_Answer.mp3"
+			},
+			{
+				"answer": "حَرفُ قَسَمٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7024,
+		"q": {
+			"q": "إذا جاء حَرفُ البَاءِ  للتَّبعيض فيكون بمعنَى:",
+			"audio": "/files/quiz/arabia/horoof/audio/7024.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1422",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "مِن",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7024_Answer.mp3"
+			},
+			{
+				"answer": "عَلى",
+				"t": 0
+			},
+			{
+				"answer": "عَن",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7037,
+		"q": {
+			"q": "قد يُحذَفُ المُنادَى بـ(يا) فتكونُ لمجَرَّدِ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7037.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1495",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "الحَصْرِ",
+				"t": 0
+			},
+			{
+				"answer": "التَّنبيهِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7037_Answer.mp3"
+			},
+			{
+				"answer": "العِوَضِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7022,
+		"q": {
+			"q": "حَرفُ الباءِ مختَصٌّ بالاسمِ، وهو أحَدُ حُروفِ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7022.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1422",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "الجَرِّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7022_Answer.mp3"
+			},
+			{
+				"answer": "العَطفِ",
+				"t": 0
+			},
+			{
+				"answer": "النِّداءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7021,
+		"q": {
+			"q": "مِن أَمثِلَةِ باءِ القَسَم:",
+			"audio": "/files/quiz/arabia/horoof/audio/7021.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1422",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "{أَلَسْتُ بِرَبِّكُمْ}",
+				"t": 0
+			},
+			{
+				"answer": "أُقسِمُ باللهِ لتَجتَهِدَنَّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7021_Answer.mp3"
+			},
+			{
+				"answer": "{بِأَنَّ رَبَّكَ أَوْحَى لَهَا}",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7031,
+		"q": {
+			"q": "من أمثلة واو الجمع:",
+			"audio": "/files/quiz/arabia/horoof/audio/7031.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1438",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "المسلِمون",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7031_Answer.mp3"
+			},
+			{
+				"answer": "مكنون",
+				"t": 0
+			},
+			{
+				"answer": "ألوان",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7039,
+		"q": {
+			"q": "مِن مَعاني حَرفِ (على):",
+			"audio": "/files/quiz/arabia/horoof/audio/7039.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1536",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "الكافُ",
+				"t": 0
+			},
+			{
+				"answer": "الفَوْقِيَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7039_Answer.mp3"
+			},
+			{
+				"answer": "التَّأكِيدُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7035,
+		"q": {
+			"q": "حَرفُ اللَّامِ في قَولِ \"الجنَّةُ للْمُؤْمِنين\" يُفيدُ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7035.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1432",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "الِاخْتِصاصَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7035_Answer.mp3"
+			},
+			{
+				"answer": "التَّوكيدَ",
+				"t": 0
+			},
+			{
+				"answer": "التَّقريرَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7032,
+		"q": {
+			"q": "حَرفُ تمنٍّ يتَعَلَّقُ بالمستحيلِ غالِبًا",
+			"audio": "/files/quiz/arabia/horoof/audio/7032.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1540",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "مَهْما",
+				"t": 0
+			},
+			{
+				"answer": "لَيْتَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7032_Answer.mp3"
+			},
+			{
+				"answer": "لاتَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7030,
+		"q": {
+			"q": "حَرفُ (كلَّا) يكونُ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7030.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1567",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "للحَثِّ والتَّرغيبِ",
+				"t": 0
+			},
+			{
+				"answer": "للرَّدعِ والزَّجرِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7030_Answer.mp3"
+			},
+			{
+				"answer": "للتَّوكيدِ والتَّقريرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7023,
+		"q": {
+			"q": "حَرفُ (أل) يُسمَّى:",
+			"audio": "/files/quiz/arabia/horoof/audio/7023.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1449",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "أَداةُ وَصْلٍ",
+				"t": 0
+			},
+			{
+				"answer": "أَداةُ تَعْرِيفٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7023_Answer.mp3"
+			},
+			{
+				"answer": "أَداةُ جَزْمٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7027,
+		"q": {
+			"q": "حَرفُ عَطفٍ يَجِيءُ لعِدَّةِ مَعانٍ منها التخييرُ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7027.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1457",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "أَو",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7027_Answer.mp3"
+			},
+			{
+				"answer": "بَلَى",
+				"t": 0
+			},
+			{
+				"answer": "الفَاءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7029,
+		"q": {
+			"q": "حَرفٌ يختَصُّ بالاستفهامِ عن النِّسبةِ الإيجابيَّةِ: المُثبَتةِ لا المنفيَّةِ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7029.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1489",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "لو",
+				"t": 0
+			},
+			{
+				"answer": "هل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7029_Answer.mp3"
+			},
+			{
+				"answer": "لكن",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7034,
+		"q": {
+			"q": "الباءُ الدَّاخِلةُ على الأثمانِ والأعواضِ نَحْوُ: اشتريتُ الفرسَ بألْفٍ، تُسَمَّى:",
+			"audio": "/files/quiz/arabia/horoof/audio/7034.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1422",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "باءَ التِّجارَةِ",
+				"t": 0
+			},
+			{
+				"answer": "باءَ البَيْعِ",
+				"t": 0
+			},
+			{
+				"answer": "باءَ العِوَضِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7034_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7038,
+		"q": {
+			"q": "حرف يأتي للتَّأْكِيدِ وَنفيِ الإنْكارِ والشَّكِّ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7038.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1516",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "لاتَ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7038_Answer.mp3"
+			},
+			{
+				"answer": "إِذْ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7025,
+		"q": {
+			"q": "تأتي الكافُ في الكلامِ، لَها عِدَّةُ مَعانٍ: مِنْها",
+			"audio": "/files/quiz/arabia/horoof/audio/7025.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1430",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "التَّوضِيحُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّشْبِيهُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7025_Answer.mp3"
+			},
+			{
+				"answer": "النِّداءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7028,
+		"q": {
+			"q": "حَرفُ جَرٍّ، وتدُلُّ على عِدَّةِ مَعانٍ منها: الظَّرفيَّةُ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7028.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1469",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "الكافُ",
+				"t": 0
+			},
+			{
+				"answer": "إلى",
+				"t": 0
+			},
+			{
+				"answer": "فِي",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7028_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7036,
+		"q": {
+			"q": "حَرفُ جَزمٍ لنَفيِ المُضارعِ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7036.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1475",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "لَمْ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7036_Answer.mp3"
+			},
+			{
+				"answer": "كَلَّا",
+				"t": 0
+			},
+			{
+				"answer": "نُونُ التَّوكيدِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7033,
+		"q": {
+			"q": "في قَولِه تعالَى: {قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ} حَرفُ (أو) يُفيدُ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7033.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1457",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "الإبهامَ",
+				"t": 0
+			},
+			{
+				"answer": "الشَّكَّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7033_Answer.mp3"
+			},
+			{
+				"answer": "التَّخيِيرَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7040,
+		"q": {
+			"q": "مِن أَحرُفِ الجَوابِ:",
+			"audio": "/files/quiz/arabia/horoof/audio/7040.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1608",
+		"section": "horoof",
+		"answers": [
+			{
+				"answer": "نَعَمْ، بَلَى",
+				"t": 1,
+				"audio": "/files/quiz/arabia/horoof/audio/answers/7040_Answer.mp3"
+			},
+			{
+				"answer": " لَكِنْ",
+				"t": 0
+			},
+			{
+				"answer": "حَيثُ، إنَّما",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

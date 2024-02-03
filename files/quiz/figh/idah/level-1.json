@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2301,
+		"q": {
+			"q": "الاكتِحال زَمانَ الإحداد",
+			"audio": "/files/quiz/figh/idah/audio/2301.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5069",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2301_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ لِلحاجَة إليه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2299,
+		"q": {
+			"q": "الطِّيب والزِّينة لِلمرأة المُحِدَّة",
+			"audio": "/files/quiz/figh/idah/audio/2299.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5065",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ الطِّيبُ والزِّينةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2299_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ استِعمالُ الطِّيب دون الزِّينة",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ الطِّيب والزِّينة لها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2294,
+		"q": {
+			"q": "إحداد الصَّغيرة المُتَوَفَّى عنها زَوجُها",
+			"audio": "/files/quiz/figh/idah/audio/2294.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5054",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجِب",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2294_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَه",
+				"t": 0
+			},
+			{
+				"answer": "يُستَحبُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2298,
+		"q": {
+			"q": "لُبْس المرأة المُحِدَّة المُزَعْفَرَ والمُعَصْفَرَ",
+			"audio": "/files/quiz/figh/idah/audio/2298.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5063",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2298_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2300,
+		"q": {
+			"q": "لُبْس الحُلِيِّ في الإحداد",
+			"audio": "/files/quiz/figh/idah/audio/2300.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5067",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجوزُ أمامَ أهلِها ومَحارِمها",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2300_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2293,
+		"q": {
+			"q": "الإحداد على المُتَوَفَّى عنها زَوجُها",
+			"audio": "/files/quiz/figh/idah/audio/2293.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5052",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "بِدعة",
+				"t": 0
+			},
+			{
+				"answer": "مُستَحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "واجِب",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2293_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2285,
+		"q": {
+			"q": "حُكم اللِّعان",
+			"audio": "/files/quiz/figh/idah/audio/2285.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4895",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "حَرام",
+				"t": 0
+			},
+			{
+				"answer": "واجِب",
+				"t": 0
+			},
+			{
+				"answer": "مَشروع",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2285_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2296,
+		"q": {
+			"q": "الإحدادُ في النِّكاح الفاسِد والمَوطوءةِ بشُبهةٍ",
+			"audio": "/files/quiz/figh/idah/audio/2296.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5058",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجِب",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشرَع",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2296_Answer.mp3"
+			},
+			{
+				"answer": "يُستَحَبُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2283,
+		"q": {
+			"q": "هو: \"شَهاداتٌ مُؤكَّداتٌ بالأيْمانِ، مَقرونةٌ باللَّعنِ مِن جِهةِ الزَّوجِ، وبالغَضَبِ مِن جِهةِ الزَّوجةِ، قائِمةٌ مَقامَ حَدِّ القَذفِ في حَقِّ الزَّوجِ، ومَقامَ حَدِّ الزِّنا في حَقِّ الزَّوجةِ\"",
+			"audio": "/files/quiz/figh/idah/audio/2283.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4891",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "اللِّعانُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2283_Answer.mp3"
+			},
+			{
+				"answer": "الأَيْمانُ",
+				"t": 0
+			},
+			{
+				"answer": "الإِيلاءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2297,
+		"q": {
+			"q": "الحِكمة مِنَ الإحدادِ:",
+			"audio": "/files/quiz/figh/idah/audio/2297.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5060",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "تَعظيم خَطَر النِّكاح وإظهار شَرَفه",
+				"t": 0
+			},
+			{
+				"answer": "جَميع ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2297_Answer.mp3"
+			},
+			{
+				"answer": "التَّأكيد على الفَرْق بَينَ الزَّواجِ وبَينَ الزِّنا، والحِرْص على الاحتياطِ لِحَقِّ الزَّوْج المُتَوَفَّى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2292,
+		"q": {
+			"q": "الإحداد مَعناه",
+			"audio": "/files/quiz/figh/idah/audio/2292.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5049",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "الامتِناع عنِ الزِّينة والطِّيب، ومُلازَمة البَيْت لِلمُتَوَفَّى عنها زَوجُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2292_Answer.mp3"
+			},
+			{
+				"answer": "صِناعة الحَديد",
+				"t": 0
+			},
+			{
+				"answer": "إزالة شَعْر العانة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2288,
+		"q": {
+			"q": "حُكم العِدة",
+			"audio": "/files/quiz/figh/idah/audio/2288.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4946",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "مُباحَة",
+				"t": 0
+			},
+			{
+				"answer": "مُستَحبَّة",
+				"t": 0
+			},
+			{
+				"answer": "واجِبة",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2288_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2286,
+		"q": {
+			"q": "مِن حِكمِ مَشروعيَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2286.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4898",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "حِفْظ شَرَف الرَّجُل والمَرأَةِ",
+				"t": 0
+			},
+			{
+				"answer": "حِفظُ الأنسابِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2286_Answer.mp3"
+			},
+			{
+				"answer": "ابتِلاءُ المُكلَّفِينَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2284,
+		"q": {
+			"q": "صِيغة اللِّعان هي:",
+			"audio": "/files/quiz/figh/idah/audio/2284.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4893",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أنْ يَقولَ الزَّوجُ أربَعَ مَرَّاتٍ: أشهَدُ باللهِ إنِّي لَصادِقٌ فيما رَمَيتُها به مِنَ الزِّنا، ويَقولَ في الخامِسةِ: لَعنةُ اللهِ علَيَّ إنْ كنتُ كاذِبًا فيما رَميتُها به مِنَ الزِّنا، وأنْ تقولَ الزَّوجةُ أربَعَ مَرَّاتٍ: أشهَدُ باللهِ إنَّه لَكاذِبٌ ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2284_Answer.mp3"
+			},
+			{
+				"answer": "ليس لها صِيغة مُحَدَّدةٌ في الشَّرْع",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يقولَ الزَّوجُ أربَعَ مَرَّاتٍ: أشهَدُ باللهِ إنِّي لم أزْنِ ولم تَزْنِ زَوجَتي",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2289,
+		"q": {
+			"q": "الحِكمة مِن مَشروعيَّة العِدَّة",
+			"audio": "/files/quiz/figh/idah/audio/2289.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4949",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "كلُّ ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2289_Answer.mp3"
+			},
+			{
+				"answer": "تَعظيم خَطَر عَقد النِّكاح",
+				"t": 0
+			},
+			{
+				"answer": "استِبراءُ الرَّحِم والاحتياطُ لِحَقِّ الزَّوْج",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2291,
+		"q": {
+			"q": "عِدَّة المُطلَّقة التي تَحيض",
+			"audio": "/files/quiz/figh/idah/audio/2291.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4986",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أربَعة أشهُر وعشْر",
+				"t": 0
+			},
+			{
+				"answer": "ثلاث حَيضاتٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2291_Answer.mp3"
+			},
+			{
+				"answer": "ثلاثة أشهُر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2287,
+		"q": {
+			"q": "العِدَّة شَرعًا هي",
+			"audio": "/files/quiz/figh/idah/audio/2287.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4944",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "المُدَّة التي تَترَبَّص فيها المرأة بَعدَ وَفاة الزَّوْج، أو الفِراق، إمَّا بالوِلادة أو الحَيْض، أو بالشُّهور",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2287_Answer.mp3"
+			},
+			{
+				"answer": "ما تَنتَظِرُه المَرأةُ التي فُقِدَ زَوجُها لتَحِلَّ لغَيرِه",
+				"t": 0
+			},
+			{
+				"answer": "المُدَّةُ التي يُتوَقَّعُ فيها حَملُ المَرأةِ بعدَ وفاةٍ أو طَلاقٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2302,
+		"q": {
+			"q": "الاختِضابُ بالحِنَّاء لِلمُحِدَّة",
+			"audio": "/files/quiz/figh/idah/audio/2302.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5071",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2302_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2295,
+		"q": {
+			"q": "إحداد الكِتابيَّة على زَوْجها المُسلِم",
+			"audio": "/files/quiz/figh/idah/audio/2295.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5056",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُستَحَبُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِب",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2295_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2290,
+		"q": {
+			"q": "أسبابُ العِدَّة",
+			"audio": "/files/quiz/figh/idah/audio/2290.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4951",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "الوَفاة فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "الطَّلاق والوَفاة",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2290_Answer.mp3"
+			},
+			{
+				"answer": "الطَّلاق فَقَط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

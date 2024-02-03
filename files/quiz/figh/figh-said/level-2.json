@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2081,
+		"q": {
+			"q": "إذا اجتَمَعتِ العَقيقةُ والأُضحِيةُ",
+			"audio": "/files/quiz/figh/figh-said/audio/2081.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3914/المبحث-الأول:-حكم-اجتماع-العقيقة-مع-الأضحية-في-وقت-واحد",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا تُجزِئُ عَنهُما ذَبيحةٌ واحِدةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2081_Answer.mp3"
+			},
+			{
+				"answer": "أجزَأَت عَنهُما ذَبيحةٌ واحِدةٌ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ تَأخيرُ الأُضحِيَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2074,
+		"q": {
+			"q": "سَلخُ الذَّبيحةِ وقَطعُ عُضوٍ منها قَبلَ أن تَبرُدَ",
+			"audio": "/files/quiz/figh/figh-said/audio/2074.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3731/المطلب-الرابع:-سلخ-الذبيحة-أو-قطع-عضو-منها-قبل-أن-تبرد",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُشرَعُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2074_Answer.mp3"
+			},
+			{
+				"answer": "يُستحَبُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2075,
+		"q": {
+			"q": "أكلُ الذَّبيحةُ المُغَلْصَمةُ:",
+			"audio": "/files/quiz/figh/figh-said/audio/2075.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3614/المبحث-الثالث:-الذبيحة-المغلصمة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَحِلُّ أكلُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2075_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ أكلُها",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَه أكلُها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2068,
+		"q": {
+			"q": "صَعقُ الحَيَوانِ بالكَهرَباءِ ثم ذَبْحُه",
+			"audio": "/files/quiz/figh/figh-said/audio/2068.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3706/المبحث-الرابع:-صعق-الحيوان-بالكهرباء-قبل-ذبحه",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ إذا كانت فيه حَياةٌ بَعدَ الصَّعقِ، ولم تَضُرَّ الكَهرَباءُ لَحْمَه بَعدَها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2068_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2073,
+		"q": {
+			"q": "الذَّبحُ بآلةٍ غَيرِ حادَّةٍ",
+			"audio": "/files/quiz/figh/figh-said/audio/2073.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3729/المطلب-الثالث:-الذبح-بآلة-كالة-غير-حادة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ ولا تَحِلُّ الذَّبيحةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ، ولا تَحِلُّ الذَّبيحةُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ وتَحِلُّ الذَّبيحةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2073_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2080,
+		"q": {
+			"q": "العَقيقةُ عنِ اليَتيمِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2080.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3909/المبحث-الأول:-العقيقة-عن-اليتيم",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُعَقُّ عنه من مالِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2080_Answer.mp3"
+			},
+			{
+				"answer": "يُشرَعُ العَقيقةُ عنه من مالِ أقرِبائِه",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشرَعُ العَقيقةُ عنه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2078,
+		"q": {
+			"q": "من شُروطِ العَقيقةِ والأُضحِيةِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2078.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3879/المطلب-الأول:-يشترط-في-العقيقة-ما-يشترط-في-الأضحية",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا عَلاقةَ لأحَدِهِما بالآخَرِ",
+				"t": 0
+			},
+			{
+				"answer": "يُشترَطُ في العَقيقةِ ما يُشتَرَطُ في الأُضحِيةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2078_Answer.mp3"
+			},
+			{
+				"answer": "يُستحَبُّ في العَقيقةِ ما يُشتَرَطُ في الأُضحِيةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2063,
+		"q": {
+			"q": "الكِتابيُّ إذا انتَقَلَ إلى دِينٍ كتابيٍّ آخَرَ، والكافِرُ إذا دَخَل في دِينِ أهلِ الكِتابِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2063.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3675/الفرع-الرابع:-ذبيحة-الكتابي-أو-غير-الكتابي-إذا-انتقل-إلى-دين-كتابي",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ أكلُ ذَبيحَتِهما",
+				"t": 0
+			},
+			{
+				"answer": "يَجوز أكلُ ذَبيحةِ الكافِر إذا دخَلَ في دِينِ أهلِ الكِتابِ فحَسبُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ أكلُ ذَبيحَتِهما",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2063_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2079,
+		"q": {
+			"q": "الذي يَعُقُّ عنِ المَولودِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2079.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3883/المبحث-الثاني:-من-يعق-عن-المولود؟",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "الجَدُّ",
+				"t": 0
+			},
+			{
+				"answer": "الأبُ أو مَن يَقومُ مَقامَه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2079_Answer.mp3"
+			},
+			{
+				"answer": "الأمُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2076,
+		"q": {
+			"q": "العَقيقةُ عنِ التَّوأمِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2076.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3872/المطلب-الثالث:-هل-تكفي-عقيقة-واحدة-عن-توءمين؟",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "تُجزِئُ عَقيقةٌ واحِدةٌ إن كانا بِنتَينِ",
+				"t": 0
+			},
+			{
+				"answer": "لكُلِّ مَولوٍد عَقيقَتُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2076_Answer.mp3"
+			},
+			{
+				"answer": "تُجزِئُ عَقيقةٌ واحِدةٌ عَنهُما",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2066,
+		"q": {
+			"q": "لو سَمَّى غَيرُ الذابِحِ عِندَ التَّذكِيةِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2066.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3698/المطلب-الرابع:-أن-تكون-التسمية-من-الذابح-لا-من-غيره",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "جازَ وكُرِهَ الأكلُ منها",
+				"t": 0
+			},
+			{
+				"answer": "جازَ وحَصَلَ المَقصودُ",
+				"t": 0
+			},
+			{
+				"answer": "المُعتَبَرُ تَسمِيةُ الذَّابِحِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2066_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2071,
+		"q": {
+			"q": "إيضاحُ مَحَلِّ الذَّبحِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2071.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3722/المطلب-الخامس:-إيضاح-محل-الذبح",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُوضِّحُ المَحَلَّ ويَتبَيَّنُه ويَتفَقَّدُ المَوضِعَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2071_Answer.mp3"
+			},
+			{
+				"answer": "يَتحَرَّى ويَذبَحُ بلا إيضاحٍ",
+				"t": 0
+			},
+			{
+				"answer": "ليس بمَطلوبٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2064,
+		"q": {
+			"q": "ذَبيحةُ المُحرِمِ مِن صَيدِ البَرِّ",
+			"audio": "/files/quiz/figh/figh-said/audio/2064.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3666/الفرع-التاسع:-حكم-ما-ذبحه-المحرم-من-صيد-البر",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ أكلُها لغَيرِ المُحرِمِ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ أكلُها لغَيرِ أهلِ الحَرَمِ",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُم أكلُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2064_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2072,
+		"q": {
+			"q": "إحدادُ السِّكِّينِ أمامَ الحَيَوانِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2072.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3725/المطلب-الأول:-إحداد-السكين-بين-يدي-الحيوان-قبل-ذبحه",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ بشَرطِ سُرعةِ الذَّبحِ",
+				"t": 0
+			},
+			{
+				"answer": "لا شَيءَ فيه",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2072_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2065,
+		"q": {
+			"q": "نيَّةُ الذَّكاةِ عِندَ الذَّبحِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2065.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3689/المبحث-الثاني:-نية-المذكي",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "تُستحَبُّ",
+				"t": 0
+			},
+			{
+				"answer": "شَرطٌ للحِلِّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2065_Answer.mp3"
+			},
+			{
+				"answer": "لا تُشتَرَطُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2077,
+		"q": {
+			"q": "من حِكَمِ العَقيقةِ:",
+			"audio": "/files/quiz/figh/figh-said/audio/2077.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3874/المبحث-الثاني:-الحكمة-من-العقيقة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "إثباتُ النَّسَبِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2077_Answer.mp3"
+			},
+			{
+				"answer": "ذَبحُ الهَدْيِ",
+				"t": 0
+			},
+			{
+				"answer": "الاحتِفالُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2067,
+		"q": {
+			"q": "لو سَمَّى الذَّابِحُ لا للذَّبحِ ولكن لقِراءةِ القُرآنِ في أثناءِ الذَّبحِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2067.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3700/المطلب-الخامس:-أن-يريد-بالتسمية-التسمية-على-الذبيحة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "قِراءةُ القُرآنِ أفضَلُ مِنَ التَّسمِيةِ",
+				"t": 0
+			},
+			{
+				"answer": "حصَلَ المَقصودُ مِنَ التَّسمِيةِ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ أن تَكونَ التَّسمِيةُ لِقَصدِ الذَّبيحةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2067_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2069,
+		"q": {
+			"q": "إلقاءُ الحَيَوانِ بعد ذَبحِه في الماءِ الحارِّ لِنَزعِ الرِّيشِ:",
+			"audio": "/files/quiz/figh/figh-said/audio/2069.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3710/مطلب:-نتف-الريش-بالماء-الحار",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ؛ لِتَعذيبِ الحَيَوانِ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2069_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ لِلمُثلَةٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2070,
+		"q": {
+			"q": "سَوْقُ الذَّبيحةِ إلى مَذبَحِها",
+			"audio": "/files/quiz/figh/figh-said/audio/2070.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3720/المطلب-الرابع:-سوق-الذبيحة-إلى-المذبح-وإضجاعها-برفق",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا يُشرَعُ ذلك، بل يَذبَحُها أمامَ نَظيراتِها",
+				"t": 0
+			},
+			{
+				"answer": "يُستَحَبُّ سَوْقُها وإضْجاعُها برِفقٍ والإحْسانُ إليها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2070_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ سَوْقُها إلى المَذبَحِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2082,
+		"q": {
+			"q": "حُكمُ تَوزيعِ العَقيقةِ وجَعلِها وَليمةً",
+			"audio": "/files/quiz/figh/figh-said/audio/2082.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3923/المبحث-الثالث:-توزيع-العقيقة-وجعلها-وليمة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجِبُ تَوزيعُها مَطبوخةً",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ إحضارُ النَّاسِ وإطعامُهُم منها في بَيتِ الصَّبيِّ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2082_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,30 @@
+doctype html
+html(lang='en')
+
+    head
+        meta(charset='UTF-8')
+        meta(name='viewport' content='width=device-width, initial-scale=1.0')
+        title التقوى
+        script(type='module' src='./main.js')
+        link(rel='stylesheet' href='./main.css')
+
+    body#body
+        img(src='./logo.png' id='logo')
+
+        ul#category
+            li= category
+            li.divID= divID
+            li= questionTitle
+
+        #questions
+            p#title_q السؤال
+            h2= question
+
+        #number
+            img(src='./question-mark.png' id='time')
+
+        ul#answers
+            each answer in answers
+                li(id=answer.t === 1 ? 'green' : '')= answer.answer
+
+        img(src='./altaqwaa.png' id='altaqwaa')

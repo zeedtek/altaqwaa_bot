@@ -1,0 +1,542 @@
+[
+	{
+		"id": 995,
+		"q": {
+			"q": "معنى (تَركَن) في قولِه تعالَى: {وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/995.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/18\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "تَطمَئنُّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/995_Answer.mp3"
+			},
+			{
+				"answer": "تَدعُو",
+				"t": 0
+			},
+			{
+				"answer": "تَتَوَجَّه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 982,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولًا} على:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/982.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/4\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "أنَّ العَذابَ لا يكونُ إلَّا للمُشرِكين",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ أَهلَ الفَترةِ حُكمُهُم حُكمُ أَهلِ الأَعرافِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ الله لا يُعذِّب أحدًا حتى تقومَ عليه الحُجَّةُ بالرُّسُلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/982_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 990,
+		"q": {
+			"q": "أفاد قولُه تعالَى: {رَبُّكُمْ أَعْلَمُ بِكُمْ إِنْ يَشَأْ يَرْحَمْكُمْ أَوْ إِنْ يَشَأْ يُعَذِّبْكُمْ}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/990.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/13\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "أنَّ رحمةَ اللهِ وعذابَه صِفاتٌ لا إراديَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ الرحمةَ والتعذيبَ مُعَلَّقانِ بالمَشيئةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/990_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ اللهَ تعالَى لا يَرحَمُ مَن يَستَحِقُّ العذابَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 998,
+		"q": {
+			"q": "معنى (خبَت) في قولِه تعالَى: {كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/998.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/24\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "اشتعَلت",
+				"t": 0
+			},
+			{
+				"answer": "زادتْ ضَجِيجًا",
+				"t": 0
+			},
+			{
+				"answer": "سكَن لهَبُها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/998_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 993,
+		"q": {
+			"q": "معنى قولِه تعالَى: {رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/993.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/16\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "يُسَيِّر لكم السُّفُن",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/993_Answer.mp3"
+			},
+			{
+				"answer": "يَرزُقُكم بالسُّفُن",
+				"t": 0
+			},
+			{
+				"answer": "يُمسِك لكم السُّفُنَ عن الغَرَق",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 994,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ} على:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/994.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/16\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "أنَّ اللهَ لا يَقبَلُ دعوةَ المُشرِك",
+				"t": 0
+			},
+			{
+				"answer": "أنَّه مَن دعا اللهَ تعالَى موقِنًا بالإجابة؛ أجابَه، وقدْ يَكونُ مُشرِكًا فاسِقًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/994_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الدُّعاءَ على جَنبٍ هو أَفضلُ الدُّعاء",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 997,
+		"q": {
+			"q": "عُبِّر بـ(عسى) دون ما يُفيد القطعَ في قولِه تعالَى: {عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/997.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/19\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "لأنَّ عسَى في القُرآنِ بمعنى: لَزِمَ",
+				"t": 0
+			},
+			{
+				"answer": "لحَثِّ النبيِّ ﷺ على مُلازمَةِ الطَّاعةِ وعَدمِ الفُتُورِ",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّ ذلك أقعَدُ في كلامِ الملوكِ؛ لأنه أدلُّ على العظَمةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/997_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1000,
+		"q": {
+			"q": "معنى (مَثبورًا) في قولِه تعالَى: {وَإِنِّي لَأَظُنُّكَ يَا فِرْعَوْنُ مَثْبُورًا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/1000.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/25\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "مَغرُورًا",
+				"t": 0
+			},
+			{
+				"answer": "مُهلَكًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/1000_Answer.mp3"
+			},
+			{
+				"answer": "مَسحُورًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 986,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ} على:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/986.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/8\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "حُرمةِ الاقتِرابِ من مالِ اليتيمِ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "جَوازِ تَصَرُّفِ الوالي في مالِ اليتيمِ بما عاد صلاحُه على اليتيمِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/986_Answer.mp3"
+			},
+			{
+				"answer": "جَوازِ استعمالِ مالِ اليتيمِ عند الضَّرورَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 999,
+		"q": {
+			"q": "كم عددُ المعجزاتِ التي ذكَرها اللهُ تعالَى في القرآنِ لمُوسى عليه السلام؟",
+			"audio": "/files/quiz/tafseer/al-isra/audio/999.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/25\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "سِتُّ مُعجزاتٍ",
+				"t": 0
+			},
+			{
+				"answer": "سِتَّ عَشْرةَ مُعجِزةً",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/999_Answer.mp3"
+			},
+			{
+				"answer": "إحدى عَشْرةَ مُعجِزةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 996,
+		"q": {
+			"q": "المقصودُ بالأرض في قولِه تعالَى: {وَإِنْ كَادُوا لَيَسْتَفِزُّونَكَ مِنَ الْأَرْضِ}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/996.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/18\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "مكَّة",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/996_Answer.mp3"
+			},
+			{
+				"answer": "الطَّائف",
+				"t": 0
+			},
+			{
+				"answer": "المَدينة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 988,
+		"q": {
+			"q": "معنى (أصْفاكم) في قولِه تعالَى: {أَفَأَصْفَاكُمْ رَبُّكُمْ بِالْبَنِينَ}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/988.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/10\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "مَنَحَكُم",
+				"t": 0
+			},
+			{
+				"answer": "زَادَكُم",
+				"t": 0
+			},
+			{
+				"answer": "أَخْتَصَّكم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/988_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 987,
+		"q": {
+			"q": "استدلَّوا بقولِه تعالَى: {وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ} على مَنعِ الاجتِهادِ في الشَّرعِ مُطلَقًا، وتَضليلِ القائلِ به:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/987.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/9\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "المُعتَزِلَة",
+				"t": 0
+			},
+			{
+				"answer": "الأشاعِرَة",
+				"t": 0
+			},
+			{
+				"answer": "أهلُ الظَّاهِرِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/987_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 983,
+		"q": {
+			"q": "معنى (مُترفِيها) في قولِه تعالَى: {وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/983.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/5\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "المُنَعَّمون فيها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/983_Answer.mp3"
+			},
+			{
+				"answer": "المَلائكَة التي تَحُوطُ بِها",
+				"t": 0
+			},
+			{
+				"answer": "أهلُها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 991,
+		"q": {
+			"q": "معنى (مسطورًا) في قولِه تعالَى: {كَانَ ذَلِكَ فِي الْكِتَابِ مَسْطُورًا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/991.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/14\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "مَكتوبًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/991_Answer.mp3"
+			},
+			{
+				"answer": "مُهَيَّأً",
+				"t": 0
+			},
+			{
+				"answer": "مَعلومًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 992,
+		"q": {
+			"q": "صَوتُ الشَّيطانِ في قولِه تعالَى: {وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ} هو:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/992.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/15\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "الوَسوَسةُ التي يُلْقيها في قَلبِ الإنسانِ",
+				"t": 0
+			},
+			{
+				"answer": "كلُّ صوتٍ قَبيحٍ",
+				"t": 0
+			},
+			{
+				"answer": "كلُّ صوتٍ في غيرِ طاعة اللهِ، مِثلُ الغِناءِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/992_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 981,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {إِنْ أَحْسَنْتُمْ أَحْسَنْتُمْ لِأَنْفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا} على:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/981.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/2\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "أنَّ رَحمةَ اللهِ غلَبَت غَضَبَه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/981_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الله يُكافِئُ صاحِبَ الحَسنَة، ويُمهِل صاحِبَ السَّيِّئَة",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ أَصلَ الإحسانِ: الإِحسانُ إلى النَّفسِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 985,
+		"q": {
+			"q": "الرَّحمةُ في قولِه تعالَى: {وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ابْتِغَاءَ رَحْمَةٍ مِنْ رَبِّكَ تَرْجُوهَا فَقُلْ لَهُمْ قَوْلًا مَيْسُورًا}:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/985.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/7\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "الرِّزقُ الذي يَتأتَّى منه العطاءُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/985_Answer.mp3"
+			},
+			{
+				"answer": "المَغفِرَة",
+				"t": 0
+			},
+			{
+				"answer": "البِرُّ والصِّلةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 984,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا مَدْحُورًا} على أنَّ الكافِرَ:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/984.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/5\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "يُخفَّف عنه مِن العَذابِ بقَدرِ ما عَمِلَ مِن عَمَلٍ صالحٍ",
+				"t": 0
+			},
+			{
+				"answer": "يُجازى على عَمَلِه الحسَنِ في الدُّنيا لا في الآخِرةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/984_Answer.mp3"
+			},
+			{
+				"answer": "لا يُجازَى بعَملِه الصَّالِح لا في الدُّنيا ولا في الآخِرةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 989,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا} على أنَّ الميِّتَ:",
+			"audio": "/files/quiz/tafseer/al-isra/audio/989.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/17/12\n",
+		"section": "al-isra",
+		"answers": [
+			{
+				"answer": "يُريدُ البَقاءَ في البَرزخِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَشعرُ بالعَذابِ أو النَّعيمِ في البَرزَخِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَشعرُ بعْدَ المساءلةِ بطولِ المُكثِ بالبَرزخِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-isra/audio/answers/989_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

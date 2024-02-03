@@ -1,0 +1,542 @@
+[
+	{
+		"id": 5302,
+		"q": {
+			"q": "تَقديرُ اللهِ تَعالَى الأشياءَ منذُ القِدَمِ، وعِلمُه أنَّها ستَقَعُ في وَقتٍ مُعيَّنٍ ومَكانٍ مُعيَّنٍ، على صِفةٍ مَخصوصةٍ، وكِتابَتُه ذلك، ووُقوعُها حَسبَ ما هيَّأ اللهُ تَعالَى",
+			"audio": "/files/quiz/akida/e-kader/audio/5302.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2449",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "القَضاءُ والقَدَرُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5302_Answer.mp3"
+			},
+			{
+				"answer": "عِلمُ اللهِ الأزليُّ",
+				"t": 0
+			},
+			{
+				"answer": "القَهرُ والإجبارُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5301,
+		"q": {
+			"q": "القَدَرُ لُغةً",
+			"audio": "/files/quiz/akida/e-kader/audio/5301.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2447",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "استِيفاءُ المَطلوبِ",
+				"t": 0
+			},
+			{
+				"answer": "القَضاءُ والحُكمُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5301_Answer.mp3"
+			},
+			{
+				"answer": "الغَيْبُ الخالِص",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5318,
+		"q": {
+			"q": "إذا آمَنَ العَبدُ بأنَّ كلَّ ما يُصيبُه مَكتوبٌ؛ فإنَّ ذلك يَدْعوهُ إلى:",
+			"audio": "/files/quiz/akida/e-kader/audio/5318.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2486",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "زِيادةِ السَّعيِ في الدُّنيا ومُحاولةِ إصْلاحِها",
+				"t": 0
+			},
+			{
+				"answer": "اقتِحامِ الصِّعابِ والأهوالِ بقَلبٍ ثابِتٍ وعَزيمةٍ قَويَّةٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5318_Answer.mp3"
+			},
+			{
+				"answer": "اجتِنابِ المَكروهِ والخَوفِ منَ الموتِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5311,
+		"q": {
+			"q": "قَولُه تَعالَى: {فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ} مَعناهُ",
+			"audio": "/files/quiz/akida/e-kader/audio/5311.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2470",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "الكِتابةُ الأُولى",
+				"t": 0
+			},
+			{
+				"answer": "الاستِنساخُ وتَفصيلُ دَقائقِ الأُمورِ لتَعلَمَها المَلائكةُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5311_Answer.mp3"
+			},
+			{
+				"answer": "التَّنفيذُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5317,
+		"q": {
+			"q": "من ثَمراتِ الإيمانِ بالقَضاءِ والقَدَرِ أنه:",
+			"audio": "/files/quiz/akida/e-kader/audio/5317.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2484",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "يَأخُذ بناصِيَةِ العَبدِ إلى الزُّهدِ في الدُّنيا",
+				"t": 0
+			},
+			{
+				"answer": "يَدعو إلى العَمَلِ الصَّالحِ والسَّعيِ إلى مَرضاةِ اللهِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5317_Answer.mp3"
+			},
+			{
+				"answer": "أنْ يَسعَى العَبدُ لتَغييرِ قَدرهِ والفَوزِ بالدَّرجاتِ العُلا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5306,
+		"q": {
+			"q": "إنكارُ العِلمِ القَديمِ",
+			"audio": "/files/quiz/akida/e-kader/audio/5306.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2464",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "كُفرٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5306_Answer.mp3"
+			},
+			{
+				"answer": "فِسقٌ وضَلالٌ",
+				"t": 0
+			},
+			{
+				"answer": "بِدعةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5309,
+		"q": {
+			"q": "التَّقديرُ العُمريُّ يَكونُ",
+			"audio": "/files/quiz/akida/e-kader/audio/5309.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2470",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "بعدَ مِئةٍ وعِشرينَ يَومًا منَ الحَملِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5309_Answer.mp3"
+			},
+			{
+				"answer": "مع حُصولِ الحَملِ",
+				"t": 0
+			},
+			{
+				"answer": "بعدَ وِلادةِ الجَنينِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5316,
+		"q": {
+			"q": "يَعتقِدُ أهلُ السُّنَّةِ والجَماعةِ أنَّ اللهَ خالِقُ كلِّ شيءٍ وخالِقُ العِبادِ وأفعالِهِم، وأنه:",
+			"audio": "/files/quiz/akida/e-kader/audio/5316.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2476",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "ليس لِلعبادِ مَشيئةٌ على أعمالِهِم ولا اختِيارٌ ولا قُدرةٌ",
+				"t": 0
+			},
+			{
+				"answer": "للعِبادِ قُدرةٌ ومَشيئةٌ على أعمالِهِم بما أقدَرَهُمُ اللهُ عليه",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5316_Answer.mp3"
+			},
+			{
+				"answer": "لِلعبادِ مَشيئةٌ واختِيارٌ في الآخِرةِ لا في الدُّنيا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5304,
+		"q": {
+			"q": "جَميعُ ما يَجرِي في الدُّنيا منَ الخَيرِ والشَّرِّ والكُفرِ والإيمانِ وغيرِ ذلك، بتَقديرِ اللهِ تَعالَى وعِلمِه، وللعَبدِ اختِيارُها. هذا مَذهبُ",
+			"audio": "/files/quiz/akida/e-kader/audio/5304.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2458",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "المُعتزِلةِ",
+				"t": 0
+			},
+			{
+				"answer": "الجَهميَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "أهلِ السُّنَّةِ والجَماعةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5304_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5313,
+		"q": {
+			"q": "عن عَبدِ اللهِ بنِ عَمرِو بنِ العاصِ رَضيَ اللهُ عَنهما، مَرفوعًا قال: إنَّ قُلوبَ بَنِي آدَمَ كُلَّها بَينَ:",
+			"audio": "/files/quiz/akida/e-kader/audio/5313.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2474",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "الكافِ والنُّونِ؛ فإذا أرادَ اللهُ شَيئًا قال: (كُنْ) فيَكُونُ",
+				"t": 0
+			},
+			{
+				"answer": "اختِلافِ اللَّيلِ والنَّهارِ يُقلِّبُها الله كيفَ يَشاءُ",
+				"t": 0
+			},
+			{
+				"answer": "إصبَعَينِ من أصابِعِ الرَّحمنِ، كقَلبٍ واحِدٍ يُصرِّفُه حَيثُ يَشاءُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5313_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5303,
+		"q": {
+			"q": "ظَهَرت فِكرةُ الجَبريَّةِ على يَدِ",
+			"audio": "/files/quiz/akida/e-kader/audio/5303.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2476",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "الجَهمِ بنِ صَفْوانَ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5303_Answer.mp3"
+			},
+			{
+				"answer": "أبو لُؤلُؤة المجوسي",
+				"t": 0
+			},
+			{
+				"answer": "عَبدِ اللهِ بنِ سَبأٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5315,
+		"q": {
+			"q": "قد يُريدُ الإنسانُ أن يَنسُبَ الفِعلَ الَّذي حَصَل بغَيرِ إرادةٍ منه إلى مَولاهُ؛ فالصَّوابُ أن يقولَ:",
+			"audio": "/files/quiz/akida/e-kader/audio/5315.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2474",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "شاءَتِ الأقدارُ",
+				"t": 0
+			},
+			{
+				"answer": "شاءَ اللهُ عزَّ وجلَّ، أوِ اقتَضَى قَدرُ اللهِ كذا وكذا",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5315_Answer.mp3"
+			},
+			{
+				"answer": "شاءَتْ إرادةُ اللهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5320,
+		"q": {
+			"q": "المُرادُ بقَولِه ﷺ: «والشَّرُّ لَيسَ إلَيكَ»",
+			"audio": "/files/quiz/akida/e-kader/audio/5320.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2498",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "لا يَخلُقُ اللهُ تَعالَى الشَّرَّ مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يُضافُ الشَّرُّ إليكَ مُخاطبةً ونِسبةً؛ تأدُّبًا",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5320_Answer.mp3"
+			},
+			{
+				"answer": "لا يَستَطيعُ أحَدٌ منَ الخَلقِ إيصالَ الشَّرِّ إليكَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5305,
+		"q": {
+			"q": "الإيمانُ بعِلمِ اللهِ يَعني",
+			"audio": "/files/quiz/akida/e-kader/audio/5305.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2464",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "أنَّه تَعالَى يَعلَمُ الماضيَ والمُستقبَلَ، المُمكِنَ والمُستَحيلَ، المَوجودَ والمَعدومَ، من أفعالِ النَّاسِ وأرزاقِهِم وآجالِهِم وأحوالِهِم...",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5305_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ ما شاءَ اللهُ كان وما لم يَشأ لم يكُن",
+				"t": 0
+			},
+			{
+				"answer": "أنَّه تَعالَى يَعلَمُ دَبِيبَ النَّملةِ السَّوداء في الصَّخرةِ الصَّمَّاء في اللَّيلةِ الظَّلماء",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5310,
+		"q": {
+			"q": "تُسمَّى ليلةُ القَدْرِ بهذا الاسمِ",
+			"audio": "/files/quiz/akida/e-kader/audio/5310.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2470",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "لأنَّه يُفصَّلُ فيها القَدَرُ ويُجدَّدُ",
+				"t": 0
+			},
+			{
+				"answer": "لشَرَفِها وعَظَمتِها",
+				"t": 0
+			},
+			{
+				"answer": "جَميعُ ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5310_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5308,
+		"q": {
+			"q": "كِتابةُ المَقاديرِ لها",
+			"audio": "/files/quiz/akida/e-kader/audio/5308.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2470",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "أربعةٌ تَقاديرُ",
+				"t": 0
+			},
+			{
+				"answer": "ثَلاثةٌ تَقاديرُ",
+				"t": 0
+			},
+			{
+				"answer": "خَمسةٌ تَقاديرُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5308_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5312,
+		"q": {
+			"q": "من مَقاديرِ اللهِ اليَوميَّةِ",
+			"audio": "/files/quiz/akida/e-kader/audio/5312.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2470",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "تَجديدُ وتَفصيلُ الأُمورِ",
+				"t": 0
+			},
+			{
+				"answer": "كِتابةُ الرِّزقِ والأجَلِ لكُلِّ مَولودٍ",
+				"t": 0
+			},
+			{
+				"answer": "أن يُعِزَّ مَن يَشاءُ، ويُذِلَّ مَن يَشاءُ، ويُحييَ ويُميتَ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5312_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5319,
+		"q": {
+			"q": "القَدرُ الَّذي هو عِلمُ اللهِ وقُدرَتُه ومَشيئَتُه، هو:",
+			"audio": "/files/quiz/akida/e-kader/audio/5319.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2498",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "للمُطيعِ خيرٌ كلُّه وللعاصي شرٌ كلُّه",
+				"t": 0
+			},
+			{
+				"answer": "قد يَدخُلُه الشَّرُّ الجُزئيُّ من بابِ الحِكمَة",
+				"t": 0
+			},
+			{
+				"answer": "خَيرٌ كُلُّه، وكَمالٌ من كُلِّ وَجهٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5319_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5307,
+		"q": {
+			"q": "مَعنَى قَولِه تَعالَى: {لَوْلَا كِتَابٌ مِنَ اللهِ سَبَقَ لَمَسَّكُمْ فِيمَا أَخَذْتُمْ عَذَابٌ عَظِيمٌ}",
+			"audio": "/files/quiz/akida/e-kader/audio/5307.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2468",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "لولا ما كَتَبه سابِقًا في اللَّوحِ المَحفوظِ أنَّه سيُحِلُّ لأُمَّةِ مُحمَّدٍ الغَنائمَ لعذَّبَهُم",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5307_Answer.mp3"
+			},
+			{
+				"answer": "لولا قَولُه: {وَمَا كَانَ اللهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ} لَأَخَذَهمُ العَذابُ",
+				"t": 0
+			},
+			{
+				"answer": "لولا ما أُنزِلَ على لِسانِ رَسولِه منَ المَغفرةِ لأهلِ بَدرٍ لعَذَّبَكُم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5314,
+		"q": {
+			"q": "يُستحَبُّ في الدُّعاءِ أن:",
+			"audio": "/files/quiz/akida/e-kader/audio/5314.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2474",
+		"section": "e-kader",
+		"answers": [
+			{
+				"answer": "يَجزِمَ في الطَّلَبِ، ولا يُعلِّقَ مَسألَتَه على المَشيئةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-kader/audio/answers/5314_Answer.mp3"
+			},
+			{
+				"answer": "يَتوسَّلَ بالنَّبيِّ صلَّى اللهُ عليه وسلَّم",
+				"t": 0
+			},
+			{
+				"answer": "يُعلِّقَ مَسألتَه بمَشيئةِ اللهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

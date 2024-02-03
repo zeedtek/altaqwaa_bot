@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2047,
+		"q": {
+			"q": "يُشتَرَطُ في الحَيَوانِ المُذَكَّى",
+			"audio": "/files/quiz/figh/figh-said/audio/2047.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3610/المبحث-الأول:-أن-يكون-الحيوان-المذكى-حيا-وقت-الذبح",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "أن يَكونَ حَيًّا قَبلَ الذَّبحِ بمُدَّةٍ يَسيرةٍ",
+				"t": 0
+			},
+			{
+				"answer": "أن يَكونَ حَيًّا وَقتَ الذَّبحِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2047_Answer.mp3"
+			},
+			{
+				"answer": "أن يَكونَ حَيًّا قَبلَ مَوتِه بيَومٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2057,
+		"q": {
+			"q": "ذَكاةُ الأخرَسِ إذا استَوفَى الشُّروطَ",
+			"audio": "/files/quiz/figh/figh-said/audio/2057.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3656/الفرع-الرابع:-ذكاة-الأخرس",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ الأكلُ منها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2057_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ الأكلُ منها",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ إن حَضَرها ناطِقٌ معَه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2053,
+		"q": {
+			"q": "إذا وقَعَ معَ الذَّبحِ سبَبٌ آخَرُ يَحرُم به التَّذكِيةُ، كسَهمِ المُسلِم معَ سَهمِ المُشرِكِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2053.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3633/المبحث-العاشر:-إذا-اجتمع-مع-الذبح-سبب-يحرمه",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَأكُلُ النِّصفَ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ الأكلُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ الأكلُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2053_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2044,
+		"q": {
+			"q": "صَيدُ الصَّبيِّ المُميِّزِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2044.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3767/المبحث-الثاني:-أن-يكون-مميزا",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ مع الكَراهةِ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ الأكلُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2044_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ الأكلُ منه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2056,
+		"q": {
+			"q": "ذَبيحةُ الصَّبيِّ غَيرِ المُمَيِّزِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2056.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3646/المطلب-الثاني:-ذبيحة-الطفل-غير-المميز",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "تَجوزُ إنْ حَضَرها مَن يَفقَهُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2056_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2061,
+		"q": {
+			"q": "ذَبيحةُ نَصارى العَرَبِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2061.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3671/الفرع-الثاني:-ذبيحة-نصارى-العرب",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "تَجوزُ ذَبيحةُ نَصارى الجَزيرةِ فحَسبُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ مُطلقًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2061_Answer.mp3"
+			},
+			{
+				"answer": "لا تَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2052,
+		"q": {
+			"q": "إذا كان الإنْسانُ في بَلَدٍ غَيرِ مُسلِمٍ، لا تَحِلُّ ذَبائحُهم",
+			"audio": "/files/quiz/figh/figh-said/audio/2052.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3631/المبحث-التاسع:-اشتباه-المذكى-في-بلد-غالبها-لا-تحل-ذبائحهم",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ الأكلُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2052_Answer.mp3"
+			},
+			{
+				"answer": "يَأكُلُ ولا حرَجَ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَه الأكلُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2051,
+		"q": {
+			"q": "السِّقطُ إن خَرَج حَيًّا",
+			"audio": "/files/quiz/figh/figh-said/audio/2051.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3625/المطلب-الثالث:-ذكاة-السقط",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ أكلُه",
+				"t": 0
+			},
+			{
+				"answer": "يُؤكَلُ بدونِ تَذكِيةٍ",
+				"t": 0
+			},
+			{
+				"answer": "تَجبُ تَذكيَتُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2051_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2046,
+		"q": {
+			"q": "ذَبحُ الشَّاةِ أمامَ أُخرى",
+			"audio": "/files/quiz/figh/figh-said/audio/2046.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3727/المطلب-الثاني:-ذبح-الشاة-والأخرى-تنظر-إليها",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجبُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2046_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2059,
+		"q": {
+			"q": "ذَبيحةُ الأعْمى",
+			"audio": "/files/quiz/figh/figh-said/audio/2059.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3662/الفرع-السابع:-ذكاة-الأعمى",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُكرَهُ الأكلُ منها",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُمُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2059_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2043,
+		"q": {
+			"q": "التَّذكيةُ اصطِلاحًا",
+			"audio": "/files/quiz/figh/figh-said/audio/2043.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3597/المبحث-الأول:-تعريف-التذكية",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "الذَّبحُ التَّامُّ المُبيحُ للأكلِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2043_Answer.mp3"
+			},
+			{
+				"answer": "أكلُ الحَيوانِ المُذَكَّى",
+				"t": 0
+			},
+			{
+				"answer": "قَتلُ الحَيَوانِ بأَداةٍ حادَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2060,
+		"q": {
+			"q": "اللُّحومُ المُستَورَدةُ مِن أهلِ الكِتابِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2060.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3682/المطلب-الأول:-اللحوم-المستوردة-من-أهل-الكتاب",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُكرَهُ أكلُها",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ أكلُها والأَوْلى الاحْتياطُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2060_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ أكلُها لِلاحتِياطِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2062,
+		"q": {
+			"q": "ذَبيحةُ أهلِ الكِتابِ إنْ لم يَحضُرْها أحَدٌ مِنَ المُسلِمينَ",
+			"audio": "/files/quiz/figh/figh-said/audio/2062.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3673/الفرع-الثالث:-حكم-ذبيحة-الكتابي-إن-لم-يحضرها-أحد-من-المسلمين",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ أكلُها",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ أكلُها",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ أكلُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2062_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2058,
+		"q": {
+			"q": "ذَبيحةُ الفاسِقِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2058.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3660/الفرع-السادس:-ذكاة-الفاسق",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُكرَه الأكلُ منها",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُم الأكلُ منها",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ الأكلُ منها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2058_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2049,
+		"q": {
+			"q": "تَسمِيةُ ما يُذبَحُ عَقيقةً",
+			"audio": "/files/quiz/figh/figh-said/audio/2049.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3864/المبحث-الثاني:-تسميتها-بالعقيقة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2049_Answer.mp3"
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2050,
+		"q": {
+			"q": "الحَيَوانُ الذي أوشَكَ على المَوتِ إذا ذُكِّيَ",
+			"audio": "/files/quiz/figh/figh-said/audio/2050.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3618/المبحث-الخامس:-أكل-الحيوان-الذي-أوشك-على-الموت،-بعد-تذكيته",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُكرَه أكلُه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ أكلُه",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ أكلُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2050_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2054,
+		"q": {
+			"q": "ذَبيحةُ المَجنونِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2054.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3637/المطلب-الأول:-ذبيحة-المجنون",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "لا تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2054_Answer.mp3"
+			},
+			{
+				"answer": "تَجوزُ إن كان مُسلِمًا",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2055,
+		"q": {
+			"q": "ذَبيحةُ الصَّبيِّ المُمَيِّزِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2055.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3644/المطلب-الأول:-ذبيحة-الطفل-المميز",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2055_Answer.mp3"
+			},
+			{
+				"answer": "تَجوزُ إنْ حَضَرها بالِغٌ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2048,
+		"q": {
+			"q": "الحَيَوانُ المَذبوحُ من قِبَل قَفاهُ إلى النُّخاعِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2048.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3612/المبحث-الثاني:-أكل-الحيوان-المذبوح-من-قبل-قفاه",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "يُؤكَلُ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يُؤكَلُ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "يُؤكَلُ إن بَقِيَت فيه حَياةٌ حتَّى الذَّكاةِ الشَّرعيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2048_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2045,
+		"q": {
+			"q": "مِن حِكَمِ التَّذكِيةِ",
+			"audio": "/files/quiz/figh/figh-said/audio/2045.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3601/المبحث-الثالث:-الحكمة-من-مشروعية-الذكاة",
+		"section": "figh-said",
+		"answers": [
+			{
+				"answer": "أن يَطيبَ اللَّحمُ بزُهوقِ الرُّوحِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-said/audio/answers/2045_Answer.mp3"
+			},
+			{
+				"answer": "تَذكُّرُ خُروجِ الرُّوحِ",
+				"t": 0
+			},
+			{
+				"answer": "عِبادةٌ غَيرُ مَعقولةِ المَعنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1924,
+		"q": {
+			"q": "توكيلُ الزَّوجِ في طلاقِ امرأتِه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1924.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4492/المطلب-الثالث:-حكم-الطلاق-بالوكيل",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1924_Answer.mp3"
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ للغائبِ فقطْ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1923,
+		"q": {
+			"q": "الطَّلاقُ من غيرِ حاجةٍ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1923.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4480/المبحث-الثاني:-حكم-الطلاق",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1923_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "محرَّمٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1937,
+		"q": {
+			"q": "إذا راجَع الزَّوج امرأتَه في وقتِ عِدتِها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1937.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4635/المطلب-الثاني:-حكم-الصداق-في-الرجعة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لها نِصفُ الصَّداق",
+				"t": 0
+			},
+			{
+				"answer": "لها مهْرُ المثلِ",
+				"t": 0
+			},
+			{
+				"answer": "ليس لها صَداقٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1937_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1940,
+		"q": {
+			"q": "غيرُ المدخولِ بها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1940.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4651/الفرع-الأول:-ما-يشترط-في-الزوجة-المرتجعة#t-3",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تصِحُّ الرجعةُ قبْل استبرائها بحيضة",
+				"t": 0
+			},
+			{
+				"answer": "تصِحُّ الرجعةُ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا رجْعةَ لها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1940_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1929,
+		"q": {
+			"q": "كناياتُ الطَّلاق  هي:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1929.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4528/الفرع-الأول:-تعريف-كنايات-الطَّلاق",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "ما يكون صريحًا في الطَّلاق",
+				"t": 0
+			},
+			{
+				"answer": "ما يَحتمل لفظُه الطَّلاقَ وغيرَه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1929_Answer.mp3"
+			},
+			{
+				"answer": "ما لا يُراد به الطَّلاق",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1925,
+		"q": {
+			"q": "طلاقُ المجنونِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1925.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4500/الفرع-الأول:-طلاق-المجنون",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يصِحُّ رجعيًّا لا بائنًا",
+				"t": 0
+			},
+			{
+				"answer": "يصِحُّ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1925_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1934,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه دون الثلاثِ، ولم يُراجِعْها حتى انتهَتْ عدتُها دون أن تَتزوَّج غيرَه، فإنها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1934.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4585/المبحث-الأول:-إذا-طلقت-دون-الثلاث-ولم-يراجعها-حتى-انتهت-عدتها-ثم-ع",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تعودُ لزوجِها بثلاثِ طلقاتٍ مِن جديد",
+				"t": 0
+			},
+			{
+				"answer": "تعودُ ولها طلقةٌ واحدة فحسْبُ",
+				"t": 0
+			},
+			{
+				"answer": "تعودُ عليه بعقدٍ جديد بما بَقِي عليها مِن الطَّلاق",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1934_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1942,
+		"q": {
+			"q": "جُمَل (أنت طالقٌ، وطلقْتُ، وأنت مطلَّقة، وطلَّقْتك) :",
+			"audio": "/files/quiz/figh/figh-talag/audio/1942.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4525/الفرع-الثاني:-ألفاظ-الطلاق-الصريح#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "من صَريحِ الطَّلاقِ، ولا تَحتاج إلى النِّية",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1942_Answer.mp3"
+			},
+			{
+				"answer": "لا يَنعقِدُ بها الطَّلاق",
+				"t": 0
+			},
+			{
+				"answer": "مِن ألفاظ الكِناياتِ في الطَّلاق وتحتاجُ إلى النِّيَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1933,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه ثلاثًا، فإنها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1933.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4582/المبحث-الثالث:-من-أقسام-الطَّلاق:-المطلقة-ثلاثا-البائن-بينونة-كبرى",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تَحرُم على مطلِّقِها حتى تنكِحَ زوجًا غيرَه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1933_Answer.mp3"
+			},
+			{
+				"answer": "لا تَحِل لزوجِها أبدًا",
+				"t": 0
+			},
+			{
+				"answer": "تحِلُّ لزوجِها بعَقدٍ جديدٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1928,
+		"q": {
+			"q": "إنْ راجَع الزَّوج امرأتَه دون علمِها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1928.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4653/الفرع-الثاني:-ما-لا-يشترط-في-الزوجة-المرتجعة#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا تصِح الرَّجعة",
+				"t": 0
+			},
+			{
+				"answer": "صحَّت الرَّجعةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1928_Answer.mp3"
+			},
+			{
+				"answer": "للزَّوجَةِ حَقُّ القَبولِ أو الرَدِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1931,
+		"q": {
+			"q": "الطَّلاق الرَّجعيُّ هو:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1931.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4576/المبحث-الأول:-من-أقسام-الطَّلاق:-الطلاق-الرجعي",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "أن يُطلِّق الرجُلُ امرأتَه المدخولَ بها طلقةً أو طلقتينِ دون ثلاثٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1931_Answer.mp3"
+			},
+			{
+				"answer": "أن يُطلِّق الرجُلُ امرأتَه غيرَ المدخولِ بها طَلقَةً أو طَلقَتَينِ",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يطلِّق الرجُلُ امرأتَه المَدخُول بها الطَّلقة الثالثةَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1926,
+		"q": {
+			"q": "طلاقُ الصغيرِ",
+			"audio": "/files/quiz/figh/figh-talag/audio/1926.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4497/المطلب-الأول:-من-شروط-الطلاق:-البلوغ-طلاق-الصغير",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ إن أَشهَدَ عليهِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1926_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1930,
+		"q": {
+			"q": "النِّيةُ في كناياتِ الطَّلاقِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1930.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4530/الفرع-الثاني:-اشتراط-النية-في-كنايات-الطَّلاق",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا تُشترَط، ويقعُ الطَّلاقُ بدونها",
+				"t": 0
+			},
+			{
+				"answer": "تُشترط في الطَّلاق البائنِ فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "تُشترَط",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1930_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1938,
+		"q": {
+			"q": "رجْعةُ الزَّوجةِ المرتدَّة زمَنَ الرَّجعة:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1938.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4651/الفرع-الأول:-ما-يشترط-في-الزوجة-المرتجعة#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "صحيحةٌ إنْ رُجِيَت توبتُها",
+				"t": 0
+			},
+			{
+				"answer": "لا تصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1938_Answer.mp3"
+			},
+			{
+				"answer": "صحيحةٌ مطلقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1932,
+		"q": {
+			"q": "إذا انتَهَت عدةُ المطلَّقة الرَّجعية، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1932.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4580/المطلب-الثاني:-انقضاء-عدة-من-طلقت-طلقة-أو-طلقتين",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يجوزُ للزَّوجِ أن يُراجعَها متَى شاءَ",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ للزَّوجِ أن يتزوَّجها حتى تَنكِح غيرَه",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ للزَّوجِ أن يراجِعَها إلا بعقدٍ جديدٍ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1932_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1939,
+		"q": {
+			"q": "تكونُ الرجعةُ للمرأةِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1939.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4651/الفرع-الأول:-ما-يشترط-في-الزوجة-المرتجعة#t-2",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "بعد طلقةٍ واحدةٍ فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "بعْد طلقةٍ أو طلقتينِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1939_Answer.mp3"
+			},
+			{
+				"answer": "بعد ثلاثِ طلقاتٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1935,
+		"q": {
+			"q": "إذا وقَع الضررُ على المرأةِ من الزوجِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1935.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4622/المبحث-السابع:-الفرقة-بسبب-وقوع-الضرر-على-المرأة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "فلا يجوزُ لها طلَبُ الطَّلاق",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ لها طلبُ الطَّلاق",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1935_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَه لها طلبُ الطَّلاقِ إلَّا بعِوَضٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1941,
+		"q": {
+			"q": "الرجعةُ بعْد انقضاءِ العدةِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1941.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4651/الفرع-الأول:-ما-يشترط-في-الزوجة-المرتجعة#t-4",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا رجْعةَ بعدَ العِدَّة",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1941_Answer.mp3"
+			},
+			{
+				"answer": "تُكرَه بعْدها",
+				"t": 0
+			},
+			{
+				"answer": "لا عَلاقةَ للعِدةِ بالرَّجعة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1936,
+		"q": {
+			"q": "حُكمُ الرَّجعةِ إنْ طلَّق الرجُلُ زوجتَه طلقةً أو طلقتينِ، وكان قد دخَل بها، ولم يكنْ بعِوَضٍ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1936.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4633/المطلب-الأول:-حكم-الرجعة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "مَكروهةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مباحةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1936_Answer.mp3"
+			},
+			{
+				"answer": "واجبةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1927,
+		"q": {
+			"q": "طلاقُ المسحورِ الذي لا يَعي ما يقولُ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1927.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4502/الفرع-الثاني:-طلاق-المسحور",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1927_Answer.mp3"
+			},
+			{
+				"answer": "للزوجةِ الخيارُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

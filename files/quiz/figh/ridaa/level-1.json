@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2225,
+		"q": {
+			"q": "إذا أرضَعَتِ امرأةٌ طِفلًا",
+			"audio": "/files/quiz/figh/ridaa/audio/2225.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5109",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يَكونُ ابنَها منَ الرَّضاعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2225_Answer.mp3"
+			},
+			{
+				"answer": "تكون أُمَّه بالمُصاهَرةِ",
+				"t": 0
+			},
+			{
+				"answer": "يكونُ ابنَها مِن النَّسبِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2236,
+		"q": {
+			"q": "العَدالةُ في الحاضِنِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2236.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5189",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "شَرطٌ إذا كان الحاضِنُ رَجلًا",
+				"t": 0
+			},
+			{
+				"answer": "شَرطٌ",
+				"t": 0
+			},
+			{
+				"answer": "ليسَت شَرطًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2236_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2235,
+		"q": {
+			"q": "القُدرةُ على القِيامِ بحاجاتِ المَحضونِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2235.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5187",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يُستحَبُّ تَوافُرُها في الحاضِنِ",
+				"t": 0
+			},
+			{
+				"answer": "يُشترَطُ تَوافُرُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2235_Answer.mp3"
+			},
+			{
+				"answer": "لا يُشترَطُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2240,
+		"q": {
+			"q": "الخادِمُ للزَّوجةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2240.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5227",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "تَجِبُ عَلى المُوسِرِ لزَوجةٍ يُخدَمُ مِثلُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2240_Answer.mp3"
+			},
+			{
+				"answer": "لا تَجِبُ أبدًا",
+				"t": 0
+			},
+			{
+				"answer": "تَجِبُ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2241,
+		"q": {
+			"q": "قَدْرُ النَّفَقةِ عَلى الزَّوجةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2241.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5235",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "كنَفَقَةِ المِثلِ",
+				"t": 0
+			},
+			{
+				"answer": "قَدْرُ الكِفايةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2241_Answer.mp3"
+			},
+			{
+				"answer": "ما يَكفِيها سَنَةً هي وأَولادهَا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2237,
+		"q": {
+			"q": "زِيارةُ الأبَوَينِ للمَحضونِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2237.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5193",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "زِيارةُ الأُمِّ حقٌّ دونَ الأبِ",
+				"t": 0
+			},
+			{
+				"answer": "زِيارةُ الأبِ حَقٌّ دونَ الأُمِّ",
+				"t": 0
+			},
+			{
+				"answer": "زِيارَتُهُما حقٌّ لكُلٍّ مِنهُما",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2237_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2230,
+		"q": {
+			"q": "حُكمُ أن يَكونَ الحاضِنُ عاقِلًا",
+			"audio": "/files/quiz/figh/ridaa/audio/2230.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5176",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يُشترَطُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2230_Answer.mp3"
+			},
+			{
+				"answer": "لا يُشترَطُ",
+				"t": 0
+			},
+			{
+				"answer": "يُستحَبُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2234,
+		"q": {
+			"q": "تَسقُطُ الحضانةُ عنِ الحاضِنةِ بالزَّواجِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2234.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5185",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "بمُجرَّدِ الخِطبةِ",
+				"t": 0
+			},
+			{
+				"answer": "بالدُّخولِ والعَقدِ",
+				"t": 0
+			},
+			{
+				"answer": "بمُجرَّدِ العَقدِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2234_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2238,
+		"q": {
+			"q": "تَعريفُ النَّفقةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2238.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5216",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "كِفايةُ مَن يَمونُه منَ الطَّعامِ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "كِفايةُ مَن يَمونُه منَ الطَّعامِ والشَّرابِ والكِسوةِ والمَسكَنِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2238_Answer.mp3"
+			},
+			{
+				"answer": "كِفايةُ مَن يَمونُه منَ الطَّعامِ والشَّرابِ فَقَط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2229,
+		"q": {
+			"q": "ممَّا يُشتَرطُ في استِحقاقِ الحَضانَةِ:",
+			"audio": "/files/quiz/figh/ridaa/audio/2229.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5174",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "الغِنَى",
+				"t": 0
+			},
+			{
+				"answer": "الطَّهارَةُ",
+				"t": 0
+			},
+			{
+				"answer": "البُلوغُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2229_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2224,
+		"q": {
+			"q": "صِفةُ الرَّضعةِ المُعتبَرةِ في التَّحريمِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2224.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5104",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "مُضِيُّ وَقتٍ في الارتِضاعِ",
+				"t": 0
+			},
+			{
+				"answer": "مُجرَّدُ الْتِقامِ الصَّبيِّ",
+				"t": 0
+			},
+			{
+				"answer": "الْتِقامُ الصَّبيِّ الثَّديَ ومَصُّه وتَرْكُه، خَمْسَ مرَّاتٍ، ولو في مَجلسٍ واحِدٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2224_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2223,
+		"q": {
+			"q": "تَعريفُ الرَّضاعِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2223.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5092",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "إيصالُ لَبَنِ المَرأةِ إلى جَوفِ صَبيٍّ دونَ حَولَيْن",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2223_Answer.mp3"
+			},
+			{
+				"answer": "إيصالُ لَبَنِ المَرأةِ إلى جَوفِ إنسانٍ، صَغيرًا كان أو كَبيرًا",
+				"t": 0
+			},
+			{
+				"answer": "الْتِقامُ الصَّبيِّ الثَّديَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2239,
+		"q": {
+			"q": "السُّكنَى لِلزَّوجةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2239.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5225",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا تَجِبُ عَلى الزَّوجِ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبةٌ عَلى الزَّوجِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2239_Answer.mp3"
+			},
+			{
+				"answer": "مُستَحبَّةٌ للزَّوجةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2233,
+		"q": {
+			"q": "إذا لم يَكُنْ زَوجُ الحاضِنةِ أجنبِيًّا منَ الطِّفلِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2233.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5183",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "تَسقُطُ حَضانَتُها بمُجرَّدِ الزَّواجِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَسقُطُ حَضانَتُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2233_Answer.mp3"
+			},
+			{
+				"answer": "لا عَلاقةَ لزَوجِ الحاضِنةِ به",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2231,
+		"q": {
+			"q": "إن كان حاضِنُ الأُنثى رَجُلًا",
+			"audio": "/files/quiz/figh/ridaa/audio/2231.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5178",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يُشترَطُ فيه أن يَكونَ من مَحارِمها",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2231_Answer.mp3"
+			},
+			{
+				"answer": "يُشترَطُ فيه أن يكونَ عِنِّينًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشترَطُ فيه زِيادةٌ على غَيرِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2242,
+		"q": {
+			"q": "إن أعسَرَ الزَّوجُ",
+			"audio": "/files/quiz/figh/ridaa/audio/2242.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5238",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "سَقَطتِ النَّفقةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَسقُطُ النَّفَقةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2242_Answer.mp3"
+			},
+			{
+				"answer": "انفسَخَ النِّكاحُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2227,
+		"q": {
+			"q": "الحِكمةُ منَ الحَضانةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2227.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5160",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "عِبادةٌ غَيرُ مَعقولةِ المَعنَى",
+				"t": 0
+			},
+			{
+				"answer": "صِيانةُ الطِّفلِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2227_Answer.mp3"
+			},
+			{
+				"answer": "إيقاعُ الأُلفةِ بَين الرَّجُلِ والمَرأةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2228,
+		"q": {
+			"q": "إذا افتَرَق الزَّوجانِ ولَهُما طِفلٌ فالأحَقُّ بحَضانتِه",
+			"audio": "/files/quiz/figh/ridaa/audio/2228.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5163",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "الأمُّ ما لم تَتزوَّجْ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2228_Answer.mp3"
+			},
+			{
+				"answer": "الأبُ",
+				"t": 0
+			},
+			{
+				"answer": "الأُمُّ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2226,
+		"q": {
+			"q": "حُكمُ حَضانةِ الطِّفلِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2226.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5158",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "واجِبةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2226_Answer.mp3"
+			},
+			{
+				"answer": "مُستَحبَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2232,
+		"q": {
+			"q": "خُلُوُّ الحاضِنةِ مِن زَوجٍ أجنبيٍّ",
+			"audio": "/files/quiz/figh/ridaa/audio/2232.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/5181",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يُستحَبُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشترَطُ",
+				"t": 0
+			},
+			{
+				"answer": "يُشترَطُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2232_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

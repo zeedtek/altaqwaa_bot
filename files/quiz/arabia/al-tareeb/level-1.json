@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6661,
+		"q": {
+			"q": "اسمُ نَبيٍّ مَنْقول مِن اللُّغة العِبْريَّةِ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6661.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5060",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "إلْياسُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6661_Answer.mp3"
+			},
+			{
+				"answer": "ذُو الكِفْلِ",
+				"t": 0
+			},
+			{
+				"answer": "نُوحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6665,
+		"q": {
+			"q": "الألْماسٌ حَجَرٌ مِن الجَواهِرِ؛ وهو لَفظٌ مَنقُولٌ مِن:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6665.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5146",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "العِبرِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "اليونانيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6665_Answer.mp3"
+			},
+			{
+				"answer": "الآرامِيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6678,
+		"q": {
+			"q": "(الطَّرْبوشُ) غِطاءٌ للرَّأسِ، لَوْنُه أحْمَرُ، وأصل اللفظة من اللغة:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6678.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5174",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "الإِيطالِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الإِنجلِيزِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الفارِسيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6678_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6664,
+		"q": {
+			"q": "لفظ مَنْقولٌ مِن العِبْريَّةِ واسمُ عَلَمٍ على نَبيِّ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6664.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5102",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "يَعْقوبُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6664_Answer.mp3"
+			},
+			{
+				"answer": "تُبَّعُ",
+				"t": 0
+			},
+			{
+				"answer": "الخَضِرُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6673,
+		"q": {
+			"q": "(البَلَكُونةُ) كَلِمة إيطالِيَّة تُستَخدَمُ في العَربيَّة؛ ومَعناها:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6673.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "المَوقِدُ",
+				"t": 0
+			},
+			{
+				"answer": "الشُّرْفةُ والنَّافِذةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6673_Answer.mp3"
+			},
+			{
+				"answer": "الدُّكَّانُ أو الحانَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6663,
+		"q": {
+			"q": "كَلِمةُ مُعرَّبةٌ مِن اليونانيَّةِ معناها: صِغارُ اللُّؤْلُؤِ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6663.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5094",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "المَرْجانُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6663_Answer.mp3"
+			},
+			{
+				"answer": "الصَّفاءُ",
+				"t": 0
+			},
+			{
+				"answer": "الوَردُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6680,
+		"q": {
+			"q": "كَلِمةُ (فَيروس) كائِناتٌ دَقيقةٌ جدًّا لا تُرى بالعَيْنِ المُجرَّدةِ، واللفظة مَأخُوذَةٌ مِن اللُّغةِ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6680.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5180",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "الهِندِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الأَشُورِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "الإِنجلِيزِيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6680_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6676,
+		"q": {
+			"q": "كَلِمةُ (خَواجة) لَقَبٌ أُطلِقَ على الأجْنَبيِّ المُسْتَعمِرِ؛ وهو مُعرَّبٌ مِن:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6676.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5158",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "الهِندِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الفارِسيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6676_Answer.mp3"
+			},
+			{
+				"answer": "التُّركِيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6672,
+		"q": {
+			"q": "كَلِمةُ (بَقْشِيش) ما يُعْطاه خَدَمُ الفَنادِقِ والمَطاعِمِ مِن نُقودٍ؛ وأَصلُها مِن اللُّغةِ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6672.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "البابِلِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الهِندِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الفارِسيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6672_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6669,
+		"q": {
+			"q": "لفظ (بُرْكانٌ) مُعرَّبٌ من: ",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6669.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "اليونانيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6669_Answer.mp3"
+			},
+			{
+				"answer": "الهِندِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الإيطاليَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6662,
+		"q": {
+			"q": "اسمُ عَلَمٍ مِن أسْماءِ النَّارِ الَّتي يُعذِّبُ اللهُ بها عِبادَه:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6662.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5066",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "رَعدٌ",
+				"t": 0
+			},
+			{
+				"answer": "جَهَنَّمُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6662_Answer.mp3"
+			},
+			{
+				"answer": "صِنوانٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6670,
+		"q": {
+			"q": "الضِّيقُ يَقَعُ على النَّائِمِ فيُحبَسُ نفَسُه، وهو مُعرَّبٌ مِن السُّرْيانيَّةِ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6670.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5184",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "جاسُوس",
+				"t": 0
+			},
+			{
+				"answer": "خانْقَاة",
+				"t": 0
+			},
+			{
+				"answer": "كابُوس",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6670_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6677,
+		"q": {
+			"q": "كَلِمةُ (خُوذة) كَلِمةٌ مُعرَّبةٌ مِن الفارِسيَّةِ، ومَعناها:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6677.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5158",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "الخُبزُ المُجفَّفُ الذي يُنقَعُ في زَيتِ الزَّيتُونِ",
+				"t": 0
+			},
+			{
+				"answer": "ما يُلبَسُ على الرَّأسِ في الحَرْبِ كوِقايةٍ مِن الضَّرَباتِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6677_Answer.mp3"
+			},
+			{
+				"answer": "الدَّابَّةُ أو المَرْكَبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6671,
+		"q": {
+			"q": "كَلِمةُ (بُقْسُماط) قد تكونُ مُعرَّبَةً مِن الفارِسِيَّةِ؛ ومَعناها: ",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6671.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "قائِدُ الجُيُوشِ عندَ الفُرسِ",
+				"t": 0
+			},
+			{
+				"answer": "نَوْعٌ مِن الخُبْزِ يُخبَزُ ويُجَفَّفُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6671_Answer.mp3"
+			},
+			{
+				"answer": "الفِيلُ الضَّخمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6668,
+		"q": {
+			"q": "البَبْغاءِ طائِرٌ حَسَنُ الصُّورةِ، واللَّفْظُ مِن:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6668.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "السُّرْيانيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الفارِسيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6668_Answer.mp3"
+			},
+			{
+				"answer": "العِبريَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6674,
+		"q": {
+			"q": "(البُوصْلةُ) جِهازُ الإبْرةِ المِغْناطيسيَّةِ المُسْتعمَلُ في تَحْديدِ الجِهاتِ، واللَّفْظُ مُعرَّبٌ مِن اللغة: ",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6674.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "التُّرْكيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6674_Answer.mp3"
+			},
+			{
+				"answer": "الأَلمانِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الفارِسِيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6679,
+		"q": {
+			"q": "لَفظٌ مُعرَّبٌ مِن اليونانيَّةِ؛ مَعناهُ: مِصْباحٌ يَتِمُّ نَصْبُه على بِناءٍ داخِلَ البَحْرِ:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6679.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5180",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "مَحَّارٌ",
+				"t": 0
+			},
+			{
+				"answer": "قُبْطانٌ",
+				"t": 0
+			},
+			{
+				"answer": "فَنارٌ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6679_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6667,
+		"q": {
+			"q": "البارِجةُ: السَّفينةُ الكَبيرةُ مِن السُّفُنِ الحَرْبيَّةِ؛ واللَّفْظُ مُعرَّبٌ مِن:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6667.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5148",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "الإيطاليَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6667_Answer.mp3"
+			},
+			{
+				"answer": "الإِسبانِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الفِرنسِيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6675,
+		"q": {
+			"q": "(تِشْرينُ) شَهْرٌ مِن شُهورِ السَّنَةِ الشَّمْسيَّةِ؛ قيلَ: أصْلُه روميٌّ؛ ومَعناهُ:  ",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6675.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5150",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "سُطوعُ الشَّمسِ",
+				"t": 0
+			},
+			{
+				"answer": "شَهرُ الثِّمارِ",
+				"t": 0
+			},
+			{
+				"answer": "البَدْءُ والشُّروعُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6675_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6666,
+		"q": {
+			"q": "الأتُرُجُّ: ثَمَرٌ مِن جِنْسِ اللَّيْمونِ؛ وهو لَفظٌ مَنقُولٌ مِن:",
+			"audio": "/files/quiz/arabia/al-tareeb/audio/6666.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5146",
+		"section": "al-tareeb",
+		"answers": [
+			{
+				"answer": "السُّرْيانيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-tareeb/audio/answers/6666_Answer.mp3"
+			},
+			{
+				"answer": "الآشُورِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الهِندِيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1966,
+		"q": {
+			"q": "النِّية في الطَّلاق الصريحِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1966.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4523/الفرع-الأول:-النية-في-الطلاق-الصريح",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا تُشترَط",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1966_Answer.mp3"
+			},
+			{
+				"answer": "تُشترَط",
+				"t": 0
+			},
+			{
+				"answer": "تُشترَط بائِنًا لا رَجعِيًّا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1980,
+		"q": {
+			"q": "إذا وقَعت الفُرقةُ باللِّعان:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1980.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4618/المبحث-الخامس:-الفرقة-بسبب-اللعان",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يَسقُط نصفُ المهرِ",
+				"t": 0
+			},
+			{
+				"answer": "يَسقُط المهرُ",
+				"t": 0
+			},
+			{
+				"answer": "وجَب الصَّداق كاملًا على الملاعِنِ بعْد دخولِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1980_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1963,
+		"q": {
+			"q": "الطَّلاق تحْت تأثيرِ المخدِّر العلاجيِّ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1963.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4508/الفرع-الخامس:-الطلاق-تحت-تأثير-المخدر-العلاجي",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ إذا كانت الطَّلقة الأُولى أو الثانية فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1963_Answer.mp3"
+			},
+			{
+				"answer": "يقعُ بالإجماع",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1970,
+		"q": {
+			"q": "إذا كانتْ صِيغةُ الطَّلاق مضافةً إلى مستقبلٍ، كأن يقول: أنت طالقٌ غدًا، أو الشهرَ القادمَ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1970.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4538/الفرع-الثاني:-الطلاق-بالصيغة-المضافة-إلى-زمن#t-2",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "وقَع الطَّلاق في الزمنِ المعيَّن",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1970_Answer.mp3"
+			},
+			{
+				"answer": "لم يقعِ الطَّلاق",
+				"t": 0
+			},
+			{
+				"answer": "وقَع في الحال",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1981,
+		"q": {
+			"q": "رَجعةُ المرتدِّ زمانَ الرِّدةِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1981.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4642/الفرع-الأول:-من-شروط-الزوج-المرتجع:-الإسلام",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تَجوز",
+				"t": 0
+			},
+			{
+				"answer": "لا تَصِح",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1981_Answer.mp3"
+			},
+			{
+				"answer": "تَجوز إنْ رُجِي عودتُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1971,
+		"q": {
+			"q": "طلاقُ الأعجميِّ وغيرِه إذا طلَّق بغيرِ العربيةِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1971.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4542/المبحث-الثالث:-الطلاق-بلسان-العجم",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ في الطلقةِ الثالثةِ فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ بالإجماع",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1971_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1969,
+		"q": {
+			"q": "إذا أضاف الطَّلاق إلى زمانٍ ماضٍ، كأن يقولَ:  طالقٌ من الشَّهر الماضي:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1969.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4538/الفرع-الثاني:-الطلاق-بالصيغة-المضافة-إلى-زمن#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لم يقعِ الطَّلاقُ",
+				"t": 0
+			},
+			{
+				"answer": "وقَع في الشَّهر نفسِه بعْد سنةٍ",
+				"t": 0
+			},
+			{
+				"answer": "وقَع في الحالِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1969_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1978,
+		"q": {
+			"q": "إذا تَسبَّبت المرأةُ في الفُرقة قبلَ الدخولِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1978.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4614/المطلب-الأول:-الفرقة-بالطَّلاق-بسبب-من-قبل-الزوجة-قبل-الدخول",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "فلها ثلثُ المهْر",
+				"t": 0
+			},
+			{
+				"answer": "فلها نِصفُ المهرِ",
+				"t": 0
+			},
+			{
+				"answer": "فلا مهْرَ لها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1978_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1968,
+		"q": {
+			"q": "تفويضُ الرَّجُلِ للزَّوجةِ في الطَّلاق:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1968.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4494/المطلب-الرابع:-حكم-الطلاق-بالتفويض",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يصِحُّ بالإجماع",
+				"t": 0
+			},
+			{
+				"answer": "يصِحُّ في الطلقةِ الأُولى فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "يصِحُّ بالاتفاقِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1968_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1973,
+		"q": {
+			"q": "طلاقُ المريضِ مرَضَ الموتِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1973.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4594/المبحث-الثاني:-طلاق-المريض-مرض-الموت-طلاق-الفار",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ رجعيًّا لا بائنًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1973_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1977,
+		"q": {
+			"q": "إذا وقَعت الفُرقةُ بعد الدخولِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1977.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4611/المبحث-الثالث:-الفرقة-بالطَّلاق-بعد-العقد-وبعد-الدخول",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "وجَب الصَّداق كاملًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1977_Answer.mp3"
+			},
+			{
+				"answer": "وجَب نِصفُ الصَّداق والمتْعة",
+				"t": 0
+			},
+			{
+				"answer": "وجَب ضِعفُ الصَّداق",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1972,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه ثلاثًا، ثم انقضَت عدتُها، ونكحَت زوجًا غيرَه ودخَل بها، ثم فارَقَها وانقَضَت عدتُها؛ فإنْ نكَحها الأولُ؛ فإنها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1972.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4589/المبحث-الثالث:-إذا-طلقت-ثلاثا-فتزوجت-غيره،-ثم-تزوجها-الأول",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تَرِجع بما بقِيَ عليها",
+				"t": 0
+			},
+			{
+				"answer": "تَرجع بطلقةٍ واحدةٍ فقطْ بالإجماع",
+				"t": 0
+			},
+			{
+				"answer": "رجَعت إليه على ثلاثِ تطليقاتٍ جديدةٍ بالإجماع",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1972_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1965,
+		"q": {
+			"q": "إذا طلَّق امرأتَه وشكَّ في عددِ الطلقاتِ، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1965.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4517/الفرع-الثالث:-الشك-في-الطَّلاق#t-3",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ ثلاثًا",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ طلقتينِ",
+				"t": 0
+			},
+			{
+				"answer": "يَبْني على الأقل",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1965_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1974,
+		"q": {
+			"q": "طلاقُ المفقودِ إنْ ثبَت ببيِّنةٍ، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1974.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4596/المبحث-الثالث:-طلاق-المفقود",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يقعُ بالإجماع",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ إذا كان في الطلقة الثالثةِ",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ باتِّفاق المذاهبِ الفقهيةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1974_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1964,
+		"q": {
+			"q": "إذا علَّق الطَّلاق على شرطٍ، وشكَّ في وجودِ الشرطِ، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1964.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4517/الفرع-الثالث:-الشك-في-الطَّلاق#t-2",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1964_Answer.mp3"
+			},
+			{
+				"answer": "يقعُ طَلقة واحِدَة",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ ثلاثَ طلقاتٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1967,
+		"q": {
+			"q": "إذا شكَّ الرجلُ هل طلَّق امرأتَه أو لا، فإنَّه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1967.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4517/الفرع-الثالث:-الشك-في-الطَّلاق#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تقعُ طلقةً",
+				"t": 0
+			},
+			{
+				"answer": "لا يلزمُه الطَّلاقُ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1967_Answer.mp3"
+			},
+			{
+				"answer": "تقعُ ثلاثًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1982,
+		"q": {
+			"q": "مَذهبُ الحنابلةِ في رَجعةِ الصَّبيِّ المميِّز:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1982.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4644/الفرع-الثاني:-من-شروط-الزوج-المرتجع:-البلوغ",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا تَصِح",
+				"t": 0
+			},
+			{
+				"answer": "يُجبَر على الرَّجعة",
+				"t": 0
+			},
+			{
+				"answer": "تَصِح",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1982_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1976,
+		"q": {
+			"q": "إذا خَلا الرجلُ بامرأتِه بعْد العقد، فإنَّ للمرأةِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1976.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4609/المبحث-الثاني:-الفرقة-بالطَّلاق-بعد-العقد-والخلوة-وقبل-الدخول",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "المهرَ كاملًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1976_Answer.mp3"
+			},
+			{
+				"answer": "نصفَ المهرِ",
+				"t": 0
+			},
+			{
+				"answer": "رُبعَ المهرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1975,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه بلا عِوَضٍ ولا ما يَقْتضي بَينونتَها، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1975.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4599/المبحث-الأول:-الطلاق-بدون-عوض",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يحِقُّ له الرَّجعةُ",
+				"t": 0
+			},
+			{
+				"answer": "يَثبُت خيارُ الرَّجعة للزوجةِ دون الزَّوج",
+				"t": 0
+			},
+			{
+				"answer": "يَحِقُّ له الرَّجعةُ إذا كانت في عدتِها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1975_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1979,
+		"q": {
+			"q": "إذا تسبَّبت المرأةُ في الفُرقةِ بعْد الدخولِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1979.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4616/المطلب-الثاني:-الفرقة-بالطَّلاق-بسبب-من-قبل-الزوجة-بعد-الدخول",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يَسقُط المهرُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1979_Answer.mp3"
+			},
+			{
+				"answer": "يَسقُط نصفُ المهر",
+				"t": 0
+			},
+			{
+				"answer": "يَسقُط المهرُ عن الزَّوج",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 4053,
+		"q": {
+			"q": "المُرادُ بالرَّهْطِ:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4053.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/7",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "الجماعةُ والعِصابةُ دُونَ العَشَرةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4053_Answer.mp3"
+			},
+			{
+				"answer": "القَومُ والعَشيرَةُ",
+				"t": 0
+			},
+			{
+				"answer": "اسْمُ مَكَانٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4052,
+		"q": {
+			"q": "قوله تعالى: {قَالَ نَكِّرُوا لَهَا عَرْشَهَا} معنى \"نَكِّرُوا\": ",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4052.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/6",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "اهْدِمُوه ودَمِّرُوه",
+				"t": 0
+			},
+			{
+				"answer": "اسْتَولوا عَليهِ",
+				"t": 0
+			},
+			{
+				"answer": "غيِّروه بحيثُ لا يُعرَفُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4052_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4051,
+		"q": {
+			"q": "المُرادُ من قوله: {مُمَرَّدٌ}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4051.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/6",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "مُمَلَّسٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4051_Answer.mp3"
+			},
+			{
+				"answer": "صَنَعَتهُ المَرَدَةُ",
+				"t": 0
+			},
+			{
+				"answer": "بِهِ مَارِدٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4060,
+		"q": {
+			"q": "التَّعبيرُ عنِ الوُقوعِ بصيغةِ الماضي في قَولِه تَعالَى: {وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ} للدَّلالةِ على:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4060.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/12",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "تَقريبِ زَمنِ الحالِ مِن المُضِيِّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4060_Answer.mp3"
+			},
+			{
+				"answer": "فِعلِيَّةِ الجُملَةِ؛ وإِفادَةِ تَجدُّدِ الوُقوعِ واستِمرارِه",
+				"t": 0
+			},
+			{
+				"answer": "تَأكيدِ الخِطابِ بالطَّريقِ البُرهانيِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4045,
+		"q": {
+			"q": "في قَولِه تَعالَى: {فَلَمَّا جَاءَهَا نُودِيَ أَنْ بُورِكَ مَنْ فِي النَّارِ} دليلٌ على:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4045.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/2",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "أن اللهَ تَعالَى أَوحَى ما ذَكَر منَ الكَلامِ لمُوسَى عَليهِ السَّلامُ ولَم يتكلَّمْ بِهِ ",
+				"t": 0
+			},
+			{
+				"answer": "تَكليمِه سُبحانَه لمُوسَى بصَوتٍ مَسموعٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4045_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ كلامَ اللهِ تَعَالَى بِلا حَرْفٍ ولَا صَوْتٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4048,
+		"q": {
+			"q": "مَعنَى قَولِه تَعالَى: {الْخَبْءَ}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4048.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/4",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "الغائبُ المستورُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4048_Answer.mp3"
+			},
+			{
+				"answer": "الزَّرْعُ في باطِن الأَرضِ",
+				"t": 0
+			},
+			{
+				"answer": "عُيونُ الماءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4050,
+		"q": {
+			"q": "في قَولِه تَعالَى: {قَالَ سَنَنْظُرُ أَصَدَقْتَ أَمْ كُنْتَ مِنَ الْكَاذِبِينَ} دليلٌ على:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4050.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/4",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "أنَّ الأَصْلَ فِي حاملِ الخَبَرِ الكَذِبُ حتى يَتَبَيَّنَ صِدْقُهُ",
+				"t": 0
+			},
+			{
+				"answer": "وُجوبِ تَصديقِ الرَّسُولِ بما جاءَ بِه",
+				"t": 0
+			},
+			{
+				"answer": "أنَّه ينبغي التثبُّتُ في الخبرِ، لا سِيَّمَا عندَ قيامِ الشُّبهاتِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4050_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4041,
+		"q": {
+			"q": "سببُ تسميةِ سُورةِ النَّمْل؛ بهذا الاسمِ:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4041.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "فضلِ النَّمْلِ ودقَّة صَنْعَتِه",
+				"t": 0
+			},
+			{
+				"answer": "التَّنبيهِ على عِظمِ خلْقِ اللهِ تعالى وقدرتِه في هذا المخلوقِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ لفظَ النَّمْلِ لم يُذكَر في سورةٍ من سُوَرِ القرآنِ غيرها ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4041_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4055,
+		"q": {
+			"q": "في قَولِه تَعالَى: {آَللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ} دليلٌ عَلَى:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4055.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/9",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "أنَّ الشِّركَ نَوعانِ؛ شِركٌ أَكبَر، وشِركٌ أَصغَر",
+				"t": 0
+			},
+			{
+				"answer": "إثباتُ اسمِ الله: الخَيِّر",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ للهِ سبحانه وتعالى الخيريَّةَ المطْلَقةَ في كلِّ شَيءٍ؛ في صِفاتِه وأفعالِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4055_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4059,
+		"q": {
+			"q": "المُرادُ من قَولِه تَعالَى: {الصُّورِ}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4059.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/14",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "القَرن الَّذي يَنفخُ فيه إسرافيلُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4059_Answer.mp3"
+			},
+			{
+				"answer": "الجِبَال الرَّواسِي",
+				"t": 0
+			},
+			{
+				"answer": "التَّمَاثِيل والأَصنامُ التي كانت تُعبَدُ مِن دُونِ اللهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4058,
+		"q": {
+			"q": "في قَولِه تَعالَى: {نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا} دليلٌ على:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4058.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/13",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "أنَّ الحَشرَ يومَ القِيامَة يكونُ أَفواجًا وجَماعاتٍ لا حَشرًا عامًّا",
+				"t": 0
+			},
+			{
+				"answer": "حَسرَةِ الأَتباعِ والمَتبُوعِينَ في الشَّرِّ",
+				"t": 0
+			},
+			{
+				"answer": "عِظَمِ الإمامةِ في السُّوءِ، كما أنَّها أيضًا عَظيمةٌ في الخيرِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4058_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4056,
+		"q": {
+			"q": "في قَولِه تَعالَى: {قُلْ عَسَى أَنْ يَكُونَ رَدِفَ لَكُمْ بَعْضُ الَّذِي تَسْتَعْجِلُونَ} إشارةٌ إلى:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4056.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/11",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "شِدَّةِ عاقِبةِ الكافِرين",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ الاستِعجالَ شَرٌّ مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ البلاءَ مُوكَّلٌ بالمنطقِ، وأنَّ الإنسانَ إذا استعجلَ الشَّرَّ وَقَعَ فيه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4056_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4054,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {الْغَابِرِينَ}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4054.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/8",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "المنعَّمُونَ المُترَفُونَ",
+				"t": 0
+			},
+			{
+				"answer": "المُعْتَدون على حُدودِ الله",
+				"t": 0
+			},
+			{
+				"answer": "الباقون في عذابِ اللهِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4054_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4057,
+		"q": {
+			"q": "في قَولِه تَعالَى: {فَتَوَكَّلْ عَلَى اللَّهِ إِنَّكَ عَلَى الْحَقِّ الْمُبِينِ} إشارة إلى:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4057.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/27/12",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "أنَّ المُحِقَّ حقيقٌ بنُصرةِ اللهِ تعالى، وأنَّه لا يُخذَلُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4057_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ التَّوكُّلَ على الله لا يُنافِي الأَخذَ بالأَسبابِ",
+				"t": 0
+			},
+			{
+				"answer": "اسمِ اللهِ تعالى: \"الحَقّ المُبِين\"",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4047,
+		"q": {
+			"q": "يَدُلُّ قَولُه تَعالَى: {مَنْطِقَ الطَّيْرِ} على أنَّ:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4047.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/3",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "الطُّيُورَ تَنْطِقُ بلغةِ البَشَرِ",
+				"t": 0
+			},
+			{
+				"answer": "البهائمَ لها لغةٌ معروفةٌ فيما بيْنَها مِن جنْسِها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4047_Answer.mp3"
+			},
+			{
+				"answer": "البهائمَ لا تَتَكَلَّمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4046,
+		"q": {
+			"q": "في قَولِه تَعالَى: {وَلَقَدْ آَتَيْنَا دَاوُودَ وَسُلَيْمَانَ عِلْمًا وَقَالَا الْحَمْدُ لِلَّهِ الَّذِي فَضَّلَنَا عَلَى كَثِيرٍ مِنْ عِبَادِهِ الْمُؤْمِنِينَ} إشارةٌ إلى:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4046.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/3",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "التَّذكيرِ بالتَّواضُعِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4046_Answer.mp3"
+			},
+			{
+				"answer": "الفَرَحِ بنِعمَةِ الله",
+				"t": 0
+			},
+			{
+				"answer": "حَمْدِ اللهِ في السَّرَّاءِ والضَّراءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4042,
+		"q": {
+			"q": "في قَولِه تَعالَى: {هُدًى وَبُشْرَى لِلْمُؤْمِنِينَ} إشارةٌ إلى:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4042.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/1",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "أنَّ الجنَّة حُفَّت بالمَكارِه، وأنَّ النارَ حُفَّت بالشَّهواتِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّه كلَّما كَمَل الإيمانُ في العبدِ كَمَلَ اهتِداؤه بالقُرآنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4042_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الإيمانَ يَزيدُ ويَنقُص",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4049,
+		"q": {
+			"q": "في قولِه تعالى: {وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4049.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/4",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "بَيانُ أنَّ الأَعمالَ بالخَواتِيمِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ كلَّ مَن يَصُدًّ عن السَّبيلِ فهو شَيطان",
+				"t": 0
+			},
+			{
+				"answer": "النَّهيُ عن استِحسانِ القبائحِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4049_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4043,
+		"q": {
+			"q": "في قَولِه تَعالَى: {لَعَلِّي آَتِيكُمْ مِنْهَا بِقَبَسٍ}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4043.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/2",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "إشارةٌ لَطيفَةٌ إلى أنَّ في النارِ مَنافِعَ عِدَّةٌ غير الضَّوءِ والحَرارةِ",
+				"t": 0
+			},
+			{
+				"answer": "تَعرِيضٌ بالمَجُوسِ عَبَدَةِ النارِ وتَسْفِيهٌ لِعُقولِهم",
+				"t": 0
+			},
+			{
+				"answer": "تنبيهٌ على خدمةِ الرجل أهْلَه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4043_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 4044,
+		"q": {
+			"q": "في قَولِه تَعالَى: {وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا}:",
+			"audio": "/files/quiz/tafseer/an-naml/audio/4044.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/27/2",
+		"section": "an-naml",
+		"answers": [
+			{
+				"answer": "التَّنبِيهُ على أنَّ طَلبَ العُلُوِّ في الأَرضِ مِن صِفاتِ الظَّالِمينَ ",
+				"t": 0
+			},
+			{
+				"answer": "ذَمُّ التَّرَفُّعِ عن الحقِّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-naml/audio/answers/4044_Answer.mp3"
+			},
+			{
+				"answer": "أن الجُحودَ مِن الظُّلمِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

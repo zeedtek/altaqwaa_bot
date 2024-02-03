@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1102,
+		"q": {
+			"q": "(سويًّا) في قولِه تعالى: {قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1102.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/2#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "مفعولٌ مطلَقٌ",
+				"t": 0
+			},
+			{
+				"answer": "مفعولٌ به",
+				"t": 0
+			},
+			{
+				"answer": "حالٌ من فاعلِ (تُكلِّم)",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1102_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1101,
+		"q": {
+			"q": "في قوله تعالى: {فَأَوْحَى إِلَيْهِمْ أَنْ سَبِّحُوا بُكْرَةً وَعَشِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1101.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/2#tt17",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "دليلٌ على  وجوبِ التَّسبيحِ على زكريَّا في كلِّ وقتٍ",
+				"t": 0
+			},
+			{
+				"answer": "استِحبابُ الذِّكرِ في مُنتصَف النَّهارِ",
+				"t": 0
+			},
+			{
+				"answer": "دليلٌ على أنَّ مَن حلَف ألَّا يكلِّم رجلًا، فكتَب إليه أو أشار: أنه لا يَحنَثُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1101_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1118,
+		"q": {
+			"q": "المرادُ بقوله تعالى: {فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1118.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/7#tt4",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "اختَلف اليهودُ مع النبيِّ ﷺ في مُوسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "اختلَف الأحزابُ فيما بيْنهم هل يَهجُمون على المسلمين أمْ لا؟",
+				"t": 0
+			},
+			{
+				"answer": "اختلَف اليهودُ والنَّصارى في أمرِ عِيسى عليه السَّلامُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1118_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1107,
+		"q": {
+			"q": "قوله: {إِنِّي أَعُوذُ بِالرَّحْمَنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا}، جُملةُ {إِنْ كُنْتَ تَقِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1107.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/4#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "فِعلُ الشرطِ، وجوابُه محذوفٌ دلَّ عليه ما قبْله",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1107_Answer.mp3"
+			},
+			{
+				"answer": "جَوابُ الشرطِ",
+				"t": 0
+			},
+			{
+				"answer": "فِعلُ الشرطِ في محلِّ رفعٍ فاعلٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1110,
+		"q": {
+			"q": "قولُه تعالى: {فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا} جاء (إنسيًّا) نَكرةً:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1110.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/5#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "لتُفيدَ العمومَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1110_Answer.mp3"
+			},
+			{
+				"answer": "لتفيدِ التَّخصِيصِ",
+				"t": 0
+			},
+			{
+				"answer": "لتفيدَ التعظيمَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1104,
+		"q": {
+			"q": "المقصودُ بالحُكمِ في قولِه تعالى: {وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1104.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/3#tt4",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "الوزارةُ",
+				"t": 0
+			},
+			{
+				"answer": "مُلكُ الأرضِ",
+				"t": 0
+			},
+			{
+				"answer": "الفهْمُ لكتاب اللهِ، والعلمُ بأحكامِه والحكمُ به",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1104_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1106,
+		"q": {
+			"q": "النبيُّ هو:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1106.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/4#tt17",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "كلُّ مَن أيَّدَهُ اللهُ بمُعجِزَةٍ ظاهِرَةٍ خارِقَةٍ",
+				"t": 0
+			},
+			{
+				"answer": "مَن يُوحى إليه بشَرْعٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1106_Answer.mp3"
+			},
+			{
+				"answer": "مَن كان مُكَلَّفًا بتَبلِيغِ الناسِ الرِّسالةَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1117,
+		"q": {
+			"q": "جُملة (أيْن ما كنتُ) في قولِه تعالى: {وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنْتُ}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1117.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "صِفةٌ لعِيسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "شرطٌ، وجزاؤه مَحذوفٌ، تقديرُه: جعَلَني نبيًّا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1117_Answer.mp3"
+			},
+			{
+				"answer": "لا محلَّ لها مِن الإعرابِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1119,
+		"q": {
+			"q": "(مأتيًّا) في قولِه تعالى: {إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1119.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/10#tt7",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "صِيغةُ مبالَغةٍ",
+				"t": 0
+			},
+			{
+				"answer": "مَفعولٌ بمعنى فاعلٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1119_Answer.mp3"
+			},
+			{
+				"answer": "فاعلٌ بمعنى مفعولٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1103,
+		"q": {
+			"q": "في قولِه تعالى: {فَخَرَجَ عَلَى قَوْمِهِ} ضُمِّن (خرَج) معنى:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1103.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/2#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "الغضَبِ",
+				"t": 0
+			},
+			{
+				"answer": "طلَعَ؛ لأنه تعدَّى بـ(على)",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1103_Answer.mp3"
+			},
+			{
+				"answer": "رُجوعِه من سفرٍ طويلٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1111,
+		"q": {
+			"q": "المرادُ بالكتابِ في قولِه تعالى: {آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1111.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt4",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "الإنجيلُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1111_Answer.mp3"
+			},
+			{
+				"answer": "المعجزاتُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّوراةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1112,
+		"q": {
+			"q": "المرادُ بقولِه تعالى: {وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُسْتَقِيمٌ}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1112.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt4",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "أي: يُخوِّفهم بالصِّراط يوْمَ القيامة",
+				"t": 0
+			},
+			{
+				"answer": "المَقصُود: بِشارةٌ بالنبيِّ محمدٍ صلَّى الله عليه وسلَّم",
+				"t": 0
+			},
+			{
+				"answer": "أي: هذا الذي جِئتُكم به مِن عندِ اللهِ هو طريقٌ قَويمٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1112_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1105,
+		"q": {
+			"q": "التنوينُ في (حَنانًا) في قولِه تعالى: {وَحَنَانًا مِنْ لَدُنَّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1105.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/3#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "للعِوَض",
+				"t": 0
+			},
+			{
+				"answer": "للتفخيمِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1105_Answer.mp3"
+			},
+			{
+				"answer": "للمقابَلة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1113,
+		"q": {
+			"q": "في قَولِه تعالَى حِكايةً عَن عِيسَى عليهِ السَّلامُ: {إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1113.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt17",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "ممَّا أهمَلَتْه أناجيلُ النَّصارى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1113_Answer.mp3"
+			},
+			{
+				"answer": "أثبَتَتْه أناجيلُ النصارى كلُّها",
+				"t": 0
+			},
+			{
+				"answer": "أخبَرَ به الله في التَّوراة أيضًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1120,
+		"q": {
+			"q": "المقصودُ بقوله تعالى: {إِذْ قُضِيَ الْأَمْرُ}",
+			"audio": "/files/quiz/tafseer/maryam/audio/1120.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/7#tt4",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "حين فُرِغ من الحسابِ والحكمِ بيْن العِباد",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1120_Answer.mp3"
+			},
+			{
+				"answer": "بَعثَةُ النبيِّ محمدٍ صلَّى الله عليه وسلَّم",
+				"t": 0
+			},
+			{
+				"answer": "رَفعُ عِيسى عليه السلامُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1108,
+		"q": {
+			"q": "لماذا أُعطِيَت مَريمُ رُطبًا دونَ التمرِ، كما في قولِه تعالى: {تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1108.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/5#tt17",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "حتى تُؤكِل عِيسى عليه السلامُ منه",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّ الرُّطَبَ أشهى للنفْس؛ إذ هو كالفاكهةِ، وأما التمرُ فغِذاءٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1108_Answer.mp3"
+			},
+			{
+				"answer": "لأنها كانت تُحِبُّ الرُّطبَ أكثرَ من التمرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1115,
+		"q": {
+			"q": "فاءُ (فأتَتْ) في قولِه تعالى: {فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا} فيها دلالةٌ على أنَّ مَريمَ:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1115.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "جاءت أهْلَها ليكلِّمَهم ابنُها",
+				"t": 0
+			},
+			{
+				"answer": "جاءت أهْلَها عَقِب انتهاءِ الكلامِ الذي كلَّمها ابنُها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1115_Answer.mp3"
+			},
+			{
+				"answer": "أخذَت معها زكريَّا ليكلِّم أهْلَها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1109,
+		"q": {
+			"q": "قيل في مَعنى قوله تعالى: {فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1109.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/5#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "ادْخُلي عليهم أيامَ التَّشريقِ وقولي: إنكِ صائمةٌ",
+				"t": 0
+			},
+			{
+				"answer": "فانْذِري صومًا، وإنْ لقيتِ من البشرِ أحدًا، فقولي: إنِّي نذرْتُ صومًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1109_Answer.mp3"
+			},
+			{
+				"answer": "فصُومي رمضانَ، ثم قولي: إني نذرْتُ صومًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1114,
+		"q": {
+			"q": "ممَّا قيل في قولِه تعالى: {وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1114.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt17",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "أنَّ عِيسى عليه السلامُ كا مُكَلَّفًا حالَ طُفولَتِه",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ الله صيَّر عِيسى عليه السلامُ عَقِب ولادتِه بالِغًا مُميِّزًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1114_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ عِيسى عليه السلامُ قبْل أن يكلِّمَهم صلَّى ركعتَين",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1116,
+		"q": {
+			"q": "لماذا قال قومُ مريمَ لها: {يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا}:",
+			"audio": "/files/quiz/tafseer/maryam/audio/1116.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/19/6#tt18",
+		"section": "maryam",
+		"answers": [
+			{
+				"answer": "تَوبيخًا لها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/maryam/audio/answers/1116_Answer.mp3"
+			},
+			{
+				"answer": "لأنهم يَعلَمون نُبوَّتَها",
+				"t": 0
+			},
+			{
+				"answer": "تَشريفًا لها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

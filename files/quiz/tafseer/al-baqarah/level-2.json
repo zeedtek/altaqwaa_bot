@@ -1,0 +1,542 @@
+[
+	{
+		"id": 94,
+		"q": {
+			"q": "الصابئُ هو:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/94.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/11#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "السَّكْرانُ",
+				"t": 0
+			},
+			{
+				"answer": "الخارجُ من دينِه إلى دينٍ آخَرَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/94_Answer.mp3"
+			},
+			{
+				"answer": "المجنونُ الذي زال عَقلُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 93,
+		"q": {
+			"q": "معنى (حِطَّةٌ) في قولِه تعالى: {وَقُولُوا حِطَّةٌ}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/93.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/10#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "أهلِكِ الظالمينَ منَّا",
+				"t": 0
+			},
+			{
+				"answer": "الحِنطةُ التي تؤكَلُ",
+				"t": 0
+			},
+			{
+				"answer": "حُطَّ عنَّا ذُنوبَنا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/93_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 97,
+		"q": {
+			"q": "الاستِفْهامُ بـ (أَنَّى) في قولِه تعالى: {أَنَّى يُحْيِي هَذِهِ اللَّهُ بَعْدَ مَوْتِهَا}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/97.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/44#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "للتعَجُّبِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/97_Answer.mp3"
+			},
+			{
+				"answer": "للتَّقريرِ",
+				"t": 0
+			},
+			{
+				"answer": "للتَّوبيخِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 84,
+		"q": {
+			"q": "معنى يَنقُضونَ في قولِه تعالى: {الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ} مَعْناها",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/84.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/5#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "يَنبِذونَه بعدَ القَبولِ، ويَترُكونَ العملَ به",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/84_Answer.mp3"
+			},
+			{
+				"answer": "يَعمَلونَ ببعضِه ويَترُكون بَعضَه",
+				"t": 0
+			},
+			{
+				"answer": "يَتمسَّكونَ به في الظاهِرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 82,
+		"q": {
+			"q": "السُّفهاءُ في قولِه تعالى: {أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ} هُمُ:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/82.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/3#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "المنافقونَ",
+				"t": 0
+			},
+			{
+				"answer": "الجَهَلةُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/82_Answer.mp3"
+			},
+			{
+				"answer": "الكافرونَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 88,
+		"q": {
+			"q": "الجَهْرةُ في قولِه تعالى: {لَنْ نُؤْمِنَ لَكَ حَتَّى نَرَى اللَّهَ جَهْرَةً} هي:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/88.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/9#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "وَقتُ الضُّحَى",
+				"t": 0
+			},
+			{
+				"answer": "العَلانيةُ والظُّهورُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/88_Answer.mp3"
+			},
+			{
+				"answer": "الخَفاءُ والسِّرُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 90,
+		"q": {
+			"q": "الغرَضُ من تَنْكيرِ (بَلاءٌ، عَظيمٌ) في قولِه تعالى: {وَفِي ذَلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/90.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/9#tt18",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "للتفخيمِ والتهويلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/90_Answer.mp3"
+			},
+			{
+				"answer": "للعُمومِ والشُّمولِ",
+				"t": 0
+			},
+			{
+				"answer": "للحَصْرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 87,
+		"q": {
+			"q": "معنى: (عَدلٌ) في قولِه تعالى: {وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/87.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/9#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "شَبِيهٌ",
+				"t": 0
+			},
+			{
+				"answer": "فِدْيةٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/87_Answer.mp3"
+			},
+			{
+				"answer": "قضاءٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 83,
+		"q": {
+			"q": "المرادُ بالشياطين في قولِه تعالى: {وَإِذَا خَلَوْا إِلَى شَيَاطِينِهِمْ} هم:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/83.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/3#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "رؤوسُهم في الكُفرِ ومَرَدتُهم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/83_Answer.mp3"
+			},
+			{
+				"answer": "أراذِلُهم وضُعفاؤُهم",
+				"t": 0
+			},
+			{
+				"answer": "السَّحَرَةُ والكُهَّانُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 86,
+		"q": {
+			"q": "قولُه تعالى: {إِلَّا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ} الألِفُ والسينُ والتاءُ في : (وَاسْتَكْبَرَ)",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/86.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/7#tt18",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "للمُبالَغةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/86_Answer.mp3"
+			},
+			{
+				"answer": "للحَصْرِ",
+				"t": 0
+			},
+			{
+				"answer": "للطَّلبِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 92,
+		"q": {
+			"q": "تَكرارُ كلمةِ بارئِكم في قولِه تعالى: {فَتُوبُوا إِلَى بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/92.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/9#tt18",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "للإظهارِ في مَوقِع الإضمارِ؛ لتَربيةِ المَهابَةِ في القُلوبِ",
+				"t": 0
+			},
+			{
+				"answer": "للتوْكيدِ؛ ولأنَّها جُملةٌ مُستقلَّةٌ فناسَبها الإظهارُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/92_Answer.mp3"
+			},
+			{
+				"answer": "للبَيانِ الخِتامي في الآيةِ؛ للاعتِبارِ والاتِّعاظِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 95,
+		"q": {
+			"q": "كان بَنو إسْرائيلَ يَتلقَّوْنَ دَعَواتِ الأنْبياءِ الذينَ يَأْتونَ بأحْكامٍ تُخالِفُ أهْواءَهم:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/95.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/15#tt9",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "بالصَّمتِ",
+				"t": 0
+			},
+			{
+				"answer": "بالتكذيبِ والقَتلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/95_Answer.mp3"
+			},
+			{
+				"answer": "بالاعتِراض",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 96,
+		"q": {
+			"q": "قولُه تعالى: {وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ} استفهامٌ يُرادُ به:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/96.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/20#tt18",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "الإخْبار",
+				"t": 0
+			},
+			{
+				"answer": "التَّعجُّب",
+				"t": 0
+			},
+			{
+				"answer": "النفيُ والإنْكارُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/96_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 85,
+		"q": {
+			"q": "قولُه تعالى: {وَإِذْ قَالَ رَبُّكَ} فيه:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/85.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/6#tt17",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "رَدٌّ على الصُّوفِيَّة في نَفيِهم لصِفات الله عزَّ وجلَّ",
+				"t": 0
+			},
+			{
+				"answer": "الحَثُّ على استِماعِ كَلامِ اللهِ عزَّ وجلَّ",
+				"t": 0
+			},
+			{
+				"answer": "إثْباتُ القولِ للهِ عزَّ وجلَّ، وأنَّه بحَرْفٍ، وصَوتٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/85_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 89,
+		"q": {
+			"q": "ممَّا قيلَ في معنى المَنِّ الذي أنَزَله اللهُ أنه:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/89.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/9#tt4",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "شجرُ الأراكِ",
+				"t": 0
+			},
+			{
+				"answer": "التَّرَنْجَبينُ، وهو شيءٌ أبيضُ يَنزِلُ على الشجرِ كالنَّدى، يُشبِهُ العسلَ الأبيضَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/89_Answer.mp3"
+			},
+			{
+				"answer": "حوتٌ عظيمٌ، لا شَحمَ فيه ولا شَوْكَ، ولَحمُه سَريعُ النُّضجِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 99,
+		"q": {
+			"q": "معنى: (تُغْمِضُوا) في قولِه تعالى: {إِلَّا أَنْ تُغْمِضُوا فِيهِ}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/99.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/46#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "تَغُشُّوا فيه",
+				"t": 0
+			},
+			{
+				"answer": "تترخَّصوا وتَتَسامحوا فيه بأنْ تَتَغافلوا عنه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/99_Answer.mp3"
+			},
+			{
+				"answer": "تُخْفونَه عن غيرِكم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 98,
+		"q": {
+			"q": "تَنْكيرُ (قَوْلٌ مَعْرُوفٌ) في قولِه تعالى: {قَوْلٌ مَعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِنْ صَدَقَةٍ}:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/98.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/45#tt18",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "للشُّمُولِ والعُمومِ",
+				"t": 0
+			},
+			{
+				"answer": "للزِّيادةِ والكَثرةِ",
+				"t": 0
+			},
+			{
+				"answer": "للتقْليلِ؛ أي: أَقَلُّ قَولٍ مَعْروفٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/98_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 81,
+		"q": {
+			"q": "في قولِه تعالى: {فِي قُلُوبِهِمْ مَرَضٌ} المرضُ المقصُود هو:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/81.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/3#tt7",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "داءٌ يُصيبُ القلبَ فيَتوقَّفُ",
+				"t": 0
+			},
+			{
+				"answer": "الوَسواسُ",
+				"t": 0
+			},
+			{
+				"answer": "الشكُّ والنفاقُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/81_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 100,
+		"q": {
+			"q": "سببُ افتِتاحِ سورةِ البَقرةِ بالحُروفِ المقطَّعةِ هو:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/100.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/1#tt4",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "بَيانُ عَجزِ المُشركينَ عن تَكذيبِ القُرآنِ رغمَ أنَّه نزلَ بلُغتهِم",
+				"t": 0
+			},
+			{
+				"answer": "بَيانُ أنَّ القرآنَ نَزلَ بهذه الحُروفِ العَربيةِ",
+				"t": 0
+			},
+			{
+				"answer": "بَيانُ إعجازِ القرآنِ؛ حيث تُظهِرُ عجْزَ الخَلْقِ عن مُعارضتِه بمثلِه، مع أنَّه مركَّبٌ من هذه الحروفِ العربيَّةِ التي يتحدَّثونَ بها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/100_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 91,
+		"q": {
+			"q": "قولُه تعالى: {ذَلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ} فيه أُسلوبُ:",
+			"audio": "/files/quiz/tafseer/al-baqarah/audio/91.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/2/9#tt18",
+		"section": "al-baqarah",
+		"answers": [
+			{
+				"answer": "التفاتٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-baqarah/audio/answers/91_Answer.mp3"
+			},
+			{
+				"answer": "استفهامٍ",
+				"t": 0
+			},
+			{
+				"answer": "استهزاءٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

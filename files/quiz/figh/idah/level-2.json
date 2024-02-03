@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2303,
+		"q": {
+			"q": "متى يُشرَعُ اللِّعانُ؟\n ",
+			"audio": "/files/quiz/figh/idah/audio/2303.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4900",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "إذا قَذَف الرَّجُل امرأةَ أبيه بالزِّنا",
+				"t": 0
+			},
+			{
+				"answer": "إذا قَذَف الرَّجُل امرأةَ غَيره بالزِّنا",
+				"t": 0
+			},
+			{
+				"answer": "إذا قَذَفَ الرَّجُلُ امرأتَه بالزِّنا",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2303_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2310,
+		"q": {
+			"q": "ممَّا لا يُشتَرَطُ في صِحَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2310.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4916",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "الحَلِف",
+				"t": 0
+			},
+			{
+				"answer": "تَفريقُ الحاكِمِ بَينَهما",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2310_Answer.mp3"
+			},
+			{
+				"answer": "أنْ تُكَذِّبَ المَرأةُ الرَّجُلَ في قَذْفِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2320,
+		"q": {
+			"q": "المطلَّقة غَير المدخول بها",
+			"audio": "/files/quiz/figh/idah/audio/2320.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5081",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجِب عليها الإحداد",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشرَع لها الإحداد",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2320_Answer.mp3"
+			},
+			{
+				"answer": "يُستَحَبُّ لها الإحداد",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2321,
+		"q": {
+			"q": "إحداد المطلَّقة الرَّجعيَّة",
+			"audio": "/files/quiz/figh/idah/audio/2321.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5083",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يُستَحَبُّ لها الإحداد",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشرَع",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2321_Answer.mp3"
+			},
+			{
+				"answer": "يَجِب عليها الإحداد",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2314,
+		"q": {
+			"q": "المتَوَفَّى عنها زَوجُها إنْ كانت غَيرَ حامِل",
+			"audio": "/files/quiz/figh/idah/audio/2314.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4964",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "لها نَفَقة مِن مال المتَوَفَّى مُدَّة العِدة",
+				"t": 0
+			},
+			{
+				"answer": "لا نَفَقة لها",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2314_Answer.mp3"
+			},
+			{
+				"answer": "على أهل زَوجِها نَفَقةُ سُكنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2313,
+		"q": {
+			"q": "عِدَّة الحامِل المُتَوَفَّى عنها زَوجُها",
+			"audio": "/files/quiz/figh/idah/audio/2313.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4961",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "وَضْعُ الحَمْل",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2313_Answer.mp3"
+			},
+			{
+				"answer": "عِدَّتُها ثلاثة قُروء بَعدَ وَضع الحَمل",
+				"t": 0
+			},
+			{
+				"answer": "أربَعة أشهُر وعشْرٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2311,
+		"q": {
+			"q": "عِدَّة المُتَوَفَّى عنها زَوْجها",
+			"audio": "/files/quiz/figh/idah/audio/2311.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4956",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "تَجِبُ إنْ دَخَل بها فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجِبُ عليها عِدَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "تَجِب عليها، دَخَل عليها أو لم يَدخُلْ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2311_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2306,
+		"q": {
+			"q": "ممَّا يُشتَرَطُ لِصِحَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2306.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4909",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أنْ يَشهَد مع الرَّجُلِ اثنان",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يَشهَدَ رَجُلٌ وامرأتانِ مع الرَّجُل على زِنا امرأته",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يَتِمَّ اللِّعانُ بحُكمِ حاكِمٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2306_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2315,
+		"q": {
+			"q": "السُّكنى لِلمُتوَفَّى عنها زَوجُها في العِدة",
+			"audio": "/files/quiz/figh/idah/audio/2315.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4968",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "ليس لها سُكنى",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2315_Answer.mp3"
+			},
+			{
+				"answer": "تَجِب لها السُّكنى مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجِب لها إلا إنْ كانت حامِلًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2319,
+		"q": {
+			"q": "يبدأ وَقتُ العِدة لِزَوجة الغائب",
+			"audio": "/files/quiz/figh/idah/audio/2319.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5045",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "مِن غيابه",
+				"t": 0
+			},
+			{
+				"answer": "بوَفاته أو طَلاقه أو حُكم الحاكِم بذلك",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2319_Answer.mp3"
+			},
+			{
+				"answer": "بَعدَ سَنة مِن غيابه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2318,
+		"q": {
+			"q": "العِدَّة على الزَّوجة المطَلَّقة قَبْلَ الدُّخول",
+			"audio": "/files/quiz/figh/idah/audio/2318.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4983",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "تَنتَصِف عليها العِدَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجب عليها العِدة",
+				"t": 0
+			},
+			{
+				"answer": "لا عِدةَ عليها",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2318_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2316,
+		"q": {
+			"q": "خُروج المتَوَفَّى عنها زَوجُها لَيلًا",
+			"audio": "/files/quiz/figh/idah/audio/2316.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4973",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ أبدًا",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ لِلحاجة",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2316_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2317,
+		"q": {
+			"q": "مَبِيتُ المتَوَفَّى عنها زَوجُها في غير بَيتها",
+			"audio": "/files/quiz/figh/idah/audio/2317.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4975",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "مَكروه",
+				"t": 0
+			},
+			{
+				"answer": "جائِز",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2317_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2309,
+		"q": {
+			"q": "لِعانُ الأخرَسِ",
+			"audio": "/files/quiz/figh/idah/audio/2309.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4914",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "بِدْعة",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2309_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2304,
+		"q": {
+			"q": "ممَّا يُشتَرَطُ لِصِحَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2304.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4905",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أنْ ترى المرأةُ امرأةً مع زَوجِها",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يَحدُث حمَلٌ",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يَكونَ بَيْنَ زَوجَيْنِ مُكَلَّفَيْنِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2304_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2312,
+		"q": {
+			"q": "عِدَّة المُتَوَفَّى عنها زَوجُها غَيرِ الحامِلِ",
+			"audio": "/files/quiz/figh/idah/audio/2312.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4959",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "ثلاثةُ قُروء",
+				"t": 0
+			},
+			{
+				"answer": "ثلاثة أشهُر",
+				"t": 0
+			},
+			{
+				"answer": "أربَعةُ أشهُر وعشْرٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2312_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2308,
+		"q": {
+			"q": "ممَّا لا يُشتَرَطُ في صِحَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2308.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4914",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أنْ تَكونَ الزَّوجةُ غيرَ مُكَلَّفةٍ",
+				"t": 0
+			},
+			{
+				"answer": "النُّطقُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2308_Answer.mp3"
+			},
+			{
+				"answer": "أنْ تَكونَ الزَّوجةُ مُكَلَّفةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2307,
+		"q": {
+			"q": "ممَّا لا يُشتَرَطُ في صِحَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2307.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4912",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أنْ تُكَذِّبَ المَرأةُ الرَّجُلَ في قَذْفِه، ويَستَمِرَّ تَكذيبُها له",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يَكونَ بَينَ زَوجَيْنِ مُكَلَّفَيْنِ",
+				"t": 0
+			},
+			{
+				"answer": "البَصَرُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2307_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2305,
+		"q": {
+			"q": "ممَّا يُشتَرَطُ لِصِحَّةِ اللِّعانِ:\n ",
+			"audio": "/files/quiz/figh/idah/audio/2305.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4907",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "أنْ تُكَذِّبَ المَرأةُ الرَّجُلَ في قَذْفِه هذا، ويَستَمِرَّ تَكذيبُها له إلى انقِضاءِ اللِّعانِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2305_Answer.mp3"
+			},
+			{
+				"answer": "أنْ يَكونَ الزَّوجُ قدْ دفَع الصَّداقَ",
+				"t": 0
+			},
+			{
+				"answer": "أنْ تُصَدِّق المرأةُ الرَّجُل في قَذْفه وتُريد ألَّا يُطَلِّقَها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2322,
+		"q": {
+			"q": "إحداد المطلَّقة البائِنِ",
+			"audio": "/files/quiz/figh/idah/audio/2322.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5085",
+		"section": "idah",
+		"answers": [
+			{
+				"answer": "يَجب عليها الإحداد",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشرع",
+				"t": 1,
+				"audio": "/files/quiz/figh/idah/audio/answers/2322_Answer.mp3"
+			},
+			{
+				"answer": "يُستَحَبُّ لها الإحداد",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

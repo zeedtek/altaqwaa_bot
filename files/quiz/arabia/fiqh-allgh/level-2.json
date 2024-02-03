@@ -1,0 +1,542 @@
+[
+	{
+		"id": 7180,
+		"q": {
+			"q": "الاشتِقاقُ في اللُّغةِ هو:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7180.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2175",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الاعتِمادُ على الجُذورِ اللُّغويَّة في اشتِقاقِ الأَسماءِ والأَفعالِ",
+				"t": 0
+			},
+			{
+				"answer": "أخذُ صيغةٍ من أُخرى مع اتِّفاقِهما مَعنًى ومادَّةً أصليَّةً",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7180_Answer.mp3"
+			},
+			{
+				"answer": "المُشابهَةُ في المَبْنَى دُونَ المَعنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7171,
+		"q": {
+			"q": "إدخالُ بَعضِ حُروفِ العَجَمِ في بَعضِ حُروفِ العَرَبِ، يُسمَّى:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7171.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2222",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الإِدغامُ",
+				"t": 0
+			},
+			{
+				"answer": "اللُّكْنةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7171_Answer.mp3"
+			},
+			{
+				"answer": "الاختِلاطُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7167,
+		"q": {
+			"q": "جَرَيانُ الصَّوتِ مع الحَرفِ لضَعفِ الاعتِمادِ على المَخرَجِ هو:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7167.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2216",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الرَّخاوَةُ ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7167_Answer.mp3"
+			},
+			{
+				"answer": "الاستِطالَةُ",
+				"t": 0
+			},
+			{
+				"answer": "الهَمسُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7179,
+		"q": {
+			"q": "بَدَأتِ الدَّعوةُ إلى العاميَّةِ مع:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7179.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2298",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "سُقوطِ الخِلافَةِ العُثمانِيَّةِ بعدَ الحَربِ العالميَّة الثانِيَةِ",
+				"t": 0
+			},
+			{
+				"answer": "بِدايةِ الحَمَلاتِ الصَّليبيَّةِ على بلادِ المُسلِمينَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7179_Answer.mp3"
+			},
+			{
+				"answer": "التَّرَفِ الذي أَصابَ أواخِرَ العَصرِ العَبَّاسِيِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7168,
+		"q": {
+			"q": "هو تَلاصُقُ ما يُحاذي اللِّسانَ منَ الحَنَكِ الأعلى",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7168.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2216",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الإِبدالُ",
+				"t": 0
+			},
+			{
+				"answer": "الإطباقُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7168_Answer.mp3"
+			},
+			{
+				"answer": "الإِخفاءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7174,
+		"q": {
+			"q": "مِن اللُّغات السَّاميَّة الجَزريَّة المُعاصِرة:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7174.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2122",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "السُّرْيانيَّةُ، الآراميَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الأموريَّةُ، الفِينيقيَّةُ، العِبْريَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الشَّحريَّةُ، المِهريَّةُ، السقطريَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7174_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7177,
+		"q": {
+			"q": "جَرَيانُ النَّفَسِ عِندَ النُّطقِ بالحَرفِ لضَعفِ الاعتِمادِ على المَخرَجِ؛ يُسمَّى:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7177.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2216",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الاستِعلاءُ",
+				"t": 0
+			},
+			{
+				"answer": "الهَمْسُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7177_Answer.mp3"
+			},
+			{
+				"answer": "الإذلاقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7169,
+		"q": {
+			"q": "من عُيوب المَنطِقِ العَربيِّ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7169.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2222",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الدَّخْمَشَةُ",
+				"t": 0
+			},
+			{
+				"answer": "السَّنْقَلةُ",
+				"t": 0
+			},
+			{
+				"answer": "الفَأفَأةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7169_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7163,
+		"q": {
+			"q": "بعض الصِّفاتِ اللُّغَويَّةِ التي تَعودُ إلى بيئةٍ خاصَّةٍ، ويَشتَرِكُ جَميعُ أفرادِها فيها، تُسَمَّى:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7163.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2132",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "اللَّهجَةُ القَبلَيةُ",
+				"t": 0
+			},
+			{
+				"answer": "مَفهومُ اللَّهجةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7163_Answer.mp3"
+			},
+			{
+				"answer": "اللَّكْنَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7175,
+		"q": {
+			"q": "العقْلةُ هيَ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7175.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2222",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "التِواءُ اللِّسانِ عِندَ الكَلامِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7175_Answer.mp3"
+			},
+			{
+				"answer": "تَعذُّرُ النُّطقِ",
+				"t": 0
+			},
+			{
+				"answer": "إيصالُ بَعضِ الكَلامِ ببَعضٍ دونَ إفادةٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7161,
+		"q": {
+			"q": "مِن أَهمِّ لَهجاتِ العَرَبِ الباقِيَة:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7161.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2127",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "السَّلمانِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "اللِّحيانيَّة",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7161_Answer.mp3"
+			},
+			{
+				"answer": "النُّورانِيَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7164,
+		"q": {
+			"q": "كَلِمةُ (بَسْمَل) مأخُوذَةُ مِن (بسمِ اللهِ الرَّحمنِ الرَّحيمِ) وهذا عند أَهلِ اللغة يُسمَّى:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7164.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2198",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الترَّكيبَ",
+				"t": 0
+			},
+			{
+				"answer": "النَّحْتَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7164_Answer.mp3"
+			},
+			{
+				"answer": "الاشتِقاقَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7166,
+		"q": {
+			"q": " تُسَمَّى الضَّادُّ والذَّالُ والتَّاءُ بـ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7166.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2214",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "الحُروفِ الحَلْقِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الحُروفِ اللَّثَويَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7166_Answer.mp3"
+			},
+			{
+				"answer": "الحُروفِ الوَسَطِيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7173,
+		"q": {
+			"q": "التَّمتَمةُ هيَ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7173.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2222",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "التَّردُّدُ في نُطقِ التَّاءِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7173_Answer.mp3"
+			},
+			{
+				"answer": "البراعة في الخطابة",
+				"t": 0
+			},
+			{
+				"answer": "إتمام المعنى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7165,
+		"q": {
+			"q": "مِن المَوضوعاتِ التي يُعالجُها فِقْهُ اللُّغةِ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7165.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2091",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "لَهجاتُ العَرَبِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7165_Answer.mp3"
+			},
+			{
+				"answer": "إِعرابُ القُرآنِ الكَريمِ",
+				"t": 0
+			},
+			{
+				"answer": "مَوضُوعاتُ البَلاغَة (المَعانِي والبَيانُ والبَديعُ)",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7178,
+		"q": {
+			"q": "تُشكِّل مُعظَمُ النُّقوشِ المَوجودةِ في اللَّهَجاتِ العَربيَّةِ الجَنوبيَّةِ قَديمًا:  ",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7178.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2129",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "اللُّغةَ المُهَرِيَّةَ",
+				"t": 0
+			},
+			{
+				"answer": "اللُّغةَ الحِمْيَرِيَّةَ",
+				"t": 0
+			},
+			{
+				"answer": "اللُّغةَ السَّبئيَّةَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7178_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7176,
+		"q": {
+			"q": "أهمّ اللَّهَجاتِ العَربيَّةِ الجَنوبيَّةِ قَديمًا:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7176.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2122",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "العِبْريَّةُ، والعَمونيَّةُ، والأدوميَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الأَمِيرِيَّةُ، والصَّنْعانِيَّةُ، والعَبَّاسِيَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الحَضرَميَّةُ، والهرَميَّةُ، والسَّبَئيَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7176_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7170,
+		"q": {
+			"q": "من المُؤَلَّفاتِ التي اعتنت بالألفاظِ المُعَرَّبةِ والمُوَلَّدةِ والدَّخيلةِ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7170.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2293",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "كِتابُ (العَيْنِ) للخَليلِ بن أحمَد الفَراهِيدي",
+				"t": 0
+			},
+			{
+				"answer": "تَهذِيبُ اللُّغَة",
+				"t": 0
+			},
+			{
+				"answer": "شِفاءُ الغَليل في كَلامِ العَرَبِ منَ الدَّخيل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7170_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7162,
+		"q": {
+			"q": "المقصود بالعَرَبيَّةِ البائِدةِ:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7162.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2127",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "عَربِيَّةُ البادِيَة (البَعيدَةُ عن الحَضَر)",
+				"t": 0
+			},
+			{
+				"answer": "اللَّهجَةُ العَربيَّةُ العامِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "عَرَبيَّةُ النُّقوشِ، التي اختفت لهجاتُها قَبلَ الإسلامِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7162_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7172,
+		"q": {
+			"q": "هو ما اتَّحَدَ مَعناه واختَلَفَ لَفظُه:",
+			"audio": "/files/quiz/arabia/fiqh-allgh/audio/7172.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/2228",
+		"section": "fiqh-allgh",
+		"answers": [
+			{
+				"answer": "التَّنوُّعُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّفسِيرُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّرادُفُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/fiqh-allgh/audio/answers/7172_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

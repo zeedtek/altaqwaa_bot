@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2741,
+		"q": {
+			"q": "أطولُ النَّاسِ أعناقًا يومَ القِيامةِ هم:",
+			"audio": "/files/quiz/figh/salah/audio/2741.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/691",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "أصحابُ النَّبيِّ ﷺ",
+				"t": 0
+			},
+			{
+				"answer": "المُستغفِرونَ",
+				"t": 0
+			},
+			{
+				"answer": "المُؤذِّنونَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2741_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2745,
+		"q": {
+			"q": "الحَيضُ علامةٌ من عَلاماتِ:",
+			"audio": "/files/quiz/figh/salah/audio/2745.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/814",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "وُجوبِ الزَّواجِ",
+				"t": 0
+			},
+			{
+				"answer": "البُلوغِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2745_Answer.mp3"
+			},
+			{
+				"answer": "العَقلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2751,
+		"q": {
+			"q": "حُكْمُ سَتْرِ العَورةِ في الصَّلاةِ\n ",
+			"audio": "/files/quiz/figh/salah/audio/2751.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/872",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "شرطٌ لصحَّةِ الصَّلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2751_Answer.mp3"
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2744,
+		"q": {
+			"q": "صلاةُ النَّفلِ إذا أُقيمتِ الصَّلاةُ\n ",
+			"audio": "/files/quiz/figh/salah/audio/2744.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/805",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "لا يَفتَتِحُ منَ النوافِلِ إذا أُقيمتِ الصَّلاةُ باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2744_Answer.mp3"
+			},
+			{
+				"answer": "مُستَحبَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكرُوهَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2743,
+		"q": {
+			"q": "حُكمُ اتِّخاذِ أكثرَ  من مؤذِّنٍ في المسجدِ الواحدِ\n ",
+			"audio": "/files/quiz/figh/salah/audio/2743.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/693",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "حرامٌ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2743_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2747,
+		"q": {
+			"q": "بِدايةُ وَقتِ صَلاةِ الفَجرِ",
+			"audio": "/files/quiz/figh/salah/audio/2747.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/838",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "بعدَ صَلاةِ العِشاءِ بخَمسِ ساعاتٍ",
+				"t": 0
+			},
+			{
+				"answer": "إذا طلَعَ الفجرُ الثَّاني",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2747_Answer.mp3"
+			},
+			{
+				"answer": "قبْلَ طُلوعِ الشَّمسِ قَدرَ رُمحٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2750,
+		"q": {
+			"q": "النِّيابةُ في الصَّلاةِ",
+			"audio": "/files/quiz/figh/salah/audio/2750.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/852",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "تباحُ النِّيابةُ عنِ الغَيرِ في الصَّلاةِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجوزُ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2750_Answer.mp3"
+			},
+			{
+				"answer": "مُستحَبَّةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2759,
+		"q": {
+			"q": "السُّترةُ بينَ يدَيِ المُصلِّي إذا كان إمامًا أو منفرِدًا",
+			"audio": "/files/quiz/figh/salah/audio/2759.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/1036",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "واجِبةٌ، باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 0
+			},
+			{
+				"answer": "بِدعَة",
+				"t": 0
+			},
+			{
+				"answer": "سنَّةٌ مؤكَّدةٌ، باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2759_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2755,
+		"q": {
+			"q": "إذا كان المُصلِّي منفرِدًا، بعدَ الرَّفعِ منَ الرُّكوعِ؛ فإنَّه:",
+			"audio": "/files/quiz/figh/salah/audio/2755.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/954",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "يَقولُ: رَبَّنا ولكَ الحَمدُ ولا يَزيد",
+				"t": 0
+			},
+			{
+				"answer": "يَجمَعُ بينَ التَّسميعِ والتَّحميدِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2755_Answer.mp3"
+			},
+			{
+				"answer": "يُكبِّرُ ويَنزِلُ للسُّجودِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2748,
+		"q": {
+			"q": "الإبرادُ بالظُّهرِ في شِدَّةِ الحَرِّ:",
+			"audio": "/files/quiz/figh/salah/audio/2748.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/840",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبٌ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2748_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2757,
+		"q": {
+			"q": "الإسرارُ بالتشهُّدِ\n ",
+			"audio": "/files/quiz/figh/salah/audio/2757.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/997",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "سُنَّةٌ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2757_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2758,
+		"q": {
+			"q": "الدُّعاءُ والصَّلاةِ على النبيِّ ﷺ بعدَ التشهُّدِ وقبلَ السَّلامِ",
+			"audio": "/files/quiz/figh/salah/audio/2758.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/1017",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "غَيرُ مَشروعٍ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2758_Answer.mp3"
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2746,
+		"q": {
+			"q": "من شُروطِ وُجوبِ الصَّلاةِ",
+			"audio": "/files/quiz/figh/salah/audio/2746.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/820",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "الإقامةُ",
+				"t": 0
+			},
+			{
+				"answer": "الطَّهارةُ منَ الحَيضِ والنِّفاسِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2746_Answer.mp3"
+			},
+			{
+				"answer": "زَوالُ الرُّخصِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2754,
+		"q": {
+			"q": "حُكمُ قراءةِ الفاتحةِ للإمامِ والمنفردِ",
+			"audio": "/files/quiz/figh/salah/audio/2754.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/923",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "واجِبَةٌ على الإمامِ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "تُستَحبُّ للإمامِ وتُشرَع للمُنفَرِد",
+				"t": 0
+			},
+			{
+				"answer": "رُكنٌ مِن أركانِ الصَّلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2754_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2739,
+		"q": {
+			"q": "هي التعبُّدُ للهِ تَعالَى بأقوالٍ وأفعالٍ مَخصوصةٍ، مُفتَتَحةٍ بالتَّكبيرِ، مُختَتَمةٍ بالتَّسليمِ:\n ",
+			"audio": "/files/quiz/figh/salah/audio/2739.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/672",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "الصَّلاةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2739_Answer.mp3"
+			},
+			{
+				"answer": "الزَّكاةُ",
+				"t": 0
+			},
+			{
+				"answer": "العُمرةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2756,
+		"q": {
+			"q": "الدُّعاءُ بالمَغفِرةِ في الجَلْسةِ بين السَّجدتينِ",
+			"audio": "/files/quiz/figh/salah/audio/2756.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/987",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "سُنَّةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2756_Answer.mp3"
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2749,
+		"q": {
+			"q": "إذا كانتِ البَلَدُ يَطولُ فيه النَّهارُ جدًّا أوِ العَكسُ، لكنْ يَتَمايزُ فيه الليلُ مِن النَّهارِ بطُلوعِ فجرٍ وغُروبِ شمسٍ خِلالَ أربعٍ وعِشرينَ ساعةً فإنَّه:",
+			"audio": "/files/quiz/figh/salah/audio/2749.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/848",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "يَجمَعونَ كلَّ الصَّلَواتِ في وَقتٍ واحِدٍ",
+				"t": 0
+			},
+			{
+				"answer": "يُستحَبُّ لأَهلِه أن يُصلُّوا الظُّهرَ والعَصرَ جَمعًا، والمَغربَ والعِشاءَ جَمعًا",
+				"t": 0
+			},
+			{
+				"answer": "يَجبُ على أهلِه أن يُصلُّوا الصَّلواتِ الخمسَ في أوقاتِها المَعروفةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2749_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2740,
+		"q": {
+			"q": "حُكمُ الصَّلاةِ:",
+			"audio": "/files/quiz/figh/salah/audio/2740.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/677",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "فَرضُ عينٍ على كلِّ مُسلمٍ مكلَّفٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2740_Answer.mp3"
+			},
+			{
+				"answer": "فَرضُ كِفايةٍ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبةٌ على المُستَطيعِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2753,
+		"q": {
+			"q": "حُكمُ دُعاءِ الاستفتاحِ\nفي الصَّلاةِ",
+			"audio": "/files/quiz/figh/salah/audio/2753.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/917",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "بِدعةٌ لا يُشرَعُ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مِن سُنَنِ الصَّلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2753_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2760,
+		"q": {
+			"q": "سُجودُ السَّهوِ يَكونُ على",
+			"audio": "/files/quiz/figh/salah/audio/2760.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/1137",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "المُنفَرِدِ والإمامِ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2760_Answer.mp3"
+			},
+			{
+				"answer": "الإمامِ فَقَط باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 0
+			},
+			{
+				"answer": "المَأمومِ فَقَط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

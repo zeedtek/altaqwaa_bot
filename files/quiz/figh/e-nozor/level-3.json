@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2203,
+		"q": {
+			"q": "الوَفاءُ في نَذرِ اللَّجاجِ والغَضَبِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2203.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5806",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "يُخيَّرُ بين الوَفاءِ وبين الكفَّارةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2203_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجِبُ الوَفاءُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ الوَفاءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2220,
+		"q": {
+			"q": "مَنِ استَثنَى في يَمينِه فقال: إنْ شاءَ اللهُ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2220.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5575",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "لا تَجِبُ عَليهِ الكفَّارةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2220_Answer.mp3"
+			},
+			{
+				"answer": "يَجِبُ عَليهِ الكفَّارةُ حَنِث أو لم يَحنَثْ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُؤثِّرُ الاستِثناءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2205,
+		"q": {
+			"q": "تَعليقُ النَّذرِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2205.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5839",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2205_Answer.mp3"
+			},
+			{
+				"answer": "يُوجِبُ الكفَّارةَ فَورًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2215,
+		"q": {
+			"q": "تَصرُّفُ النَّاذرِ في المَنذورِ المُعيَّنِ ببَيعٍ أو هِبةٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2215.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5901",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "لا يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2215_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2217,
+		"q": {
+			"q": "اليَمينُ عَلى تَركِ واجِبٍ أو فِعلِ مُحرَّمٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2217.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5519",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "تَنعَقِدُ ويَجِبُ أن يَحنَثَ في يَمينِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2217_Answer.mp3"
+			},
+			{
+				"answer": "تَنعَقِدُ ويَلزَمُ الوَفاءُ والكفَّارةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَنعَقِدُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2213,
+		"q": {
+			"q": "كفَّارةُ النَّذرِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2213.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5883",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "كفَّارةُ يَمينٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2213_Answer.mp3"
+			},
+			{
+				"answer": "صِيامُ شَهرَينِ",
+				"t": 0
+			},
+			{
+				"answer": "كفَّارةُ ظِهاٍر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2208,
+		"q": {
+			"q": "مَن عَجَز عنِ النَّذرِ بعَجزٍ مُؤقَّتٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2208.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5870",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "يَنفي الكفَّارةَ",
+				"t": 0
+			},
+			{
+				"answer": "يَمنَعُ الانعِقادَ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَمنَعُ الوَفاءَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2208_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2210,
+		"q": {
+			"q": "اليُمينُ على المستحيلِ عقلًا",
+			"audio": "/files/quiz/figh/e-nozor/audio/2210.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5510",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "على قولَينِ عندَ أهلِ العِلمِ بيْن الانعقادِ وعدَمِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2210_Answer.mp3"
+			},
+			{
+				"answer": "لا تَنعقِدُ إجماعًا",
+				"t": 0
+			},
+			{
+				"answer": "تنعقِدُ إجماعًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2206,
+		"q": {
+			"q": "النَّذرُ بمُجرَّدِ النِّيَّةِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2206.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5842",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "تَكفي النِّيَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَنعَقِدُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2206_Answer.mp3"
+			},
+			{
+				"answer": "يُستحَبُّ التَّلفُّظُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2212,
+		"q": {
+			"q": "نَذَر صَومَ يَومٍ مُعيَّنٍ فأفطَرَ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2212.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5879",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "عَليهِ القَضاءُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2212_Answer.mp3"
+			},
+			{
+				"answer": "عَليهِ الكفَّارةُ",
+				"t": 0
+			},
+			{
+				"answer": "عَليهِ القَضاءُ والكفَّارةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2207,
+		"q": {
+			"q": "مَن عَجِز عنِ النَّذرِ بعَجزٍ بَدَنيٍّ دائمٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2207.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5868",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "لا شَيءَ عَليهِ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ الوَفاءُ به، أو يوصي بذلك",
+				"t": 0
+			},
+			{
+				"answer": "عَليهِ الكفَّارةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2207_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2218,
+		"q": {
+			"q": "حَذفُ حُروفِ القَسَمِ من  لَفظِ الجَلالةِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2218.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5568",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "لا تَنعَقِدُ اليَمينُ",
+				"t": 0
+			},
+			{
+				"answer": "تَنعَقِدُ اليَمينُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2218_Answer.mp3"
+			},
+			{
+				"answer": "تَجِبُ الكفَّارةُ حَنِث أو لم يَحْنَثْ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2219,
+		"q": {
+			"q": "النُّطقُ باليَمينِ للقادِرِ عَليهِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2219.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5571",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "يُشتَرَطُ مُطلَقًا فلا يَقَع يَمينُ الأخرسِ",
+				"t": 0
+			},
+			{
+				"answer": "شَرطٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2219_Answer.mp3"
+			},
+			{
+				"answer": "ليس شَرطًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2222,
+		"q": {
+			"q": "ما يَسبِقُ عَلى لِسانِ المُتكلِّمِ بلا قَصدٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2222.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5616",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "إنْ كان غَموسًا لم يَنعَقِدُ وإلَّا انعَقَد",
+				"t": 0
+			},
+			{
+				"answer": "يَمينٌ يَنعَقِدُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَنعَقِدُ ويَكونُ لَغْوًا ولا كفَّارةَ فيه",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2222_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2214,
+		"q": {
+			"q": "تَلزَمُ كفَّارةُ النَّذرِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2214.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5885",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "عِندَ التَّلفُّظِ بالنَّذرِ",
+				"t": 0
+			},
+			{
+				"answer": "قبْلَ المَوتِ",
+				"t": 0
+			},
+			{
+				"answer": "عِندَ عَدَمِ الوَفاءِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2214_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2204,
+		"q": {
+			"q": "نَذرُ الكافِرِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2204.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5810",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "لا يَنعَقِدُ",
+				"t": 0
+			},
+			{
+				"answer": "يَنعَقِدُ ويَلزَمُه في كُفرِه",
+				"t": 0
+			},
+			{
+				"answer": "يَنعَقِدُ ويَلزَمُه إذا أسلَمَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2204_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2221,
+		"q": {
+			"q": "انعِقادُ اليَمينِ الغَموسِ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2221.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5613",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "تَنعَقِدُ وفيها الكفَّارةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَنعَقِدُ، وكفَّارَتُها التَّوبةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2221_Answer.mp3"
+			},
+			{
+				"answer": "تَنعَقِدُ ولا شَيءَ فيها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2216,
+		"q": {
+			"q": "اليَمينُ عَلى تَركِ مَندوبٍ وفِعلِ مَكروهٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2216.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5517",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "تَنعَقِدُ عَلى تَركِ المَندوبِ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "تَنعَقِدُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2216_Answer.mp3"
+			},
+			{
+				"answer": "لا تَنعَقِدُ عَلى فِعلِ المَكروهِ فَقَط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2211,
+		"q": {
+			"q": "لو شَكَّ هل نَذَر أم لا",
+			"audio": "/files/quiz/figh/e-nozor/audio/2211.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5877",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "تَلزَمُه الكفَّارةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا شَيءَ عَليهِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2211_Answer.mp3"
+			},
+			{
+				"answer": "يَجِبُ احتياطًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2209,
+		"q": {
+			"q": "نَذَر نَذرًا في مَكانٍ مُعيَّنٍ",
+			"audio": "/files/quiz/figh/e-nozor/audio/2209.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5873",
+		"section": "e-nozor",
+		"answers": [
+			{
+				"answer": "يَجِبُ الوَفاءُ في مَكاِنه",
+				"t": 0
+			},
+			{
+				"answer": "يَفعَلُه في أيِّ مَكانٍ وعَليهِ كفَّارةٌ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَلزَمُ النَّذرُ في المَكانِ المُعيَّنِ إلَّا المَسجِدَ الحَرامَ والمسجد النَّبوِيَّ والمسجد الأقصَى",
+				"t": 1,
+				"audio": "/files/quiz/figh/e-nozor/audio/answers/2209_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

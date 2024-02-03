@@ -1,0 +1,542 @@
+[
+	{
+		"id": 3537,
+		"q": {
+			"q": "كان المُصَدِّقُ -عامِلُ الصَّدَقةِ- يَأتي ليَجمَعَ صَدَقاتِ الماشِيةِ من أربابِها، عِندَ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3537.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/30317",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أَسواقِهِم",
+				"t": 0
+			},
+			{
+				"answer": "مَبارِكها التي تبيتُ فيها",
+				"t": 0
+			},
+			{
+				"answer": "أماكنِ الشُّربِ حيثُ تُجمَعُ الحيَواناتُ للسَّقيِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3537_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3526,
+		"q": {
+			"q": "قَالَ رَسُولُ اللَّهِ ﷺ: الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3526.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/35115",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "إنَّ رَحمةَ الله سَبقَت غَضَبَهُ",
+				"t": 0
+			},
+			{
+				"answer": "وكلُّ بَني آدَمَ خَطَّاءٌ، وخيرُ الخطَّائين التَّوابُون",
+				"t": 0
+			},
+			{
+				"answer": "ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3526_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3531,
+		"q": {
+			"q": "نَهَى النَّبِيُّ ﷺ عَنْ نَتْفِ الشَّيْبِ، وَقَالَ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3531.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/30800",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "إنَّه شَرَفُ المُؤمِنِ",
+				"t": 0
+			},
+			{
+				"answer": "إِنَّهُ نُورُ المُسلِمِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3531_Answer.mp3"
+			},
+			{
+				"answer": "إنَّه يُنِيرُ للمُؤمنِ الصِّراطَ يَومَ القِيامةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3538,
+		"q": {
+			"q": "عن عائشةَ رَضِيَ اللهُ عَنها قالت: «لقَدْ كانَ رَسولُ اللَّهِ ﷺ يُصَلِّي الفَجْرَ، فَيَشْهَدُ معهُ نِسَاءٌ مِنَ المُؤْمِنَاتِ مُتَلَفِّعَاتٍ في مُرُوطِهِنَّ» مَعنَى «مُرُوطِهِنَّ»:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3538.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/1748",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "ثَوبٌ يَستُرُ أسفَلَ المَرأةِ يُشبِهُ الإزارَ",
+				"t": 0
+			},
+			{
+				"answer": "الثَّوبُ مِنَ الصُّوفِ أو غيرِه، وهو يُشبِهُ المِلحَفةَ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3538_Answer.mp3"
+			},
+			{
+				"answer": "أثَواب كانت تُصنَع مِن الحَريرِ تُغطِّي سائِرَ الجَسَدِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3540,
+		"q": {
+			"q": "قَالَ رَسُولُ اللَّهِ ﷺ: أَسْفِرُوا بِالفَجْرِ، فَإِنَّهُ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3540.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/29946",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أعظَمُ للأجرِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3540_Answer.mp3"
+			},
+			{
+				"answer": "أنسَأُ للأجَلِ",
+				"t": 0
+			},
+			{
+				"answer": "أتْقَى للنَّفسِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3535,
+		"q": {
+			"q": "عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللهِ ﷺ قَالَ: أَهْوَنُ أَهْلِ النَّارِ عَذَابًا أَبُو طَالِبٍ، وَهُوَ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3535.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/5107",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "في الدَّركِ الأسفَلِ منها",
+				"t": 0
+			},
+			{
+				"answer": "مُنْتَعِلٌ بِنَعلَيْنِ يَغْلي مِنهُمَا دِمَاغُه",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3535_Answer.mp3"
+			},
+			{
+				"answer": "في لِحافٍ مِن نارٍ ظَانًّا أنَّه أَشدُّ أَهلِ النارِ عَذابًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3528,
+		"q": {
+			"q": "أعظَمُ آيةٍ في كِتابِ اللهِ عزَّ وجلَّ؛ هي:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3528.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/23630",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "آيةُ الدَّينِ",
+				"t": 0
+			},
+			{
+				"answer": "آيةُ الكُرسِيِّ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3528_Answer.mp3"
+			},
+			{
+				"answer": "آيَةُ الميزانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3529,
+		"q": {
+			"q": "سورةُ \"قُلْ هُوَ اللهُ أَحَدٌ\" تَعدِلُ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3529.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/151292",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "ثُلُثَ القُرآنِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3529_Answer.mp3"
+			},
+			{
+				"answer": "رُبُعَ القُرآنِ",
+				"t": 0
+			},
+			{
+				"answer": "نِصفَ القُرآنِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3544,
+		"q": {
+			"q": "نَهَى رَسولُ اللهِ ﷺ عن بَيْعِ الغَرَرِ. ما معنى (بَيْع الغَرَرِ):",
+			"audio": "/files/quiz/hadith/hadith05/audio/3544.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/23500",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "كلُّ بَيعٍ اشتَمَل على أيِّ نَوعٍ من أنواعِ الخِداعِ، أو كان مَجهولًا أو مَعجوزًا عنه",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3544_Answer.mp3"
+			},
+			{
+				"answer": "بَيعُ ما يُستعمَلُ في المُحَرَّماتِ كالعِنَبِ إذا عُصِرَ خَمرًا",
+				"t": 0
+			},
+			{
+				"answer": "بَيعُ الثَّمَرِ بالتَّمرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3545,
+		"q": {
+			"q": "جُملةُ: \"ألَا إنَّ القوَّةَ الرَّميُ\"، تَعني:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3545.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/32625",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أنَّ رَمْيَ الجَمَراتِ بقُوَّةٍ تُظهِرُ شَجاعةَ المُسلِمِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ الرَّميَ هو منَ القُوَّةِ الحَقيقيَّةِ في الحَربِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3545_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ ضَرْبَ الأعداءِ بالأحجارِ يُقَوِّي عَزيمةَ المُحارِبين",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3532,
+		"q": {
+			"q": "قَالَ رَسُولُ اللَّهِ ﷺ: انْهَكُوا الشَّوَارِبَ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3532.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/151032",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "وَأَعْفُوا اللِّحَى",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3532_Answer.mp3"
+			},
+			{
+				"answer": "واذكُرُوا اسمَ الله",
+				"t": 0
+			},
+			{
+				"answer": "ولا تَحِفُّوا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3543,
+		"q": {
+			"q": "المَغافيرُ: هو",
+			"audio": "/files/quiz/hadith/hadith05/audio/3543.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/6705",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "نَوعٌ من الحَلْواءِ طَيِّبةُ الرَّائحةِ",
+				"t": 0
+			},
+			{
+				"answer": "صَمغٌ حُلوٌ له رائحةٌ كَريهةٌ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3543_Answer.mp3"
+			},
+			{
+				"answer": "شَجَرٌ من شَجَرِ البادِيةِ له ثِمارٌ طَيِّبةُ الطَّعمِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3533,
+		"q": {
+			"q": "يقَولُ النَّبيُّ ﷺ: وجُعِلَ قُرَّةُ عَينِي:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3533.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/32267",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أن أَكونَ عَبدًا شَكُورًا",
+				"t": 0
+			},
+			{
+				"answer": "في الصَّلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3533_Answer.mp3"
+			},
+			{
+				"answer": "حُبُّ الأَنصارِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3539,
+		"q": {
+			"q": "يُؤخَذُ من حَديثِ عائشةَ رَضِيَ اللهُ عَنها: «لقَدْ كانَ رَسولُ اللَّهِ ﷺ يُصَلِّي الفَجْرَ، فَيَشهَدُ معهُ نِسَاءٌ مِنَ المُؤْمِنَاتِ...»",
+			"audio": "/files/quiz/hadith/hadith05/audio/3539.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/1748",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "وُجوبُ شُهودِ النِّساءِ للصَّلاةِ في جَماعةٍ",
+				"t": 0
+			},
+			{
+				"answer": "مَشروعيَّةُ خُروجِ النِّساءِ للصَّلاةِ في المَساجِدِ باللَّيلِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3539_Answer.mp3"
+			},
+			{
+				"answer": "إِباحَةُ خُروجِ المَرأةِ للصَّلاةِ دُونَ إِذنِ زَوجِها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3534,
+		"q": {
+			"q": "يُوزَنُ العَبدُ عِندَ اللهِ تَعالَى بمِعيارِ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3534.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/151309",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "التَّقوَى",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3534_Answer.mp3"
+			},
+			{
+				"answer": "الوَرعِ",
+				"t": 0
+			},
+			{
+				"answer": "الصَّلاةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3541,
+		"q": {
+			"q": "قال رَسُولُ اللَّهِ ﷺ: لاَ صَلَاةَ بَعْدَ الصُّبْحِ حَتَّى تَرْتَفِعَ الشَّمْسُ، وَلَا صَلَاةَ بَعْدَ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3541.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/8387",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "العَصْرِ حَتَّى تَغِيبَ الشَّمْسُ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3541_Answer.mp3"
+			},
+			{
+				"answer": "المَغرِبِ حتَّى يَسقُطَ الشَّفَقُ",
+				"t": 0
+			},
+			{
+				"answer": "الظُّهرِ حتَّى يَصيرَ ظِلُّ كُلِّ شَيءٍ مِثلَه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3542,
+		"q": {
+			"q": "عن خَبَّابِ بنِ الأرَتِّ رَضِيَ اللهُ عَنهُ، قال: شَكَوْنا إِلَى رَسولِ اللهِ ﷺ الصَّلاةَ في الرَّمْضاءِ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3542.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/23458",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "فقال: أَبرِدُوا بالصَّلاةِ",
+				"t": 0
+			},
+			{
+				"answer": "فلم يُشْكِنا",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3542_Answer.mp3"
+			},
+			{
+				"answer": "فأمَرَنا بالسُّجودِ على ثِيابِنا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3536,
+		"q": {
+			"q": "قَالَ رَسُولُ اللَّهِ ﷺ: إِذَا دَخَلَ رَمَضَانُ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3536.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/150704",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "فُتِّحَتْ أَبْوَابُ الجَنَّةِ، وَغُلِّقَتْ أَبْوَابُ جَهَنَّمَ وَسُلْسِلَتِ الشَّيَاطِينُ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3536_Answer.mp3"
+			},
+			{
+				"answer": "فاجتَهِدُوا في الدُّعاءِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَزالُ عليكُم مِن الله رَقيبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3527,
+		"q": {
+			"q": "عَنِ النَّبِيِّ ﷺ قَالَ: دَخَلَتِ امْرَأَةٌ النَّارَ فِي هِرَّةٍ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3527.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/3255",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أَحرَقَتها بالنَّارِ؛ فهي تَتقَلَّبُ في نارِ جَهنَّم بُكرةً وعَشِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "رَبَطَتْهَا، فَلَمْ تُطْعِمْهَا، وَلَمْ تَدَعْهَا تَأْكُلُ مِنْ خَشَاشِ الأَرْضِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3527_Answer.mp3"
+			},
+			{
+				"answer": "ضَرَبَتْها حتَّى المَوتِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3530,
+		"q": {
+			"q": "عَنِ النَّبِيِّ ﷺ قَالَ: «مَثَلُ الَّذِي يَقْرَأُ القُرْآنَ، وَهُوَ حَافِظٌ لَهُ مَعَ السَّفَرَةِ الكِرَامِ البَرَرَةِ، وَمَثَلُ الَّذِي يَقْرَأُ، وَهُوَ يَتَعَاهَدُهُ، وَهُوَ عَلَيْهِ شَدِيدٌ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3530.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/151130",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "مع النَّبِيِّينَ والصِّدِّيقِينَ والشُّهداء",
+				"t": 0
+			},
+			{
+				"answer": "فنِعمَ ما يَلقَى الله به غَدًا",
+				"t": 0
+			},
+			{
+				"answer": "له أجْرانِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3530_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2111,
+		"q": {
+			"q": "نِكاحُ ذاتِ الدِّينِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2111.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3981",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2111_Answer.mp3"
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2113,
+		"q": {
+			"q": "النِّكاحُ بغيرِ وَليٍّ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2113.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4098",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "يجوزُ إذا كانت ثيِّبًا",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2113_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2106,
+		"q": {
+			"q": "الخَلوةُ بالمخطوبةِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2106.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4028",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يحرُمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2106_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2110,
+		"q": {
+			"q": "عَقدُ المسلمِ نِكاحَه على الكِتابيَّةِ في الكَنيسةِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2110.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4176",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ بعدَ عقدِهِ في المَسجِدِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2110_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2117,
+		"q": {
+			"q": "يحرُمُ مِنَ الرَّضاعِ:",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2117.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4196",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "ما يحرُمُ مِنَ النَّسَبِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2117_Answer.mp3"
+			},
+			{
+				"answer": "الأمُّ مِنَ الرَّضاعِ والبِنتُ فقط",
+				"t": 0
+			},
+			{
+				"answer": "الأمُّ مِنَ الرَّضاعِ والأختُ فقط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2108,
+		"q": {
+			"q": "إعلانُ النِّكاحِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2108.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4142",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2108_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2104,
+		"q": {
+			"q": "النَّظرُ للمَخطوبةِ بغيرِ إذنِها",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2104.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4022",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2104_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2112,
+		"q": {
+			"q": "اختيارُ الزَّوجَةِ الوَلودِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2112.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3983",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2112_Answer.mp3"
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2122,
+		"q": {
+			"q": "الأكلُ مِنَ الوَليمةِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2122.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4420",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2122_Answer.mp3"
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2120,
+		"q": {
+			"q": "يُستحَبُّ في طَعامِ الوَليمةِ أن يكونَ:",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2120.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4390",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "قَبلَ الدُّخولِ",
+				"t": 0
+			},
+			{
+				"answer": "يومَ العَقدَ",
+				"t": 0
+			},
+			{
+				"answer": "بعدَ الدُّخولِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2120_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2103,
+		"q": {
+			"q": "الخِطْبةُ قبلَ النِّكاحِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2103.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/3969",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "مُباحةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2103_Answer.mp3"
+			},
+			{
+				"answer": "واجبةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2105,
+		"q": {
+			"q": "نَظرُ المَخطوبَةِ إلى الخاطِبِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2105.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4032",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "لا يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2105_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2107,
+		"q": {
+			"q": "العُدولُ عنِ الخِطبةِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2107.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4037",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2107_Answer.mp3"
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2118,
+		"q": {
+			"q": "الصَّداقُ للمَرأةِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2118.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4301",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2118_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2115,
+		"q": {
+			"q": "نِكاحُ المُتعَةِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2115.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4230",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "حرامٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2115_Answer.mp3"
+			},
+			{
+				"answer": "رُخصةٌ لغيرِ القادرِ",
+				"t": 0
+			},
+			{
+				"answer": "حَلالٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2121,
+		"q": {
+			"q": "إجابَةُ الدَّعوةِ إلى وليمةِ النِّكاحِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2121.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4395",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "جائزةٌ",
+				"t": 0
+			},
+			{
+				"answer": "سُنَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجبةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2121_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2119,
+		"q": {
+			"q": "الوَليمةُ في الشَّرعِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2119.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4386",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "اسمٌ لطعامِ العُرسِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2119_Answer.mp3"
+			},
+			{
+				"answer": "ما يَجتمِعُ له النَّاسُ",
+				"t": 0
+			},
+			{
+				"answer": "اسمٌ لِما يأكُلُه النَّاسُ في العَقيقَةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2114,
+		"q": {
+			"q": "عقدُ النِّكاحِ بغيرِ شُهودٍ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2114.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4149",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "لا يصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2114_Answer.mp3"
+			},
+			{
+				"answer": "صَحيحٌ",
+				"t": 0
+			},
+			{
+				"answer": "صحيحٌ معَ الكَراهةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2109,
+		"q": {
+			"q": "عَقدُ النِّكاحِ في المسجِدِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2109.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4174",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "بِدعَةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2109_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2116,
+		"q": {
+			"q": "تَزويجُ المُسلِمةِ مِنَ الكافِرِ",
+			"audio": "/files/quiz/figh/figh-nikah/audio/2116.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/4274",
+		"section": "figh-nikah",
+		"answers": [
+			{
+				"answer": "يجوزُ منَ الكِتابيِّ فقط",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-nikah/audio/answers/2116_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

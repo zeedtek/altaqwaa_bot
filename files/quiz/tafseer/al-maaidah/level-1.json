@@ -1,0 +1,542 @@
+[
+	{
+		"id": 250,
+		"q": {
+			"q": "حُكمُ اقْتِناءِ كَلبِ الصَّيدِ:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/250.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/3#tt17",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائِزٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/250_Answer.mp3"
+			},
+			{
+				"answer": "مَكرُوهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 243,
+		"q": {
+			"q": "قال اللهُ تعالى: {يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللهِ وَلَا الشَّهْرَ الْحَرَامَ} المقصودة بالأشهُرِ الحُرُمِ هي:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/243.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/1#tt4",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "ذو القَعدةِ وذو الحِجَّةِ والمُحَرَّمُ ورَجَبٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/243_Answer.mp3"
+			},
+			{
+				"answer": "ذو الحِجَّةِ ومُحرَّمٌ وصَفَرٌ ورَبيعٌ الأوَّلُ",
+				"t": 0
+			},
+			{
+				"answer": "ذو القَعدةِ ومُحرَّمُ وصَفَرٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 249,
+		"q": {
+			"q": "حُكمُ أكْلِ ذَبائِحِ أهلِ الكِتابِ مِنَ اليَهودِ والنَّصارى:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/249.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/3#tt9",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "حَلالٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/249_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 242,
+		"q": {
+			"q": "ما المقصودُ بـ(الْقَلَائِدَ) في قولِه تعالى: {يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ}:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/242.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/1#tt7",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "ما قُلِّدَ مِنَ الهَدْيِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/242_Answer.mp3"
+			},
+			{
+				"answer": "ما يُربَطُ حَولَ العُنُقِ",
+				"t": 0
+			},
+			{
+				"answer": "السَّلاسِلُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 254,
+		"q": {
+			"q": "القائِلونَ بأنَّ اللهَ هو عِيسى ابنُ مريمَ -تعالى اللهُ عن ذلك عُلُوًّا كبيرًا- هم:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/254.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/8#tt9",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "المَجوسُ",
+				"t": 0
+			},
+			{
+				"answer": "اليَهودُ",
+				"t": 0
+			},
+			{
+				"answer": "النَّصارى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/254_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 260,
+		"q": {
+			"q": "أُنزِلَ الإِنجيلُ على:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/260.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/16#tt4",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "داودَ عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "مُوسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "عيسى عليه السلامُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/260_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 256,
+		"q": {
+			"q": "عُوقِب بَنو إسْرائيلَ بأنْ حَرَّمَ اللهُ عليهم دخولَ الأرضِ المقدَّسةِ مُدَّةَ:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/256.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/9#tt9",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "عِشرينَ سَنةً",
+				"t": 0
+			},
+			{
+				"answer": "ثَلاثِينَ سَنةً",
+				"t": 0
+			},
+			{
+				"answer": "أربعِينَ سَنةً",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/256_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 251,
+		"q": {
+			"q": "نَستَفيدُ من قولِه تعالى: {وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا}:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/251.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/4#tt17",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "أنَّ الغُسْلَ لجميعِ البَدنِ؛ لأنَّه أُطْلِقَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/251_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الغُسلَ إذا أُطلِقَ يُقصَدُ به غَسلُ أعضاءِ الوُضوءِ",
+				"t": 0
+			},
+			{
+				"answer": "أن الجَنابَة تُطلَق على كلِّ ما يَمنعُ مِن الصلاةِ مثل الحَدَث الأكبَر والأصغَر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 245,
+		"q": {
+			"q": "المقصودُ بـ(الْأَزْلَامُ):",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/245.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/2#tt7",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "الآثامُ والذُّنُوبُ والمَعاصِي",
+				"t": 0
+			},
+			{
+				"answer": "الأصنامُ التي كانوا يَذبحونَ عندَها",
+				"t": 0
+			},
+			{
+				"answer": "القِداحُ التي كانوا يَضرِبونَ بها على المَيْسرِ ويَستَقْسِمونَ بها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/245_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 241,
+		"q": {
+			"q": "المقصودُ بـ{بَهِيمَةُ الْأَنْعَامِ}",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/241.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/1#tt",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "الطُّيورُ التي تُؤكَلُ",
+				"t": 0
+			},
+			{
+				"answer": "الحَيواناتُ عمومًا",
+				"t": 0
+			},
+			{
+				"answer": "الإبلُ والبَقَرُ والغَنَمُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/241_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 253,
+		"q": {
+			"q": "المَقصودُ بأهلِ الكِتابِ هُم:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/253.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/7#tt17",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "كُفَّارُ قُرَيشٍ",
+				"t": 0
+			},
+			{
+				"answer": "اليَهودُ والنَّصارى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/253_Answer.mp3"
+			},
+			{
+				"answer": "مَن يَقرأُ ويَكتُبُ مِنَ العَربِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 257,
+		"q": {
+			"q": " \nعُقوبةُ أخْذِ المالِ على سبيلِ السَّرِقةِ:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/257.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/13#tt4",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "النَّفيُ مِن الأرضِ",
+				"t": 0
+			},
+			{
+				"answer": "قَطعُ اليَدَينِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/257_Answer.mp3"
+			},
+			{
+				"answer": "عِشرُونَ جَلدةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 255,
+		"q": {
+			"q": "قولُه تعالى: {إِنَّ فِيهَا قَوْمًا جَبَّارِين} المقصودُ بـ(جَبَّارِينَ):",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/255.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/9#tt7",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "قاطِعي طُرُق",
+				"t": 0
+			},
+			{
+				"answer": "ظَالِمينَ",
+				"t": 0
+			},
+			{
+				"answer": "أقوِياء عِظام الأجْسامِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/255_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 252,
+		"q": {
+			"q": "قال اللهُ تعالى: {وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا} المستفادُ من هذه الآيةِ في حُكمِ الوُضوءِ معَ غُسلِ الجَنابةِ:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/252.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/4#tt17",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "لا يجبُ الوُضوءُ معَ الغُسلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/252_Answer.mp3"
+			},
+			{
+				"answer": "يجبُ الوُضوءُ معَ الغُسلِ",
+				"t": 0
+			},
+			{
+				"answer": "يُستَحَبُّ الوُضوءُ معَ الغُسلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 259,
+		"q": {
+			"q": "في قولِه تعالى: {يقُولُونَ نَخْشَى أَنْ تُصِيبَنَا دَائِرَةٌ}، القائلُ في الآيةِ هُم:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/259.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/18#tt4",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "اليَهودُ",
+				"t": 0
+			},
+			{
+				"answer": "المُنافِقونَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/259_Answer.mp3"
+			},
+			{
+				"answer": "المُشرِكُونَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 244,
+		"q": {
+			"q": "المقصودُ بـ(المَوْقُوذَةُ):",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/244.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/2#tt7",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "المَقتُولةُ بالضَّربِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/244_Answer.mp3"
+			},
+			{
+				"answer": "الواقِعةُ مِن جَبَلٍ",
+				"t": 0
+			},
+			{
+				"answer": "المَقتُولةُ بالخَنْقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 247,
+		"q": {
+			"q": "حُكمُ أكلِ المُنخَنِقةِ:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/247.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/2#tt4",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "جائِزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/247_Answer.mp3"
+			},
+			{
+				"answer": "مَكرُوهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 246,
+		"q": {
+			"q": "ما حُكمُ أكلِ المُتَرَدِّيةِ:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/246.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/2#tt7",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/246_Answer.mp3"
+			},
+			{
+				"answer": "جائِزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكرُوهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 258,
+		"q": {
+			"q": "قولُه تعالى: {وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ...} يُستفادُ منه:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/258.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/15#tt17",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "أنَّ شَرعَ مَن قَبلَنا ليس شَرعًا لنا",
+				"t": 0
+			},
+			{
+				"answer": "استُدلَّ به على أنَّ شَرعَ مَن قَبْلَنا شَرعٌ لنا، إذا حُكيَ مُقرَّرًا ولم يُنسَخْ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/258_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ شَرعَ مَن قَبلَنا شَرعٌ لنا مُطلقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 248,
+		"q": {
+			"q": "يُستَفادُ مِن قَولِه تعالى: {فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ}:",
+			"audio": "/files/quiz/tafseer/al-maaidah/audio/248.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/5/2#tt4",
+		"section": "al-maaidah",
+		"answers": [
+			{
+				"answer": "أنَّ الجُوعَ ليس مُبرِّرًا لأكلِ المُحرَّماتِ حتى ولو أَدَّى إلى الهَلاكِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ مَن أَلجأتْهُ الضَّرورةُ لأكْلِ شَيءٍ مِن المُحرَّمات يَأكُلُ حَدَّ الكِفايةِ فقطْ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-maaidah/audio/answers/248_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ أكلَ المُحرَّماتِ دونَ الوُقوعِ في الإثمِ جائِزٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

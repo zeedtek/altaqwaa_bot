@@ -1,0 +1,542 @@
+[
+	{
+		"id": 5565,
+		"q": {
+			"q": "قِراءةُ الآياتِ والأحاديثِ في الأسماءِ والصِّفاتِ دُونَ التَّطرُّقِ لفَهمِ مَعانيها، واعتِقادِ أنَّه لا يَعلَمُ مَعناها إلَّا اللهُ",
+			"audio": "/files/quiz/akida/t-name/audio/5565.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/426",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "تَشبيهٌ",
+				"t": 0
+			},
+			{
+				"answer": "تَفويضٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5565_Answer.mp3"
+			},
+			{
+				"answer": "تَعطيلٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5568,
+		"q": {
+			"q": "دَلَّ على ذاتِ اللهِ معَ صِفاتِ الكَمالِ القائمةِ به",
+			"audio": "/files/quiz/akida/t-name/audio/5568.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/433",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "صِفاتُ اللهِ",
+				"t": 0
+			},
+			{
+				"answer": "أسماءُ اللهِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5568_Answer.mp3"
+			},
+			{
+				"answer": "إثباتُ الأسماءِ والصِّفاتِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5579,
+		"q": {
+			"q": "\"الرَّحمَنُ\"",
+			"audio": "/files/quiz/akida/t-name/audio/5579.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/453",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "الاسمُ صِفةٌ للمُسَمَّى",
+				"t": 0
+			},
+			{
+				"answer": "الاسمُ هنا غَيرُ المُسمَّى",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5579_Answer.mp3"
+			},
+			{
+				"answer": "الاسمُ هنا هو المُسمَّى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5573,
+		"q": {
+			"q": "\"ما أَذِنَ اللهُ لشَيءٍ كأَذَنِه لنَبيٍّ يَتغَنَّى بالقُرآنِ\" مَعنَى الأَذَنِ:",
+			"audio": "/files/quiz/akida/t-name/audio/5573.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/527",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "الاستِماعُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5573_Answer.mp3"
+			},
+			{
+				"answer": "الأمرُ والسَّماحُ",
+				"t": 0
+			},
+			{
+				"answer": "الفَرَحُ والسُّرورُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5580,
+		"q": {
+			"q": "تَفسيرُ الخَطَّابِي للغفَّارِ والغَفورِ",
+			"audio": "/files/quiz/akida/t-name/audio/5580.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/841",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "الغَفَّارُ مُبالغةٌ بالنِّسبةِ للمَرَّاتِ، والغَفورُ مُبالغةٌ بِالنِّسبةِ لكَثرةِ الذُّنوبِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5580_Answer.mp3"
+			},
+			{
+				"answer": "الغَفَّارُ مُبالَغةٌ بالنِّسبةِ لكَثرةِ الذُّنوبِ، والغَفورُ مُبالَغةٌ بالنِّسبةِ للمَرَّاتِ",
+				"t": 0
+			},
+			{
+				"answer": "كِلاهُما بمعنًى واحِدٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5567,
+		"q": {
+			"q": "حَديثُ: \"لَلَّهُ أفرَحُ بتَوبةِ أحَدِكُم\"",
+			"audio": "/files/quiz/akida/t-name/audio/5567.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/430",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "قِياسُ الأَوْلى في الإثباتِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5567_Answer.mp3"
+			},
+			{
+				"answer": "قِياسُ الأَوْلى في التَّنزيهِ",
+				"t": 0
+			},
+			{
+				"answer": "قِياسٌ تَمثيليٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5571,
+		"q": {
+			"q": "النَّفيُ المُفصَّلُ والإثباتُ المُجمَلُ مَنهَجُ",
+			"audio": "/files/quiz/akida/t-name/audio/5571.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/480",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "الفُقَهاءِ",
+				"t": 0
+			},
+			{
+				"answer": "أهلِ السُّنَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "أهلِ الكَلامِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5571_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5564,
+		"q": {
+			"q": "\"الِاستِواءُ مَعلومٌ، والكَيفُ مَجهولٌ، والإيمانُ به واجِبٌ، والسُّؤالُ عنه بِدعةٌ\" قَولُ:",
+			"audio": "/files/quiz/akida/t-name/audio/5564.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/424",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "مالِكِ بنِ أنَسٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5564_Answer.mp3"
+			},
+			{
+				"answer": "أبي حَنيفةَ",
+				"t": 0
+			},
+			{
+				"answer": "اللَّيثِ بنِ سَعدٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5574,
+		"q": {
+			"q": "الصِّفاتُ التي لا سَبيلَ إلى إثباتِها إلَّا القُرآنُ والسُّنَّةُ",
+			"audio": "/files/quiz/akida/t-name/audio/5574.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/508",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "صِفاتٌ عقليَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "صِفاتٌ خَبَريَّةٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5574_Answer.mp3"
+			},
+			{
+				"answer": "صِفاتٌ أزَليَّةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5572,
+		"q": {
+			"q": "المَجيءُ والنُّزولُ والفَرَحُ",
+			"audio": "/files/quiz/akida/t-name/audio/5572.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/486",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "صِفاتٌ فِعليَّةٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5572_Answer.mp3"
+			},
+			{
+				"answer": "صِفاتٌ أزليَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "صِفاتٌ مَنفيَّةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5569,
+		"q": {
+			"q": "الاسمُ والصِّفةُ",
+			"audio": "/files/quiz/akida/t-name/audio/5569.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/433",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "يَلزَمُ من إثباتِ أحدِهِما إثباتُ الآخَرِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَلزَمُ من إثباتِ أحدِهِما إثباتُ الآخَرِ",
+				"t": 0
+			},
+			{
+				"answer": "يَلزَمُ من إثباتِ الاسمِ إثباتُ الصِّفةِ، ولا يَلزَمُ من إثباتِ الصِّفةِ إثباتُ الاسمِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5569_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5562,
+		"q": {
+			"q": "الإيمانُ بالأسماءِ والصِّفاتِ يكون بـ",
+			"audio": "/files/quiz/akida/t-name/audio/5562.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/418",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "بإثباتِها للهِ من غَيرِ تَشبيهٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5562_Answer.mp3"
+			},
+			{
+				"answer": "بِحِفظِها وحَصرِها وإِظهارِ مَحاسِنِها",
+				"t": 0
+			},
+			{
+				"answer": "بِتَفويضِها أو تَأوِيلها أو نَفْيِها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5576,
+		"q": {
+			"q": "دَلالةُ \"الخالقِ\" على العِلمِ والقُدرةِ",
+			"audio": "/files/quiz/akida/t-name/audio/5576.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/453",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "بالمُطابَقةِ",
+				"t": 0
+			},
+			{
+				"answer": "بالالتِزامِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5576_Answer.mp3"
+			},
+			{
+				"answer": "بالتَّضمُّنِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5563,
+		"q": {
+			"q": "\"أكثَرُ ما يُخطِئُ النَّاسُ من جِهةِ التَّأويلِ والقِياسِ\" قَولُ:",
+			"audio": "/files/quiz/akida/t-name/audio/5563.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/424",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "الشَّافعيِّ",
+				"t": 0
+			},
+			{
+				"answer": "ابنِ تَيميَّةَ",
+				"t": 0
+			},
+			{
+				"answer": "أحمَدَ بنِ حَنبَلٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5563_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5566,
+		"q": {
+			"q": "يُستعمَلُ في قَضايا التَّوحيدِ",
+			"audio": "/files/quiz/akida/t-name/audio/5566.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/430",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "قِياسُ الأَوْلى",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5566_Answer.mp3"
+			},
+			{
+				"answer": "القِياسُ الشُّموليُّ",
+				"t": 0
+			},
+			{
+				"answer": "القِياسُ التَّمثيليُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5570,
+		"q": {
+			"q": "قَولُ اللهِ تَعالى في الحَديثِ القُدسِيِّ: \"أنا الدَّهرُ\"",
+			"audio": "/files/quiz/akida/t-name/audio/5570.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/447",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "وَصفٌ له به",
+				"t": 0
+			},
+			{
+				"answer": "مَجازٌ منَ الكَلامِ، ولا يَصِحُّ تَسميَتُه تَعالى بذلك",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5570_Answer.mp3"
+			},
+			{
+				"answer": "تَسمِيةٌ له به",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5561,
+		"q": {
+			"q": "أسماءُ اللهِ الحُسْنى",
+			"audio": "/files/quiz/akida/t-name/audio/5561.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/506",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "مِئةٌ وثَمانيةٌ وتِسعونَ",
+				"t": 0
+			},
+			{
+				"answer": "لا حَصرَ لها",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5561_Answer.mp3"
+			},
+			{
+				"answer": "تِسعةٌ وتِسعونَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5577,
+		"q": {
+			"q": "مَذهَبُ أهلِ السُّنَّةِ أنَّ الاسمَ في اللهِ",
+			"audio": "/files/quiz/akida/t-name/audio/5577.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/453",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "هو المُسمَّى",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5577_Answer.mp3"
+			},
+			{
+				"answer": "صِفةٌ للمُسمَّى",
+				"t": 0
+			},
+			{
+				"answer": "غَيرُ المُسمَّى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5578,
+		"q": {
+			"q": "تَسميةُ الأوثانِ بأسماءِ اللهِ",
+			"audio": "/files/quiz/akida/t-name/audio/5578.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/457",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "إلحادٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5578_Answer.mp3"
+			},
+			{
+				"answer": "ابتِداعٌ في الأسماءِ",
+				"t": 0
+			},
+			{
+				"answer": "فُجورٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5575,
+		"q": {
+			"q": "صِفاتُ اللهِ تَعالى",
+			"audio": "/files/quiz/akida/t-name/audio/5575.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/449",
+		"section": "t-name",
+		"answers": [
+			{
+				"answer": "باعتِبارِ دَلالَتِها على الذَّاتِ أعلامٌ مُتَرادِفةٌ، وبِاعتِبارِ المَعانِي أوصافٌ مُتَبايِنةٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-name/audio/answers/5575_Answer.mp3"
+			},
+			{
+				"answer": "باعتِبارِ دَلالَتِها على الذَّاتِ أوصافٌ وباعتِبارِ الدَّلالةِ على المَعانِي أعلامٌ",
+				"t": 0
+			},
+			{
+				"answer": "باعتِبارِ دَلالَتِها على الذَّاتِ مُتبايِنةٌ، وباعتِبارِ المَعانِي مُترادِفةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

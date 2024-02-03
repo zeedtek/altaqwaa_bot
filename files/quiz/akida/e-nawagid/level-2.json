@@ -1,0 +1,542 @@
+[
+	{
+		"id": 5789,
+		"q": {
+			"q": "كُفرانُ المرأةِ لفَضلِ زوجِها عَليها ومَكانَتِه، هو من قَبيلِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5789.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2699",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "النِّفاقِ",
+				"t": 0
+			},
+			{
+				"answer": "الكُفرِ الأكبَرِ",
+				"t": 0
+			},
+			{
+				"answer": "الكُفرِ الأصغَرِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5789_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5791,
+		"q": {
+			"q": "مَن ثَبَت إسلامُه بيَقينٍ؛ فإنَّه:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5791.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2737",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "يَزولُ بالشُّبهَةِ دُونَ الشَّكِّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَزولُ عنه مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يَزولُ عنه إلَّا باليَقينِ، بعدَ إقامةِ الحُجَّةِ وإزالةِ الشُّبهةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5791_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5783,
+		"q": {
+			"q": "منِ اعتَقَد أنَّ غَيرَ هَديِ النَّبيِّ ﷺ أكمَلُ مِن هَدْيِه؛ فإنَّه:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5783.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2890",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "يَرتدُّ عن دِينِه",
+				"t": 0
+			},
+			{
+				"answer": "يَكفُرُ بذلك",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5783_Answer.mp3"
+			},
+			{
+				"answer": "يَتشبَّهُ باليَهودِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5793,
+		"q": {
+			"q": "مَن سَبَّ المَلائكةَ واستَهزَأَ بهم، فهو:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5793.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2912",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "كافِرٌ مُرتدٌّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5793_Answer.mp3"
+			},
+			{
+				"answer": "مُنافِقٌ نفاقًا أصغَرَ",
+				"t": 0
+			},
+			{
+				"answer": "مُسلِمٌ عاصٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5785,
+		"q": {
+			"q": "يُعَدُّ مِن الرِّدَّةِ عن الإسلامِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5785.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2693",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "الاعتِمادُ على الأسبابِ دونَ التَّوكُّل على الله",
+				"t": 0
+			},
+			{
+				"answer": "الرُّقَى والتَّمائِمُ الشِّركِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "قَولُ الكُفرِ أو فِعلُ الكُفرِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5785_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5799,
+		"q": {
+			"q": "الاستِهزاءُ بالعُلماءِ والصَّالحينَ لِمَا لَدَيهِم منَ العِلمِ الشَّرعيِّ، هو مِن:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5799.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2943",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "كبائرِ الذُّنوبِ",
+				"t": 0
+			},
+			{
+				"answer": "الكُفرِ المُخرِجِ منَ المِلَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5799_Answer.mp3"
+			},
+			{
+				"answer": "الفِسقِ الَّذي لا يُخرِجُ عنِ المِلَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5781,
+		"q": {
+			"q": "من نَواقِضِ الإسْلامِ الاعتقاديَّةِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5781.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2849",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "تَركُ المَذاهِب الفِقهيَّة وعدم التَّمَذهُب بأَحدِها",
+				"t": 0
+			},
+			{
+				"answer": "اعتِقادُ أنَّ الشَّرَّ أقْوى منَ الخَيرِ",
+				"t": 0
+			},
+			{
+				"answer": "الرِّضا بالكُفْرِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5781_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5784,
+		"q": {
+			"q": "مَن فَعَل السِّحرَ أو رَضيَ به، فإنَّه:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5784.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2950",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "يَأثَمُ",
+				"t": 0
+			},
+			{
+				"answer": "مِن عَبَدَةِ الشَّياطِينَ",
+				"t": 0
+			},
+			{
+				"answer": "كافِرٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5784_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5782,
+		"q": {
+			"q": "المُوالاةُ المُطلَقَة للمُشرِكينَ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5782.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2935",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "كَبيرَةٌ مِن الكَبائرِ",
+				"t": 0
+			},
+			{
+				"answer": "كُفرٌ مُخرِجٌ مِن المِلَّة",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5782_Answer.mp3"
+			},
+			{
+				"answer": "مِن الشِّركِ الأكبَر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5787,
+		"q": {
+			"q": "النِّفاقُ الاعتِقاديُّ من أقْسامِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5787.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2697",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "الشِّركِ الخَفِيِّ",
+				"t": 0
+			},
+			{
+				"answer": "الكُفرِ الأصغَرِ",
+				"t": 0
+			},
+			{
+				"answer": "الكُفرِ الأكبَرِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5787_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5792,
+		"q": {
+			"q": "الإيمانُ بوُجودِ الجنِّ، هو أمرٌ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5792.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2912",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "مِن أركانِ الإسلامِ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبٌ شرعًا",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5792_Answer.mp3"
+			},
+			{
+				"answer": "واجِبٌ عَقلًا وحِسًّا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5800,
+		"q": {
+			"q": "السِّحرُ عِبارةٌ عن:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5800.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2950",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "ألعابِ الخِفَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "خِداعِ النَّاسِ بخَواصِّ المَوادِّ",
+				"t": 0
+			},
+			{
+				"answer": "عُقَدٍ ورُقًى، وكلامٍ يَتكلَّمُ به أو يَكتُبُه",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5800_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5798,
+		"q": {
+			"q": "المُستحِلُّ لسَبِّ أصْحابِ النَّبيِّ ﷺ هو:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5798.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2941",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "كافِرٌ خارِجٌ منَ المِلَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5798_Answer.mp3"
+			},
+			{
+				"answer": "مُسلِمٌ عاصٍ",
+				"t": 0
+			},
+			{
+				"answer": "مُنافِقٌ نفاقًا أصغَرَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5796,
+		"q": {
+			"q": "مَن ظَهَرت منه عَلاماتُ النِّفاقِ الدَّالَّةُ عليه؛ فإنَّه:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5796.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2935",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "يَجوزُ إطلاقُ اسمِ النِّفاقِ عليه",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5796_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ إطلاقُ اسمِ النِّفاقِ عليه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ إطلاقُ اسمِ النِّفاقِ عليه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5790,
+		"q": {
+			"q": "حُكمُ تارِكِ الصَّلاةِ أنَّه:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5790.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2701",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "كافِرٌ، وخارِجٌ منَ المِلَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5790_Answer.mp3"
+			},
+			{
+				"answer": "مُسلِمٌ عاصٍ",
+				"t": 0
+			},
+			{
+				"answer": "مُنافِقٌ نِفاقًا عَمَليًّا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5795,
+		"q": {
+			"q": "إنكارُ نُصوصِ الوَعْدِ والوَعيدِ وصَرْفُها عن ظاهِرِها؛ يتضَمَّنُ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5795.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2917",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "تَكذيبًا لأصحابِ الخُرافاتِ والأباطيلِ",
+				"t": 0
+			},
+			{
+				"answer": "طَعنًا في الأنبياءِ عَليهمُ السَّلامُ، وتَنَقُّصًا لهم",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5795_Answer.mp3"
+			},
+			{
+				"answer": "تَصديقًا لِلوَحيِ المُنزَّلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5786,
+		"q": {
+			"q": "الشَّكُّ في رِسالةِ النَّبيِّ ﷺ هو قِسمٌ من أقْسامِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5786.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2697",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "الكُفرِ الأكبَرِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5786_Answer.mp3"
+			},
+			{
+				"answer": "الكُفرِ الأصغَرِ",
+				"t": 0
+			},
+			{
+				"answer": "النِّفاقِ الأصغَرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5797,
+		"q": {
+			"q": "مَن كَذَب على رَسولِ اللهِ ﷺ في تَحليلِ حَرامٍ أو عَكسِه، فهو:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5797.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2939",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "مُنافِقٌ مَعلومُ النِّفاِق",
+				"t": 0
+			},
+			{
+				"answer": "مُسلِمٌ مُرتكِبٌ لكَبيرةٍ",
+				"t": 0
+			},
+			{
+				"answer": "كافِرٌ خارِجٌ منَ المِلَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5797_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5794,
+		"q": {
+			"q": "قَولُ مَلاحِدةِ المُتصَوِّفةِ: إنَّ الجَنَّةَ أوِ النَّارَ مَعانٍ باطنةٌ يُقصَدُ بها نعيمُ الأرواحِ أو تألُّمُها فقط، هو من قَبيلِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5794.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2917",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "النِّفاقِ العَمليِّ",
+				"t": 0
+			},
+			{
+				"answer": "الرِّياءِ المُفضِي إلى الشِّركِ",
+				"t": 0
+			},
+			{
+				"answer": "إنكارِ الوَعدِ والوَعيدِ الَّذي هو كُفرٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5794_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5788,
+		"q": {
+			"q": "قَولُ الرَّجُلِ: لولا فلانٌ ما كان كذا وكذا، هو من قَبيلِ:",
+			"audio": "/files/quiz/akida/e-nawagid/audio/5788.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/aqeeda/2699",
+		"section": "e-nawagid",
+		"answers": [
+			{
+				"answer": "الكُفرِ الأكبَرِ",
+				"t": 0
+			},
+			{
+				"answer": "الكُفرِ الأصغَرِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/e-nawagid/audio/answers/5788_Answer.mp3"
+			},
+			{
+				"answer": "النِّفاقِ الاعتِقاديِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

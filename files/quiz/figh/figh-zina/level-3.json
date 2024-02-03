@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1915,
+		"q": {
+			"q": "وضعُ المناكيرِ على الأظافرِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1915.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3277/المطلب-الثاني:-طلاء-الأظفار-المناكير",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مندوبٌ",
+				"t": 0
+			},
+			{
+				"answer": "حرامٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1915_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1919,
+		"q": {
+			"q": "تحلِّي الرجُلِ بالذهبِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1919.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3294/الفرع-الأول:-حكم-لبس-الرجل-الذهب-والتزين-به#t-1",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1919_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1904,
+		"q": {
+			"q": "لُبسُ الثِّيابِ الجميلةِ دون إسرافٍ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1904.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3223/الفصل-السابع:-آداب-اللباس-ومُستحَبٌّاته#t-5",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1904_Answer.mp3"
+			},
+			{
+				"answer": "مُحرَّم",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1911,
+		"q": {
+			"q": "التزيُّن بما يُشبِهُ لباسَ الكفَّار والمبْتدِعة",
+			"audio": "/files/quiz/figh/figh-zina/audio/1911.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3226",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1911_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1918,
+		"q": {
+			"q": "تَزيُّن المرأةِ بحُليِّ الذهبِ والفِضة:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1918.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3291/المطلب-الأول:-تزين-المرأة-بالذهب-والفضة",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "يُكرَه الذهبُ دون الفِضةِ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحانِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1918_Answer.mp3"
+			},
+			{
+				"answer": "تُكرَه الفِضةُ دون الذهبِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1902,
+		"q": {
+			"q": "لُبسُ الخزِّ للرِّجالِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1902.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3219/المبحث-الثالث:-حكم-لبس-الرجال-للخز",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "محرَّم",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1902_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1920,
+		"q": {
+			"q": "تختُّمُ الرجُلِ بخاتمِ الذهبِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1920.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3302/الفرع-الأول:-خاتم-الذهب",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُحرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1920_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1909,
+		"q": {
+			"q": "حُكمُ التشبُّه بين الرجال والنِّساء في الزينةِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1909.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3226",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّم على الرِّجال والنِّساء",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1909_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ للرجالِ مُحرَّم للنساءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1912,
+		"q": {
+			"q": "الإسرافُ في التزيينِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1912.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3226",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ للرِّجال والنساءِ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ للنِّساء",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّم على الرِّجال والنساءِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1912_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1922,
+		"q": {
+			"q": "التختُّمُ بخاتمِ الحديدِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1922.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3308/المطلب-الثالث:-التختم-بالحديد",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُحرَّم",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1922_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1903,
+		"q": {
+			"q": "لُبسُ الأبيضِ من الثيابِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1903.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3223/الفصل-السابع:-آداب-اللباس-ومُستحَبٌّاته#t-4",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1903_Answer.mp3"
+			},
+			{
+				"answer": "مُستحَبٌّ للجمعة فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1906,
+		"q": {
+			"q": "مِن آدابِ اللِّباسِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1906.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3223/الفصل-السابع:-آداب-اللباس-ومُستحَبٌّاته#t-8",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "اشتِمالُ الصَّمَّاءِ",
+				"t": 0
+			},
+			{
+				"answer": "الزُّهدُ في اللِّباسِ",
+				"t": 0
+			},
+			{
+				"answer": "نَظافةُ الملْبسِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1906_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1917,
+		"q": {
+			"q": "خضْبُ الأيدي والأرجُلِ للنِّساء:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1917.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3285/المطلب-الثالث:-الخضاب-في-غير-الشعر#t-1",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1917_Answer.mp3"
+			},
+			{
+				"answer": "مُحرَّم",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1905,
+		"q": {
+			"q": "التواضعُ في الثيابِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1905.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3223/الفصل-السابع:-آداب-اللباس-ومُستحَبٌّاته#t-7",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1905_Answer.mp3"
+			},
+			{
+				"answer": "مُحرَّم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1913,
+		"q": {
+			"q": "تَغييرُ خلْقِ الله في التَّزيينِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1913.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3226/الفصل-الأول:-تعريف-الزينة-وضوابطها#t-7",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "حرامٌ للرجالِ",
+				"t": 0
+			},
+			{
+				"answer": "حرامٌ على الرجال والنِّساء",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1913_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1908,
+		"q": {
+			"q": "اشتمالُ الصَّمَّاء؛ هو:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1908.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3223/الفصل-السابع:-آداب-اللباس-ومُستحَبٌّاته#t-10",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "البُردَةُ التي تكونُ مِن جِنسٍ واحدٍ لا يُخالِطُها أَعلامٌ",
+				"t": 0
+			},
+			{
+				"answer": "لبسُ الثِّيابِ التي بها غِطاءٌ للرَّأسِ",
+				"t": 0
+			},
+			{
+				"answer": "أن يتغطَّى بثوبٍ واحدٍ ليس عليه غيرُه، ثم يَرفعَه مِن أحدِ جانبيْه فيضَعَه على مَنكبِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1908_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1916,
+		"q": {
+			"q": "خِضابُ الشَّعر بالسَّواد:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1916.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3281/المطلب-الأول:-خضاب-الشعر-بالسواد",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1916_Answer.mp3"
+			},
+			{
+				"answer": "مُباحٌ للنساءِ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1907,
+		"q": {
+			"q": "المشْيُ في النَّعل الواحدةِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1907.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3223/الفصل-السابع:-آداب-اللباس-ومُستحَبٌّاته#t-9",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1907_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1914,
+		"q": {
+			"q": "حُكم إطالةِ الأظافرِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1914.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3275/المطلب-الأول:-حكم-إطالة-الأظفار",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مندوبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1914_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1921,
+		"q": {
+			"q": "التختُّمُ بالفضةِ للرجُلِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1921.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/3306/المطلب-الثاني:-التختم-بالفضة",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَكروهٌ على الأرجَح",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ إجماعًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1921_Answer.mp3"
+			},
+			{
+				"answer": "حَرامٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6722,
+		"q": {
+			"q": "جَمْعٌ على وَزْنِ فُعَلَاء:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6722.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/958",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "إِسْراء",
+				"t": 0
+			},
+			{
+				"answer": "عُلَماء",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6722_Answer.mp3"
+			},
+			{
+				"answer": "صَحَراء",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6723,
+		"q": {
+			"q": "وزن (فَعَل)",
+			"audio": "/files/quiz/arabia/al-srf/audio/6723.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1098",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "يَفْعَل",
+				"t": 0
+			},
+			{
+				"answer": "يَفْعِل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6723_Answer.mp3"
+			},
+			{
+				"answer": "يُفْعِل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6721,
+		"q": {
+			"q": "التَّصريفُ اللُّغوِيُّ هو:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6721.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1110",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "صَرفُ أَحَدِ المُفرداتِ اللُّغويَّة إلى وَزنٍ مُغايِر لأَصْلِه",
+				"t": 0
+			},
+			{
+				"answer": "إِرجاعُ المُشتَقِّ إلى الجِذْرِ الذي يَتْبَعُهُ",
+				"t": 0
+			},
+			{
+				"answer": "تَغييرُ صيغةِ الكَلِمةِ إلى صيغةٍ أُخرى",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6721_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6732,
+		"q": {
+			"q": "كَلِمةُ (اسْتَغْفَرَ) على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6732.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/869",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "افْتَعَلَ",
+				"t": 0
+			},
+			{
+				"answer": "اسْتَفْعَلَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6732_Answer.mp3"
+			},
+			{
+				"answer": "افْعَوْعَلَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6724,
+		"q": {
+			"q": "جَمعُ القِلَّةِ هو:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6724.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1167",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "هو الجَمْعُ الواقعُ على الثَّلاثةِ إلى العَشَرةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6724_Answer.mp3"
+			},
+			{
+				"answer": "الجَمعُ الواقِعُ على الثَّلاثَةِ إلى السَّبعَةِ",
+				"t": 0
+			},
+			{
+				"answer": "ما يَقعُ على أَكثرِ مِن واحِدٍ وأَقلِّ مِن ثَلاثَة؛ وهو المُثَنَّى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6728,
+		"q": {
+			"q": "قَديمًا كانَ العُلَماءُ يَتَناوَلونَ عِلمَ الصَّرفِ داخِلًا في:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6728.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/858",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "عِلمِ النَّحوِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6728_Answer.mp3"
+			},
+			{
+				"answer": "عِلمِ البَلاغَة ",
+				"t": 0
+			},
+			{
+				"answer": "فِقْهِ اللُّغَةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6740,
+		"q": {
+			"q": "كَلِمةُ (مِعْطار) على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6740.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/969",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "إِفْعَال",
+				"t": 0
+			},
+			{
+				"answer": "مِفْعال",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6740_Answer.mp3"
+			},
+			{
+				"answer": "فِعْلال",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6727,
+		"q": {
+			"q": "أصْلُ حَرَكةِ هَمْزةِ الوَصْلِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6727.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1404",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الكَسْرُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6727_Answer.mp3"
+			},
+			{
+				"answer": "الفَتْحُ",
+				"t": 0
+			},
+			{
+				"answer": "الضَّمُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6734,
+		"q": {
+			"q": "كَلِمَةُ (مُجْتَهِد) على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6734.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/869",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "مُسْتَفْعِل",
+				"t": 0
+			},
+			{
+				"answer": "مُفْعِل",
+				"t": 0
+			},
+			{
+				"answer": "مُفْتَعِل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6734_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6725,
+		"q": {
+			"q": "الصَّحيحُ في النَّسَبِ إلى مَكَّةَ: ",
+			"audio": "/files/quiz/arabia/al-srf/audio/6725.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1267",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "مَكَّاوِيٌّ",
+				"t": 0
+			},
+			{
+				"answer": "مَكِّيٌّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6725_Answer.mp3"
+			},
+			{
+				"answer": "مَكَوِيٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6733,
+		"q": {
+			"q": "الزِّيادةُ في التصريف: إلحاقُ الكَلِمةِ ما ليسَ مِنها؛ وذلك:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6733.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/875",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "لزيادة الأجر",
+				"t": 0
+			},
+			{
+				"answer": "لترتيب الحروف",
+				"t": 0
+			},
+			{
+				"answer": "لإفادةِ مَعنًى",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6733_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6735,
+		"q": {
+			"q": "الابتِداءُ بساكِنٍ في لُغةِ العَرَبِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6735.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/880",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "يَجُوزُ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "يَجُوزُ بِشُروطٍ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجُوزُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6735_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6739,
+		"q": {
+			"q": "المِقياسُ الصَّرفي يُعَبَّرُ عَنه بــ",
+			"audio": "/files/quiz/arabia/al-srf/audio/6739.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/865",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الزَّاي واليَّاء والدَّال (زَيَدَ)",
+				"t": 0
+			},
+			{
+				"answer": "الفَاء والعَيْن واللَّام (فَعَلَ)",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6739_Answer.mp3"
+			},
+			{
+				"answer": "الألف والباء والتاء (أَ بَ تَ)",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6737,
+		"q": {
+			"q": "مِن العُلماءِ الذين لهم عِنايَة بعِلمِ التَّصريفِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6737.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/858",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "أبو الأَسْوَدِ الدُؤّلِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ عَبدِ رَبِّه",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ مالِكٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6737_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6738,
+		"q": {
+			"q": "مِن ثَمَراتِ عِلمِ الصَّرفِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6738.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/862",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "صِيانةُ الألسِنَةِ والأقلامِ عن الوُقوعِ في الخَطَأِ في مُفرَادتِ اللُّغةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6738_Answer.mp3"
+			},
+			{
+				"answer": "دِراسَةُ المُفرَداتِ العَربيَّةِ لَفْظًا ومَعْنًى",
+				"t": 0
+			},
+			{
+				"answer": "شَرحُ الدَّواوِينِ الشِّعريَّة ومَقاماتِ الجاهِليَّة والتَّعريفُ بها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6736,
+		"q": {
+			"q": "تَسقُطُ هَمْزةُ الوَصْلِ في",
+			"audio": "/files/quiz/arabia/al-srf/audio/6736.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1387",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "وَسطَ الكَلامِ حَرْفًا لا صَوْتًا",
+				"t": 0
+			},
+			{
+				"answer": "آخِرِ الكَلامِ نُطْقًا وكِتابَةً",
+				"t": 0
+			},
+			{
+				"answer": "دَرْجِ الكَلامِ لفْظًا لا خطًّا",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6736_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6730,
+		"q": {
+			"q": "مِن أَقسامِ عِلمِ الصَّرفِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6730.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/862",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الإِعرابُ والبِناءُ ومِيزانُ الصَّرفِ",
+				"t": 0
+			},
+			{
+				"answer": "الصِّيَغُ المُختَلِفةُ للكَلِمةِ الَّتي تُعطي مَعانيَ مُختَلِفةً",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6730_Answer.mp3"
+			},
+			{
+				"answer": "المُحسِّناتُ البَلاغِيَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6731,
+		"q": {
+			"q": "المِيزانُ الصَّرفي: ",
+			"audio": "/files/quiz/arabia/al-srf/audio/6731.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/865",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "يَزِنُ عدد حُروفِ الكَلِمةِ وهَيئاتها",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6731_Answer.mp3"
+			},
+			{
+				"answer": "يَزِنُ دَلالاتِ الجُمَلِ ومَحِلَّها مِن الإعرابِ",
+				"t": 0
+			},
+			{
+				"answer": "يَدرِسُ ضَبْطَ القَوافي ومُلاءَمَتِها لبُحورِ الشِّعرِ العَربي ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6726,
+		"q": {
+			"q": "النِّسبَةُ إلى المَدينَة:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6726.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1281",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "مَدائِنيٌّ",
+				"t": 0
+			},
+			{
+				"answer": "مَدِينيٌّ ومَدَنِيٌّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6726_Answer.mp3"
+			},
+			{
+				"answer": "مَادِنيٌّ ومَدَانِيٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6729,
+		"q": {
+			"q": "يَتناوَلُ عِلمُ الصَّرفِ دِراسَةَ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6729.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/862",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "مُحتَوى الجُمَلِ مِن حيثُ الإِفرادِ والتَّركيبِ",
+				"t": 0
+			},
+			{
+				"answer": "الألفاظِ العَرَبيَّةِ صِحَّةً واعتِلالًا",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6729_Answer.mp3"
+			},
+			{
+				"answer": "تَأثيرِ القُرآنِ الكَريمِ في فَصاحَةِ العَربِيَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

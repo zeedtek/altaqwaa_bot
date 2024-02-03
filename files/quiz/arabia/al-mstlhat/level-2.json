@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6806,
+		"q": {
+			"q": "هو تَهْيئةُ الشَّفَتَينِ لِلتَّلفُّظِ بالضَّمِّ، ولكنْ لا يُتلفَّظُ به؛ تَنْبيهًا على ضَمِّ ما قبلَه:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6806.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3676",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "الإشْمامُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6806_Answer.mp3"
+			},
+			{
+				"answer": "القَلقَلةُ",
+				"t": 0
+			},
+			{
+				"answer": "الإِدغامُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6809,
+		"q": {
+			"q": "الَّذي اكْتَشفَ البُحورَ الشِّعريَّةَ ورصَدَ خَمْسةَ عشَرَ بَحْرًا للشِّعرِ العَربيِّ هو:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6809.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3813",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "الخَليلُ بنُ أحْمَدَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6809_Answer.mp3"
+			},
+			{
+				"answer": "هارُونُ الرَّشيدُ",
+				"t": 0
+			},
+			{
+				"answer": "الأَخفَش",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6815,
+		"q": {
+			"q": "هي نُونٌ مَكْسورةٌ تُزادُ قَبْلَ ياءِ المُتكلِّمِ في الفِعلِ، أوِ اسمِ الفِعلِ:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6815.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/4955",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "نُونُ التَّعْريفِ",
+				"t": 0
+			},
+			{
+				"answer": "نُونُ التَّعسُّفِ",
+				"t": 0
+			},
+			{
+				"answer": "نُونُ الوِقايةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6815_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6810,
+		"q": {
+			"q": "أن يأخُذَ العَربُ كَلِمةً مِن لُغةٍ أُخْرى، ويُدخِلوها في لُغتِهم، يُسمَّى:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6810.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3949",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "الإِعرابَ",
+				"t": 0
+			},
+			{
+				"answer": "التَّعْريبَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6810_Answer.mp3"
+			},
+			{
+				"answer": "التَّصغِيرَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6817,
+		"q": {
+			"q": "هو إطالةُ الصَّوتِ عِنْدَ النُّطْقِ بالحَرَكةِ لتُصبِحَ هذه الحَرَكةُ حَرْفَ مدٍّ مِن جِنْسِها:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6817.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3657",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "الإشْباعُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6817_Answer.mp3"
+			},
+			{
+				"answer": "التَّعْويضُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّغْليبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6807,
+		"q": {
+			"q": "مَجْموعةٌ مِنَ الخَرائِطِ تَتضمَّنُ تَسْجيلاتٍ دَقيقةً لِلُغةٍ مُعيَّنةٍ تُبيِّنُ خَصائِصَها ولَهَجاتِها:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6807.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3709",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "اللِّسانِيَّاتُ الجُغرافيَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الخَرائِطُ العَربيَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الأطلَسُ اللُّغويُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6807_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6804,
+		"q": {
+			"q": "ما يدُلُّ على مُشارٍ إليه بواسِطةِ إشارةٍ حِسِّيَّةٍ أو مَعْنويَّةٍ، يُسمَّى:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6804.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3603",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "اسمَ الإشارةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6804_Answer.mp3"
+			},
+			{
+				"answer": "الإِعلالَ الصَّرفيَّ",
+				"t": 0
+			},
+			{
+				"answer": "التَّجانُسَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6811,
+		"q": {
+			"q": "نونٌ ساكِنةٌ زائِدةٌ تَلحَقُ آخِرَ الاسمِ لَفْظًا، وتُفارِقُه خَطًّا ووَقْفًا:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6811.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/4015",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "التَّضْعيفُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّنْوينُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6811_Answer.mp3"
+			},
+			{
+				"answer": "العَنْعَنَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6813,
+		"q": {
+			"q": "المُجتَثُّ؛ هو:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6813.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/4687",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "صَوْتٌ مُركَّبٌ في جِسْمِ النُّونِ والمِيمِ",
+				"t": 0
+			},
+			{
+				"answer": "أحدُ البُحورِ الشِّعريَّةِ السِّتَّةَ عشَرَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6813_Answer.mp3"
+			},
+			{
+				"answer": "الحَرفُ الأخيرُ للكَلِمةِ الذي تَظهَرُ عليه حَركةُ الإِعرابِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6812,
+		"q": {
+			"q": "هو تَكرارُ اللَّفْظِ نفْسِه وإعادتُه مرَّةً أُخْرى:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6812.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/4036",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "التَّوْكيدُ اللَّفْظيُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6812_Answer.mp3"
+			},
+			{
+				"answer": "العَطْفُ",
+				"t": 0
+			},
+			{
+				"answer": "الإِعادَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6814,
+		"q": {
+			"q": "واوُ المَعيَّةِ هي:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6814.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/4804",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "الواوُ الَّتي تُفيدُ مَعْنى المُصاحَبةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6814_Answer.mp3"
+			},
+			{
+				"answer": "الواوُ التي تَفصِلُ آخِرَ الاسمِ عمَّا بعدَه؛ مثل واوِ (عَمرو)",
+				"t": 0
+			},
+			{
+				"answer": "الواوُ التي تَلحَقُ بجَمعِ المُذكَّرِ السَّالمِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6816,
+		"q": {
+			"q": "هو تَقْصيرُ الكَلامِ وإيجازُه بحَذْفِ شيءٍ مِنه، معَ عَدَمِ الإخْلالِ بالمَعْنى المُرادِ:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6816.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3520",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "التَّعْقيبُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّصحِيحُ",
+				"t": 0
+			},
+			{
+				"answer": "الاختِصارُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6816_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6818,
+		"q": {
+			"q": "الإمالةُ هي:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6818.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3785",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "أن يُنْحَى بالفَتْحةِ نَحْوَ الكَسْرةِ، وبالألِفِ نَحْوَ الياء",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6818_Answer.mp3"
+			},
+			{
+				"answer": "تَكرارُ اللَّفْظِ نفْسِه وإعادتُه مرَّةً أُخْرى",
+				"t": 0
+			},
+			{
+				"answer": "أن يَتضمَّنَ الكلامُ مَعْنى \"مِن\" لِبَيانِ ما قَبْلَه مِنَ الإبْهامِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6801,
+		"q": {
+			"q": "أحْرُفُ العِلَّةِ هي:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6801.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3516",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "هي الألِفُ، والواوُ، والياءُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6801_Answer.mp3"
+			},
+			{
+				"answer": "البَاءُ، والقَافُ، والرَّاءُ",
+				"t": 0
+			},
+			{
+				"answer": "الثَّاءُ، والذَّالُ، والظَّاءُ ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6820,
+		"q": {
+			"q": "هو تَغْليبُ أمْرٍ على أمْرٍ بدَليلِ إثْباتِ مَزيَّةٍ لأحدِ الدَّليلَينِ على الآخَرِ:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6820.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3887",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "الثُّبوتُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّوهُّمُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّرْجيحُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6820_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6803,
+		"q": {
+			"q": "الإثْباتُ هو:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6803.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3508",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "تَثبِيتُ الأَحكامِ لأَواخِرِ الكَلِمِ",
+				"t": 0
+			},
+			{
+				"answer": "التَّرْكيبُ المَعْهودُ",
+				"t": 0
+			},
+			{
+				"answer": "الحُكمُ بثُبوتِ شيءٍ لآخَرَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6803_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6805,
+		"q": {
+			"q": "الاسمُ الَّذي يدُلُّ على أكْثَرَ مِن اثْنَينِ، وليس له مُفرَدٌ مِن لَفْظِه أو مِن مَعْناه، هو:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6805.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3607",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "اسمُ الجَمْعِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6805_Answer.mp3"
+			},
+			{
+				"answer": "جَمعُ المُذكَّرِ السَّالمِ",
+				"t": 0
+			},
+			{
+				"answer": "النَّكِرَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6802,
+		"q": {
+			"q": "اشتُهِرَ في دِراسةِ بعضِ العُلومِ الشَّرْعيَّةِ: الاهْتِمامُ بدِراسةِ المُصْطلحاتِ؛ كعِلمِ:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6802.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3467",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "مُصطلَحِ العَقيدَةِ",
+				"t": 0
+			},
+			{
+				"answer": "مُصطلَحِ الحَديثِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6802_Answer.mp3"
+			},
+			{
+				"answer": "مُصطلَحِ التَّفسيرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6819,
+		"q": {
+			"q": "في عِلمِ العَروضِ: الوَزْنُ الشِّعريُّ للقَصائِدِ، يُسمَّى:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6819.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3813",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "المِيزانَ",
+				"t": 0
+			},
+			{
+				"answer": "البَحْرَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6819_Answer.mp3"
+			},
+			{
+				"answer": "الاشتِقاقَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6808,
+		"q": {
+			"q": "كَوْنُ الشَّيءِ شَبيهًا بآخَرَ بحيثُ لا يكادُ يكونُ بَيْنَهما تَفاوُتٌ واخْتِلافٌ:",
+			"audio": "/files/quiz/arabia/al-mstlhat/audio/6808.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/3765",
+		"section": "al-mstlhat",
+		"answers": [
+			{
+				"answer": "التَّشْديدُ",
+				"t": 0
+			},
+			{
+				"answer": "الالْتِباسُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-mstlhat/audio/answers/6808_Answer.mp3"
+			},
+			{
+				"answer": "الضَّميرُ المُسْتَتِرُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

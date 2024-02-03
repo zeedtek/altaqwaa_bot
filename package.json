@@ -25,8 +25,10 @@
     "بوت_إسلامي"
   ],
   "dependencies": {
+    "express": "^4.18.2",
     "fs-extra": "^11.1.1",
     "moment-hijri": "^2.1.2",
+    "pug": "^3.0.2",
     "puppeteer": "^21.3.5",
     "telegraf": "^4.15.3"
   },

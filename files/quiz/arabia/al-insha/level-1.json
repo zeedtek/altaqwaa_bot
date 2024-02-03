@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6548,
+		"q": {
+			"q": "أكثَرَ العَرَبُ منِ استِعْمالِ الأمْثالِ بسَببِ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6548.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2807",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "استِخدامِ القُرآنِ لها وشُيوعِها بين آياتِه",
+				"t": 0
+			},
+			{
+				"answer": "التَّفاخُرِ بها مِثل الأَشعارِ والمُعلَّقاتِ والأَنسابِ",
+				"t": 0
+			},
+			{
+				"answer": "شُهرتِها وإيجازِها، مع ما فيها من بَلاغةٍ وتصويرٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6548_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6549,
+		"q": {
+			"q": "افتِتاحُ الخُطْبةِ الَّتي بها يَستَهِلُّ الخَطيبُ كَلامَه؛ يُسمَّى:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6549.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2933",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "بابَ الخُطبَةِ",
+				"t": 0
+			},
+			{
+				"answer": "نافِذةَ الخُطبَةِ",
+				"t": 0
+			},
+			{
+				"answer": "مُقَدِّمةَ الخُطبَةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6549_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6553,
+		"q": {
+			"q": "يُشتَرَطُ في العَمَلِ الأدَبيِّ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6553.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2875",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "أن يحويَ خاتِمةً تختِمُ كَلامَه وتُطَرِّزُه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6553_Answer.mp3"
+			},
+			{
+				"answer": "أن يَمزجَ بين العَقلِ والخَيالِ في حُدودِ المُمْكِن",
+				"t": 0
+			},
+			{
+				"answer": "أن يكونَ خالِيًا مِن التَّكلُّفِ، والسَّجعِ، والتَّطويلِ، ونحوِ ذلك",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6547,
+		"q": {
+			"q": "الرَّسائِلُ الَّتي تدورُ بَيْنَ الأهْلِ والأحبابِ تُسمَّى:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6547.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2888",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "رَسائِلَ الأَحِبَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الرَّسائلَ الأدَبِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "الرَّسائِلَ الأهلِيَّةَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6547_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6558,
+		"q": {
+			"q": "فَنٌّ من فُنونِ الكَلامِ، غايتُه إقناعُ السَّامِعينَ والتَّأثيرُ فيهم بصَوابِ قضيَّةٍ أو بخطَأِ أُخرى:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6558.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2927",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "القِصَّةُ القَصيرَةُ",
+				"t": 0
+			},
+			{
+				"answer": "الخُطْبةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6558_Answer.mp3"
+			},
+			{
+				"answer": "الرِّسالَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6421,
+		"q": {
+			"q": "مِن أَنواعِ الرَّسائِل الأهلِيَّة:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6421.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2888",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الوَصَايا",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6421_Answer.mp3"
+			},
+			{
+				"answer": "الرَّمَضَنِيَّات",
+				"t": 0
+			},
+			{
+				"answer": "المُناوَلَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6557,
+		"q": {
+			"q": "مِن الرَّسائلِ التي استَعمَلها النبيُّ صلَّى الله عليه وسلَّم:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6557.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2890",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الرَّسائلُ إلى مُلوكِ البِلدانِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6557_Answer.mp3"
+			},
+			{
+				"answer": "رَسائلُ الصُّكُوكِ",
+				"t": 0
+			},
+			{
+				"answer": "رَسائلُ الغُفرانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6560,
+		"q": {
+			"q": "تكون بين الخُلَفاءِ والوُزَراءِ ونَحْوِهم في شُؤونِ الدَّولةِ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6560.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2890",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الرَّسائِلُ والمُكاتَباتُ الرَّسْميَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6560_Answer.mp3"
+			},
+			{
+				"answer": "رَسائلُ الدَّواوِينِ",
+				"t": 0
+			},
+			{
+				"answer": "رَسائلُ الزُّوَّارِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6552,
+		"q": {
+			"q": "مِن أَشهَرِ الخُطَبِ في الإِسلامِ ",
+			"audio": "/files/quiz/arabia/al-insha/audio/6552.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5994",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "خُطبَةُ غَزوَةِ أُحُدٍ",
+				"t": 0
+			},
+			{
+				"answer": "خُطْبةُ الوداعِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6552_Answer.mp3"
+			},
+			{
+				"answer": "خُطبَةُ عاشُوراءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6544,
+		"q": {
+			"q": "نَّوعُ مِنَ القِصَصِ يتقَيَّدُ بأحداثِ التَّاريخِ وشَخصيَّاتِه:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6544.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2913",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "مَعاجِمُ الأَحداثِ التَّاريخِيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "القِصَصُ التَّاريخيَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6544_Answer.mp3"
+			},
+			{
+				"answer": "الفَوائِدُ التَّاريخِيَّةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6556,
+		"q": {
+			"q": "يُشتَرَطُ فيها أن تكونَ مُترابِطةَ الأجزاءِ، مِن بدايتِها إلى نهايتِها تدورُ حَولَ مَوضوعٍ واحِدٍ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6556.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2911",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "القِصَّة",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6556_Answer.mp3"
+			},
+			{
+				"answer": "الرَّسائلُ الدِّيوانِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "الرِّوايَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6551,
+		"q": {
+			"q": "مما يعين على إتقانِ الخُطْبةِ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6551.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2939",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "تنويعُ الأُسلوبِ ومُراعاةُ أفهامِ النَّاسِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6551_Answer.mp3"
+			},
+			{
+				"answer": "تَقسِيمُ الخُطبَةِ إلى أَربعَةِ أَقسامٍ",
+				"t": 0
+			},
+			{
+				"answer": null,
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6436,
+		"q": {
+			"q": "من أبرَز فَضائِلِ القِراءةِ الأدبِيَّةِ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6436.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2811",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "استِحضارُ تَاريخِ الأدَبِ",
+				"t": 0
+			},
+			{
+				"answer": "التَّميِيزُ بين أَساليبِ القِراءَةِ",
+				"t": 0
+			},
+			{
+				"answer": "حُصولِ مَلَكةِ البَلاغةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6436_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6545,
+		"q": {
+			"q": "القِصَّة القَصيرة تعتَمِدُ على:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6545.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/6282",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الإيجازِ والتَّركيزِ على الشَّخْصيَّاتِ والأحداثِ الرَّئيسةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6545_Answer.mp3"
+			},
+			{
+				"answer": "الوَصْفِ البَيانيِّ للنَّصِّ",
+				"t": 0
+			},
+			{
+				"answer": "المُقدِّمَةِ والتَّوطِئَةِ وتَفاصيلِ الأَحداثِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6546,
+		"q": {
+			"q": "كَلامٌ يُحاوَلُ به إقناعُ السَّامِعينَ بصِحَّةِ غَرَضٍ يَقصِدُه المُتكَلِّمُ، لفِعْلِه أو الانفِعالِ به:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6546.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2927",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الوَصِيَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "الخُطبةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6546_Answer.mp3"
+			},
+			{
+				"answer": "الرِّسالَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6559,
+		"q": {
+			"q": "مِن أهَمِّ ما يحتاجُه الكاتِبُ: ",
+			"audio": "/files/quiz/arabia/al-insha/audio/6559.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2791",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الاطِّلاعُ على الأَدَبِ الجاهِليِّ، وحِفظُ المُعلَّقاتِ السَّبعِ",
+				"t": 0
+			},
+			{
+				"answer": "دِراسةَ اللُّغةِ العَرَبيَّةِ وأساليبِها وقواعِدِها ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6559_Answer.mp3"
+			},
+			{
+				"answer": "مَعرِفَةُ اللَّهجاتِ العَربيَّةِ ومَواطِن تَمركُّز كلِّ لَهجَةٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6543,
+		"q": {
+			"q": "هي الرَّسائِلُ يُرسِلُها أديبٌ إلى أديبٍ آخَرَ متحَدِّثًا في قَضِيَّةٍ أَدَبيَّةٍ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6543.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2892",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "الرَّسائِلُ الأدَبيَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6543_Answer.mp3"
+			},
+			{
+				"answer": "الأَدَبِيَّات",
+				"t": 0
+			},
+			{
+				"answer": "الرَّسائِلُ اللُّغوِيَّةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6555,
+		"q": {
+			"q": "مِن أشهَرِ الخُطَباءِ في الجاهِليَّةِ:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6555.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/5935",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "سِيبَويهِ",
+				"t": 0
+			},
+			{
+				"answer": "يَزيدُ بنُ المُهلَّب",
+				"t": 0
+			},
+			{
+				"answer": "قُسُّ بنُ ساعِدةَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6555_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6554,
+		"q": {
+			"q": "مِن أَنواعِ رَسائلِ الوَصايا:",
+			"audio": "/files/quiz/arabia/al-insha/audio/6554.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2888",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "رَسائلُ أحَدِ الشَّيوخِ لتِلامِذَتِه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6554_Answer.mp3"
+			},
+			{
+				"answer": "رَسائلُ المُلُوكِ للأُمراءِ وقَادةِ الجُيوشِ والقُضاةِ ",
+				"t": 0
+			},
+			{
+				"answer": "رَسائلُ الرُّومِ للرُّهبانِ في جَزيرةِ العَربِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6550,
+		"q": {
+			"q": "يُشتَرَطُ في الخَطيبِ",
+			"audio": "/files/quiz/arabia/al-insha/audio/6550.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2937",
+		"section": "al-insha",
+		"answers": [
+			{
+				"answer": "خَفضِ الصَّوتِ إلَّا عند التَّرغِيبِ والتَّرهيبِ",
+				"t": 0
+			},
+			{
+				"answer": "الاستِشهادُ بآيِ القُرآنِ، والحَديثِ، وأَبياتِ الشِّعْرِ",
+				"t": 0
+			},
+			{
+				"answer": "سَلاسةُ المَنطِقِ والقُدرةُ على التَّعبيرِ والأداءِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-insha/audio/answers/6550_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

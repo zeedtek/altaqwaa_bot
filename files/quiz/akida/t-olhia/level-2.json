@@ -1,0 +1,542 @@
+[
+	{
+		"id": 5607,
+		"q": {
+			"q": "مَن نَوَى بقَلبِه التَّوحيدَ ولم يتلَفَّظْ به، وهو قادِرٌ على الكَلامِ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5607.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/299",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "لا بُدَّ منَ اللَّفظِ معَ النِّيةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5607_Answer.mp3"
+			},
+			{
+				"answer": "دَخَل في الإسلامِ بالنِّيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "لا عِبرةَ بالنِّيَّةِ وإنَّما باللَّفظِ وَحْدَه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5615,
+		"q": {
+			"q": "أمْرُ العِبادِ بالواجِباتِ وتَركِ المَنهيَّاتِ",
+			"audio": "/files/quiz/akida/t-olhia/audio/5615.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/330",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "مِن عَلاماتِ القَبُول",
+				"t": 0
+			},
+			{
+				"answer": "مُستقِلٌّ عنِ الشَّهادةِ",
+				"t": 0
+			},
+			{
+				"answer": "تَضمَّنَتْه شَهادةُ التَّوحيدِ، وهو من مُقتَضَياتِها",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5615_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5603,
+		"q": {
+			"q": "الظُّلمُ في قَولِه: {‌الَّذِينَ ‌آمَنُوا ‌وَلَمْ ‌يَلْبِسُوا ‌إِيمَانَهُمْ ‌بِظُلْمٍ} هو:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5603.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/283",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "البِدعةُ",
+				"t": 0
+			},
+			{
+				"answer": "الشِّركُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5603_Answer.mp3"
+			},
+			{
+				"answer": "ظُلمُ النَّفسِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5620,
+		"q": {
+			"q": "رُكنا العِبادةِ",
+			"audio": "/files/quiz/akida/t-olhia/audio/5620.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/372",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "الخَوفُ والرَّجاءُ",
+				"t": 0
+			},
+			{
+				"answer": "السَّمعُ والطَّاعةُ",
+				"t": 0
+			},
+			{
+				"answer": "كَمالُ الخُضوعِ وكَمالُ المَحبَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5620_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5605,
+		"q": {
+			"q": "{وَيَعْبُدُونَ ‌مِنْ ‌دُونِ ‌اللَّهِ ‌مَا ‌لَمْ ‌يُنَزِّلْ ‌بِهِ ‌سُلْطَانًا}، مَعْنى السُّلطانِ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5605.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/292",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "الحُجَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5605_Answer.mp3"
+			},
+			{
+				"answer": "القوَّةُ",
+				"t": 0
+			},
+			{
+				"answer": "المُلكُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5602,
+		"q": {
+			"q": "التَوحيدُ الذي يَتضمَّنُ نَوعَيِ التَّوحيدِ الآخَرَينِ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5602.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/283",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "الأُلوهيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5602_Answer.mp3"
+			},
+			{
+				"answer": "الأسماءِ والصِّفاتِ",
+				"t": 0
+			},
+			{
+				"answer": "الرُّبوبيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5613,
+		"q": {
+			"q": "قال الله تعالى: {سَتُكْتَبُ شَهَادُتُهُمْ وَيُسْأَلُونَ} إِشارةٌ إلى المَرتبةِ الثَّانِيةِ من مَراتبِ الشَّهادةِ وهي:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5613.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/326",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "السُّؤالُ",
+				"t": 0
+			},
+			{
+				"answer": "الإخبارُ",
+				"t": 0
+			},
+			{
+				"answer": "النُّطقُ والتلفُّظُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5613_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5609,
+		"q": {
+			"q": "قال الله تعالى: {‌إِلَّا ‌مَنِ ‌اتَّخَذَ ‌عِنْدَ ‌الرَّحْمَنِ ‌عَهْدًا} العَهدُ المَقصُود هو:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5609.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/309",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "نُصرةُ دِينِ الله",
+				"t": 0
+			},
+			{
+				"answer": "التَّوحيدُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5609_Answer.mp3"
+			},
+			{
+				"answer": "إِقامةُ الصَّلاةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5619,
+		"q": {
+			"q": "النَّاسُ في مَحبَّةِ النَّبيِّ صلَّى اللهُ عليهِ وسلَّمَ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5619.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/352",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "أهلُ إفراطٍ وأهلُ تَفريطٍ ومُعتَدِلونَ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5619_Answer.mp3"
+			},
+			{
+				"answer": "أهلُ إفراطٍ ومُعتَدِلونَ",
+				"t": 0
+			},
+			{
+				"answer": "أهلُ إفراطٍ وأهلُ تَفريطٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5611,
+		"q": {
+			"q": "قال الحَسَنُ البَصريُّ: \"هذا العَمودُ فأَينَ الطُّنُبُ؟\" المُرادُ بالطُّنُبِ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5611.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/317",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "فِعلُ الواجِباتِ وتَركُ المُحرَّماتِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5611_Answer.mp3"
+			},
+			{
+				"answer": "أركانُ الإسلامِ",
+				"t": 0
+			},
+			{
+				"answer": "مَحاسِنُ الأخلاقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5612,
+		"q": {
+			"q": "مَن ماتَ من أهلِ التَّوحيدِ على مَعصِيةٍ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5612.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/283",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "تَنزِلُ دَرَجَتُه في الجنَّةِ ولا يَدخُلُ النَّارَ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "يُخلَّدُ في النَّارِ",
+				"t": 0
+			},
+			{
+				"answer": "أمْرُه إلى اللهِ إنْ شاءَ عَذَّبَه، ثمَّ خَرَج، وإنْ شاءَ غَفَر له",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5612_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5608,
+		"q": {
+			"q": "مَعْنى \"لا إلَهَ إلَّا اللهُ\"",
+			"audio": "/files/quiz/akida/t-olhia/audio/5608.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/302",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "لا إلَهَ يُعبَدُ غَيرُ اللهِ",
+				"t": 0
+			},
+			{
+				"answer": "لا مَعبودَ بحَقٍّ إلَّا اللهُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5608_Answer.mp3"
+			},
+			{
+				"answer": "لا خالِقَ إلَّا اللهُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5616,
+		"q": {
+			"q": "تَدبُّرُ أسماءِ اللهِ وصِفاتِه:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5616.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/333",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "أوَّل طَريقِ الفَهمِ عن الله",
+				"t": 0
+			},
+			{
+				"answer": "شَرطٌ مِن شُروطِ تَوحيدِ الأُلوهِيَّة",
+				"t": 0
+			},
+			{
+				"answer": "مِمَّا يُعينُ على العِلمِ بكَلِمةِ التَّوحيدِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5616_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5618,
+		"q": {
+			"q": "النِّفاقُ المُخرِجُ منَ المِلَّةِ",
+			"audio": "/files/quiz/akida/t-olhia/audio/5618.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/341",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "النِّفاقُ الِاعتِقاديُّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5618_Answer.mp3"
+			},
+			{
+				"answer": "النِّفاقُ العَمَليُّ",
+				"t": 0
+			},
+			{
+				"answer": "النِّفاقُ النَّظَريُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5614,
+		"q": {
+			"q": "الإخبارُ الفِعليُّ في مَراتِبِ الشَّهادةِ هو:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5614.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/328",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "الأدِلَّةُ الدَّالَّةُ على وَحدانِيَّتِه، والَّتي تُعلَمُ بالعَقلِ والفِطرةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5614_Answer.mp3"
+			},
+			{
+				"answer": "فِعلُ المَأموراتِ وتَركُ المَنهيَّاتِ",
+				"t": 0
+			},
+			{
+				"answer": "مُراقبةُ اللهِ في السِّرِّ والعَلَنِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5617,
+		"q": {
+			"q": "\"العِلمُ الرَّاسِخُ في القَلبِ، الثَّابتُ فيه\"",
+			"audio": "/files/quiz/akida/t-olhia/audio/5617.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/335",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "اليَقينُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5617_Answer.mp3"
+			},
+			{
+				"answer": "القَبولُ",
+				"t": 0
+			},
+			{
+				"answer": "الإيمانُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5610,
+		"q": {
+			"q": "جُمهورُ المُفسِّرينَ على أنَّ الكَلِمةَ الطَّيِّبةَ الَّتي شبَّهَها اللهُ بالشجَرةِ الطَيِّبةِ؛ هي:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5610.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/313",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "كلُّ قَولٍ صالِحٍ؛ مثل ذِكر الله، والأمرِ بالمعرُوفِ والنَّهيِ عن المُنكرِ",
+				"t": 0
+			},
+			{
+				"answer": "كلمة: لا إلَهَ إلَّا اللهُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5610_Answer.mp3"
+			},
+			{
+				"answer": "كل كَلمةٍ أُرِيدَ بها وَجه الله",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5601,
+		"q": {
+			"q": "شَرطَا العِبادةِ الصَّحيحةِ؛ هما:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5601.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/283",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "المَحبَّةُ والصِّدقُ",
+				"t": 0
+			},
+			{
+				"answer": "القَبُولُ والإِتقانُ",
+				"t": 0
+			},
+			{
+				"answer": "الإخلاصُ والمُتابَعةُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5601_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5606,
+		"q": {
+			"q": "عَناصِرُ الإيمانِ هي:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5606.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/299",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "الإقرارُ والتَّصديقُ والِانقِيادُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5606_Answer.mp3"
+			},
+			{
+				"answer": "الرِّضا والإيجابُ والقَبولُ",
+				"t": 0
+			},
+			{
+				"answer": "الصِّدقُ واليَقينُ والمَحبَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5604,
+		"q": {
+			"q": "تَذكيرُ المُشرِكينَ بما يَكمُنُ في نُفوسِهِم منَ التَّوحيدِ وتَقبيحِ الشِّركِ:",
+			"audio": "/files/quiz/akida/t-olhia/audio/5604.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/292",
+		"section": "t-olhia",
+		"answers": [
+			{
+				"answer": "من أدلَّةِ تَوحيدِ الأسماءِ والصِّفاتِ",
+				"t": 0
+			},
+			{
+				"answer": "من أدِلَّةِ تَوحيدِ الرُّبوبيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "من أدلَّةِ تَوحيدِ الأُلوهيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/t-olhia/audio/answers/5604_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 3798,
+		"q": {
+			"q": "المقصود بـ(خَرْجًا) في قوله تعالى: {أَمْ تَسْأَلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3798.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/10",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "الهِدايَةُ ",
+				"t": 0
+			},
+			{
+				"answer": "العَدلُ والقِسْط ",
+				"t": 0
+			},
+			{
+				"answer": "الأَجْرُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3798_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3781,
+		"q": {
+			"q": "سُورة المُؤمِنُون:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3781.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "مُختلَف فيها",
+				"t": 0
+			},
+			{
+				"answer": "مكِّيَّة",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3781_Answer.mp3"
+			},
+			{
+				"answer": "مدَنيَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3790,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {لَمُبْتَلِينَ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3790.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/4",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "لمُخْتَبَرِين",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3790_Answer.mp3"
+			},
+			{
+				"answer": "لَمنجزِين",
+				"t": 0
+			},
+			{
+				"answer": "لمُعْجِزِين",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3792,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {غُثَاءً}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3792.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/5",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "هَلْكَى كالغُثَاءِ الذي يعلو السَّيْلَ مِنَ الزَّبَدِ وغيرِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3792_Answer.mp3"
+			},
+			{
+				"answer": "حِسَان الوُجُوهِ",
+				"t": 0
+			},
+			{
+				"answer": "أقوِياء",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3785,
+		"q": {
+			"q": "المقصود بـ\"العَلَقَة\":",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3785.mp3"
+		},
+		"level": 1,
+		"link": null,
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "الدَّم المسفوح",
+				"t": 0
+			},
+			{
+				"answer": "الدَّم الجامد",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3785_Answer.mp3"
+			},
+			{
+				"answer": "الدَّم الفاسد",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3786,
+		"q": {
+			"q": "طُورُ سَيناءَ؛ هُوَ:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3786.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/3",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "اسمُ الجبلِ المعروفِ في سيناءَ الذي كلَّم اللهُ تعالى عليه مُوسَى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3786_Answer.mp3"
+			},
+			{
+				"answer": "اسمٌ لبقعة بمِصرَ",
+				"t": 0
+			},
+			{
+				"answer": "اسمٌ لوادٍ مِن أوديةِ سيناءَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3788,
+		"q": {
+			"q": "في قَولِه تَعالَى: {وَمَا كُنَّا عَنِ الْخَلْقِ غَافِلِينَ} إثباتٌ لــ:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3788.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/3",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "قَهْر الله وعزَّته",
+				"t": 0
+			},
+			{
+				"answer": "إحاطةِ الله تعالى بكلِّ شيءٍ عِلْمًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3788_Answer.mp3"
+			},
+			{
+				"answer": "كبرياءِ الله تعالى ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3782,
+		"q": {
+			"q": "خُتِمَتْ هذه السُّورَةُ بــ:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3782.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "أمرِ اللهِ لنبيِّه بالتوجُّه إليه طلبًا للرحمة والغُفْرَانِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3782_Answer.mp3"
+			},
+			{
+				"answer": "أمْرِ اللهِ تعالى عبادَه بإقامةِ العَدلِ فيما بَينَهُم",
+				"t": 0
+			},
+			{
+				"answer": "وصفِ الجنةِ والنَّار",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3800,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {يَتَضَرَّعُونَ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3800.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/11",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "يتجَبَّرونَ",
+				"t": 0
+			},
+			{
+				"answer": "يَتذلَّلون، ويَدْعون في خشوع",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3800_Answer.mp3"
+			},
+			{
+				"answer": "يَحلِبُون الألبانَ مِنَ الضُّروعِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3784,
+		"q": {
+			"q": "معنى \"النُّطفة\" المَذكُورة في قَولِه تعالى: {ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَكِينٍ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3784.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/2",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "المُضغَةُ",
+				"t": 0
+			},
+			{
+				"answer": "العَلَقَةُ",
+				"t": 0
+			},
+			{
+				"answer": "المَنِيُّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3784_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3794,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {تَتْرَى}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3794.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/6",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "تتواترُ واحدًا بَعْدَ واحدٍ، ويتبعُ بَعْضُهُم بَعْضًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3794_Answer.mp3"
+			},
+			{
+				"answer": "مُسْرِعَة",
+				"t": 0
+			},
+			{
+				"answer": "مُجْتَمِعَة مَعًا في صَعيدٍ واحِدٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3787,
+		"q": {
+			"q": "معنى \" الْفُلْكِ\":",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3787.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/3",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "السُّفن",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3787_Answer.mp3"
+			},
+			{
+				"answer": "النُّجوم",
+				"t": 0
+			},
+			{
+				"answer": "الكواكب",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3796,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {وَجِلَةٌ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3796.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/8",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "مُطْمَئِنَّة",
+				"t": 0
+			},
+			{
+				"answer": "خائِفَة",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3796_Answer.mp3"
+			},
+			{
+				"answer": "غافِلة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3797,
+		"q": {
+			"q": "المُرادُ من قَولِه تَعالَى: {يَجْأَرُونَ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3797.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/9",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "يَفِرُّونَ إلى مَكانٍ يَختَبِئُون فيه",
+				"t": 0
+			},
+			{
+				"answer": "يَصيحون ويَستَغيثون ويَرفَعون أصواتَهم بالدُّعاء",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3797_Answer.mp3"
+			},
+			{
+				"answer": "يَبْكون في خُفوتٍ على استِحياءٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3799,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {جِنَّةٌ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3799.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/10",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "المَرَضُ",
+				"t": 0
+			},
+			{
+				"answer": "الجُنونُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3799_Answer.mp3"
+			},
+			{
+				"answer": "البُستانُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3795,
+		"q": {
+			"q": "معنَى قولِه تَعَالى: {وَجَعَلْنَاهُمْ أَحَادِيثَ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3795.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/6",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "جَعلناهُم صَرْعَى",
+				"t": 0
+			},
+			{
+				"answer": "صَيَّرناهُم أَخْبارًا للناس يَتحدَّثُون بها ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3795_Answer.mp3"
+			},
+			{
+				"answer": "كَتَبنَا كلَّ ما نَطقُوا به مِن حَديثٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3789,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {الْمَلَأُ}: ",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3789.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/4",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "أشراف النَّاسِ ووجوههم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3789_Answer.mp3"
+			},
+			{
+				"answer": "أَسباطُ بني إسرائيل",
+				"t": 0
+			},
+			{
+				"answer": "سائر النَّاسِ ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3791,
+		"q": {
+			"q": "المُرادُ بقَولِه تَعالَى: {وَأَتْرَفْنَاهُمْ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3791.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/5",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "شَفَيناهُم مِن أَمراضِهِم",
+				"t": 0
+			},
+			{
+				"answer": "أَحيَيناهُم حَياةَ الجَوعِ والخَوفِ",
+				"t": 0
+			},
+			{
+				"answer": "نعَّمْناهُم وأبقَيناهُم فِي الملكِ ووسَّعْنا عَليهِم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3791_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3793,
+		"q": {
+			"q": "في تكرارِ لفظةِ: \"هيهاتَ\" في قَولِه تَعالَى: {هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ} فَائِدَة: ",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3793.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/5",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "بيانِ صدقِ هَذَا الوعيدِ المذكورِ على لسانِ الرَّسولِ",
+				"t": 0
+			},
+			{
+				"answer": "تأكيدِ هذا البُعْدِ المذكور",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3793_Answer.mp3"
+			},
+			{
+				"answer": "إِظهارُ العِنايَةِ بصِلَةِ المَوصُولِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3783,
+		"q": {
+			"q": "مَعنَى قَولِه تَعالَى: {أَفْلَحَ}:",
+			"audio": "/files/quiz/tafseer/al-muminun/audio/3783.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/tafseer/23/1",
+		"section": "al-muminun",
+		"answers": [
+			{
+				"answer": "رَجعَ إِلى رُشْدِهِ",
+				"t": 0
+			},
+			{
+				"answer": "ذَهبَ فِي طَريقِهِ الصَّحيحِ ",
+				"t": 0
+			},
+			{
+				"answer": "فاز وسَعِدَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-muminun/audio/answers/3783_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

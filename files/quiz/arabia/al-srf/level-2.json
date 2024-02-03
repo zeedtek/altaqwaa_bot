@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6746,
+		"q": {
+			"q": "مَعنى الصَّيرورةُ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6746.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1046",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "أنْ يصيرَ الفاعِلُ صاحِبَ الشَّيءِ الذي جاء منه الفِعْلُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6746_Answer.mp3"
+			},
+			{
+				"answer": "تَحوُّلُ الفَعْلِ مِن مُجرَّدٍ إلى مَزيدٍ",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يُبنَى الفِعلُ لِما لمْ يُسَمَّ فاعِلُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6745,
+		"q": {
+			"q": "الأصلُ في مُضارِع كلمة (فَعِلَ)",
+			"audio": "/files/quiz/arabia/al-srf/audio/6745.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1039",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الضَّمُّ (يَفْعُل)",
+				"t": 0
+			},
+			{
+				"answer": "الفَتحُ (يَفْعَل)",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6745_Answer.mp3"
+			},
+			{
+				"answer": "الكَسرُ (يَفْعِل)",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6749,
+		"q": {
+			"q": "صِيغَةُ الأَمرِ مِن الفعل (وَقَى يَقِي)",
+			"audio": "/files/quiz/arabia/al-srf/audio/6749.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1079",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "قِهْ ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6749_Answer.mp3"
+			},
+			{
+				"answer": "قِيَهْ ",
+				"t": 0
+			},
+			{
+				"answer": "أَقِيَهْ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6755,
+		"q": {
+			"q": "في الكُنَى، مِثْلُ: أبي بَكْرٍ، نَجمَعُ المُضافَ على:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6755.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1228",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "آباء أَبكارٍ",
+				"t": 0
+			},
+			{
+				"answer": "بَنِي بَكرٍ",
+				"t": 0
+			},
+			{
+				"answer": "آباء بَكْرٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6755_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6753,
+		"q": {
+			"q": "أَسماءُ الأماكِن مِثل (مَفْرق، ومَطْلع) تُقاسُ على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6753.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1128",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "مَفْعَل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6753_Answer.mp3"
+			},
+			{
+				"answer": "فَعْلَل",
+				"t": 0
+			},
+			{
+				"answer": "أَفْعَل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6748,
+		"q": {
+			"q": "كَيفيَّةُ بِناءِ الفِعْلِ للمَفْعولِ من الفِعلُ المضارع",
+			"audio": "/files/quiz/arabia/al-srf/audio/6748.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1061",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "يُضَمُّ أَوَّلُه ويُفتَحُ ما قَبْلَ آخِرِه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6748_Answer.mp3"
+			},
+			{
+				"answer": "فَتْحُ أَوَّلِه وضَمُّ ما قبلَ آخِرِه",
+				"t": 0
+			},
+			{
+				"answer": "زِيادَةُ أَلِف بعدَ عَيْنِ الفِعْلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6760,
+		"q": {
+			"q": "الإشْمامُ هُو:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6760.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1059",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الحَرفُ المُعتَلُّ الدَّاخِلُ عن أَصلِ الكَلِمَة",
+				"t": 0
+			},
+			{
+				"answer": "الإشارَةُ إلى الحَرَكةِ (الضَّمَّة) بضمِّ الشَّفَتَين دُونَ صوْتٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6760_Answer.mp3"
+			},
+			{
+				"answer": "الزِّيادَةُ في المَعنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6751,
+		"q": {
+			"q": "يُصاغُ المَصدَرُ المِيميُّ مِنَ الفِعلِ الثُّلاثيِّ على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6751.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1126",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "مِفْعَلَة",
+				"t": 0
+			},
+			{
+				"answer": "مَفْعَل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6751_Answer.mp3"
+			},
+			{
+				"answer": "مَفْعُل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6752,
+		"q": {
+			"q": "مُشْتَقّانِ من الفِعلِ يَدُلَّانِ على زَمانِ وُقوعِ الفِعلِ أو مَكانِه:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6752.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1128",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "المُبتَدأُ والخَبرُ",
+				"t": 0
+			},
+			{
+				"answer": "اسما الزمان والمكان",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6752_Answer.mp3"
+			},
+			{
+				"answer": "الفِعلُ والفاعِلُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6756,
+		"q": {
+			"q": "كَلِمَةُ (فُلَيْس) على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6756.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1245",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "فُعْلَل",
+				"t": 0
+			},
+			{
+				"answer": "فُعَيْل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6756_Answer.mp3"
+			},
+			{
+				"answer": "مُفْعَل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6744,
+		"q": {
+			"q": "استُعمِلَ (فَعَلَ) في معانٍ لا حصْرَ لها؛ لأنَّه:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6744.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1039",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "أَخفُّ الأبنِيَةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6744_Answer.mp3"
+			},
+			{
+				"answer": "ثُلاثِي الحُروف",
+				"t": 0
+			},
+			{
+				"answer": "وَزنٌ فَريدٌ لا شَبيهَ له",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6747,
+		"q": {
+			"q": "كلمة (تَمَسْكَن) من أمثلة المُلْحَقُ بالرُّباعيِّ المَزِيدِ على وَزنِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6747.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1050",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "تَمَفْعَل",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6747_Answer.mp3"
+			},
+			{
+				"answer": "تَفَعْلَلَ",
+				"t": 0
+			},
+			{
+				"answer": "اسْتَفَعْلَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6758,
+		"q": {
+			"q": "الاسمُ المَنْسوبُ هو:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6758.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1265",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الاسمُ المَقصُورُ الذي بهِ حَرفَا عِلَّة",
+				"t": 0
+			},
+			{
+				"answer": "كلُّ اسمٍ كُسِرَ أَوَّلُه وأُضِيفَ إليه (واو ونون)",
+				"t": 0
+			},
+			{
+				"answer": "المُلْحَقُ بِآخِرِه ياءٌ مُشدَّدَةٌ مَكسورٌ ما قبلَها",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6758_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6742,
+		"q": {
+			"q": "كلمة \"أكرم\" وزنها الصرفي",
+			"audio": "/files/quiz/arabia/al-srf/audio/6742.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/869",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "أفْعَلَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6742_Answer.mp3"
+			},
+			{
+				"answer": "مفعل",
+				"t": 0
+			},
+			{
+				"answer": "مفعال",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6743,
+		"q": {
+			"q": "المُؤَنَّثُ اللَفْظيُّ هو:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6743.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/965",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "ما يَصِحُّ فيه التَّأنِيثُ والتَّذكِيرُ على حَدٍّ سَواء",
+				"t": 0
+			},
+			{
+				"answer": "ما يكونُ التَّذكيرُ فيه لَفظِيٌّ والتَأنِيثُ مَعنوِيٌّ",
+				"t": 0
+			},
+			{
+				"answer": "ما لحِقَتْه علامةُ التأنيثِ، ويدُلُّ على مُذَكَّرٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6743_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6741,
+		"q": {
+			"q": "أهمِّيَّةُ عِلمِ الصَّرفِ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6741.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/862",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "بِه نَعرِفُ أصلَ الكَلِمةِ مِن زَوائِدِها",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6741_Answer.mp3"
+			},
+			{
+				"answer": "استِقراءُ لُغةِ العَربِ ومَعرِفَة المُعرَّب مِن الأَصيلِ",
+				"t": 0
+			},
+			{
+				"answer": "يُتوَصَّلُ به إلى التَّمِييزِ بين الاسمِ والفِعلِ والحَرفِ، والعَلاماتِ الدَّالةِ على كلِّ مِنهُم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6750,
+		"q": {
+			"q": "وَزنُ الفِعْلِ (افْعَوْعَل) يُفيدُ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6750.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1046",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "اليَقِين والجَزْم",
+				"t": 0
+			},
+			{
+				"answer": "التَّوكيد",
+				"t": 0
+			},
+			{
+				"answer": "المُبالَغَة والكَثرَة",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6750_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6757,
+		"q": {
+			"q": "(ما أحْسَنَه): نقولُ في تَصغيرِها:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6757.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1243",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "ما مُحَيْسِنَه",
+				"t": 0
+			},
+			{
+				"answer": "ما حُسَيْسَنُه",
+				"t": 0
+			},
+			{
+				"answer": "ما أُحَيْسِنَه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6757_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6754,
+		"q": {
+			"q": "سُمِّي جَمْعُ التَّكسيرِ بذلك؛ لأنَّ:",
+			"audio": "/files/quiz/arabia/al-srf/audio/6754.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1164",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "الكَسرَةَ فيه لازِمَةٌ",
+				"t": 0
+			},
+			{
+				"answer": " أَغلَبَ الجَمْعِ مِنه يكونُ جَمْعَ قِلَّة",
+				"t": 0
+			},
+			{
+				"answer": "المُفْرَدَ فيه يُغيَّرُ عمَّا كان عَليه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6754_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6759,
+		"q": {
+			"q": "من صِيغ المُبالَغةِ القِياسيَّة مِنِ اسمِ الفاعِلِ",
+			"audio": "/files/quiz/arabia/al-srf/audio/6759.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/arabia/1139",
+		"section": "al-srf",
+		"answers": [
+			{
+				"answer": "فَعَّال",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-srf/audio/answers/6759_Answer.mp3"
+			},
+			{
+				"answer": "فَعْلُول",
+				"t": 0
+			},
+			{
+				"answer": "فَعَايِل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

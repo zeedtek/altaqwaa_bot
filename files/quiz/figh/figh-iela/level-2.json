@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2013,
+		"q": {
+			"q": "قال لامرَأتِه: أنتِ عليَّ كظَهرِ أُمِّي إنْ شاء اللهُ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2013.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4868",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "وَقَع طَلاقًا",
+				"t": 0
+			},
+			{
+				"answer": "وَقَع الظِّهارُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَقَعُ الظِّهارُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2013_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2012,
+		"q": {
+			"q": "ظاهَرَ بما ليس مَحِلًّا للِاستِمتاعِ عادةً؛ كأنْ قال: أنتِ عليَّ كالمَسجِدِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2012.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4857",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "وَقَع الظِّهارُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَقَعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2012_Answer.mp3"
+			},
+			{
+				"answer": "يَقَعُ مع النِّيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2008,
+		"q": {
+			"q": "إذا قال: أنتِ حَرامٌ علَيَّ كأُمِّي ونَوى الظِّهارَ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2008.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4818",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "كان ظِهارًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2008_Answer.mp3"
+			},
+			{
+				"answer": "لم يَكُنْ ظِهارًا",
+				"t": 0
+			},
+			{
+				"answer": "يَكونُ طَلاقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2014,
+		"q": {
+			"q": "الخُلعُ بالمُؤجَّلِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2014.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4693",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ العَقدُ وتُلزَمُ بالدَّفعِ حالًا بالإجْماعِ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2014_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2004,
+		"q": {
+			"q": "إذا شَبَّه امرَأتَه بظَهرِ مَن تَحرمُ عَليهِ على التَّأبيدِ من غَيرِ الأقاربِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2004.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4804",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لم يَكُنْ ظِهارًا",
+				"t": 0
+			},
+			{
+				"answer": "كان إيلاءً",
+				"t": 0
+			},
+			{
+				"answer": "كان ظِهارًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2004_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2017,
+		"q": {
+			"q": "الخُلعُ إذا كانَتِ المَرأةُ في مرَضِ المَوتِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2017.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4717",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2017_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ إن أرادَتْ منْعَه منَ الميراثِ فَقَط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2003,
+		"q": {
+			"q": "لو شبَّه امرَأتَه بمَن تَحرُمُ عَليهِ على التَّأبيدِ من أقارِبِه غَيرَ أُمِّه:",
+			"audio": "/files/quiz/figh/figh-iela/audio/2003.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4802",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "كان ظِهارًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2003_Answer.mp3"
+			},
+			{
+				"answer": "لم يَكُنْ ظِهارًا",
+				"t": 0
+			},
+			{
+				"answer": "يُكْرَهُ ولا شَيءَ فيه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2011,
+		"q": {
+			"q": "ظِهارُ المُغْمى عَليهِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2011.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4844",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَتوقَّفُ على إفاقَتِه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَقَعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2011_Answer.mp3"
+			},
+			{
+				"answer": "يَقَعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2005,
+		"q": {
+			"q": "إذا شَبَّه امرَأتَه بمَن تَحرُمُ عَليهِ على التَّأقيتِ كأُختِها مَثَلًا",
+			"audio": "/files/quiz/figh/figh-iela/audio/2005.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4806",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "كان إيلاءً",
+				"t": 0
+			},
+			{
+				"answer": "ليس فيه شَيءٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2005_Answer.mp3"
+			},
+			{
+				"answer": "كان ظِهارًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2022,
+		"q": {
+			"q": "وَطءُ المُظاهِرِ قبلَ أداءِ الكَفَّارةِ إذا كان تَكفيرُه بالإطعامِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2022.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4882",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "حَرامٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2022_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2020,
+		"q": {
+			"q": "آلَى من زَوجَتِه غَيرِ المَدخولِ بها",
+			"audio": "/files/quiz/figh/figh-iela/audio/2020.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4771",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَقَعُ إيلاءً",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2020_Answer.mp3"
+			},
+			{
+				"answer": "يُعَدُّ إيلاءً إن سَمَّى المَهرَ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُعَدُّ إيلاءً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2021,
+		"q": {
+			"q": "حُكمُ الظِّهارِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2021.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4797",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2021_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2010,
+		"q": {
+			"q": "لو أنَّ كافِرًا ظاهَرَ منِ امرَأتِه",
+			"audio": "/files/quiz/figh/figh-iela/audio/2010.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4830",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "وَقَع الظِّهارُ",
+				"t": 0
+			},
+			{
+				"answer": "وَقَع الطَّلاقُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَقَعُ شَيءٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2010_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2019,
+		"q": {
+			"q": "حُكمُ الإيلاءِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2019.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4729",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2019_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2016,
+		"q": {
+			"q": "التَّوكيلُ في الخُلعِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2016.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4707",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَصِحُّ برِضا الزَّوجةِ فَقَط بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2016_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2009,
+		"q": {
+			"q": "هل على المَرأةِ كَفَّارةُ ظِهارٍ؟",
+			"audio": "/files/quiz/figh/figh-iela/audio/2009.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4826",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "ليس عَلَيها كَفَّارةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2009_Answer.mp3"
+			},
+			{
+				"answer": "عَلَيها نِصفُ ما على الرَّجُلِ",
+				"t": 0
+			},
+			{
+				"answer": "عليها ما على الرَّجُل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2007,
+		"q": {
+			"q": "إذا قال: أنتِ أُمِّي",
+			"audio": "/files/quiz/figh/figh-iela/audio/2007.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4816",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَتوَقَّفُ على النِّيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2007_Answer.mp3"
+			},
+			{
+				"answer": "لم يَكُنْ ظِهارًا",
+				"t": 0
+			},
+			{
+				"answer": "كان ظِهارًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2006,
+		"q": {
+			"q": "إذا قال: أنتِ كأُمِّي",
+			"audio": "/files/quiz/figh/figh-iela/audio/2006.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4814",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَكونُ ظِهارًا مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "إن نَوى الظِّهارَ كان ظِهارًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2006_Answer.mp3"
+			},
+			{
+				"answer": "لا يَكونُ ظِهارًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2018,
+		"q": {
+			"q": "الخُلعُ إذا كان الزَّوجُ في مرَضِ المَوتِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2018.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4715",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ إجماعًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2018_Answer.mp3"
+			},
+			{
+				"answer": "يَصِحُّ على الرَّاجِحِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2015,
+		"q": {
+			"q": "لو قال لامرَأتِه: أنتِ كظَهرِ أُمِّي",
+			"audio": "/files/quiz/figh/figh-iela/audio/2015.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4808",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لم يَكُنْ ظِهارًا",
+				"t": 0
+			},
+			{
+				"answer": "كان ظِهارًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2015_Answer.mp3"
+			},
+			{
+				"answer": "كان طَلاقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

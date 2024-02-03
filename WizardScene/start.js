@@ -34,14 +34,16 @@ export default new Scenes.WizardScene(
         const but_3 = [Markup.button.callback('فيديو 🎥', 'video'), Markup.button.callback('صور 🖼️', 'photo')];
         const but_4 = [Markup.button.callback('آية وتفسير 🌾', 'tafseer'), Markup.button.callback('أسماء الله الحسنى ✨', 'Names_Of_Allah')];
         const but_5 = [Markup.button.callback('التاريخ الهجري 📅', 'Hijri'), Markup.button.callback('فتاوى ابن باز 🔊', 'fatwas')];
-        const but_6 = [Markup.button.callback('معلومات حول البوت ℹ️', 'info')];
+        const but_6 = [Markup.button.callback('اسئلة دينية ⁉️', 'question')];
+        const but_7 = [Markup.button.callback('معلومات حول البوت ℹ️', 'info')];
         const button = Markup.inlineKeyboard([
             but_1,
             but_2,
             but_3,
             but_4,
             but_5,
-            but_6
+            but_6,
+            but_7,
         ]);
         let message = ` مرحباً بك ${name_chat ? name_chat : `@${username_chat}`} في بوت ${name_bot} 👋 \n\n`
         message += 'يقدم هذا البوت العديد من الخدمات \n\n'
@@ -54,7 +56,8 @@ export default new Scenes.WizardScene(
         message += '7- حصن المسلم 🏰 \n'
         message += '8- آية وتفسير 🌾 \n'
         message += '9- فتاوى ابن باز رحمه الله 🔊 \n'
-        message += '10- التاريخ الهجري 📅 \n\n\n'
+        message += '10- اسئلة دينية ⁉️ \n'
+        message += '11- التاريخ الهجري 📅 \n\n\n'
         message += 'إحصائيات البوت \n\n'
         message += `عدد المحادثات : ${getUserAll.length}\n`
         message += `عدد المجموعات : ${getSupergroup.length}\n`

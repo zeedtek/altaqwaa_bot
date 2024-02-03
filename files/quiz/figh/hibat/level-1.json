@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2361,
+		"q": {
+			"q": "تَفضيلُ بَعضِ الأولادِ في الهِبةِ لبِرِّهِ بأبيه",
+			"audio": "/files/quiz/figh/hibat/audio/2361.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6680",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يُستحَبُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2361_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2349,
+		"q": {
+			"q": "الهِبةُ للسَّفيهِ",
+			"audio": "/files/quiz/figh/hibat/audio/2349.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6621",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ ويَقبِضُها الوَليُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2349_Answer.mp3"
+			},
+			{
+				"answer": "تَصِحُّ ويَقبِضُها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2364,
+		"q": {
+			"q": "هِبةُ الزَّوجةِ لغَيرِ زَوجِها",
+			"audio": "/files/quiz/figh/hibat/audio/2364.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6693",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2364_Answer.mp3"
+			},
+			{
+				"answer": "للزَّوجِ الخِيارُ في الإجازةِ والمَنعِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2343,
+		"q": {
+			"q": "حُكمُ الهِبةِ",
+			"audio": "/files/quiz/figh/hibat/audio/2343.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6571",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "مُستحبَّةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2343_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهةٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2352,
+		"q": {
+			"q": "هِبةُ المُصحَفِ لكافِرٍ",
+			"audio": "/files/quiz/figh/hibat/audio/2352.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6654",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2352_Answer.mp3"
+			},
+			{
+				"answer": "تَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "تُكرَهُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2356,
+		"q": {
+			"q": "الهِبةُ للأولادِ",
+			"audio": "/files/quiz/figh/hibat/audio/2356.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6671",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2356_Answer.mp3"
+			},
+			{
+				"answer": "لا تَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2360,
+		"q": {
+			"q": "تَفضيلُ بَعضِ الأولادِ في الهِبةِ لمُسَوِّغٍ شَرعيٍّ",
+			"audio": "/files/quiz/figh/hibat/audio/2360.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6678",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2360_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2347,
+		"q": {
+			"q": "الهِبةُ للصَّبيِّ",
+			"audio": "/files/quiz/figh/hibat/audio/2347.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6617",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تَصِحُّ ويَقبِضُها الصَّبِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ ويَقبِضُها وَلِيُّه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2347_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2346,
+		"q": {
+			"q": "هِبةُ المُكرَهِ",
+			"audio": "/files/quiz/figh/hibat/audio/2346.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6593",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2346_Answer.mp3"
+			},
+			{
+				"answer": "تَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2345,
+		"q": {
+			"q": "هِبةُ المَجنونِ",
+			"audio": "/files/quiz/figh/hibat/audio/2345.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6584",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "تَتوقَّفُ عَلى إفاقَتِه",
+				"t": 0
+			},
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2345_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2348,
+		"q": {
+			"q": "الهِبةُ للمَجنونِ",
+			"audio": "/files/quiz/figh/hibat/audio/2348.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6619",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ ويَقبِضُها بنَفسِه",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ ويَقبِضُها وَلِيُّه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2348_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2357,
+		"q": {
+			"q": "العَدلُ في الهِبةِ بين الأولادِ",
+			"audio": "/files/quiz/figh/hibat/audio/2357.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6674",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يَجِبُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2357_Answer.mp3"
+			},
+			{
+				"answer": "يُستحَبُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجِبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2344,
+		"q": {
+			"q": "المُكافَأةُ عَلى الهِبةِ",
+			"audio": "/files/quiz/figh/hibat/audio/2344.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6573",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "مُحرَّمةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَشروعةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2344_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2363,
+		"q": {
+			"q": "العَدلُ في الهِبةِ بين الزَّوجاتِ",
+			"audio": "/files/quiz/figh/hibat/audio/2363.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6691",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "واجِبٌ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "عَلى قَولَينِ لأهلِ العِلمِ بين الِاستِحبابِ والوُجوبِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2363_Answer.mp3"
+			},
+			{
+				"answer": "مُستحَبٌّ بالإجماعِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2362,
+		"q": {
+			"q": "الهِبةُ بين الزَّوجَينِ",
+			"audio": "/files/quiz/figh/hibat/audio/2362.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6689",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "جائزةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2362_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهةٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2354,
+		"q": {
+			"q": "العُمْرَى المُطلَقةُ",
+			"audio": "/files/quiz/figh/hibat/audio/2354.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6739",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تَرجِعُ إلى الواهِبِ متى شاء",
+				"t": 0
+			},
+			{
+				"answer": "تَرجِعُ إلى الواهِبِ بعدَ مَوتِ المَوهوبِ له",
+				"t": 0
+			},
+			{
+				"answer": "لا تَرجِعُ أبدًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2354_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2353,
+		"q": {
+			"q": "حُكمُ العُمْرَى",
+			"audio": "/files/quiz/figh/hibat/audio/2353.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6736",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "مَكروهةٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2353_Answer.mp3"
+			},
+			{
+				"answer": "واجِبةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2350,
+		"q": {
+			"q": "الهِبةُ للحَملِ",
+			"audio": "/files/quiz/figh/hibat/audio/2350.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6623",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "اختَلَف العُلَماءُ في صِحَّتِها وعَدَمِها",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2350_Answer.mp3"
+			},
+			{
+				"answer": "لا تَصِحُّ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ باتِّفاقِ المَذاهِبِ الأربعةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2355,
+		"q": {
+			"q": "هِبةُ الأولادِ للآباءِ",
+			"audio": "/files/quiz/figh/hibat/audio/2355.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6669",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ إنْ رَضِيَ بَقِيَّةُ الأَبناءِ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2355_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2358,
+		"q": {
+			"q": "العَدلُ في الهِبةِ بين الأولادِ يَكونُ",
+			"audio": "/files/quiz/figh/hibat/audio/2358.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/feqhia/6676",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "بالتَّساوي",
+				"t": 0
+			},
+			{
+				"answer": "بالتَفضيلِ",
+				"t": 0
+			},
+			{
+				"answer": "بقَدرِ الأنصِبةِ في الميراثِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2358_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

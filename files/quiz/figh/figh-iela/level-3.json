@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2037,
+		"q": {
+			"q": "تَعليقُ الظِّهارِ منَ الزَّوجةِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2037.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4864",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَصِحُّ على الشَّرطِ القَريبِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2037_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2035,
+		"q": {
+			"q": "إذا ظاهَرَ منِ امرَأتِه التي لا يُمكِنُه وَطْؤُها",
+			"audio": "/files/quiz/figh/figh-iela/audio/2035.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4855",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَتوقَّفُ على وَقتِ القُدرةِ ويَقَعُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَقَعُ الظِّهارُ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ الظِّهارُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2035_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2025,
+		"q": {
+			"q": "المُختَلِعةُ إن كانت حامِلًا",
+			"audio": "/files/quiz/figh/figh-iela/audio/2025.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4720",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لها نِصفُ النَّفَقةِ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "لا نَفَقةَ لها بالاتِّفاقِ",
+				"t": 0
+			},
+			{
+				"answer": "لها النَّفَقةُ والسُّكنَى بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2025_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2027,
+		"q": {
+			"q": "إذا تَرَك الرَّجُلُ وطْءَ امرَأَتِه بلا عَجزٍ وبلا يَمينٍ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2027.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4732",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "إن زادَ على أربَعةِ أشهُرٍ كان مُوليًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يُعَدُّ مُوليًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2027_Answer.mp3"
+			},
+			{
+				"answer": "كان مُولِيًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2041,
+		"q": {
+			"q": "مَن جامَعَ قبلَ أن يُكفِّرَ كَفَّارةَ الظِّهارِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2041.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4884",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لم تَلزَمْه إلَّا كَفَّارةٌ واحِدةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2041_Answer.mp3"
+			},
+			{
+				"answer": "لَزِمَه كَفَّارةٌ وفِديةٌ",
+				"t": 0
+			},
+			{
+				"answer": "لَزِمَه كَفَّارَتانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2036,
+		"q": {
+			"q": "تَوقيتُ الظِّهارِ بمُدَّةٍ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2036.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4861",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا عِبرةَ بالتَّوقيتِ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2036_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2038,
+		"q": {
+			"q": "التَّتابُعُ في صِيامِ كَفَّارةِ الظِّهارِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2038.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4876",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَجِبُ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2038_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ على الرَّاجِحِ",
+				"t": 0
+			},
+			{
+				"answer": "يُستحَبُّ بالِاتِّفاقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2026,
+		"q": {
+			"q": "المُختَلِعةُ غَيرُ الحامِلِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2026.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4722",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا نَفَقةَ لها ولا سُكنَى",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2026_Answer.mp3"
+			},
+			{
+				"answer": "لها النَّفَقةُ والسُّكنَى",
+				"t": 0
+			},
+			{
+				"answer": "لها النَّفَقةُ دون السُّكنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2039,
+		"q": {
+			"q": "وَطءُ المُظاهِرِ قبلَ أداءِ الكَفَّارةِ إذا كان تَكفيرُه بالعِتقِ أوِ الصِّيامِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2039.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4880",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2039_Answer.mp3"
+			},
+			{
+				"answer": "إذا عَزَم على الصِّيامِ جاز الوَطءُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2028,
+		"q": {
+			"q": "الإيلاءُ من غَيرِ القادِرِ على الوَطءِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2028.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4738",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يُعَدُّ إيلاءً",
+				"t": 0
+			},
+			{
+				"answer": "لا عِبرةَ بحالِ الزَّوجِ",
+				"t": 0
+			},
+			{
+				"answer": "لا ُ يُعَدُّ إيلاءً",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2028_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2030,
+		"q": {
+			"q": "لو حَلَف على تَركِ الوَطءِ أقلَّ من أربَعةِ أشهُرٍ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2030.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4742",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "يَكونُ مُولِيًا إن زاد على شَهرٍ",
+				"t": 0
+			},
+			{
+				"answer": "يَكونُ مُولِيًا مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يَكونُ مُوليًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2030_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2031,
+		"q": {
+			"q": "انقِضاءُ الأربَعةِ أشهُرٍ في الإيلاءِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2031.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4774",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا أثَرَ لمُرورِ الأشهُرِ",
+				"t": 0
+			},
+			{
+				"answer": "يُرجَعُ إلى الزَّوجِ فإمَّا الفَيءُ وإمَّا الطَّلاقُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2031_Answer.mp3"
+			},
+			{
+				"answer": "تُطلَّقُ المَرأةُ مُباشرةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2023,
+		"q": {
+			"q": "عِدَّةُ المُختَلِعةِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2023.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4703",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "مِثلُ عِدَّةِ المُتوَفَّى عنها زَوجُها",
+				"t": 0
+			},
+			{
+				"answer": "ثَلاثَةُ قُروءٍ",
+				"t": 0
+			},
+			{
+				"answer": "حَيضةٌ واحِدةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2023_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2032,
+		"q": {
+			"q": "الطَّلاقُ الذي يَقَعُ بالإيلاءِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2032.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4776",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "رَجْعيٌّ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "بائنٌ",
+				"t": 0
+			},
+			{
+				"answer": "رَجْعيٌّ في حَقِّ مَن دَخَل بها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2032_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2034,
+		"q": {
+			"q": "إذا وَطِئَ المُولي زَوجَتَه",
+			"audio": "/files/quiz/figh/figh-iela/audio/2034.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4790",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "سَقَط حُكمُ الإيلاءِ، ولا يَجِبُ عَليهِ شَيءٌ",
+				"t": 0
+			},
+			{
+				"answer": "عَليهِ فِديَةُ أَذىً",
+				"t": 0
+			},
+			{
+				"answer": "سَقَط حُكمُ الإيلاءِ، ولَزِمَه كَفَّارةُ يَمينٍ إن كان الحَلِفُ باللهِ، أو يَلزَمُه ما حَلَف عَليهِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2034_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2024,
+		"q": {
+			"q": "الخُلعُ مع استِقامةِ الحالِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2024.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4712",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "مَكروهٌ باتِّفاقِ العُلَماءِ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2024_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ بالإجماعِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2029,
+		"q": {
+			"q": "لو حَلَف بغَيرِ اللهِ، أو بغَيرِ صِفةٍ من صِفاتِه في الإيلاءِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2029.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4740",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا يَكونُ مُوليًا وعليه كفَّارةُ يَمينٍ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَكونُ مُوليًا",
+				"t": 0
+			},
+			{
+				"answer": "يَكونُ مُوليًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2029_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2042,
+		"q": {
+			"q": "الخُلعُ في الحَيضِ والطُّهرِ الذي جامَعَها فيه",
+			"audio": "/files/quiz/figh/figh-iela/audio/2042.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4682",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لا يَقَعُ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2042_Answer.mp3"
+			},
+			{
+				"answer": "يَقَعُ بِدعِيًّا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2033,
+		"q": {
+			"q": "إذا جامَعَ الزَّوجُ امرَأتَه قبلَ انقِضاءِ المُدَّةِ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2033.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4783",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "لم يَكُنْ فَيئًا",
+				"t": 0
+			},
+			{
+				"answer": "كان فَيئًا بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2033_Answer.mp3"
+			},
+			{
+				"answer": "يُشتَرَطُ النِّيَّةُ فيه وإلَّا لم يَكُنْ فَيئًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2040,
+		"q": {
+			"q": "الخُلعُ بعِوَضٍ يَكونُ",
+			"audio": "/files/quiz/figh/figh-iela/audio/2040.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/4697",
+		"section": "figh-iela",
+		"answers": [
+			{
+				"answer": "فَسخًا بأيِّ لَفظٍ كان",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-iela/audio/answers/2040_Answer.mp3"
+			},
+			{
+				"answer": "طَلاقًا رَجعِيًّا",
+				"t": 0
+			},
+			{
+				"answer": "طَلاقًا بَائنًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

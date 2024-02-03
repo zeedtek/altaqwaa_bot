@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2508,
+		"q": {
+			"q": "وَقفُ الإنسانِ نَفْسَه؛كأنْ يَقِفَ نَفْسَه لوَجهِ اللهِ تَعالَى في عَمَلٍ منَ الأعمالِ",
+			"audio": "/files/quiz/figh/wagf/audio/2508.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6109",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَجِبُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2508_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2502,
+		"q": {
+			"q": "وَقفُ المُفلِسِ بعدَ الحَجرِ عَليهِ",
+			"audio": "/files/quiz/figh/wagf/audio/2502.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5992",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ وَقْفُه",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ ويَلزَمُ الوَفاءُ بعدَ فَكِّ الحَجرِ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2502_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2514,
+		"q": {
+			"q": "وَقفُ المُعيَّنِ مَجهولِ القَدرِ والصِّفةِ",
+			"audio": "/files/quiz/figh/wagf/audio/2514.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6112",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2514_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُتَصَوَّر حُدوثُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2513,
+		"q": {
+			"q": "إذا أطلَقَ الوَقفَ على العَقِبِ",
+			"audio": "/files/quiz/figh/wagf/audio/2513.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6076",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "دَخَل أولادُ البَناتِ عَلى الرَّاجِحِ",
+				"t": 0
+			},
+			{
+				"answer": "لم يَدخُلْ أولادُ البَناتِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2513_Answer.mp3"
+			},
+			{
+				"answer": "دَخَل أولادُ البَناتِ إجماعًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2503,
+		"q": {
+			"q": "وَقفُ الكافِرِ",
+			"audio": "/files/quiz/figh/wagf/audio/2503.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5998",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ عَلى الأُمورِ الدُّنيَوِيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2503_Answer.mp3"
+			},
+			{
+				"answer": "يَصِحُّ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2517,
+		"q": {
+			"q": "وَقفُ المَنقولِ",
+			"audio": "/files/quiz/figh/wagf/audio/2517.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6121",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا مَعنى لوَقفِهَا",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2517_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2504,
+		"q": {
+			"q": "وَقفُ المُكرَهِ",
+			"audio": "/files/quiz/figh/wagf/audio/2504.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6000",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2504_Answer.mp3"
+			},
+			{
+				"answer": "يَصِحُّ إذا كان المُكرِهُ رجلًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2515,
+		"q": {
+			"q": "وَقفُ المُبهَمِ",
+			"audio": "/files/quiz/figh/wagf/audio/2515.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6114",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يُتَصَوَّر حُدوثُه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2515_Answer.mp3"
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2511,
+		"q": {
+			"q": "الوَقفُ على إطعامِ حَيوانٍ",
+			"audio": "/files/quiz/figh/wagf/audio/2511.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6094",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2511_Answer.mp3"
+			},
+			{
+				"answer": "لا وَقفَ إلَّا على مَأكُولِ اللَّحمِ فقط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2512,
+		"q": {
+			"q": "الوَقفُ عَلى الذِّمِّيِّ",
+			"audio": "/files/quiz/figh/wagf/audio/2512.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6096",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُم الوَقفُ عليه",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ اتفاقًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2512_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2510,
+		"q": {
+			"q": "الوَقفُ على المَيِّتِ",
+			"audio": "/files/quiz/figh/wagf/audio/2510.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6083",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2510_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2498,
+		"q": {
+			"q": "الوَقفُ على الأهلِ",
+			"audio": "/files/quiz/figh/wagf/audio/2498.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5968",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2498_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2507,
+		"q": {
+			"q": "دُخولُ أولادِ البَنينَ في الوَقفِ عَلَى العَقِبِ",
+			"audio": "/files/quiz/figh/wagf/audio/2507.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6074",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ الوَقفُ على العَقِبِ ابتِداءً",
+				"t": 0
+			},
+			{
+				"answer": "لا يَدخُلون",
+				"t": 0
+			},
+			{
+				"answer": "يَدخُلون بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2507_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2500,
+		"q": {
+			"q": "وَقفُ الصَّبيِّ",
+			"audio": "/files/quiz/figh/wagf/audio/2500.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5978",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2500_Answer.mp3"
+			},
+			{
+				"answer": "يَتوقَّفُ عَلى إجازةِ الوَليِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2505,
+		"q": {
+			"q": "وَقفُ الهازِلِ",
+			"audio": "/files/quiz/figh/wagf/audio/2505.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6002",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2505_Answer.mp3"
+			},
+			{
+				"answer": "يَصِحُّ مُعاقبَةً له",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2499,
+		"q": {
+			"q": "الوَقفُ على جِهةٍ من جِهاتِ البِرِّ",
+			"audio": "/files/quiz/figh/wagf/audio/2499.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5970",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2499_Answer.mp3"
+			},
+			{
+				"answer": "لا يجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2516,
+		"q": {
+			"q": "وَقفُ ما في الذِّمَّةِ",
+			"audio": "/files/quiz/figh/wagf/audio/2516.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6116",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2516_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَه وَقفُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2506,
+		"q": {
+			"q": "وَقفُ الإنسانِ عَلى نَفسِه",
+			"audio": "/files/quiz/figh/wagf/audio/2506.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6007",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2506_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا مَعنَى له",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2501,
+		"q": {
+			"q": "وَقفُ السَّفيهِ",
+			"audio": "/files/quiz/figh/wagf/audio/2501.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/5987",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "يَصِحُّ ويَقِفُ على إجازةِ الوَليِّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2501_Answer.mp3"
+			},
+			{
+				"answer": "يَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2509,
+		"q": {
+			"q": "إذا وَقَف عَلى قَرابَتِه",
+			"audio": "/files/quiz/figh/wagf/audio/2509.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/6078",
+		"section": "wagf",
+		"answers": [
+			{
+				"answer": "دَخَل قَرابةُ الأبِ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "دَخَل قَرابةُ الأُمِّ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "دَخَل قَرابةُ الأبَوَينِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/wagf/audio/answers/2509_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 7018,
+		"q": {
+			"q": "تُوفِّيَ ابنُ هِشامٍ الأنصاريُّ سَنَةَ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7018.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5601",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "761هـ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7018_Answer.mp3"
+			},
+			{
+				"answer": "942هـ",
+				"t": 0
+			},
+			{
+				"answer": "835هـ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7019,
+		"q": {
+			"q": "أحَدُ كِبارِ رِجالِ النَّهضة العَربيَّة، وباحِثٌ في اللُّغة والأدَبِ والتَّاريخِ، ويُعَدُّ صاحِبَ أكبَرِ مَكتَبةٍ خاصَّةٍ في العَصرِ الحَديثِ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7019.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5703",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أبو البقاءِ العُكْبَرِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "زكيُّ الدينِ عبدُ العظيمِ المُنذِريُّ.",
+				"t": 0
+			},
+			{
+				"answer": "أحمد تَيْمُور",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7019_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7003,
+		"q": {
+			"q": "لُقِّب بأميرِ المؤمنين في النَّحْو؛ لعِظَم مَكَانَتِه ومَنْزِلَتِه بيْن عُلَمَاء اللُّغَة:",
+			"audio": "/files/quiz/arabia/trajm/audio/7003.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5268",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أبو نَصْرٍ البَاهِلِي",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ الأعرابيِّ",
+				"t": 0
+			},
+			{
+				"answer": "أبو زَكَرِيَّا الفَرَّاء",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7003_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7009,
+		"q": {
+			"q": "مِن أَعلامِ اللُّغوِيِّينَ في القَرنِ الرَّابِعَ عَشَرَ الهِجْريِّ، عُيِّن شَيخًا لِلأزهَرِ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7009.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5715",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "خالِد عَبد الكَريمِ الميعان",
+				"t": 0
+			},
+			{
+				"answer": "مُحَمَّد الخِضْر حُسَين",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7009_Answer.mp3"
+			},
+			{
+				"answer": "رِفاعَة الطَّهطاوِي",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7008,
+		"q": {
+			"q": "يُعُدُّ أوَّلَ كتابٍ مَنهجيٍّ يُنَسِّقُ قواعِدَ اللُّغةِ العَرَبيَّة ويُدَوِّنُها:",
+			"audio": "/files/quiz/arabia/trajm/audio/7008.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5235",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "\"الكتابِ\" لسِيبَوَيْه ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7008_Answer.mp3"
+			},
+			{
+				"answer": "\"فِقه اللُّغة\" للثَّعالبيِّ",
+				"t": 0
+			},
+			{
+				"answer": "\"الذَّخائر\" لابنِ عَساكِر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7001,
+		"q": {
+			"q": "أفهَمَ النَّاس بالنَّحْو وكان رحمه الله في لِسانِه حُبْسَةٌ، وَفِي قَلَمِهِ انْطِلاقٌ وَبَرَاعَةٌ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7001.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5235",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "خَلَفٌ القاضي",
+				"t": 0
+			},
+			{
+				"answer": "الحَسَنُ بنُ مُكْرَم",
+				"t": 0
+			},
+			{
+				"answer": "سِيبَوَيْه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7001_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7020,
+		"q": {
+			"q": "مِن رِجالِ التَّعليمِ، وكان مِن أعضاءِ المَجْمَعِ اللُّغَويِّ، مِن أَشهرِ مُصنَّفاتِه (النَّحْو الواضِح):",
+			"audio": "/files/quiz/arabia/trajm/audio/7020.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5713",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أَبُو الحَجَّاج يُوسُفُ بنُ مَعْزُوز",
+				"t": 0
+			},
+			{
+				"answer": "ضِياءُ الدِّينِ الخَزْرجِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "علي الجارِم",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7020_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7015,
+		"q": {
+			"q": "كان من كِبَار النُّحَاة، إِمَامًا في اللُّغَة والعَرَبيَّة والعُلُوم الأَدَبِيَّة؛ مِن مُصَنَّفَاتِه: كتاب (ليس):",
+			"audio": "/files/quiz/arabia/trajm/audio/7015.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5423",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "مَرْوَان الباجي",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ خَالَوَيْه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7015_Answer.mp3"
+			},
+			{
+				"answer": "عَبَّادُ بن سَرحانٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7016,
+		"q": {
+			"q": "كان ابنُ جِنِّي مِن أَحْذَق أَهْلِ الأَدَب، ومِن أعْلَمِهم بالنَّحْوِ والتَّصْرِيف؛ مِن مُصَنَّفَاتِه كتاب: ",
+			"audio": "/files/quiz/arabia/trajm/audio/7016.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5437",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "تَصارِيفُ الشِّعرِ والنَّثْرِ",
+				"t": 0
+			},
+			{
+				"answer": "سِرُّ الصِّنَاعَةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7016_Answer.mp3"
+			},
+			{
+				"answer": "إِحياءُ مَواتِ الأَدَبِ واللُّغَةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7014,
+		"q": {
+			"q": "قال أبو حيان: ما تَحتَ أديمِ السَّماءِ أنحَى مِنِ: ",
+			"audio": "/files/quiz/arabia/trajm/audio/7014.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5603",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "ابنِ عَقيلٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7014_Answer.mp3"
+			},
+			{
+				"answer": "ابنِ ملْكون",
+				"t": 0
+			},
+			{
+				"answer": "السُّهَيليِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7012,
+		"q": {
+			"q": "مِن أقواله المَشْهُورَة: (أموت وفي نفسي شيءٌ من «حتَّى» لأنَّها تخفِضُ وتنصِبُ وترفَعُ):",
+			"audio": "/files/quiz/arabia/trajm/audio/7012.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5268",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أبو زَكَرِيَّا الفَرَّاء",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7012_Answer.mp3"
+			},
+			{
+				"answer": "ابنُ مَنْظُور",
+				"t": 0
+			},
+			{
+				"answer": "الأَخفَش",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7017,
+		"q": {
+			"q": "كان يُلَقَّبُ بجاحِظِ أوانِه وكان رأسًا في النَّظْمِ والنَّثرِ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7017.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5452",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "ابنُ الأثيرِ",
+				"t": 0
+			},
+			{
+				"answer": "أَبُو جَعْفَر الجُذَامِي",
+				"t": 0
+			},
+			{
+				"answer": "أبو منصورٍ الثَّعالبيُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7017_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7007,
+		"q": {
+			"q": "تُوفِّيَ \"نِفْطَوَيْه\" سَنَةَ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7007.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5377",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "375هـ",
+				"t": 0
+			},
+			{
+				"answer": "323هـ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7007_Answer.mp3"
+			},
+			{
+				"answer": "337هـ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7011,
+		"q": {
+			"q": "باحِثٌ لُغوِيٌّ مُعاصِر، لُقِّبَ بشَيخِ المُحَقِّقينَ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7011.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5736",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "شَوقي ضِيف",
+				"t": 0
+			},
+			{
+				"answer": "الطَّناحيُّ",
+				"t": 0
+			},
+			{
+				"answer": "عَبدُ السَّلامِ هارون",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7011_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7013,
+		"q": {
+			"q": "نَّحْويُّ، لغويُّ، مُفسِّر، أحدُ الأئمَّةِ الأعلامِ؛ مِن مُصَنَّفَاتِه:  (غريب الحديث):",
+			"audio": "/files/quiz/arabia/trajm/audio/7013.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5336",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أبو علي النَّقَّاد",
+				"t": 0
+			},
+			{
+				"answer": "أبو عَلِيٍّ القالي",
+				"t": 0
+			},
+			{
+				"answer": "إبْرَاهِيمُ الحَرْبِيُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7013_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7006,
+		"q": {
+			"q": "مِن مُصَنَّفَاتِه كتاب: (إصلاح المَنطِقِ):",
+			"audio": "/files/quiz/arabia/trajm/audio/7006.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5302",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "ابنُ السِّكِّيت",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7006_Answer.mp3"
+			},
+			{
+				"answer": "سِراجُ الدِّينِ البلقينيُّ",
+				"t": 0
+			},
+			{
+				"answer": "الفَيُّوميُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7010,
+		"q": {
+			"q": "كان فَقِيهًا مِن فُقَهاءِ التَّابِعين، عَالِمًا بالعربيَّةِ، ويُعَدُّ مِن أنْبَلِ النَّاسِ الذين أخَذوا عن أبي الأَسْوَد الدُّؤَلِيّ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7010.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5202",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أبو بَشيرٍ بنُ الدُّرَّة",
+				"t": 0
+			},
+			{
+				"answer": "تَمَّام المَدِينيُّ",
+				"t": 0
+			},
+			{
+				"answer": "نَصْرُ بنُ عاصِمٍ اللَّيْثِيُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7010_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7002,
+		"q": {
+			"q": "قُطْرُب سُمِّي قُطْرُبًا؛ لأنه كان يُبكِّر إلى سِيبَوَيْه للأَخْذ عنه؛ والقُطْرُب هو: ",
+			"audio": "/files/quiz/arabia/trajm/audio/7002.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5264",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "النَّجمُ القُطبِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "الجَبلُ الشَّامِخُ الذي لا يَصعَدهُ أَحدٌ مِن فَرطِ عُلُوِّهِ",
+				"t": 0
+			},
+			{
+				"answer": "دُوَيبَّةٌ تَدُبُّ ولا تَفْتُرُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7002_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7005,
+		"q": {
+			"q": "باحث عراقي عُرِفَ بعِنايَتِه بالتَّصحيحِ اللُّغَويِّ ودِراساتِ اللُّغةِ واستِنباطِ القاعِدةِ النَّحْويَّةِ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7005.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5786",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "سامِر السَّامرائيُّ",
+				"t": 0
+			},
+			{
+				"answer": "مُحَمَّد ضاري الحمادي",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7005_Answer.mp3"
+			},
+			{
+				"answer": "عبدُ السَّلامِ هارُون",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 7004,
+		"q": {
+			"q": "أعظَمُ نُحاةِ القَرنِ السَّابِعِ الهِجْريِّ، وكان إمامًا في القِراءاتِ وعِلَلِها، وكان أكثَرَ ما يَستَشهِدُ بالقُرآنِ:",
+			"audio": "/files/quiz/arabia/trajm/audio/7004.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/arabia/5556",
+		"section": "trajm",
+		"answers": [
+			{
+				"answer": "أبو إِسحاقَ الفاتِحُ",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ الأنبارِيِّ",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ مالكٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/trajm/audio/answers/7004_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

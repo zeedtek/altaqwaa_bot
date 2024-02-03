@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2277,
+		"q": {
+			"q": "النَّفَقةُ والسُّكنَى لِلمُطلَّقةِ الرَّجعيَّةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2277.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5258",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "تَجِبُ النَّفقةُ دونَ السُّكنَى",
+				"t": 0
+			},
+			{
+				"answer": "تَجِبُ النَّفَقةُ والسُّكنَى",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2277_Answer.mp3"
+			},
+			{
+				"answer": "لا تَجِبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2274,
+		"q": {
+			"q": "الزَّوجةُ النَّاشِزُ",
+			"audio": "/files/quiz/figh/ridaa/audio/2274.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5250",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا تَسقُطُ نَفَقتُها",
+				"t": 0
+			},
+			{
+				"answer": "تَسقُطُ نَفَقتُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2274_Answer.mp3"
+			},
+			{
+				"answer": "تُخيَّر بين النَّفَقَة والسُّكنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2271,
+		"q": {
+			"q": "تَخييرُ الجارِيةِ بين أبيها وأُمِّها",
+			"audio": "/files/quiz/figh/ridaa/audio/2271.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5206",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "إذا بَلَغت سَبعًا ذَهَبَت لأبيها بغَيرِ تَخييرٍ",
+				"t": 0
+			},
+			{
+				"answer": "لا تُخيَّرُ وتَكونُ عندَ أُمِّها حتَّى تُنكَحَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2271_Answer.mp3"
+			},
+			{
+				"answer": "تُخيَّرُ الجاريةُ إذا بَلَغت سَبعًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2264,
+		"q": {
+			"q": "إذا خُلِطَ لَبَنُ امرَأَتينِ أو أكثَرَ",
+			"audio": "/files/quiz/figh/ridaa/audio/2264.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5116",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "التَّحريمُ للأكثَرِ لَبنًا",
+				"t": 0
+			},
+			{
+				"answer": "انتَفَى التَّحريمُ",
+				"t": 0
+			},
+			{
+				"answer": "يَثبُتُ التَّحريمُ لَهُنَّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2264_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2276,
+		"q": {
+			"q": "نَفَقةُ المَرأةِ وزَوجُها غائبٌ",
+			"audio": "/files/quiz/figh/ridaa/audio/2276.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5254",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا تَسقُطُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2276_Answer.mp3"
+			},
+			{
+				"answer": "تَسقُطُ النَّفَقةُ",
+				"t": 0
+			},
+			{
+				"answer": "تَسقُطُ إنْ لم تكُن حاضِنًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2268,
+		"q": {
+			"q": "لَبَنُ البِكرِ غَيرِ المَوطوءةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2268.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5126",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "غيرُ مُتَصَّورٍ حُدوثُه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَثبُتُ به التَّحريمُ",
+				"t": 0
+			},
+			{
+				"answer": "يَثبُتُ به التَّحريمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2268_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2266,
+		"q": {
+			"q": "يجِب للزَّوجةِ على زوجِها",
+			"audio": "/files/quiz/figh/ridaa/audio/2266.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5222",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "خادِمَة تَخدُمها",
+				"t": 0
+			},
+			{
+				"answer": "نَفَقاتُ حَجِّ الفَريضَة لا النَّافِلَة",
+				"t": 0
+			},
+			{
+				"answer": "نفَقةُ الطَّعام والشَّراب والكِسوة والمسكَن",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2266_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2270,
+		"q": {
+			"q": "الحُقَنُ الشَّرَجيَّةِ باللَّبَنِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2270.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5134",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا يَثبُتُ بها التَّحريمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2270_Answer.mp3"
+			},
+			{
+				"answer": "يَثبُتُ بها التَّحريمُ",
+				"t": 0
+			},
+			{
+				"answer": "يَثبُتُ بها التَّحريمُ إن كانت للغِذاءِ لا العِلاجِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2263,
+		"q": {
+			"q": "الرَّضاعُ عن طَريقِ الأنفِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2263.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5113",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يَثبُتُ به التَّحريمُ كالرَّضاعِ منَ الفَمِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2263_Answer.mp3"
+			},
+			{
+				"answer": "لا يَثبُتُ به التَّحريمُ إلَّا إذا أَقَرَّهُ القاضِي",
+				"t": 0
+			},
+			{
+				"answer": "لا يَثبُتُ به التَّحريمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2272,
+		"q": {
+			"q": "نَفقةُ المَحضونِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2272.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5209",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "على الحاضِنِ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "من مالِه إنْ كان له مالٌ، وإلَّا فعَلى مَن تَجِبُ عَليهِ نَفَقتُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2272_Answer.mp3"
+			},
+			{
+				"answer": "على عَصَبَتِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2269,
+		"q": {
+			"q": "إذا خُلِطَ اللَّبنُ بالطَّعامِ وغَلَب الطعامُ",
+			"audio": "/files/quiz/figh/ridaa/audio/2269.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5132",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يَثبُتُ به التَّحريمُ بشَرطِ أن يكونَ الطِّفلُ مَفطُومًا",
+				"t": 0
+			},
+			{
+				"answer": "لم يَثبُتِ التَّحريمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2269_Answer.mp3"
+			},
+			{
+				"answer": "ثَبَت التَّحريمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2282,
+		"q": {
+			"q": "المُفارِقةُ زَوْجَها بعَيبٍ",
+			"audio": "/files/quiz/figh/ridaa/audio/2282.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5267",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لها النَّفَقةُ",
+				"t": 0
+			},
+			{
+				"answer": "لا نَفَقةَ لها",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2282_Answer.mp3"
+			},
+			{
+				"answer": "لها النَّفَقةُ إن كان زَوجُها مَن فارَقَها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2279,
+		"q": {
+			"q": "نَفَقةُ المُطلَّقةِ البائنِ غيرِ الحامِلِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2279.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5260",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا يَجِبُ لها شَيءٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2279_Answer.mp3"
+			},
+			{
+				"answer": "تَجِبُ لها النَّفَقةُ مُدَّةَ العِدَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "تَجِبُ لها النَّفَقةُ والسُّكنَى مُدَّةَ العِدَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2280,
+		"q": {
+			"q": "نَفَقةُ المُلاعِنةِ في العِدَّةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2280.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5263",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا يَجِبُ لها شَيءٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2280_Answer.mp3"
+			},
+			{
+				"answer": "تَجِبُ لها النَّفَقةُ والكِسوةِ",
+				"t": 0
+			},
+			{
+				"answer": "تَجِبُ لها النَّفَقةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2281,
+		"q": {
+			"q": "سُكنَى المُلاعِنةِ في العِدَّةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2281.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5265",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "يَجِبُ لها السُّكنَى",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجِبُ لها سُكنَى",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2281_Answer.mp3"
+			},
+			{
+				"answer": "يَجِبُ لها نَفَقَة لا سُكنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2278,
+		"q": {
+			"q": "النَّفَقةُ والسُّكنَى للمُطلَّقةِ البائنِ الحامِلِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2278.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5260",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا تَجِبُ لها النَّفَقةُ ولا السُّكنَى",
+				"t": 0
+			},
+			{
+				"answer": "تَجِبُ لها النَّفَقةُ والسُّكنَى",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2278_Answer.mp3"
+			},
+			{
+				"answer": "تَجِبُ لها النَّفقةُ دونَ السُّكنَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2265,
+		"q": {
+			"q": "إذا خَلَط لَبَنَ المَرأةِ بمائعٍ وغَلَب على المائعِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2265.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5118",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "ثَبَت التَّحريمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2265_Answer.mp3"
+			},
+			{
+				"answer": "يَثبُتُ به التَّحريمُ إذا كان عُمُرُ الرَّضيعِ أقلَّ من سَنةٍ",
+				"t": 0
+			},
+			{
+				"answer": "انتَفَى التَّحريمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2273,
+		"q": {
+			"q": "أُجرةُ الحَضانةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2273.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5211",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "للحاضِنةِ أُجرَةٌ تَستَحِقُّها منَ الطِّفلِ بعدَ أن يَبلُغَ",
+				"t": 0
+			},
+			{
+				"answer": "لها أُجرةٌ من مالِه إن كان له مالٌ، وإلَّا فعَلَى مَن تَجِبُ عَليهِ نَفَقتُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2273_Answer.mp3"
+			},
+			{
+				"answer": "لا أُجرةَ للحَضانةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2267,
+		"q": {
+			"q": "إذا حُلِب اللَّبَنُ مِن المَرأَةِ مرَّةً واحِدةً وسُقِي للطِّفلِ خَمْسَ مرَّاتٍ",
+			"audio": "/files/quiz/figh/ridaa/audio/2267.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5122",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لم يَثبُتْ به التَّحريمُ",
+				"t": 0
+			},
+			{
+				"answer": "حُسِبَت رَضعةً واحِدَة",
+				"t": 0
+			},
+			{
+				"answer": "يَثبُتُ به التَّحريمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2267_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2275,
+		"q": {
+			"q": "نَفَقةُ الزَّوجِ على زَوجتِه العامِلةِ",
+			"audio": "/files/quiz/figh/ridaa/audio/2275.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/5252",
+		"section": "ridaa",
+		"answers": [
+			{
+				"answer": "لا تَسقُطُ النَّفَقةُ مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا تَسقُطُ إذا شَرَط على الزَّوجِ أن تَعمَلَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/ridaa/audio/answers/2275_Answer.mp3"
+			},
+			{
+				"answer": "تَسقُطُ النَّفَقةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1824,
+		"q": {
+			"q": "المضطَرُّ إذا وَجَد طَعامَ غَيرِه والمَيْتةَ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1824.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3588",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَأكُل أيَّهُما شاء",
+				"t": 0
+			},
+			{
+				"answer": "يَأكُلُ المَيْتةَ دونَ مالِ غَيرِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1824_Answer.mp3"
+			},
+			{
+				"answer": "يأكُل طَعامَ غَيْرِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1834,
+		"q": {
+			"q": "إمساكُ الخَمرِ للتَّخليلِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1834.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3383",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "واجِبٌ كِفائيٌّ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1834_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1828,
+		"q": {
+			"q": "أكلُ الحِمارِ الوَحْشيِّ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1828.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3443",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يُباحُ أكلُه بالإجْماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1828_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ بالإجْماعِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1827,
+		"q": {
+			"q": "أكلُ لُحومِ الخَيلِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1827.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3438",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَجوزُ أكلُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1827_Answer.mp3"
+			},
+			{
+				"answer": "يُتوَقَّفُ فيه",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ أكلُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1833,
+		"q": {
+			"q": "المُكرَهُ على شُربِ الخَمرِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1833.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3370",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يُكرَهُ له شُربُها",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُمُ",
+				"t": 0
+			},
+			{
+				"answer": "يُباحُ له شُربُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1833_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1821,
+		"q": {
+			"q": "حدُّ الاضطِرارِ الذي يَجوزُ معَه أكْلُ المَيْتةِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1821.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3576",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "الضَّرَرُ النَّفسيُّ",
+				"t": 0
+			},
+			{
+				"answer": "الألَم النَّاتِجُ عنِ الجُوعِ",
+				"t": 0
+			},
+			{
+				"answer": "المَوتُ، أوِ المَرَضُ المُفْضي إلى المَوتِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1821_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1837,
+		"q": {
+			"q": "التزَوُّدُ للمُضطَرِّ منَ المَيتةِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1837.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3583",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ له ذلك",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1837_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1832,
+		"q": {
+			"q": "أكلُ الضَّبُعِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1832.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3457",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1832_Answer.mp3"
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1836,
+		"q": {
+			"q": "ما له رائِحةٌ كَريهةٌ مِنَ الطَّعامِ وهو طاهِرٌ غَيرُ مُضِرٍّ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1836.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3565",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1836_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1825,
+		"q": {
+			"q": "أكْلُ المضطَرِّ إذا وَجَد مَيتةَ الآدَميِّ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1825.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3591",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يُكرَهُ أكْلُها",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ أكْلُها للضَّرورةِ",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1825_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1829,
+		"q": {
+			"q": "أكْلُ السَّرَطانِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1829.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3550",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1829_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1822,
+		"q": {
+			"q": "إذا أُكرِه المُسلِمُ على أكْلِ المُحرَّمِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1822.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3579",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَجوزُ أكْلُ المَيْتةِ دُون غَيرِها",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ له أكْلُ المُحرَّمِ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ له للإكْراهِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1822_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1835,
+		"q": {
+			"q": "خَلطُ الخَمرِ بغَيرِها منَ الأطعِمةِ ولم تُستَهلَكْ ويَذهَبْ أثَرُها",
+			"audio": "/files/quiz/figh/figh-atema/audio/1835.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3385",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1835_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1823,
+		"q": {
+			"q": "المُحرِمُ بالحَجِّ إذا اضطُرَّ وهو مُخيَّرٌ بَينَ المَيتةِ أو صَيدِ الحَرَمِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1823.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3586",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَأكُل أيَّهُما شاء",
+				"t": 0
+			},
+			{
+				"answer": "صَيدُ الحَرَمِ مُقدَّمٌ على المَيتةِ",
+				"t": 0
+			},
+			{
+				"answer": "المَيتةُ مُقدَّمةٌ على صَيدِ الحَرَمِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1823_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1838,
+		"q": {
+			"q": "لبَنُ الأَتانِ الوَحشيَّةِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1838.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3445",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَحرُمُ شُربُه",
+				"t": 0
+			},
+			{
+				"answer": "يُباحُ شُربُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1838_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ شُربُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1840,
+		"q": {
+			"q": "أكلُ مَيتةِ السَّمَكِ الطَّافي",
+			"audio": "/files/quiz/figh/figh-atema/audio/1840.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3537",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1840_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "حَرامٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1826,
+		"q": {
+			"q": "شُربُ لبَنِ الخَيْلِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1826.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3440",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1826_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ للضَّرورةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1831,
+		"q": {
+			"q": "أكلُ القُنفُذِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1831.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3455",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يُباحُ أكلُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1831_Answer.mp3"
+			},
+			{
+				"answer": "يَحرُمُ أكلُه",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ أكلُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1839,
+		"q": {
+			"q": "أكلُ المَيتةِ منَ الحَيَوانِ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1839.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3523",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "يَحرُمُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1839_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1830,
+		"q": {
+			"q": "أكلُ الضَّبِّ",
+			"audio": "/files/quiz/figh/figh-atema/audio/1830.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3453",
+		"section": "figh-atema",
+		"answers": [
+			{
+				"answer": "حَرامٌ",
+				"t": 0
+			},
+			{
+				"answer": "حَلالٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-atema/audio/answers/1830_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

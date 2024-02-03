@@ -1,0 +1,542 @@
+[
+	{
+		"id": 197,
+		"q": {
+			"q": "قولُه تعالى: {مُحْصِنِينَ غَيْرَ مُسَافِحِينَ}. في الآيةِ دَلالَةٌ على:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/197.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/8#tt17",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "كَراهِيةِ المُتعةِ",
+				"t": 0
+			},
+			{
+				"answer": "تَحرِيمِ المُتعةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/197_Answer.mp3"
+			},
+			{
+				"answer": "جَوازِ المُتعةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 182,
+		"q": {
+			"q": "قولُه تعالى: {وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَى أَمْوَالِكُمْ إِنَّهُ كَانَ حُوبًا كَبِيرًا} المقصودُ بـ (حُوبًا):",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/182.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/2#tt7",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "الإثْم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/182_Answer.mp3"
+			},
+			{
+				"answer": "الشِّرْك",
+				"t": 0
+			},
+			{
+				"answer": "المُصِيبَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 184,
+		"q": {
+			"q": "قولُه تعالى: {وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا}، المقصودُ بالسُّفَهاءِ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/184.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/2#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "الأطفالُ دونَ سِنِّ السابِعَة",
+				"t": 0
+			},
+			{
+				"answer": "المَجانِينُ",
+				"t": 0
+			},
+			{
+				"answer": "مَن لا يُحسِنُ التصرُّفَ في المالِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/184_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 189,
+		"q": {
+			"q": "إذا كان للمُتوفَّى وَلدٌ فنَصِيبُ الوَالِدانِ مِن التَّرِكةِ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/189.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/4#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "النِّصفُ",
+				"t": 0
+			},
+			{
+				"answer": "الثُّلُثُ",
+				"t": 0
+			},
+			{
+				"answer": "السُّدُسُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/189_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 199,
+		"q": {
+			"q": "سَألَ اليَهودُ مُوسى أن يُرِيَهمُ اللهَ عِيانًا، فعُوقِبُوا بـ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/199.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/41#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "الطُّوفانِ",
+				"t": 0
+			},
+			{
+				"answer": "الجَراد",
+				"t": 0
+			},
+			{
+				"answer": "الصَّاعِقةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/199_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 187,
+		"q": {
+			"q": "إنْ كانتِ البَناتُ زائداتٍ على اثنَتَينِ، وليس مَعهُنَّ ذَكَرٌ، فنَصِيبُهُنَّ مِنَ الميراثِ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/187.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/4#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "نِصفُ ما تَركَ المُتوفَّى",
+				"t": 0
+			},
+			{
+				"answer": "ثُلُثَا ما تَركَ المُتوفَّى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/187_Answer.mp3"
+			},
+			{
+				"answer": "ثُلُثُ ما تَركَ المُتوفَّى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 185,
+		"q": {
+			"q": "بم تَوعَّد اللهُ الذين يَأكُلونَ أموالَ الأيتامِ بغيرِ حقٍّ؟\n \n \n ",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/185.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/3#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "بأكْلِ الزَّقُّومِ يومَ القِيامةِ\n ",
+				"t": 0
+			},
+			{
+				"answer": "بالدَّركِ الأسفلِ منَ النارِ",
+				"t": 0
+			},
+			{
+				"answer": "بأنَّهُم يَأكُلونَ في بُطونِهم نارًا يومَ القِيامةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/185_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 194,
+		"q": {
+			"q": "يَقبَلُ اللهُ التَّوبةَ ممَّن يقَعُ منهمُ الذنبُ عن جَهالةٍ منهم، ثم يَتُوبونَ بشَرطِ أن تكونَ التَّوبةُ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/194.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/5#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "قبلَ أن يأتي عامٌ قابِلٌ",
+				"t": 0
+			},
+			{
+				"answer": "بعدَ ارتِكابِ المَعصِيةِ مُباشَرةً",
+				"t": 0
+			},
+			{
+				"answer": "قبلَ مُعايَنتِهمُ المَوتَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/194_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 192,
+		"q": {
+			"q": "قولُه تعالى: {وَاللَّذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا}. المَقصُودُ بالأَذَى في الآيَةِ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/192.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/5#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "السَّبُّ والشَّتْمُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/192_Answer.mp3"
+			},
+			{
+				"answer": "الجَلْدُ",
+				"t": 0
+			},
+			{
+				"answer": "الضَّربُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 181,
+		"q": {
+			"q": "قولُه تعالى: {يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ} المَقصودُ بـ (نَفْسٍ وَاحِدَةٍ):",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/181.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/1#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "رُوح واحِدَة",
+				"t": 0
+			},
+			{
+				"answer": "طِينَةٍ واحِدَة",
+				"t": 0
+			},
+			{
+				"answer": "أَبوهُم آدَمُ عليه السلامُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/181_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 188,
+		"q": {
+			"q": "إذا كان للمُتوفَّى بِنتٌ واحِدَةٌ فقطْ؛ فنَصِيبُها مِنَ الوِرْثِ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/188.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/4#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "النِّصفُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/188_Answer.mp3"
+			},
+			{
+				"answer": "السُّدُسُ",
+				"t": 0
+			},
+			{
+				"answer": "الثُّلُثُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 196,
+		"q": {
+			"q": "قولُه تعالى: {غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ}. المَقصُودُ بـ(أَخْدَانٍ):\n \n ",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/196.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/8#tt7",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "صَدِيقاتٌ يُظهِرن الفاحِشةَ",
+				"t": 0
+			},
+			{
+				"answer": "الرَّاياتُ الحُمرُ التي كانت تُرفَع فوقَ بُيوتِ الزَّانيات",
+				"t": 0
+			},
+			{
+				"answer": "زَوانٍ سِرًّا، أو أَصدِقاءُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/196_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 190,
+		"q": {
+			"q": "إذا لم يكُنْ للمُتوفَّى وَلدٌ، ووَرِثَه أبواهُ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/190.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/4#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "فلأُمِّه النِّصفُ ولأَبِيه ما تَبقَّى مِنَ المالِ",
+				"t": 0
+			},
+			{
+				"answer": "فلأُمِّه الثُّلُثُ ولأَبِيه ما تَبقَّى مِنَ التَّرِكةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/190_Answer.mp3"
+			},
+			{
+				"answer": "فلأُمِّه الثُّلُثُ ولأبِيه النِّصفُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 193,
+		"q": {
+			"q": "قبلَ تَشريعِ حَدِّ الزِّنا أمرَ اللهُ تعالى عِبادَه بعُقوبةِ مَن يَقعْنَ في الزِّنا بـ:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/193.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/5#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "الرَّجْمِ",
+				"t": 0
+			},
+			{
+				"answer": "الجَلْدِ",
+				"t": 0
+			},
+			{
+				"answer": "الحَبسِ في البُيوتِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/193_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 200,
+		"q": {
+			"q": "المقصودُ بقولِ اللهِ تعالى: {وَأَنْزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا}:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/200.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/44#tt4",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "التَّورَاةُ",
+				"t": 0
+			},
+			{
+				"answer": "القُرآنُ الكريمُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/200_Answer.mp3"
+			},
+			{
+				"answer": "الإِنجيلُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 198,
+		"q": {
+			"q": "في قولِه تعالى: {لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ}:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/198.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/10#tt17",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "تحريمُ التَّعامُلِ المحرَّمِ ولو كان برِضًا منَ الطَّرَفَيْنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/198_Answer.mp3"
+			},
+			{
+				"answer": "جَوازُ التَّعامُلاتِ المحرَّمةِ بالمالِ إذا كانت عن رضًا منَ الطرَفينِ",
+				"t": 0
+			},
+			{
+				"answer": "كَراهِيَةُ أَكلِ المالِ بالباطِلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 191,
+		"q": {
+			"q": "إنْ كان للمُتوفَّى مع الأَبَوينِ الوَارثَينِ إِخوةٌ للميِّتِ -أشِقَّاءُ، أو لأبٍ، أو لِأُمٍّ- فتَستَحِقُّ الأمُّ:\n \n \n ",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/191.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/4#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "الثُّلُثَ مِن التَّرِكةِ والباقي للأشِقَّاءِ",
+				"t": 0
+			},
+			{
+				"answer": "السُّدُسَ مِنَ التَّرِكةِ، وما بَقِيَ فللأَبِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/191_Answer.mp3"
+			},
+			{
+				"answer": "النِّصفَ مِنَ التَّرِكةِ والباقي للأبِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 195,
+		"q": {
+			"q": "إذا أرادَ الأزواجُ فِراقَ أزواجِهنَّ والتَّزوُّجَ بغَيرِهنَّ، فإنَّه:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/195.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/6#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "لا يَحِلُّ للزَّوجِ أن يأخُذَ مِن مَهرِ زَوجَتِه التي يُريدُ طَلاقَها شَيئًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/195_Answer.mp3"
+			},
+			{
+				"answer": "يحِلُّ للزَّوجِ أن يَأخُذَ مِن مَهرِ زَوجَتِه التي يُريدُ طَلاقَها",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ للزَّوجِ أن يأخُذَ مِن مَهرِ زَوجتِه شَيئًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 186,
+		"q": {
+			"q": "نَصِيبُ الذَّكَرِ في الميراثِ مِثلُ نَصِيبِ",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/186.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/4#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "أُنثَى واحِدَةٍ",
+				"t": 0
+			},
+			{
+				"answer": "الأُنثَيَيْنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/186_Answer.mp3"
+			},
+			{
+				"answer": "ثَلاثِ إِناثٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 183,
+		"q": {
+			"q": "قولُه تعالى: {وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَى أَمْوَالِكُمْ}، النَهيُ في الآيةِ عن:",
+			"audio": "/files/quiz/tafseer/an-nisaa/audio/183.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/4/2#tt9",
+		"section": "an-nisaa",
+		"answers": [
+			{
+				"answer": "الإسرافِ في أَموالِ اليَتامَى بقَصدِ إِهلاكِها",
+				"t": 0
+			},
+			{
+				"answer": "التِّجارَةِ بأموالِ اليَتامَى",
+				"t": 0
+			},
+			{
+				"answer": "ضَمِّ أموالِ الأيتامِ إلى أموالِهم؛ بقصدِ أن يأكلوها بالباطلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/an-nisaa/audio/answers/183_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

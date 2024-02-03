@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2840,
+		"q": {
+			"q": "مَن تَيمَّمَ ناسيًا وجودَ الماءِ؛ فإنَّه:",
+			"audio": "/files/quiz/figh/tahara/audio/2840.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/546",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "لا شيءَ عليه",
+				"t": 0
+			},
+			{
+				"answer": "تَلزَمُه إعادةُ الصلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2840_Answer.mp3"
+			},
+			{
+				"answer": "يُستحَبُّ له إعادةُ الصلاةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2842,
+		"q": {
+			"q": "ما حُكمُ التبوُّلِ في الشُّقوقِ والجُحورِ والثُّقوبِ؟",
+			"audio": "/files/quiz/figh/tahara/audio/2842.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/108",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2842_Answer.mp3"
+			},
+			{
+				"answer": "حرامٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2843,
+		"q": {
+			"q": "السِّواكُ عندَ دُخولِ البيتِ:",
+			"audio": "/files/quiz/figh/tahara/audio/2843.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/201",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "لا يُشرَعُ",
+				"t": 0
+			},
+			{
+				"answer": "يُستحَبُّ باتِّفاقِ المذاهبِ الفقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2843_Answer.mp3"
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2837,
+		"q": {
+			"q": "محلُّ السِّواكِ في الوُضوءِ:",
+			"audio": "/files/quiz/figh/tahara/audio/2837.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/201",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "بعدَ غَسلِ الكفَّينِ وقبلَ المَضمَضمةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2837_Answer.mp3"
+			},
+			{
+				"answer": "بعدَ غَسلِ الوجهِ",
+				"t": 0
+			},
+			{
+				"answer": "قبلَ الشُّروعِ في الوُضوءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2828,
+		"q": {
+			"q": "إذا خرَج بقيَّةُ المنيِّ بعدَ الاغتسالِ:",
+			"audio": "/files/quiz/figh/tahara/audio/2828.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/466",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "لا يجِبُ إعادةُ الغُسلِ ولا الوُضوءُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يجِبُ إعادةُ الغُسلِ؛ وإنَّما يجِبُ الوُضوءُ فقط",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2828_Answer.mp3"
+			},
+			{
+				"answer": "يجِبُ إعادةُ الغُسلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2829,
+		"q": {
+			"q": "الإحْرامُ بالحجِّ والعُمرةِ للحائضِ:",
+			"audio": "/files/quiz/figh/tahara/audio/2829.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/611",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "يجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2829_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يحرُمُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2839,
+		"q": {
+			"q": "الوُضوءُ للجُنُبِ إذا أرادَ الأكلَ أوِ الشربَ أوِ النومَ:",
+			"audio": "/files/quiz/figh/tahara/audio/2839.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/240",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "غيرُ مَشروعٍ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2839_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2835,
+		"q": {
+			"q": "ما حُكمُ رَوْثِ وبَوْلِ الحيوانِ المأكولِ اللحمِ؟",
+			"audio": "/files/quiz/figh/tahara/audio/2835.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/158",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "طاهرٌ إذا كان الحيوانُ رَضيعًا فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "غيرُ طاهرٍ باتِّفاقِ المذاهبِ الفقهيَّةِ الأربعةِ",
+				"t": 0
+			},
+			{
+				"answer": "طاهرٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2835_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2826,
+		"q": {
+			"q": "الماءُ الجاري إذا وقَعَت فيه نَجاسةٌ:",
+			"audio": "/files/quiz/figh/tahara/audio/2826.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/13",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "لا ينجُسُ إلَّا بالتغيُّرِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2826_Answer.mp3"
+			},
+			{
+				"answer": "لا ينجُسُ أبدًا",
+				"t": 0
+			},
+			{
+				"answer": "ينجُسُ بمجرَّدِ مخالَطتِه للنَّجَسِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2841,
+		"q": {
+			"q": "تُطلَقُ الطهارةُ في الاصطلاحِ على مَعنَيَينِ، هما:",
+			"audio": "/files/quiz/figh/tahara/audio/2841.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "زَوالُ الخَبَثِ ورفْعُ الحدَثِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2841_Answer.mp3"
+			},
+			{
+				"answer": "الغُسلُ والوُضوءُ",
+				"t": 0
+			},
+			{
+				"answer": "النَّزاهةُ والنَّظافةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2831,
+		"q": {
+			"q": "يُستحَبُّ لمَن أرادَ قضاءَ الحاجةِ وكان في الصَّحْراءِ أنْ يطلُبَ مكانًا:",
+			"audio": "/files/quiz/figh/tahara/audio/2831.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/104",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "رِخوًا كالتُّرابِ أوِ الرمْلِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2831_Answer.mp3"
+			},
+			{
+				"answer": "صُلبًا",
+				"t": 0
+			},
+			{
+				"answer": "صَعيدًا طيِّبًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2845,
+		"q": {
+			"q": "الوُضوءُ لصلاةِ الجِنازةِ:",
+			"audio": "/files/quiz/figh/tahara/audio/2845.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/240",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "رُكنٌ من أركانِ الصلاةِ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "شرطٌ لصحَّةِ الصلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2845_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2838,
+		"q": {
+			"q": "من سُنَنِ الفِطرةِ غَسلُ البَراجِمِ؛ وهي:",
+			"audio": "/files/quiz/figh/tahara/audio/2838.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/205",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "أعقابُ الرِّجلَينِ والْمِرفَقينِ",
+				"t": 0
+			},
+			{
+				"answer": "عُقَدُ الأصابعِ ومَفاصِلُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2838_Answer.mp3"
+			},
+			{
+				"answer": "ما تحتَ الأظافِرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2844,
+		"q": {
+			"q": "ما حُكمُ إزالةِ شَعرِ الإبْطِ؟",
+			"audio": "/files/quiz/figh/tahara/audio/2844.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/207",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "يُسنُّ إزالةُ شَعرِ الإبْطِ بالنَّتفِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2844_Answer.mp3"
+			},
+			{
+				"answer": "يجبُ إزالةُ شَعرِ الإبْطِ بالحَلقِ",
+				"t": 0
+			},
+			{
+				"answer": "يُكرَهُ إزالةُ شَعرِ الإبْطِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2836,
+		"q": {
+			"q": "كيفيَّةُ التطهيرِ من نَجاسةِ الخِنزيرِ:",
+			"audio": "/files/quiz/figh/tahara/audio/2836.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/165",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "تُغسَلُ بالتُّرابِ",
+				"t": 0
+			},
+			{
+				"answer": "تُغسَلُ سَبعَ مرَّاتٍ إحْداها بالتُّرابِ",
+				"t": 0
+			},
+			{
+				"answer": "تُغسَلُ كما تُغسَلُ باقي النَّجاساتِ الأُخرى",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2836_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2830,
+		"q": {
+			"q": "تَعريفُ الماءِ المُطلَقِ هو:",
+			"audio": "/files/quiz/figh/tahara/audio/2830.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/8",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "الماءُ الذي خالَطتْه النجاساتُ",
+				"t": 0
+			},
+			{
+				"answer": "الماءُ الباقي على أصلِ خِلقتِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2830_Answer.mp3"
+			},
+			{
+				"answer": "الماءُ الراكِدُ الذي لا يَتحرَّكُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2827,
+		"q": {
+			"q": "الجَلَّالةُ هي:",
+			"audio": "/files/quiz/figh/tahara/audio/2827.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/175",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "ما كان أكثرُ أكلِها النجاسةَ، أو ما ظهَر فيها أثرُ النَّجاسةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2827_Answer.mp3"
+			},
+			{
+				"answer": "كلُّ صيدٍ أكَلَ منه كلبُ الصيدِ",
+				"t": 0
+			},
+			{
+				"answer": "كلُّ حيوانٍ يحرُمُ أكلُه كالحِمارِ والبَغلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2834,
+		"q": {
+			"q": "مَن شكَّ في طَهارةِ شيءٍ أو نَجاستِه:",
+			"audio": "/files/quiz/figh/tahara/audio/2834.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/152",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "يَبقى نَجِسًا باتِّفاقِ المذاهبِ الفقهيَّةِ الأربعةِ",
+				"t": 0
+			},
+			{
+				"answer": "بَنى على الأصلِ إنْ كان طاهرًا أو نَجِسًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2834_Answer.mp3"
+			},
+			{
+				"answer": "يَبقى طاهرًا باتِّفاقِ المذاهبِ الفقهيَّةِ الأربعةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2832,
+		"q": {
+			"q": "ما مَعنى الأسْآرِ اصْطلاحًا؟",
+			"audio": "/files/quiz/figh/tahara/audio/2832.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/40",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "ما يَتبقَّى في الإناءِ ونحوِه من طعامٍ وشرابٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2832_Answer.mp3"
+			},
+			{
+				"answer": "طعامُ الصيدِ إذا صادَه الكلبُ المعلَّمُ",
+				"t": 0
+			},
+			{
+				"answer": "الأكلُ من طعامِ الكافِرِ أوِ المشرِكِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2833,
+		"q": {
+			"q": "الاستِنجاءُ بالأحْجارِ ونحوِها يَكْفي فيها:",
+			"audio": "/files/quiz/figh/tahara/audio/2833.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/116",
+		"section": "tahara",
+		"answers": [
+			{
+				"answer": "خَمسُ مَسَحاتٍ، فإنْ لم يحصُلِ الإنْقاءُ زادَ",
+				"t": 0
+			},
+			{
+				"answer": "سَبعُ مَسَحاتٍ فقط، وإنْ لم يحصُلِ الإنقاءُ",
+				"t": 0
+			},
+			{
+				"answer": "ثلاثُ مَسَحاتٍ، فإنْ لم يحصُلِ الإنْقاءُ زادَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/tahara/audio/answers/2833_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

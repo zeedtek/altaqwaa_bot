@@ -1,0 +1,542 @@
+[
+	{
+		"id": 555,
+		"q": {
+			"q": "قَوله تعالى: {قُلْ أَتُنَبِّئُونَ اللَّهَ بِمَا لَا يَعْلَمُ فِي السَّمَوَاتِ وَلَا فِي الْأَرْضِ}، استِفهام على سَبيلِ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/555.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/8#tt9",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "التَّقرير",
+				"t": 0
+			},
+			{
+				"answer": "التَّعَجُّب",
+				"t": 0
+			},
+			{
+				"answer": "التَّهَكم والتَّوبيخ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/555_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 544,
+		"q": {
+			"q": "«لا إلَهَ إلَّا اللَّه العَظيم الحَليم، لا إلَهَ إلَّا اللَّه رَبُّ العَرشِ العَظيم، لا إلَهَ إلَّا اللَّه رَبُّ السَّمَواتِ، ورَبُّ الأرضِ، ورَبُّ العَرشِ الكَريم»، هذا الدُّعاء يُقالُ عِندَ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/544.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/4",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "الاستِسقاءِ",
+				"t": 0
+			},
+			{
+				"answer": "الكَرْبِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/544_Answer.mp3"
+			},
+			{
+				"answer": "النَّومِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 556,
+		"q": {
+			"q": "قَولُه تعالى: {حَتَّى إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا}، معنى {زُخْرُفَهَا} :",
+			"audio": "/files/quiz/tafseer/yoonus/audio/556.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/10",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "ما أُمِرَت بِه",
+				"t": 0
+			},
+			{
+				"answer": "حُسْنَها وبَهاءَها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/556_Answer.mp3"
+			},
+			{
+				"answer": "مَكانَها بين الكَواكِب",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 550,
+		"q": {
+			"q": "قَولُه تعالى: {فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِنْ قَبْلِهِ}، لَبِثَ النبيُّ ﷺ قبْلَ البعثةِ في قُريشٍ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/550.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/7",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "خَمسينَ سَنةً",
+				"t": 0
+			},
+			{
+				"answer": "أربَعينَ سَنةً",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/550_Answer.mp3"
+			},
+			{
+				"answer": "خَمسًا وأربَعينَ سَنةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 558,
+		"q": {
+			"q": "قَولُه تعالى: {وَمَا تُغْنِي الْآيَاتُ وَالنُّذُرُ عَنْ قَوْمٍ لَا يُؤْمِنُونَ}، المُراد بِالنُّذُرِ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/558.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/33",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "الرُّسُلُ المُنذِرونَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/558_Answer.mp3"
+			},
+			{
+				"answer": "التَّحذير في الكُتُبِ المُنَزَّلة",
+				"t": 0
+			},
+			{
+				"answer": "الآيات الكَونية",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 545,
+		"q": {
+			"q": "قَولُه تعالى: {وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ}، مَعنَى (دَعانا لِجَنبِه):",
+			"audio": "/files/quiz/tafseer/yoonus/audio/545.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/5",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "سَألَنا وهو مُضطَجِع على جَنبِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/545_Answer.mp3"
+			},
+			{
+				"answer": "سَألنا لِكَشفِ ضُرِّه",
+				"t": 0
+			},
+			{
+				"answer": "سَألَنا أن نَكونَ بقُرْبه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 546,
+		"q": {
+			"q": "قَولُه تعالى: {وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ} معنى (البَيِّنات):",
+			"audio": "/files/quiz/tafseer/yoonus/audio/546.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/6",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "العَذابُ المُبِين",
+				"t": 0
+			},
+			{
+				"answer": "المُعجِزات والبَراهين الواضِحة",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/546_Answer.mp3"
+			},
+			{
+				"answer": "الكُتُب التي أَوحَى اللهُ إليهم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 552,
+		"q": {
+			"q": "قَوله تعالى: {إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ}، فيه إيراد اليَومِ بِالتَّنوينِ التَّفخيميِّ، ووَصفه بِالعِظَمِ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/552.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/7#tt9",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "لِلَفْتِ الانتباهِ المُؤْذِن بالتَّحذيرِ",
+				"t": 0
+			},
+			{
+				"answer": "للتَّخصيصِ والحَصرِ",
+				"t": 0
+			},
+			{
+				"answer": "لِتَهويلِ ما فيه مِنَ العَذابِ وتَفظيعِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/552_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 549,
+		"q": {
+			"q": "قَولُه تعالى: {قُلْ لَوْ شَاءَ اللَّهُ مَا تَلَوْتُهُ عَلَيْكُمْ}، المَتلُوُّ هو:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/549.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/7",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "التَّوراة",
+				"t": 0
+			},
+			{
+				"answer": "القُرآن الكَريم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/549_Answer.mp3"
+			},
+			{
+				"answer": "الإنجيل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 559,
+		"q": {
+			"q": "قَولُه تعالى: {قُلْ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ}، أي: انْتَظِروا:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/559.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/33",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "عَذابَ اللَّه تعالى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/559_Answer.mp3"
+			},
+			{
+				"answer": "فتحَ مكَّة",
+				"t": 0
+			},
+			{
+				"answer": "نَصْرَ المُؤمِنينَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 551,
+		"q": {
+			"q": "قَولُه تعالى: {إِنَّهُ لَا يُفْلِحُ الْمُجْرِمُونَ}، المَقصود بِقَولِهِ: (المُجرِمونَ):",
+			"audio": "/files/quiz/tafseer/yoonus/audio/551.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/7",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "المُنافِقونَ",
+				"t": 0
+			},
+			{
+				"answer": "أهلُ الكِتابِ",
+				"t": 0
+			},
+			{
+				"answer": "الكافِرونَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/551_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 542,
+		"q": {
+			"q": "قَولُه تعالى: {وَقَدَّرَهُ مَنَازِلَ}، مَعناه:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/542.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/3",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "تَقديرُ مَسيرِ الأَرضِ في الكَونِ لظُهورِ اختِلاف الفُصولِ",
+				"t": 0
+			},
+			{
+				"answer": "إِنزالُ الشَّمسِ مَنازِلها مِن المشرقِ والمغربِ لتَعاقُبِ اللَّيلِ والنَّهارِ",
+				"t": 0
+			},
+			{
+				"answer": "قَدَّرَ اللَّه مَسِير القَمَرِ في مَنازِلَ يَنزِلُ في كُلِّ يَوم ولَيلة مَنزِلًا مِنها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/542_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 547,
+		"q": {
+			"q": "قَولُه تعالى: {ثُمَّ جَعَلْنَاكُمْ خَلَائِفَ فِي الْأَرْضِ}، الخِطاب مُوَجَّهٌ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/547.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/6",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "لذُرِّيَّةِ آدمَ عليه السَّلامُ",
+				"t": 0
+			},
+			{
+				"answer": "لِأُمَّة النَّبيِّ مُحَمَّد ﷺ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/547_Answer.mp3"
+			},
+			{
+				"answer": "لبَنِي إِسرائيلَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 560,
+		"q": {
+			"q": "قَولُه تعالى: {ثُمَّ نُنَجِّي رُسُلَنَا وَالَّذِينَ آمَنُوا} أي:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/560.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/33",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "مِن عَذابِنا الواقِعِ على قَومِهم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/560_Answer.mp3"
+			},
+			{
+				"answer": "مِن عَذابِ يَومِ القيامة",
+				"t": 0
+			},
+			{
+				"answer": "مِنَ الِابتِلاءاتِ والمِحَنِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 553,
+		"q": {
+			"q": "قَولُه تعالى: {وَيَقُولُونَ هَؤُلَاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ}، القائِلونَ هُم:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/553.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/8",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "أهلُ الكِتابِ",
+				"t": 0
+			},
+			{
+				"answer": "المُنافِقونَ",
+				"t": 0
+			},
+			{
+				"answer": "المُشرِكونَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/553_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 554,
+		"q": {
+			"q": "قَول اللَّه تَعالَى: {وَمَا كَانَ النَّاسُ إِلَّا أُمَّةً وَاحِدَةً فَاخْتَلَفُوا}، فيه إخبارٌ بِأنَّ الحَقَّ واحِد، وأنَّ ذلك الِاختِلافَ:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/554.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/8#tt9",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "مَذمومٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/554_Answer.mp3"
+			},
+			{
+				"answer": "مَشرُوعٌ",
+				"t": 0
+			},
+			{
+				"answer": "فِطرِيٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 557,
+		"q": {
+			"q": "قوله تعالى: {وَيَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لَا يَعْقِلُونَ} الرِّجسُ هو:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/557.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/32",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "العَذاب",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/557_Answer.mp3"
+			},
+			{
+				"answer": "النَّجَسُ",
+				"t": 0
+			},
+			{
+				"answer": "الخَوفُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 541,
+		"q": {
+			"q": "{الر} هذه الحُروف المُقَطَّعة الَّتي افتُتِحَتْ بِها هذه السُّورة وغَيرها:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/541.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/1",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "لِبَيانِ مَعنًى السُّوَر",
+				"t": 0
+			},
+			{
+				"answer": "لِبَيانِ إعجازِ القُرآنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/541_Answer.mp3"
+			},
+			{
+				"answer": "لِبَيانِ مَدلولِ السُّوَرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 548,
+		"q": {
+			"q": "قَولُه تعالى: {قُلْ مَا يَكُونُ لِي أَنْ أُبَدِّلَهُ مِنْ تِلْقَاءِ نَفْسِي}، المَأمور بِالقَولِ هو:",
+			"audio": "/files/quiz/tafseer/yoonus/audio/548.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/7",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "مُحَمَّد ﷺ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/548_Answer.mp3"
+			},
+			{
+				"answer": "موسى عليه السَّلامُ",
+				"t": 0
+			},
+			{
+				"answer": "إبراهيم عليه السَّلامُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 543,
+		"q": {
+			"q": "قَولُه تعالى: {إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ الدُّنْيَا}، مَعنَى (لا يَرجونَ):",
+			"audio": "/files/quiz/tafseer/yoonus/audio/543.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/10/4",
+		"section": "yoonus",
+		"answers": [
+			{
+				"answer": "لا يَستَعِدُّونَ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُريدُونَ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَتَوَقَّعونَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/yoonus/audio/answers/543_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1174,
+		"q": {
+			"q": "في قَولِه تَعالَى: {فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُوسَى} الوَجْسُ هو:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1174.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/8",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "التَّرَدُّد والحِيرَةُ",
+				"t": 0
+			},
+			{
+				"answer": "الفَزَعُ",
+				"t": 0
+			},
+			{
+				"answer": "الصوت الخفي",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1174_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1164,
+		"q": {
+			"q": "تَقديمُ المَجرورِ في قولِه تَعالَى: {لَهُ الْأَسْمَاءُ الْحُسْنَى}",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1164.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/1",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "للاختِصاصِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1164_Answer.mp3"
+			},
+			{
+				"answer": "للعُمومِ",
+				"t": 0
+			},
+			{
+				"answer": "للتَّقريرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1165,
+		"q": {
+			"q": "قولُ اللهِ تَعالَى: {فَلَا يَصُدَّنَّكَ عَنْهَا مَنْ لَا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ فَتَرْدَى} فيه إشارةٌ إلى:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1165.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/2",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "أنَّ الباعِثَ الوَحيدَ على الكُفرِ هو الهَوَى",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ كلَّ صَدٍّ عن سَبيلِ الله فهو مِن إِبليسَ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ مَن ترَكَ المُراقبةَ لَحظةً حادَ عنِ الدَّليلِ، ومَن حادَ عنِ الدَّليلِ هَلَك",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1165_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1173,
+		"q": {
+			"q": "قال اللهُ تَعاَلى: {قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ النَّاسُ ضُحًى} إنَّما واعَدَهم ذلك اليَومَ",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1173.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/7",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "لأنَّه كان اليومُ الذي لا يَخرُج فيه فِرعونُ، فأرادَ كَيْدَهُ بإخْراجِهِ",
+				"t": 0
+			},
+			{
+				"answer": "لِيَكونَ عُلُوُّ كلمةِ اللهِ، وظُهورُ دينِه،  على رُؤوسِ الأشهادِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1173_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّه يومُ خُلُوِّ الجَميعِ مِن أَعمالِهم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1163,
+		"q": {
+			"q": "قولُه تَعالَى: {وَإِنْ تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى} طابَقَ الجَزاءُ الشَّرطَ",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1163.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/1",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "نهْيًا عن الجَهْرِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1163_Answer.mp3"
+			},
+			{
+				"answer": "للرِّعايَةِ على الفاصِلَةِ",
+				"t": 0
+			},
+			{
+				"answer": "تَرغِيبًا في الجَزاءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1179,
+		"q": {
+			"q": "قال تَعالَى: {وَقَدْ آَتَيْنَاكَ مِنْ لَدُنَّا ذِكْرًا} سُمِّيَ القُرآنُ بالذِّكرِ لأنَّه:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1179.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/14",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "كِتابٌ ذَاكِرٌ؛ بمعنَى مَذكُور أي: مَتلُو",
+				"t": 0
+			},
+			{
+				"answer": "يَذكُرُ حَالَ المُؤمِنينَ وحَالَ الكافِرينَ في الدُّنيا ومَآلَهُم جَميعًا في الآخِرَةِ",
+				"t": 0
+			},
+			{
+				"answer": "يُذَكِّرُ أنواعَ آلاءِ اللهِ تَعالَى ونَعمائِه؛ ففيه التَّذكيرُ والمواعِظُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1179_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1180,
+		"q": {
+			"q": "قَولُه تَعالَى: {فَيَذَرُهَا قَاعًا صَفْصَفًا} مَعنَى {قَاعًا}",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1180.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/15",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "صَلبَةٌ",
+				"t": 0
+			},
+			{
+				"answer": "سَهلةٌ مُستويةٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1180_Answer.mp3"
+			},
+			{
+				"answer": "عَميقةٌ كقاعِ البِحارِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1168,
+		"q": {
+			"q": "قولُه تَعالَى: {كَيْ نُسَبِّحَكَ كَثِيرًا * وَنَذْكُرَكَ كَثِيرًا} قَدَّمَ التَّسبيحَ",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1168.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/4",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "لأنَّ التسبيحَ لما كان ذِكرًا خاصًّا؛ لكونِه بالتَّنزيهِ الذي أعْلاه التَّوحيدُ؛ أتبعَه العامَّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1168_Answer.mp3"
+			},
+			{
+				"answer": "لإثباتِ الارتِقاءِ مِن العالِي إلى الأَعلَى",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّه تَنزيهُه تَعالَى أَحَبُّ إليه مِن التَّسبِيحِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1161,
+		"q": {
+			"q": "عنِ ابنِ مسعودٍ رَضيَ اللهُ عنه، قَالَ: (بَني إسرائيلَ، والكهفُ، ومريمُ، وطه، والأنبياءُ: هنَّ مِن العِتاقِ الأُوَلِ) مَعنَى العِتاقِ الأُوَلِ:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1161.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "من أواخِرِ ما نَزَل منَ القُرآنِ",
+				"t": 0
+			},
+			{
+				"answer": "من أوسَطِ ما نَزَل منَ القُرآنِ",
+				"t": 0
+			},
+			{
+				"answer": "مِن السُّوَرِ المتقدِّمِ نُزولُها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1161_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1176,
+		"q": {
+			"q": "مِن أعجَبِ ما ظاهِرُه الرَّجاءُ وهو شَديدُ التَّخويفِ، قولُه تَعالَى: {وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَى} :",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1176.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/10",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "لأنَّ الاهتِداءَ لا يكونُ إلَّا للأَنبياءِ ومَن نَحَى نَحوَهُم؛ وهُم قَلِيلٌ",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّه علَّق المغفرةَ على أربعةِ شُروطٍ، يَصعُبُ تَصحيحُها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1176_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّه أضمَرَ العَذابَ في داخِلِ المَغفِرةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1169,
+		"q": {
+			"q": "وفي قولِه تَعالَى: {وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنِّي} نكَّرَ المحبَّةَ وأسْنَدَها إليه سُبحانَه لـ:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1169.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/5",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "ما في التَّنكيرِ منَ الفَخامةِ الذَّاتيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "ما في إسنادِها إليه منَ الفَخامةِ الإضافيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "جَميعُ ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1169_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1170,
+		"q": {
+			"q": "مَعنَى قَولِه تَعالَى: {أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ}:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1170.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/6",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "أَعطَى أَنبِياءَهُ ورُسُلَهُ ما يُثبِتُ صِدْقَ دَعوتِهم",
+				"t": 0
+			},
+			{
+				"answer": "أعْطى خَليقتَه كلَّ شيءٍ يَحتاجونَ إليه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1170_Answer.mp3"
+			},
+			{
+				"answer": "أَعطَى خَلقَه كُلَّهم رِزقَهُم؛ مُؤمِنَهم وكافِرَهم، إِنْسَهُم وجِنَّهُم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1175,
+		"q": {
+			"q": "قولُه تَعالَى: {فَغَشِيَهُمْ مِنَ الْيَمِّ مَا غَشِيَهُمْ} فيه إبهامٌ؛ والتَّعبيرُ بالاسمِ المُبهَم الذي هو المَوصولُ يدُلُّ على",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1175.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/9",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "تَحقيرِ الأمرِ، ودَحْضِ شأنِه",
+				"t": 0
+			},
+			{
+				"answer": "تَعظيمِ الأمرِ، وتَفخيمِ شأنِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1175_Answer.mp3"
+			},
+			{
+				"answer": "التَّأكيدُ على فِعلِ الغَشَيانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1162,
+		"q": {
+			"q": "قَولُه تَعالَى: {تَنْزِيلًا مِمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى} يُستفادُ منه:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1162.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/1",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "أنَّ \"العُلَى\" صِفَةٌ من صِفاتِ الله عزَّ وجلَّ ويُقصَدُ بها العُلُوُّ",
+				"t": 0
+			},
+			{
+				"answer": "تَفخيمٌ وتعظيمٌ لشأْنِ القُرآنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1162_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الأرضَ بُنِيَت قبلَ السَّماواتِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1177,
+		"q": {
+			"q": "في قَولِه تَعالَى: {أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا} دَليلٌ عَقليٌّ سَمعيٌّ على أنَّ:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1177.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/11",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "الإلهَ لا بُدَّ أن يَملِكَ لعابِدِه الضَّرَّ والنَّفعَ",
+				"t": 0
+			},
+			{
+				"answer": "الإلهَ لا بُدَّ أن يُكَلَّمَ ويتكَلَّمَ",
+				"t": 0
+			},
+			{
+				"answer": "جَميعُ ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1177_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1166,
+		"q": {
+			"q": "مَعنَى {مَآرِبُ} في قَولِه تَعالَى: {وَلِيَ فِيهَا مَآرِبُ أُخْرَى}:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1166.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/3",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "أسرارٌ",
+				"t": 0
+			},
+			{
+				"answer": "أَحوالٌ",
+				"t": 0
+			},
+			{
+				"answer": "حاجاتٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1166_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1171,
+		"q": {
+			"q": "قولُ اللهِ تَعالَى: {إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَى} السَّمعُ والرُّؤيةُ هنا",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1171.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/6",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "المَقصُود بهِما القُدرَةُ",
+				"t": 0
+			},
+			{
+				"answer": "سَمْعٌ ورؤيةٌ خاصَّانِ يَقتَضِيانِ النَّصرَ والتَّأييدَ والحِمايةَ مِن فِرعَونَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1171_Answer.mp3"
+			},
+			{
+				"answer": "سَمْعٌ ورؤيةٌ عامَّةٌ لجَميعِ الخَلقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1172,
+		"q": {
+			"q": "في قَولِه تَعالَى: {لَا تَخَافَا إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَى} حُجَّةٌ على",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1172.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/6",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "الحَدَّاديَّةِ والسُّروريَّةِ في تَأويلِهم صِفَتَيِ السَّمعِ والبَصَرِ",
+				"t": 0
+			},
+			{
+				"answer": "المُعتَزِلةِ والجهميَّةِ في تَأويلِهم صِفَتَيِ السَّمعِ والبَصَرِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1172_Answer.mp3"
+			},
+			{
+				"answer": "الشِّيعةِ والخَوارجِ في تَأويلِهم صِفَتَيِ السَّمعِ والبَصَرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1178,
+		"q": {
+			"q": "مَعنَى قَولِه تَعالَى: {فَإِنَّ لَكَ فِي الْحَيَاةِ أَنْ تَقُولَ ‌لَا ‌مِسَاسَ}:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1178.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/13",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "تَموتَ بمَرضِ المَسَاسِ؛ وهو مَرضٌ يُصِيبُ العَقلَ بالخَبَلِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَمسُّ النَّاسَ ولا يمَسُّونَك",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1178_Answer.mp3"
+			},
+			{
+				"answer": "أي: يَعلَقُ لِسانُه ولا يَمَسُّ حَلقَهُ فلا يَتكَلَّم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1167,
+		"q": {
+			"q": "قولُه تَعالَى: {وَلِيَ فِيهَا مَآَرِبُ أُخْرَى} الإيجازُ في هذه العِبارةِ هو من:",
+			"audio": "/files/quiz/tafseer/taahaa/audio/1167.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/tafseer/20/3",
+		"section": "taahaa",
+		"answers": [
+			{
+				"answer": "نَظْمِ القُرآنِ لا مِن كَلامِ مُوسى عليه السَّلامُ",
+				"t": 0
+			},
+			{
+				"answer": "قَولِ مُوسى",
+				"t": 0
+			},
+			{
+				"answer": "كِلا القَولَينِ مُحتَمَلٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/taahaa/audio/answers/1167_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

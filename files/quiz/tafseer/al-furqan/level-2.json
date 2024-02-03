@@ -1,0 +1,542 @@
+[
+	{
+		"id": 3932,
+		"q": {
+			"q": "استخدمَ اللهُ تعالى كلمةَ \"كَانَتْ\" التي تُفيد اتِّصافَ الشيءِ بالصفةِ فِي الماضي فِي {جَنَّةُ الخُلْدِ الَّتِي وُعِدَ المُتَّقُونَ كَانت لَهُمْ جَزَاءً وَمَصِيرًا}: ",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3932.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/4#tt17",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "لأنَّ \"كان\" تأتي أَحْيَانًا تفيدُ الحدث دونَ الزمن",
+				"t": 0
+			},
+			{
+				"answer": "جَميعُ ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3932_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّه كان مَكتوبًا في اللوحِ المحفوظ قبل أن يَخلُقَهم: أَنَّ تِلْكَ الدَّارَ لهم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3930,
+		"q": {
+			"q": "الاستفهامُ في: {مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ}",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3930.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/3#tt18",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "استهزائيٌّ",
+				"t": 0
+			},
+			{
+				"answer": "إنكاريٌّ",
+				"t": 0
+			},
+			{
+				"answer": "تَعَجُّبيُّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3930_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3931,
+		"q": {
+			"q": "معنى كلمة \"مُقَرَّنين\":",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3931.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/4#tt7",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "مُجتمِعين",
+				"t": 0
+			},
+			{
+				"answer": "مُقيَّدين في السَّلاسِل",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3931_Answer.mp3"
+			},
+			{
+				"answer": "مُتآلفينَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3924,
+		"q": {
+			"q": "كان افتِتاحُ سورة الفُرقان بَليغًا لأنَّه:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3924.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/1#tt18",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "خالفَ أسلوبَ العَرَبِ في بداياتِ كَلامِهِم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3924_Answer.mp3"
+			},
+			{
+				"answer": "اسْتُهِلَّ بأسلوبِ التَّوكيدِ",
+				"t": 0
+			},
+			{
+				"answer": "بدأَ بتقديسِ اللهِ تعالى وتَنزيهِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3921,
+		"q": {
+			"q": "سُورةُ الفُرقانِ",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3921.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25#tt3",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "مكيَّة بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3921_Answer.mp3"
+			},
+			{
+				"answer": "مدنيَّة",
+				"t": 0
+			},
+			{
+				"answer": "مختلَفٌ فيها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3927,
+		"q": {
+			"q": "أصلُ الكَنْز في اللُّغة:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3927.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/3#tt7",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "الامتِلاء",
+				"t": 0
+			},
+			{
+				"answer": "التَّجمُّع في شيء",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3927_Answer.mp3"
+			},
+			{
+				"answer": "الحَبسُ والمَنعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3933,
+		"q": {
+			"q": "الغَرَضُ من الاستفهامِ فِي {أَذَلِكَ خَيْرٌ أَمْ جَنَّةُ الخُلْدِ}:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3933.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/4#tt18",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "الإنكارُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّوبيخُ والتَّقريعُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3933_Answer.mp3"
+			},
+			{
+				"answer": "الاستهزاءُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3935,
+		"q": {
+			"q": "قَولُه تَعالَى: {وَيَقُولُونَ حِجْرًا مَحْجُورًا}:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3935.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/6#tt4",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "يرى الكفارُ الملائكةَ فيقولون: حرامٌ عليكُم أن تأخذوا أرواحَنا ",
+				"t": 0
+			},
+			{
+				"answer": "مِن قَوْلِ الملائكةِ، ومعناه: حرامٌ عليكمُ الفلاحُ اليومَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3935_Answer.mp3"
+			},
+			{
+				"answer": "مِنْ قولِ الملائكةِ، ومعناهُ: حرامٌ عليكُم أن تَبْقَوْا في الدنيا لحظةً واحدةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3925,
+		"q": {
+			"q": "إعراب: \"تَقْدِيرًا\" في قوله: {فَقَدَّرَهُ تَقْدِيرًا}:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3925.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/1#tt18",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "مفعولٌ بِهِ",
+				"t": 0
+			},
+			{
+				"answer": "مفعول مُطْلَق",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3925_Answer.mp3"
+			},
+			{
+				"answer": "مفعول لِأَجْلِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3923,
+		"q": {
+			"q": "مَنْ صَدَّقَ بنُبُوَّةِ النبيِّ ﷺ، لكنِ اعتقَد أنه رسُولٌ إلى العرب فَقَط:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3923.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/1#tt17",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "كافِرٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3923_Answer.mp3"
+			},
+			{
+				"answer": "مُبتَدِعٌ",
+				"t": 0
+			},
+			{
+				"answer": "فاسِقٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3934,
+		"q": {
+			"q": "الاستفهامُ في قوله: {أَأَنْتُمْ أَضْلَلْتُمْ عِبَادِي هَؤُلَاءِ}:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3934.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/5#tt4",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "جَميعُ ما سَبَق",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3934_Answer.mp3"
+			},
+			{
+				"answer": "تَقريريٌّ للاستِنطاقِ والاستِشهادِ",
+				"t": 0
+			},
+			{
+				"answer": "تَقريعٌ وتَبكيتٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3926,
+		"q": {
+			"q": "إظهارُ الفاعلِ في: {وَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا إِفْكٌ افْتَرَاهُ}:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3926.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/2#tt18",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "للتَّحْقِيرِ والاسْتِهْزَاءِ",
+				"t": 0
+			},
+			{
+				"answer": "لبيانِ أنَّ باعِثَ قَولِهم هذا هو كُفرُهم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3926_Answer.mp3"
+			},
+			{
+				"answer": "للعمومِ والشمول",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3937,
+		"q": {
+			"q": "وَصْفُ الحِجْرِ بالمحجورِ في قوله: {حِجْرًا مَحْجُورًا}",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3937.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/6#tt17",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "بيانٌ للنوعِ",
+				"t": 0
+			},
+			{
+				"answer": "بيانٌ للهيئةِ",
+				"t": 0
+			},
+			{
+				"answer": "توكيدٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3937_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3936,
+		"q": {
+			"q": "قوله: {وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً} دليلٌ على: ",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3936.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/6#tt17",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "إثباتِ الأَسْمَاءِ والصفاتِ",
+				"t": 0
+			},
+			{
+				"answer": "تخييرِ العبدِ وحريته في فعلِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3936_Answer.mp3"
+			},
+			{
+				"answer": "خلقِ أفعالِ العبادِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3929,
+		"q": {
+			"q": "المَشيُ في الأسواقِ للعُلَماءِ والصَّالِحين:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3929.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/3#tt17",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "مُحرَّمٌ",
+				"t": 0
+			},
+			{
+				"answer": "مكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3929_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3922,
+		"q": {
+			"q": "من خَصائصِ النَّبيِّ ﷺ التي وَرَدت فِي أوَّل سورة الفرقان:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3922.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/1#tt4",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "وُجوبُ قِيامِ اللَّيْل عَليهِ",
+				"t": 0
+			},
+			{
+				"answer": "تَنامُ عَينُه ولا يَنامُ قَلبُه",
+				"t": 0
+			},
+			{
+				"answer": "بعثَتُه إلى العالمين: الجنِّ والإنسِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3922_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3940,
+		"q": {
+			"q": "السَّببُ في أنَّ الله تعالى نزَّل القرآنَ مُتَفَرِّقًا:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3940.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/8#tt4",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "ليَكونَ أَدعَى لإِيمانِ المُشرِكينَ",
+				"t": 0
+			},
+			{
+				"answer": "للإِخبارِ بالغَيبِ الذي سَيكونُ حاضِرًا عَمَّا قَليلٍ",
+				"t": 0
+			},
+			{
+				"answer": "لتَثبيتِ قَلبِ النَّبيِّ ﷺ مرَّةً بعدَ مرَّةٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3940_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3939,
+		"q": {
+			"q": "قولُه تعالى: {الَّذِينَ يُحْشَرُونَ عَلَى وُجُوهِهِمْ إِلَى جَهَنَّمَ}:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3939.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/8#tt4",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "حَقيقةٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3939_Answer.mp3"
+			},
+			{
+				"answer": "مجازٌ في الخَيْبَة والحَسْرةِ",
+				"t": 0
+			},
+			{
+				"answer": "المرادُ بالوجهِ: الاتِّجاه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3928,
+		"q": {
+			"q": "قَوله تَعاى: {أَوْ تَكُونُ لَهُ جَنَّةٌ يَأْكُلُ مِنْهَا} وردتِ القراءة {نَأْكُلُ} لإفادةِ:",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3928.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/3#tt4",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "أنَّهم يُريدون التَّأكُّدَ بأنفُسِهم أنَّ ذلك حقيقةٌ لَا سِحرٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3928_Answer.mp3"
+			},
+			{
+				"answer": "التَّأكيدِ على الانتِفاعِ لا مُجرَّد الوُجودِ",
+				"t": 0
+			},
+			{
+				"answer": "أَنَّ مَقْصِدَ هَؤلاءِ الأكلُ والشُّرب فحسْبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3938,
+		"q": {
+			"q": "قوله تعالى: {وَكَانَ الشَّيْطَانُ لِلْإِنْسَانِ خَذُولًا}: معنى (خَذُولًا):",
+			"audio": "/files/quiz/tafseer/al-furqan/audio/3938.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/25/7#tt18",
+		"section": "al-furqan",
+		"answers": [
+			{
+				"answer": "مُضِلًّا مُبِينًا",
+				"t": 0
+			},
+			{
+				"answer": "عَدُوًّا ظاهِرَ العَداوةِ",
+				"t": 0
+			},
+			{
+				"answer": "كثيرَ الخِذلانِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-furqan/audio/answers/3938_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

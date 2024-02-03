@@ -1,0 +1,542 @@
+[
+	{
+		"id": 3363,
+		"q": {
+			"q": "في الحديث: \"إذا الْتَقَى المُسْلِمانِ بسَيْفَيْهِما:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3363.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/3119",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "فعلَى ابنِ آدمَ الأوَّل كِفلٌ مِن دَمِّهما",
+				"t": 0
+			},
+			{
+				"answer": "فالْقاتِلُ والْمَقْتُولُ في النَّارِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3363_Answer.mp3"
+			},
+			{
+				"answer": "فلا تتْركوهُما للشَّيطانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3361,
+		"q": {
+			"q": "معنى (خَوَلُكم) في حديث: \"إخْوَانُكُمْ خَوَلُكُمْ، جَعَلَهُمُ اللَّهُ تَحْتَ أيْدِيكُمْ\":",
+			"audio": "/files/quiz/hadith/hadith02/audio/3361.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/5976",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "النِّساءُ التي تحتَ أَيديكُم مِن زَوجاتٍ وأَخواتٍ وغَيرهنَّ",
+				"t": 0
+			},
+			{
+				"answer": "خَدَمُكم وعَبيدُكم الَّذين يَلُونَ أُمورَكم ويُصلِحونها",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3361_Answer.mp3"
+			},
+			{
+				"answer": "أهلُ بَيتِكُم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3351,
+		"q": {
+			"q": "الرُّكنُ الثَّاني الَّذي بُنِي عَليهِ الإسلامُ هو:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3351.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/8209",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "شَهادَةُ أنَّ محمدا رَسولُ الله",
+				"t": 0
+			},
+			{
+				"answer": "حَجُّ البَيتِ لمَن استَطاعَ إليه سَبيلًا",
+				"t": 0
+			},
+			{
+				"answer": "إقامةُ الصَّلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3351_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3355,
+		"q": {
+			"q": "نَفْيُ النَّبيِّ ﷺ: \"لَا يُؤْمِنُ أحَدُكُمْ حتَّى يُحِبَّ لأخِيهِ ما يُحِبُّ لِنَفْسِه\":",
+			"audio": "/files/quiz/hadith/hadith02/audio/3355.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/7317",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "نفْيُ كَمالِ الإيمانِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3355_Answer.mp3"
+			},
+			{
+				"answer": "نَفْيُ أصلِ الإيمانِ",
+				"t": 0
+			},
+			{
+				"answer": "نَفْيُ زِيادةِ الإيمانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3353,
+		"q": {
+			"q": "المُسْلِمُ مَن سَلِمَ المُسْلِمُونَ مِن لِسَانِهِ ويَدِهِ، والمُهَاجِرُ:\n ",
+			"audio": "/files/quiz/hadith/hadith02/audio/3353.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/7255",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "مَن هَجَرَ ما نَهَى اللَّهُ عنْه",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3353_Answer.mp3"
+			},
+			{
+				"answer": "مَن هَجَرَ أَرضَه ليَعبُدَ اللهَ",
+				"t": 0
+			},
+			{
+				"answer": "الَّذي يَهجُرُ أخاهُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3354,
+		"q": {
+			"q": "إلقاءُ السَّلامِ عَلى كلِّ مُسلِمٍ من أفضَلِ أعمالِ الإسلامِ؛ لأنَّه:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3354.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/5982",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "اسمٌ من أسماءِ اللهِ",
+				"t": 0
+			},
+			{
+				"answer": "تحيَّةُ الإسلامِ لعمومِ المسلِمينَ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3354_Answer.mp3"
+			},
+			{
+				"answer": "أحَبُّ الأعمالِ إلى اللهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3360,
+		"q": {
+			"q": "الصَّلاةُ المكتوبةُ هي:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3360.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/3100",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "الفَجرُ، والظُّهرُ، والعَصرُ، والمَغربُ، والعِشاءُ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3360_Answer.mp3"
+			},
+			{
+				"answer": "النَّوافِلُ",
+				"t": 0
+			},
+			{
+				"answer": "الضُّحى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3350,
+		"q": {
+			"q": "بُنِيَ الإسْلَامُ علَى:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3350.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/8209",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "خَمْسٍ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3350_Answer.mp3"
+			},
+			{
+				"answer": "الجِهادِ في سَبيلِ الله",
+				"t": 0
+			},
+			{
+				"answer": "حُسنِ الخُلُقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3358,
+		"q": {
+			"q": "في الحديث: \"يقولُ اللَّهُ تَعَالَى: أخْرِجُوا مِنَ النَّارِ مَن كانَ في قَلْبِهِ مِثْقَالُ حَبَّةٍ مِن خَرْدَلٍ مِن إيمَانٍ...\". فما هو الخَرْدَلُ؟",
+			"audio": "/files/quiz/hadith/hadith02/audio/3358.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/5809",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "نَباتٌ مَعروفٌ يضرب به المثل في الشَّيءَ القَليلَ البليغَ في القِلَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3358_Answer.mp3"
+			},
+			{
+				"answer": "شَجرٌ ذوُ ساقٍ طَويلةٍ وأَوراقُه عَريضَةٌ مُتفَرِّعَة",
+				"t": 0
+			},
+			{
+				"answer": "مَعدِنٌ يُكالُ به المِثقالُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3346,
+		"q": {
+			"q": "قالَ رَسولُ اللَّهِ ﷺ عن الوَحيِ: (أحْيانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الجَرَسِ)؛ فما هي الصَّلْصَلةُ؟",
+			"audio": "/files/quiz/hadith/hadith02/audio/3346.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/23142",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "هو الصَّوتُ الَّذي يخرُجُ مِنَ الحديدِ عندَ تَدارُكِ الضَّربِ عَليهِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3346_Answer.mp3"
+			},
+			{
+				"answer": "السَّلاسِلُ عندما تَهتَزُّ فتصدرُ صَوتًا",
+				"t": 0
+			},
+			{
+				"answer": "صون الطِّينِ عندما يكون صَلْصالًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3364,
+		"q": {
+			"q": "جُملةُ: \"مَن أعتَقَ رقبةً مُسلِمةً\" مَعناها:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3364.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/92362",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "مَن أنجَي مُسلِمًا منَ القَتلِ",
+				"t": 0
+			},
+			{
+				"answer": "مَن أعتَقَ عبدًا أو أَمَةً",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3364_Answer.mp3"
+			},
+			{
+				"answer": "مَن أَعتَقَ أَمَتَهُ المُسلِمَة ثم تَزوَّجَها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3362,
+		"q": {
+			"q": "خُصَّ خُلُقُ الحياءِ بالذِّكْرِ في قَولِه ﷺ: \"والحَيَاءُ شُعْبَةٌ مِنَ الإيمَانِ\":",
+			"audio": "/files/quiz/hadith/hadith02/audio/3362.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/8228",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "لأنَّه مِن الوَحيِ العام",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّهُ خُلُقُ العُبَّادِ والنُّسَّاكِ",
+				"t": 0
+			},
+			{
+				"answer": "لِكَوْنِه أمْرًا خُلُقيًّا ربَّما يُذهَلُ العَقلُ عن كَوْنِه مِن الإيمانِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3362_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3348,
+		"q": {
+			"q": "كانَ رَسولُ اللَّهِ ﷺ يُعالِجُ مِنَ التَّنْزِيلِ:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3348.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/5041",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "شِدَّةً",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3348_Answer.mp3"
+			},
+			{
+				"answer": "وَحْيًا",
+				"t": 0
+			},
+			{
+				"answer": "ثِقلًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3365,
+		"q": {
+			"q": "يقول النبي ﷺ: قارِبُوا وسَدِّدُوا، واعْلَمُوا :",
+			"audio": "/files/quiz/hadith/hadith02/audio/3365.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/hadith/sharh/151191",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "أنَّه لَنْ يَنْجُوَ أحَدٌ مِنكُم بعَمَلِهِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3365_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الجنَّة طَيِّبَة التُّربَة وغِراسُها: سبحان الله والحمدُ لله",
+				"t": 0
+			},
+			{
+				"answer": "أنِّي لا أُغنِي عنكُم مِن الله شَيئًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3349,
+		"q": {
+			"q": "في قوله تعالى: {جَمْعَهُ وَقُرْآنَهُ}، جَمْعُه يَعنِي:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3349.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/5041",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "تَجميعَ الوَحيِ فلا يَتشابَه عليكَ",
+				"t": 0
+			},
+			{
+				"answer": "ضَمَّ السُّوَرِ إلى بَعضِها",
+				"t": 0
+			},
+			{
+				"answer": "جَمْعَه في صَدرِك فلا تَنْسَى منه شَيئًا",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3349_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3357,
+		"q": {
+			"q": "خُصَّتِ الغَنَمُ بأنَّها خيرُ مالِ المُسْلِمِ عِندَما يَفِرُّ بدينِه ويَهيمُ في الجِبالِ؛ لأنَّها:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3357.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/2671",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "فيها مِن السَّكينةِ والبَرَكةِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3357_Answer.mp3"
+			},
+			{
+				"answer": "لها منَ القُدرةِ والصَّبرِ على تَحمُّلِ الجوعِ والعَطَشِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَشرُد ولا تَجمحُ على أَهلِها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3347,
+		"q": {
+			"q": "كان الوَحيُ ثَقيلًا على النَّبيِّ ﷺ:\n ",
+			"audio": "/files/quiz/hadith/hadith02/audio/3347.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/23142",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "لضَعْفِ القُوَّةِ البشريَّةِ عن تحمُّلِ ذلك الوارِدِ العظيمِ مِن الجَنابِ الجَلِيلِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3347_Answer.mp3"
+			},
+			{
+				"answer": "لضَخامةِ المَلَكِ الذي يَنزِلُ بالوَحيِ",
+				"t": 0
+			},
+			{
+				"answer": "لكَثرةِ ما يُوحِي إليه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3352,
+		"q": {
+			"q": "شُعْبَةٌ مِنَ الإيمَانِ تَعنِي:\n ",
+			"audio": "/files/quiz/hadith/hadith02/audio/3352.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/8228",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "خَصلةٌ مِن خِصالِ الإيمانِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3352_Answer.mp3"
+			},
+			{
+				"answer": "دَليلٌ على كَمالِ الإيمانِ",
+				"t": 0
+			},
+			{
+				"answer": "رُكنٌ مِن أَركانِ الإيمانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3359,
+		"q": {
+			"q": "يقول النبي ﷺ: أُمِرْتُ أنْ أُقَاتِلَ النَّاسَ حتَّى:",
+			"audio": "/files/quiz/hadith/hadith02/audio/3359.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/3100",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "تَخرُجَ الظّعينةُ مِن صَنعاءَ إلى حَضرموت لا تَخشَى إلَّا الله",
+				"t": 0
+			},
+			{
+				"answer": "يَرجِعُوا مِن الشِّركِ إلى الحَنِيفِيَّةِ الأُولَى",
+				"t": 0
+			},
+			{
+				"answer": "يَشْهَدُوا أنْ لا إلَهَ إلَّا اللَّهُ، وأنَّ مُحَمَّدًا رَسولُ اللَّهِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3359_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3356,
+		"q": {
+			"q": "\"يُوشِكُ أنْ يَكونَ خَيْرَ مَالِ المُسْلِمِ غَنَمٌ يَتْبَعُ بهَا شَعَفَ الجِبَالِ ومَوَاقِعَ القَطْرِ\" فما معنى شَعَف الجبالِ؟",
+			"audio": "/files/quiz/hadith/hadith02/audio/3356.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/hadith/sharh/2671",
+		"section": "hadith02",
+		"answers": [
+			{
+				"answer": "سُهولُها",
+				"t": 0
+			},
+			{
+				"answer": "رُؤوسُها وأعاليها",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith02/audio/answers/3356_Answer.mp3"
+			},
+			{
+				"answer": "وِدْيانُها وقِيعانُها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

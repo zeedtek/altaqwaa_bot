@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2798,
+		"q": {
+			"q": "من شُروطِ صَلاةِ الخَوفِ",
+			"audio": "/files/quiz/figh/salah/audio/2798.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1558",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "أنْ يكونَ الخَوفُ مِن شَيءٍ مُباحٍ",
+				"t": 0
+			},
+			{
+				"answer": "ألَّا يكونَ القِتالُ لَيلًا",
+				"t": 0
+			},
+			{
+				"answer": "أن يَكونَ القِتالُ مُباحًا كقِتالِ الكفَّارِ الحَربيِّينَ والبُغاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2798_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2788,
+		"q": {
+			"q": "إذا فاتَ المارُّ بين المُصلِّي وسُترتِه ولم يُدرِكْه المُصلِّي\n ",
+			"audio": "/files/quiz/figh/salah/audio/2788.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1054",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "يَجِبُ أن يَمشيَ إليه ويَدْفَعَه",
+				"t": 0
+			},
+			{
+				"answer": "له أن يَدْفَعَه إذا مرَّ بينَ يَدَيهِ، ولا يَمشيَ إليه إذا لم يُدرِكْه مِن مَوقفِه",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2788_Answer.mp3"
+			},
+			{
+				"answer": "يُستحَبُّ له أن يُعِيدَ الصَّلاةَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2791,
+		"q": {
+			"q": "صلاةُ التَّسبيحِ (التَّسابيحِ)",
+			"audio": "/files/quiz/figh/salah/audio/2791.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1263",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مُستحَبَّةٌ باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبةٌ في العُمُرِ مرَّةً",
+				"t": 0
+			},
+			{
+				"answer": "لا تُشرَعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2791_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2786,
+		"q": {
+			"q": "سؤالُ الوَسيلةِ والفَضيلةِ والمقامِ المَحمودِ للنبيِّ ﷺ",
+			"audio": "/files/quiz/figh/salah/audio/2786.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/765",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "غَيرُ مَشروعةٍ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحبَّةٌ باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2786_Answer.mp3"
+			},
+			{
+				"answer": "واجِبةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2803,
+		"q": {
+			"q": "حُكمُ غُسلِ الميِّتِ الباغي وقاطِعِ الطَّريقِ",
+			"audio": "/files/quiz/figh/salah/audio/2803.mp3"
+		},
+		"level": 3,
+		"link": "http://host1.octal.com.sa/feqhia/1926",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2803_Answer.mp3"
+			},
+			{
+				"answer": "حَرامٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2794,
+		"q": {
+			"q": "إذا تَمالَأَ أهلُ بلدٍ على ترْكِ إظهارِ صلاةِ الجَماعةِ",
+			"audio": "/files/quiz/figh/salah/audio/2794.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/feqhia/1327",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "قُوتِلوا باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2794_Answer.mp3"
+			},
+			{
+				"answer": "يُهدَّدُونَ بالعُقوبةِ",
+				"t": 0
+			},
+			{
+				"answer": "يُعاملُون مُعاملَة أَهلِ الكِتابِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2802,
+		"q": {
+			"q": "نَزْعُ ثِيابِ الميِّتِ عَقِبَ مَوتِه",
+			"audio": "/files/quiz/figh/salah/audio/2802.mp3"
+		},
+		"level": 3,
+		"link": "http://host1.octal.com.sa/feqhia/1908",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "حَرامٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2802_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2787,
+		"q": {
+			"q": "وقتُ قيامِ المُصلِّينَ إذا أُقيمَتِ الصَّلاةُ والإمامُ داخِلَ المسجِدِ",
+			"audio": "/files/quiz/figh/salah/audio/2787.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/798",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "للمُصلِّي القيامُ متَى شاءَ، في أوَّلِ الإقامةِ، أو في أثنائِها، أو في نِهايتِها",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2787_Answer.mp3"
+			},
+			{
+				"answer": "لا يَقومُ المُصلِّي إلَّا بعدَ الانتِهاءِ منَ الإقامةِ",
+				"t": 0
+			},
+			{
+				"answer": "يَقومُ المُصلِّي في أوَّلِ الإقامةِ قَولًا واحِدًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2784,
+		"q": {
+			"q": "مَن ترَكَ الصَّلاةَ جاحدًا لوجوبِها",
+			"audio": "/files/quiz/figh/salah/audio/2784.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/682",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "كافِرٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2784_Answer.mp3"
+			},
+			{
+				"answer": "فاسِقٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُسلِمٌ عاصٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2789,
+		"q": {
+			"q": "مَسْحُ الوجهِ باليَدَينِ بعدَ الفراغِ من القُنوتِ",
+			"audio": "/files/quiz/figh/salah/audio/2789.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1255",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشرَعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2789_Answer.mp3"
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2790,
+		"q": {
+			"q": "أفضلُ وقتٍ لصَلاةِ الضُّحى",
+			"audio": "/files/quiz/figh/salah/audio/2790.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1261",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "عندَ ارتِفاعِ الشَّمسِ قِيدَ رُمحٍ بعدَ طلوعِها",
+				"t": 0
+			},
+			{
+				"answer": "قبلَ زَوالِ الشَّمسِ مُباشرةً",
+				"t": 0
+			},
+			{
+				"answer": "إذا علَتِ الشمسُ واشتدَّ حرُّها",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2790_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2799,
+		"q": {
+			"q": "حُكمُ خُطبةِ الجُمُعةِ\n ",
+			"audio": "/files/quiz/figh/salah/audio/2799.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1600",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مُستحَبَّةٌ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "شَرطٌ للجُمُعةِ ولا تَصِحُّ بدونِها",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2799_Answer.mp3"
+			},
+			{
+				"answer": "مُباحةٌ باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2801,
+		"q": {
+			"q": "إذا انتَهى الكُسوفُ أوِ الخُسوفُ أثناءَ الصَّلاةِ فإنَّه:",
+			"audio": "/files/quiz/figh/salah/audio/2801.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1808",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "يُتمُّها خَفيفةً على صِفتِها",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2801_Answer.mp3"
+			},
+			{
+				"answer": "يُصَلِّيها على هَيئَتِها ولا يُخفِّفُ",
+				"t": 0
+			},
+			{
+				"answer": "يَفرغُ مِن صَلاتِه بالتَّسليمِ ولا يُكمِلُها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2797,
+		"q": {
+			"q": "مَن شَكَّ في قَدْرِ المسافةِ؛ هل هي مَسافةُ قَصْرٍ في الصَّلاة أمْ لا، فإنَّه:",
+			"audio": "/files/quiz/figh/salah/audio/2797.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1453",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "يَقصُرُ، ويُستحَبُّ له الإتمامُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَقصُرُ، ويَجِبُ عَليهِ الإتمامُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2797_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ له أن يَقصُرَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2785,
+		"q": {
+			"q": "الأذانُ والإقامةُ لصَلاةِ العِيدِ",
+			"audio": "/files/quiz/figh/salah/audio/2785.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/699",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "غَيرُ مَشروعٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2785_Answer.mp3"
+			},
+			{
+				"answer": "فَرضُ كِفايةٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2796,
+		"q": {
+			"q": "نيَّةُ الائتمامِ في حقِّ المأمومِ",
+			"audio": "/files/quiz/figh/salah/audio/2796.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1415",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "تُشتَرَطُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2796_Answer.mp3"
+			},
+			{
+				"answer": "لا تُشترَطُ باتِّفاقِ المذاهبِ الفقهيَّةِ الأربعةِ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبَّةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2795,
+		"q": {
+			"q": "الصَّلاةُ خَلْفَ الفاسقِ",
+			"audio": "/files/quiz/figh/salah/audio/2795.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/feqhia/1373",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "باطِلةٌ",
+				"t": 0
+			},
+			{
+				"answer": "جائزةٌ مع الكَراهةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2795_Answer.mp3"
+			},
+			{
+				"answer": "مُباحةٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2800,
+		"q": {
+			"q": "قضاءُ المَسبوقِ للتَّكبيراتِ الزَّوائدِ في صَلاةِ العِيدينِ",
+			"audio": "/files/quiz/figh/salah/audio/2800.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1743",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "تَبطُل صَلاتُه وعليه الإعادةُ",
+				"t": 0
+			},
+			{
+				"answer": "يَقْضي المَسبوقُ ما فاتَهُ مِن التَّكبيراتِ ولا يُعيدُ الصَّلاةَ",
+				"t": 0
+			},
+			{
+				"answer": "يَسقُطُ عنه ما فاتَه ولا يَقضِيه",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2800_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2793,
+		"q": {
+			"q": "حُكمُ الإسْرارِ في النَّافِلةِ في صَلاةِ النَّهارِ",
+			"audio": "/files/quiz/figh/salah/audio/2793.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/1301",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "واجِبٌ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "سُنَّةٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2793_Answer.mp3"
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2804,
+		"q": {
+			"q": "تَعزِيةُ المَرأةِ إذا كانت شابَّةً",
+			"audio": "/files/quiz/figh/salah/audio/2804.mp3"
+		},
+		"level": 3,
+		"link": "http://host1.octal.com.sa/feqhia/2072",
+		"section": "salah",
+		"answers": [
+			{
+				"answer": "يُستحَبُّ أن يُعَزِّيَها مَحارِمُها فَقَط باتِّفاقِ المَذاهبِ الفِقهيَّةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/salah/audio/answers/2804_Answer.mp3"
+			},
+			{
+				"answer": "لا يُشرعُ في حَقِّها العَزاءُ",
+				"t": 0
+			},
+			{
+				"answer": "يُعَزِّيَها كلُّ أحَدٍ سَواءٌ من مَحارِمِها أو أَجنَبيٍّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

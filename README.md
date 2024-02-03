@@ -28,6 +28,7 @@
 - اسماء الله الحسنى
 - آية وتفسير | نص و صورة
 - التاريخ الهجري | نص و صورة
+-  اسئلة دينية - صوت وصورة
 
 
 # المتطلبات
@@ -51,6 +52,10 @@
 
 
 في الغالب هذه المسارات لجميع الانظمة
+
+```bash
+which chromium
+```
 
 ```
 linux:
@@ -84,7 +89,7 @@ MacOS:
 # تثبيت 
 
 ```bash
-git clone https://github.com/rn0x/altaqwaa_bot
+git clone https://github.com/Alsarmad/altaqwaa_bot
 cd altaqwaa_bot
 npm i
 npm start

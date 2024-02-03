@@ -1,0 +1,542 @@
+[
+	{
+		"id": 5760,
+		"q": {
+			"q": "جعَل سُفيانُ بنَ عُيَينةَ سُؤالَ: أمُؤمِنٌ أنت؟",
+			"audio": "/files/quiz/akida/eman/audio/5760.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2598",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "كَبِيرَةً",
+				"t": 0
+			},
+			{
+				"answer": "شرِكًا",
+				"t": 0
+			},
+			{
+				"answer": "بِدعَةً",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5760_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5744,
+		"q": {
+			"q": "حقيقةُ الإيمانِ مُرَكَّبةٌ من قَولٍ وعَمَلٍ، والقَولُ قِسمانِ:",
+			"audio": "/files/quiz/akida/eman/audio/5744.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2551",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "قَولُ القَلبِ، وهو الاعتقادُ، وقولُ اللِّسانِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5744_Answer.mp3"
+			},
+			{
+				"answer": "قَولُ القَلبِ، وهو الاعتقادُ، وقولُ الجوارحِ",
+				"t": 0
+			},
+			{
+				"answer": "قَولُ الجَوارحِ، وقَولُ اللِّسانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5758,
+		"q": {
+			"q": "كان أحدُ الأئمَّةِ يقولُ بزِيادةِ الإيمانِ؛ لأنَّه وَرَد النَّصُّ به، ويُتوقَّفُ في النُّقصانِ، ثمَّ رَجَع عنه بعدَ ذلك فمَن هو؟",
+			"audio": "/files/quiz/akida/eman/audio/5758.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2562",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "الإمامُ أبو حَنيفةَ",
+				"t": 0
+			},
+			{
+				"answer": "الإمامُ الشَّافعيُّ",
+				"t": 0
+			},
+			{
+				"answer": "الإمامُ مالِكُ بنُ أنسٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5758_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5743,
+		"q": {
+			"q": "ممَّن صنَّف في الإيمانِ مِن أئمَّةِ السَّلَفِ:",
+			"audio": "/files/quiz/akida/eman/audio/5743.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/29",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "تَقِيُّ الدِّينِ الخَوارزمِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "محمدُ بنُ شُراحِيلَ البَجليُّ",
+				"t": 0
+			},
+			{
+				"answer": "أبو عُبَيدٍ القاسِمُ بنُ سلَّامٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5743_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5756,
+		"q": {
+			"q": "القائلُ: «إنَّ الإيمانَ ليس بالتَّحَلِّي ولا بالتَّمَنِّي، إنَّما الإيمانُ ما وَقَر في القَلبِ، وصَدَّقه العَمَلُ»",
+			"audio": "/files/quiz/akida/eman/audio/5756.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2553",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "الأعمَشُ سُلَيمانُ بنُ مِهرانَ",
+				"t": 0
+			},
+			{
+				"answer": "هارونُ الرَّشيدُ",
+				"t": 0
+			},
+			{
+				"answer": "الحَسَنُ البَصريُّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5756_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5757,
+		"q": {
+			"q": "«تَركَ الفَرائِضِ ليس بمَنزلةِ رُكوبِ المَحارِمِ» هذه من القَواعِدِ التي اختَلَف فيها أهلُ السُّنَّةِ والجَماعةِ مع",
+			"audio": "/files/quiz/akida/eman/audio/5757.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2555",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "المُرجِئةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5757_Answer.mp3"
+			},
+			{
+				"answer": "الخَوارجِ",
+				"t": 0
+			},
+			{
+				"answer": "المُعتزِلةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5759,
+		"q": {
+			"q": "الإيمانُ أصلٌ له شُعَبٌ متعَدِّدةٌ، وكُلُّ شُعبةٍ منها تُسَمَّى",
+			"audio": "/files/quiz/akida/eman/audio/5759.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2592",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "إيمانًا",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5759_Answer.mp3"
+			},
+			{
+				"answer": "إِقرارًا",
+				"t": 0
+			},
+			{
+				"answer": "عَملًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5741,
+		"q": {
+			"q": "اخْتارَ شَيخُ الإسلامِ ابنُ تَيميَّةَ والعَلَّامةُ ابنُ عُثَيمين رَحِمَهما اللهُ تَعالَى أنَّ الأجوَدَ في مَعنَى الإيمانِ في اللُّغةِ هو:",
+			"audio": "/files/quiz/akida/eman/audio/5741.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2520",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "الإقرارُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5741_Answer.mp3"
+			},
+			{
+				"answer": "التَّأمينُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّصديقُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5750,
+		"q": {
+			"q": "يكونُ الرَّجُلانِ مَقامُهما في الصَّفِّ واحِدًا وبينَ صلاتَيْهما كما بينَ السَّماءِ والأرضِ، لأن الأعمالَ تَتفاضَلُ:",
+			"audio": "/files/quiz/akida/eman/audio/5750.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2543",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "بالنِّيَّاتِ",
+				"t": 0
+			},
+			{
+				"answer": "بتفاضُلِ ما في القُلوبِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5750_Answer.mp3"
+			},
+			{
+				"answer": "بعَدَدِها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5751,
+		"q": {
+			"q": "تدخُلُ أعمالُ الجوارحِ عند السَّلَفِ في مُسَمَّى الإيمانِ دُخولًا أوَّلِيًّا، وذلك عند:",
+			"audio": "/files/quiz/akida/eman/audio/5751.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2551",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "اعتِبار أنَّ للقَلبِ إقرارًا وقولًا وعَملًا",
+				"t": 0
+			},
+			{
+				"answer": "استِعمالِ الأَلفاظِ الدَّالَّةِ على أَحدِهِما",
+				"t": 0
+			},
+			{
+				"answer": "إطلاقِ لَفظِ الإيمانِ أو تجريدِه",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5751_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5753,
+		"q": {
+			"q": "مَن القائلُ: «لَقِيتُ أكثَرَ مِن ألفِ رَجُلٍ من العُلَماءِ بالأمْصارِ، فما رأيتُ أحدًا منهم يختَلِفُ في أنَّ الدِّينَ قَولٌ وعَمَلٌ»",
+			"audio": "/files/quiz/akida/eman/audio/5753.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2551",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "البُخاريُّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5753_Answer.mp3"
+			},
+			{
+				"answer": "الشَّافِعيُّ",
+				"t": 0
+			},
+			{
+				"answer": "البَغَويُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5748,
+		"q": {
+			"q": "عَملُ القَلبِ هو متعَلِّقُ التَّوحيدِ",
+			"audio": "/files/quiz/akida/eman/audio/5748.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2543",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "الطَّلَبيِّ الإراديِّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5748_Answer.mp3"
+			},
+			{
+				"answer": "الاعتِقاديِّ",
+				"t": 0
+			},
+			{
+				"answer": "الخَبَريِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5747,
+		"q": {
+			"q": "هلِ التَّقليدُ في المسائلِ العَقَديَّةِ كالتَّقليدِ في المسائِلِ العَمَليَّةِ؟",
+			"audio": "/files/quiz/akida/eman/audio/5747.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2531",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "يجوزُ التَّقليدُ في الأَعمالِ دُونَ العَقائدِ",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ التَّقليدُ في العَقائدِ دُونَ الأَعمالِ",
+				"t": 0
+			},
+			{
+				"answer": "لا فَرقَ، فالذي لا يَستطيعُ الوُصولَ إلى الحَقِّ بنفْسِه ففَرضُه التَّقليدُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5747_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5754,
+		"q": {
+			"q": "مَن القائلُ: «كان الإجماعُ من الصَّحابةِ والتَّابعينَ مِن بَعدِهم، ومَن أدرَكْناهم، يقولونَ: الإيمانُ قَولٌ وعَمَلٌ ونِيَّةٌ، لا يُجزئُ واحِدٌ من الثَّلاثِ إلَّا بالآخَرِ» هو:",
+			"audio": "/files/quiz/akida/eman/audio/5754.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2551",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "البُخاريُّ",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ عبدِ البَرِّ",
+				"t": 0
+			},
+			{
+				"answer": "الشَّافِعيُّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5754_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5752,
+		"q": {
+			"q": "الإيمانُ قولٌ وعَملٌ، وهذا العَمَلُ يَشمَلُ عَملَ الجَوارحِ والمُرادُ بها:",
+			"audio": "/files/quiz/akida/eman/audio/5752.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2555",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "الإخلاصُ للهِ في جَميعِ العِباداتِ",
+				"t": 0
+			},
+			{
+				"answer": "جِنسُ العَمَلِ الصَّالحِ، أي: جِنسُ الامتِثالِ للأوامِرِ، والاجتنابِ للنَّواهي",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5752_Answer.mp3"
+			},
+			{
+				"answer": "اليَقينُ والقَبولُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5746,
+		"q": {
+			"q": "المعرفةُ أو قَولُ القَلبِ التي اشتَرَطَها السَّلَفُ كرُكنٍ أصليٍّ للإيمانِ غيرُ المعرفةِ التي اشترَطَها:",
+			"audio": "/files/quiz/akida/eman/audio/5746.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2531",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "الشِّيعةُ",
+				"t": 0
+			},
+			{
+				"answer": "الخَوارِجُ",
+				"t": 0
+			},
+			{
+				"answer": "المُعتزِلةُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5746_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5749,
+		"q": {
+			"q": "قَولُ النَّبيِّ ﷺ: «لا يدخُلُ النَّارَ مَن قال: لا إلهَ إلَّا اللهُ» ليس ذلك الثَّوابُ بمجَرَّدِ قَولِ اللِّسانِ فَقَط:",
+			"audio": "/files/quiz/akida/eman/audio/5749.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2543",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "لأنَّ الإقرارَ باللِّسانِ رُكنٌ مِن أَركانِ الإيمانِ",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّ الحَديثَ مَنسُوخٌ بحَديثِ: \"الأَعمالُ بالنِّيَّات\"",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّه لا بدَّ مِن قَولِ القَلبِ، وقَولِ اللِّسانِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5749_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5742,
+		"q": {
+			"q": "قالوا: إنَّ الفاسِقَ مُؤمِنٌ كامِلُ الإيمانِ",
+			"audio": "/files/quiz/akida/eman/audio/5742.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2653",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "المُعتزِلةُ",
+				"t": 0
+			},
+			{
+				"answer": "المُرجِئةُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5742_Answer.mp3"
+			},
+			{
+				"answer": "الأشاعِرةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5755,
+		"q": {
+			"q": "قال حَربٌ الكِرمانيُّ: الإيمانُ قَولٌ وعَمَلٌ، ونِيَّةٌ، وتمسُّكٌ بالسُّنَّةِ... ومَن زعَم أنَّ الإيمانَ قَولٌ بلا عَمَلٍ؛ فهو",
+			"audio": "/files/quiz/akida/eman/audio/5755.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2551",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "مُرجِئٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5755_Answer.mp3"
+			},
+			{
+				"answer": "مُعتزليٌّ",
+				"t": 0
+			},
+			{
+				"answer": "حَروريٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5745,
+		"q": {
+			"q": "حقيقةُ الإيمانِ مُرَكَّبةٌ من قَولٍ وعَمَلٍ. والعَمَلُ قِسمانِ:",
+			"audio": "/files/quiz/akida/eman/audio/5745.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/aqeeda/2551",
+		"section": "eman",
+		"answers": [
+			{
+				"answer": "عَمَلُ اللِّسانِ، وعَمَلُ الجوارحِ",
+				"t": 0
+			},
+			{
+				"answer": "عَمَلُ القَلبِ، وهو نيَّتُه وإخلاصُه، وعَمَلُ الجوارحِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/eman/audio/answers/5745_Answer.mp3"
+			},
+			{
+				"answer": "عَمَلُ القَلبِ؛ وهو إيمانُه، وعَمَلُ اللِّسانِ؛ وهو كَلامُه وإِقرارُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1962,
+		"q": {
+			"q": "إذا طلَّق المدخولَ بها ثلاثَ تطليقاتٍ بألفاظٍ متكررةٍ، كأن يقولَ: أنت طالقٌ، أنت طالقٌ، أنت طالقٌ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1962.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4571/الفرع-الأول:-الطلاق-بثلاث-تطليقات-بألفاظ-متكررة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "وقَع ثلاثًا باتفاقِ المذاهبِ الفقهيةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1962_Answer.mp3"
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ اثنتينِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1945,
+		"q": {
+			"q": "الطَّلاق الصُّوريُ (طلاق المصْلحة):",
+			"audio": "/files/quiz/figh/figh-talag/audio/1945.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4544/المبحث-الرابع:-الطلاق-الصوري-طلاق-المصلحة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ قضاءً لا ديانةً",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1945_Answer.mp3"
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1959,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه غيرَ المدخولِ بها طلقةً واحدةً، فإنها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1959.mp3"
+		},
+		"level": 2,
+		"link": "0https://www.dorar.net/feqhia/4559/المطلب-الأول:-طلاق-غير-المدخول-بها-طلقة-واحدة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا تَعتدُّ وتَحِل له بالمراجَعةِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَعتدُّ، ولا تَحِل إلا بعقدٍ جَديدٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1959_Answer.mp3"
+			},
+			{
+				"answer": "تعتدُّ شَهرين",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1946,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه غيرَ المدخولِ بها طلقةً واحدةً، فإنها:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1946.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4559/المطلب-الأول:-طلاق-غير-المدخول-بها-طلقة-واحدة",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "تَعتدُّ شَهرينِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَعتدُّ وتَحِل له بالمراجَعةِ",
+				"t": 0
+			},
+			{
+				"answer": "لا تَعتدُّ ولا تَحِلُّ إلا بعقدٍ جديدٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1946_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1958,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه في وقت حيْضِها أو في طُهرٍ جامعَها فيه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1958.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4553/المطلب-الأول:-حكم-طلاق-الحائض-والطَّلاق-في-طهر-جامعها-فيه",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "فهو طلاقٌ سُنِّي",
+				"t": 0
+			},
+			{
+				"answer": "فهو طلاقٌ محرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1958_Answer.mp3"
+			},
+			{
+				"answer": "ليس بطَلاقٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1950,
+		"q": {
+			"q": "طلاقُ الغضبانِ غضبًا مُعتادًا:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1950.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4504/الفرع-الثالث:-طلاق-الغضبان#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ بالإجماع",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1950_Answer.mp3"
+			},
+			{
+				"answer": "يقعُ رجعيًّا فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ بالإجماع",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1953,
+		"q": {
+			"q": "طلاقُ الهازلِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1953.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4513/الفرع-الأول:-طلاق-الهازل",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1953_Answer.mp3"
+			},
+			{
+				"answer": "إنْ نَوَى طَلاقًا يَقعُ وإلَّا فلا",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1957,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه وهي حاملٌ، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1957.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4550/المطلب-الثاني:-طلاق-الحامل",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "جائِزٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1957_Answer.mp3"
+			},
+			{
+				"answer": "محرَّمٌ",
+				"t": 0
+			},
+			{
+				"answer": "طلاقٌ بِدعي",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1956,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه في طُهرٍ لم يجامعْها فيه، فهو طلاقٌ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1956.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4548/المطلب-الأول:-الطلاق-في-طهر-لم-يجامعها-فيه",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "بِدعيٌّ",
+				"t": 0
+			},
+			{
+				"answer": "سُنِّي بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1956_Answer.mp3"
+			},
+			{
+				"answer": "محرَّمٌ لا يقعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1961,
+		"q": {
+			"q": "مِن أقوال العلماءِ في حكمِ طلاقِ الثلاثِ في حقِّ غيرِ المدخولِ بها بلفظِ: أنتِ طالقٌ وطالقٌ وطالقٌ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1961.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4568/الفرع-الثالث:-الطلاق-بألفاظ-متكررة-مع-العطف",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يقعُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ إلا طلقةً واحدةً",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1961_Answer.mp3"
+			},
+			{
+				"answer": "يقعُ طلقتينِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1951,
+		"q": {
+			"q": "طلاقُ السَّكران المعذورِ بسُكرِه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1951.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4506/الفرع-الرابع:-طلاق-السكران#t-1",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1951_Answer.mp3"
+			},
+			{
+				"answer": "مكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1948,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه بعِوَضٍ، فهو طلاقٌ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1948.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4601/المبحث-الثاني:-الطلاق-بعوض",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "محرَّمٌ",
+				"t": 0
+			},
+			{
+				"answer": "بائنٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1948_Answer.mp3"
+			},
+			{
+				"answer": "رَجعيٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1955,
+		"q": {
+			"q": "مَن أخطأ فسبَق لسانُه بالطَّلاقِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1955.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4515/الفرع-الثاني:-طلاق-المخطئ",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ بالإجماع",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ قضاءً لا دينًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ بالاتِّفاق",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1955_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1943,
+		"q": {
+			"q": "طلاقُ الوَليِّ عن الصَّبي والمجنون:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1943.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4490/المطلب-الثاني:-حكم-الطلاق-بالولي",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1943_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ عن الصَّبي",
+				"t": 0
+			},
+			{
+				"answer": "يجوزُ عن المجنون",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1954,
+		"q": {
+			"q": "طلاقُ مَن أدخَل على نفسِه السُّكرَ باختيارِه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1954.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4506/الفرع-الرابع:-طلاق-السكران#t-2",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "لا يقعُ طلاقُه بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ في الطَّلقة الأُولى فقطْ",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ باتِّفاق المذاهبِ الفقهيةِ الأربعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1954_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1960,
+		"q": {
+			"q": "إذا طُلِّقت غيرُ المدخولِ بها ثلاثَ تطليقاتٍ بألفاظٍ متكرِّرة:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1960.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4566/الفرع-الثاني:-الطلاق-بثلاث-تطليقات-بألفاظ-متكررة%C2%A0",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ طلقةً واحدةً",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1960_Answer.mp3"
+			},
+			{
+				"answer": "وقَع طلقتينِ",
+				"t": 0
+			},
+			{
+				"answer": "وقَع الطَّلاق ثلاثًا، ولا تَحِل له حتَّى تَنكِح غيرَه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1949,
+		"q": {
+			"q": "التَّعيين في الرَّجعةِ للزَّوجة:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1949.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4651/الفرع-الأول:-ما-يشترط-في-الزوجة-المرتجعة#t-6",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يُستحبُّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُشترَط",
+				"t": 0
+			},
+			{
+				"answer": "يُشترَط",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1949_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1952,
+		"q": {
+			"q": "طلاقُ المكرَهِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1952.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4510/المطلب-الثالث:-من-شروط-الطَّلاق:-الاختيار-حكم-طلاق-المكره",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يقعُ رَجعِيًّا لا بائِنًا",
+				"t": 0
+			},
+			{
+				"answer": "يقعُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يقعُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1952_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1947,
+		"q": {
+			"q": "إذا طلَّق الرجُلُ امرأتَه بلا عِوَضٍ ولا ما يَقْتضي بَينونتَها، فإنه:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1947.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4599/المبحث-الأول:-الطلاق-بدون-عوض",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "يَحِق له الرَّجعةُ إذا كانت في عِدتها",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1947_Answer.mp3"
+			},
+			{
+				"answer": "لا يَحِق له الرَّجعةُ",
+				"t": 0
+			},
+			{
+				"answer": "يَثبت خيارُ الرَّجعةِ للزوجةِ دون الزَّوج",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1944,
+		"q": {
+			"q": "توثيقُ الطَّلاق في المحاكمِ:",
+			"audio": "/files/quiz/figh/figh-talag/audio/1944.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/4484/مطلب:-حكم-توثيق-الطلاق-أمام-المحاكم-الوضعية-في-البلاد-غير-الإسلامي",
+		"section": "figh-talag",
+		"answers": [
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "بِدعةٌ",
+				"t": 0
+			},
+			{
+				"answer": "لا بأسَ به",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-talag/audio/answers/1944_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

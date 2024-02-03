@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6610,
+		"q": {
+			"q": "مِن أَغراضِ التَّشبِيهِ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6610.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1788",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "تَحْسينُ المُشبَّهِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6610_Answer.mp3"
+			},
+			{
+				"answer": "تَقريرُ المُتَضادَّينِ",
+				"t": 0
+			},
+			{
+				"answer": "استِجلابُ المَعانِي البَعيدَةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6618,
+		"q": {
+			"q": "في قَولِه تعالى:{يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا} مِن أَساليبِ البَلاغَة:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6618.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1660",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "التَّمنِّي",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6618_Answer.mp3"
+			},
+			{
+				"answer": "الاستِطرادُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّورِيَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6606,
+		"q": {
+			"q": "هو أنْ يُشيرَ ناظِمُ في بيتٍ أو قَرينةِ سَجْعٍ إلى قصَّةٍ مَعْلومةٍ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6606.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2069",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "الإِيضاحُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّلميحُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6606_Answer.mp3"
+			},
+			{
+				"answer": "الإِسجاعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6608,
+		"q": {
+			"q": "مِن أَمثِلَةِ أُسلُوبِ النَّهيِ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6608.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1656",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "{وَلَا تَقْتُلُوا أَوْلَادَكُمْ}",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6608_Answer.mp3"
+			},
+			{
+				"answer": "لا أَحَدَ في الدَّارِ",
+				"t": 0
+			},
+			{
+				"answer": "{أَلَيْسَ مِنْكُمْ رَجُلٌ رَشِيدٌ}",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6617,
+		"q": {
+			"q": "هو أن يكونَ لكلِّ شطْرٍ مِنَ البيتِ قافِيتانِ مُغايرتانِ لقافِيةِ الشَّطرِ الثَّاني:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6617.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2012",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "التَّغايُر",
+				"t": 0
+			},
+			{
+				"answer": "التَّشْطيرُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6617_Answer.mp3"
+			},
+			{
+				"answer": "القَلْقَلَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6607,
+		"q": {
+			"q": "مِن العُلماءِ الذين لهم اهتِمامٌ بعِلمِ البَلاغَة:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6607.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1783",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "ابنُ كَثيرٍ",
+				"t": 0
+			},
+			{
+				"answer": "عبدُالقاهِر الجُرجانيُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6607_Answer.mp3"
+			},
+			{
+				"answer": "عبدُالرزاق الصَّنعانيُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6611,
+		"q": {
+			"q": "التَّشبِيهُ في قَولِ: \"العلْمُ نورٌ\" يُسمَّى:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6611.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1801",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "التَّشْبيهَ البَليغَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6611_Answer.mp3"
+			},
+			{
+				"answer": "التَّشبِيهَ الصَّريحَ",
+				"t": 0
+			},
+			{
+				"answer": "التَّشبِيهَ التَّخيِيلِي",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6614,
+		"q": {
+			"q": "أنْ تكونَ لها مَعْنيان؛ مَعْنًى قَريبٌ ظاهِرٌ غيرُ مُرادٍ، ومَعْنًى آخَرُ بَعيدٌ هو المَقْصودُ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6614.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1905",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "المُبالَغَةُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّورِيَةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6614_Answer.mp3"
+			},
+			{
+				"answer": "المُطابَقَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6613,
+		"q": {
+			"q": "هو أنْ يتكلَّمَ الشَّاعرُ بشيءٍ ثمَّ يَرجِعَ عليه بالنَّقضِ لنُكتَةٍ بَلاغيَّة:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6613.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1902",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "الرُّجوعُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6613_Answer.mp3"
+			},
+			{
+				"answer": "التَّجريدُ",
+				"t": 0
+			},
+			{
+				"answer": "المُقابَلَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6609,
+		"q": {
+			"q": "هو أن يُضَمِّنَ المُتكلِّمُ كَلامَه مِن شِعرٍ أو نَثْرٍ شيئًا مِنَ القُرآنِ أو الحَديثِ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6609.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2061",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "التَّسهِيمُ",
+				"t": 0
+			},
+			{
+				"answer": "الاقْتِباسُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6609_Answer.mp3"
+			},
+			{
+				"answer": "الاحتِجاجُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6602,
+		"q": {
+			"q": "مَعنَى التَّكريرُ في البلاغة هو:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6602.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1776",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "تَكريرُ الكَلمةِ أوِ الجُملةِ مرَّتَينِ لفائِدةٍ مِن الفوائدِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6602_Answer.mp3"
+			},
+			{
+				"answer": "ختْمُ الكَلامِ بما يُفيدُ فائِدةً يتِمُّ المَعْنى بدُونِها",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يأتيَ لفظٌ مُبهَمٌ أو مُجمَلٌ، فيأتيَ بعدَه ما يُوضِّحُه ويُفسِّرُه ويُفصِّلُ إجْمالَه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6620,
+		"q": {
+			"q": "هو تَلقِّي المُخاطَبِ بغيرِ ما يَترقَّبُه؛ إمَّا بترْكِ سُؤالِه والإجابَةِ عن سُؤالٍ لم يَسألْه، أو بحَمْلِ كَلامِ المُتكلِّمِ على غيرِ ما كان يَقصِدُ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6620.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1979",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "أُسلوبُ الإِغراءِ",
+				"t": 0
+			},
+			{
+				"answer": "أُسلوبُ الالتِفافِ",
+				"t": 0
+			},
+			{
+				"answer": "أُسْلوب الحَكيمِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6620_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6605,
+		"q": {
+			"q": "من أمثلة حذْف حرْفِ النِّداءِ، قوله تعالى:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6605.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1672",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "{اعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ}",
+				"t": 0
+			},
+			{
+				"answer": "{يُوسُفُ أَعْرِضْ عَنْ هَذَا}",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6605_Answer.mp3"
+			},
+			{
+				"answer": "{كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ}",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6616,
+		"q": {
+			"q": "قَولُ الشَّاعِرِ: \" فَدَارِهِم ما دُمتَ في دَارِهِم\" مِن أَمثِلَةِ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6616.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1994",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "الجِناسِ التَّامِّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6616_Answer.mp3"
+			},
+			{
+				"answer": "الكِنايَةِ التَّصرِيحيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "الإِدْغامِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6601,
+		"q": {
+			"q": "مَعنَى الإِيجازِ في البَلاغَة:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6601.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1771",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "تَوفيةُ المَعْنى بما لا يَتِمُّ المعنى إلَّا بِه",
+				"t": 0
+			},
+			{
+				"answer": "وضْعُ المَعاني الكَثيرةِ في ألْفاظٍ أقلَّ منْها",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6601_Answer.mp3"
+			},
+			{
+				"answer": "تَذيِيلُ الكَلامِ بعدَ تمامِه بجُملةٍ تُحقِّقُ ما قبلَها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6615,
+		"q": {
+			"q": "مِن أقْسامُ المُبالَغةِ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6615.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1939",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "الاحْتِرازُ",
+				"t": 0
+			},
+			{
+				"answer": "الإِقْحامُ",
+				"t": 0
+			},
+			{
+				"answer": "الغُلُوُّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6615_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6619,
+		"q": {
+			"q": "إذا كان المُشَبَّهُ شيئًا واحدًا، والمُشَبَّه به مثله، يُسمى:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6619.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1809",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "التَّشبيهَ المفرَدَ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6619_Answer.mp3"
+			},
+			{
+				"answer": "التَّشبيهَ المتعدِّدَ",
+				"t": 0
+			},
+			{
+				"answer": "التَّشبِيهَ المُركَّبَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6603,
+		"q": {
+			"q": "تأديةُ المَعْنى المُرادِ بعِبارةٍ مُساويةٍ له، يُسَمَّى:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6603.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1778",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "العِبارَةُ القَرينَةُ",
+				"t": 0
+			},
+			{
+				"answer": "الازْدِواجُ",
+				"t": 0
+			},
+			{
+				"answer": "المُساواةُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6603_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6604,
+		"q": {
+			"q": "الأصْلُ في أداةِ التَّشْبيهِ حَرفُ:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6604.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1794",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "الميم",
+				"t": 0
+			},
+			{
+				"answer": "الباء",
+				"t": 0
+			},
+			{
+				"answer": "الكاف",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6604_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6612,
+		"q": {
+			"q": "قَولُه تعالى: {تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ} فيهِ مِن أَساليبِ البَلاغَة:",
+			"audio": "/files/quiz/arabia/al-blaga/audio/6612.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/1900",
+		"section": "al-blaga",
+		"answers": [
+			{
+				"answer": "اللَّفُّ والنَّشرُ",
+				"t": 0
+			},
+			{
+				"answer": "المُشاكَلَةُ",
+				"t": 0
+			},
+			{
+				"answer": "العَكْسُ والتَّبديلُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-blaga/audio/answers/6612_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

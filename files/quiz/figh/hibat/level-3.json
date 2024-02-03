@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2393,
+		"q": {
+			"q": "لو تَصرَّفَتِ الزَّوجةُ بأكثَرَ من ثُلُثِ مالِها بالهِبةِ",
+			"audio": "/files/quiz/figh/hibat/audio/2393.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6614",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "صَحَّ تَصَرُّفُها",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2393_Answer.mp3"
+			},
+			{
+				"answer": "بَطَلَتِ الهِبةُ",
+				"t": 0
+			},
+			{
+				"answer": "للزَّوجِ مَنْعُ الكُلِّ أو إجازَتُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2409,
+		"q": {
+			"q": "لو وَهَب لرَجُلٍ شَيئًا فباعَه لغَيرِه ثمَّ أرادَ الواهِبُ أن يَشتَرِيَه منَ ذلك المُشتَرِي",
+			"audio": "/files/quiz/figh/hibat/audio/2409.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6713",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2409_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2389,
+		"q": {
+			"q": "هِبةُ المَريضِ مَرَضًا مَخُوفًا",
+			"audio": "/files/quiz/figh/hibat/audio/2389.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6608",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تَصِحُّ منَ الثُّلُثِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2389_Answer.mp3"
+			},
+			{
+				"answer": "لا تَصِحُّ مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ مُطلقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2395,
+		"q": {
+			"q": "الهِبةُ للذِّمِّيِّ",
+			"audio": "/files/quiz/figh/hibat/audio/2395.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6629",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَجوزُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2395_Answer.mp3"
+			},
+			{
+				"answer": "تَجوزُ للنَّصارى دونَ اليَهودِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2391,
+		"q": {
+			"q": "هِبةُ المَريضِ مَرضًا مُزمِنًا",
+			"audio": "/files/quiz/figh/hibat/audio/2391.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6610",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ منَ الثُّلُثِ فقط",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2391_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2400,
+		"q": {
+			"q": "الهِبةُ لمُقرِضٍ إن كانت مَشروطةً",
+			"audio": "/files/quiz/figh/hibat/audio/2400.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6657",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ إنْ كانت مَشروطةً",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2400_Answer.mp3"
+			},
+			{
+				"answer": "تَصِحُّ مَشروطةً أو غَيرَها",
+				"t": 0
+			},
+			{
+				"answer": "لا تَصِحُّ مَشروطةً أو غَيرَ مَشروطةٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2388,
+		"q": {
+			"q": "لو وَهَب ثمَّ مات قبْلَ القَبضِ وأجاز الوَرَثةُ",
+			"audio": "/files/quiz/figh/hibat/audio/2388.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6605",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "استَحقَّها المَوهوبُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2388_Answer.mp3"
+			},
+			{
+				"answer": "تَخرُجُ منَ الثُّلُثِ وُجوبًا",
+				"t": 0
+			},
+			{
+				"answer": "لم يَستَحِقَّها المَوهوبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2404,
+		"q": {
+			"q": "الهِبةُ لبَنِي هاشِمٍ",
+			"audio": "/files/quiz/figh/hibat/audio/2404.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6754",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "تَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2404_Answer.mp3"
+			},
+			{
+				"answer": "لا تَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2392,
+		"q": {
+			"q": "وَهَب في مَرَضِ مَوتِه فقَتَلَه المَوهوبُ له",
+			"audio": "/files/quiz/figh/hibat/audio/2392.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6612",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "عَلى قَولَينِ لأهلِ العِلمِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2392_Answer.mp3"
+			},
+			{
+				"answer": "بَطَلَتِ الهِبةُ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "لم تَبطُلِ الهِبةُ باتِّفاقِ المَذاهِبِ الأربعةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2398,
+		"q": {
+			"q": "هِبةُ الفُضولِيِّ مالَ غَيرِه",
+			"audio": "/files/quiz/figh/hibat/audio/2398.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6642",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تَتوقَّفُ عَلى إجازةِ المالِكِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2398_Answer.mp3"
+			},
+			{
+				"answer": "لا تَصِحُّ أبدًا",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2401,
+		"q": {
+			"q": "هِبةُ المُقتَرِضِ للمُقرِضِ قبْلَ الوَفاءِ",
+			"audio": "/files/quiz/figh/hibat/audio/2401.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6659",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "تَجوزُ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجوزُ إلا إنْ كانتِ العادةُ جارِيةً بَينَهُما",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2401_Answer.mp3"
+			},
+			{
+				"answer": "لا تَجوزُ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2399,
+		"q": {
+			"q": "هِبةُ المَعدومِ",
+			"audio": "/files/quiz/figh/hibat/audio/2399.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6644",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ أبدًا",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ مُطلَقًا",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ إن كان وُجودُه مُتوقَّعًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2399_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2407,
+		"q": {
+			"q": "شِراءُ الهِبةِ منَ المَوهوبِ له",
+			"audio": "/files/quiz/figh/hibat/audio/2407.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6711",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2407_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2406,
+		"q": {
+			"q": "لو وَهَب المَوهوبُ له الشَّيءَ المَوهوبَ للواهِبِ",
+			"audio": "/files/quiz/figh/hibat/audio/2406.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6708",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يُكرَهُ أخْذُه",
+				"t": 0
+			},
+			{
+				"answer": "يُباحُ أخْذُه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2406_Answer.mp3"
+			},
+			{
+				"answer": "لم يَجُزْ أخْذُه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2402,
+		"q": {
+			"q": "الهِبةُ للعُمَّالِ والمُوَظَّفين في الدَّولةِ",
+			"audio": "/files/quiz/figh/hibat/audio/2402.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6661",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَجوزُ إلَّا لِمَن له عادةٌ في الهِبةِ قبْلَ تَوَلِّيه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2402_Answer.mp3"
+			},
+			{
+				"answer": "تَجوزُ مطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا تَجوزُ مطلقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2403,
+		"q": {
+			"q": "الهِبةُ المُؤقَّتةُ",
+			"audio": "/files/quiz/figh/hibat/audio/2403.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6663",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا تَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2403_Answer.mp3"
+			},
+			{
+				"answer": "تَصِحُّ مع الكَراهَة",
+				"t": 0
+			},
+			{
+				"answer": "تَصِحُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2387,
+		"q": {
+			"q": "وَهَب هبةً ثمَّ مات ولم يَقبِضْها المَوهوبُ، ولم يُجِزْها الوَرَثةُ",
+			"audio": "/files/quiz/figh/hibat/audio/2387.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6603",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "لا يَستَحِقُّها المَوهوبُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2387_Answer.mp3"
+			},
+			{
+				"answer": "تَخرُجُ منَ الثُّلُثِ",
+				"t": 0
+			},
+			{
+				"answer": "استَحَقَّها المَوهوبُ له",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2405,
+		"q": {
+			"q": "الرُّجوع ُفي الهِبةِ",
+			"audio": "/files/quiz/figh/hibat/audio/2405.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6701",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يَجوزُ لغَيرِ الوالِدَينِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2405_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوزُ الرُّجوعُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ مُطلَقًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2394,
+		"q": {
+			"q": "مات المَوهوبُ له بعدَ القَبولِ وقبْلَ القَبضِ",
+			"audio": "/files/quiz/figh/hibat/audio/2394.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6625",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "أعاد الواهِبُ الهِبةَ للوَرَثةِ",
+				"t": 0
+			},
+			{
+				"answer": "لم تَبطُلِ الهِبةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2394_Answer.mp3"
+			},
+			{
+				"answer": "بَطَلَتِ الهِبةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2397,
+		"q": {
+			"q": "اشتِراطُ المالِ في المَوهوبِ",
+			"audio": "/files/quiz/figh/hibat/audio/2397.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/6640",
+		"section": "hibat",
+		"answers": [
+			{
+				"answer": "يُشترَطُ أن يَكونَ المَوهوبُ مالًا",
+				"t": 1,
+				"audio": "/files/quiz/figh/hibat/audio/answers/2397_Answer.mp3"
+			},
+			{
+				"answer": "لا يُشترَطُ أن يَكونَ المَوهوبُ مالًا",
+				"t": 0
+			},
+			{
+				"answer": "يُستحَبُّ أن يَكونَ المَوهوب مالًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 5485,
+		"q": {
+			"q": "مَذهَبُ المُعتزِلةِ أنَّ أفعالَ العِبادِ",
+			"audio": "/files/quiz/akida/shirk/audio/5485.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2983",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "من خَلقِ العَبدِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5485_Answer.mp3"
+			},
+			{
+				"answer": "مَخلوقةٌ للهِ من كَسبِ العَبدِ",
+				"t": 0
+			},
+			{
+				"answer": "مَخلوقةٌ للهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5482,
+		"q": {
+			"q": "الذَّبحُ لغَيرِ اللهِ",
+			"audio": "/files/quiz/akida/shirk/audio/5482.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3009",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "شِركٌ أكبَر",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5482_Answer.mp3"
+			},
+			{
+				"answer": "فُسُوق وفُجُور",
+				"t": 0
+			},
+			{
+				"answer": "مِن أَكبرِ الكَبائِر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5487,
+		"q": {
+			"q": "الشِّرْكُ الأكبَرُ يكونُ في الاعتِقاداتِ مثل:",
+			"audio": "/files/quiz/akida/shirk/audio/5487.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2994",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "قَول القائلِ: تَوكَّلتُ على الله وعليك",
+				"t": 0
+			},
+			{
+				"answer": "اعتِقاد أنَّ غيرَ اللهِ مُستَحِقٌّ للعبادةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5487_Answer.mp3"
+			},
+			{
+				"answer": "الذَّبح لغيرِ الله",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5486,
+		"q": {
+			"q": "أوَّلُ مَن أشرَكَ في الرُّبوبيَّةِ، وجَعَل عَليًّا إلهًا خالِقًا:",
+			"audio": "/files/quiz/akida/shirk/audio/5486.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2985",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "عبدُ اللهِ بنُ سَبَأٍ اليَهوديُّ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5486_Answer.mp3"
+			},
+			{
+				"answer": "عبدُ الرَّحمنِ بنُ مُلجِمٍ المُرادِيُّ",
+				"t": 0
+			},
+			{
+				"answer": "الجَعدُ بنُ دِرهَم الحَروريُّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5481,
+		"q": {
+			"q": "أصلُ الشِّركِ في اللُّغةِ",
+			"audio": "/files/quiz/akida/shirk/audio/5481.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2973",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "المُقارَنةُ وخِلافُ الانفِرادِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5481_Answer.mp3"
+			},
+			{
+				"answer": "فَسادُ الفِطرَةِ",
+				"t": 0
+			},
+			{
+				"answer": "الاضطِرابُ في العِباداتِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5494,
+		"q": {
+			"q": "كَراهِيةُ شَرعِ اللهِ مع العَمَلِ به",
+			"audio": "/files/quiz/akida/shirk/audio/5494.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3009",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "شِركٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَعصِيةٌ",
+				"t": 0
+			},
+			{
+				"answer": "كُفرٌ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5494_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5496,
+		"q": {
+			"q": "قَولُ الرَّجُلِ: \"مُطِرْنا بنَوءِ كذا، ما شاءَ اللهُ وشِئتَ، لولا فُلانٌ كان كذا\"",
+			"audio": "/files/quiz/akida/shirk/audio/5496.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3044",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "منَ الشِّركِ في الأقوالِ والألفاظِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5496_Answer.mp3"
+			},
+			{
+				"answer": "منَ الشِّركِ في النِّيَّاتِ والمَقاصِدِ",
+				"t": 0
+			},
+			{
+				"answer": "من شِركِ التَّعطيلِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5497,
+		"q": {
+			"q": "أوَّلُ مَن يَدخُلُ النَّارَ يومَ القِيامةِ منَ المُوحِّدينَ",
+			"audio": "/files/quiz/akida/shirk/audio/5497.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3026",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "المُرائي",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5497_Answer.mp3"
+			},
+			{
+				"answer": "العاقُّ",
+				"t": 0
+			},
+			{
+				"answer": "السَّاحِرُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5492,
+		"q": {
+			"q": "الشِّركُ في النِّيَّةِ والمَحبَّةِ داخِلٌ في",
+			"audio": "/files/quiz/akida/shirk/audio/5492.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3009",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "الشِّركِ في دُعاءِ المَسألةِ",
+				"t": 0
+			},
+			{
+				"answer": "الشِّركِ في دُعاءِ العِبادةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5492_Answer.mp3"
+			},
+			{
+				"answer": "الشِّركِ في الحُكمِ والطَّاعةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5491,
+		"q": {
+			"q": "شِركُ القَدَريَّةِ صُورةٌ من صُوَرِ",
+			"audio": "/files/quiz/akida/shirk/audio/5491.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3004",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "شِركِ التَّعطيلِ",
+				"t": 0
+			},
+			{
+				"answer": "شِركِ الأندادِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5491_Answer.mp3"
+			},
+			{
+				"answer": "شِركِ الأُلوهيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5483,
+		"q": {
+			"q": "أوَّلُ شِركٍ منظَّمٍ وقَع في هذه الأمَّةِ هو:",
+			"audio": "/files/quiz/akida/shirk/audio/5483.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2983",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "شِركُ الأَصنامِ",
+				"t": 0
+			},
+			{
+				"answer": "شِركُ الأَسماءِ والصِّفاتِ",
+				"t": 0
+			},
+			{
+				"answer": "شِرْكُ القَدَريَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5483_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5489,
+		"q": {
+			"q": "اعتِقادُ مُتصَرِّفٍ معَ اللهِ عزَّ وجلَّ في أيِّ أمرٍ من أُمورِ تَدبيرِ الكَونِ، مِن",
+			"audio": "/files/quiz/akida/shirk/audio/5489.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3002",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "الشِّركِ في الرُّبوبيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5489_Answer.mp3"
+			},
+			{
+				"answer": "شِركُ السَّرائرِ",
+				"t": 0
+			},
+			{
+				"answer": "الشِّركِ الأصغَرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5488,
+		"q": {
+			"q": "الشِّركُ والكُفرُ",
+			"audio": "/files/quiz/akida/shirk/audio/5488.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2996",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "مُختَلِفَا المَعنَى، لكِنْ قد يُطلَقُ أحَدُهُما ويُرادُ الآخَرُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5488_Answer.mp3"
+			},
+			{
+				"answer": "مَعناهُما واحِدٌ",
+				"t": 0
+			},
+			{
+				"answer": "الشِّركُ خاصٌّ بالأَقوالِ والكُفرُ خاصٌّ بالأَعمالِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5493,
+		"q": {
+			"q": "قَولُه تَعالَى: {اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ اللهِ} أيْ:",
+			"audio": "/files/quiz/akida/shirk/audio/5493.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3009",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "أحَلُّوا لهم ما حَرَّمَ اللهُ وحَرَّموا ما أحلَّ اللهُ فوافَقوهُم",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5493_Answer.mp3"
+			},
+			{
+				"answer": "جَعَلوهُم شُرَكاءَ معَ اللهِ في الخَلقِ",
+				"t": 0
+			},
+			{
+				"answer": "عَبَدوهُم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5500,
+		"q": {
+			"q": "يُعَدُّ تَعليق التَّمائمِ الشِّركيَّة مِن:",
+			"audio": "/files/quiz/akida/shirk/audio/5500.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3035",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "الشِّركِ الأَكبَر",
+				"t": 0
+			},
+			{
+				"answer": "الشِّركِ الأَصغَر",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5500_Answer.mp3"
+			},
+			{
+				"answer": "شِركِ السَّرائرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5499,
+		"q": {
+			"q": "حُكمُ فَكِّ السِّحرِ بسِحرٍ مِثلِه",
+			"audio": "/files/quiz/akida/shirk/audio/5499.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3035",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "يَجوزُ مُطلقًا",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5499_Answer.mp3"
+			},
+			{
+				"answer": "يَجوزُ إنْ كان السَّاحِرُ مُسلِمًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5490,
+		"q": {
+			"q": "الإلحادُ وتَعطيلُ المَصنوعِ وتَعطيلُ الصَّانعِ من صُوَرِ",
+			"audio": "/files/quiz/akida/shirk/audio/5490.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3004",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "شِركِ التَّعطيلِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5490_Answer.mp3"
+			},
+			{
+				"answer": "شِركِ الأندادِ",
+				"t": 0
+			},
+			{
+				"answer": "شِركِ الأُلوهيَّةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5495,
+		"q": {
+			"q": "تَسوِيةُ غَيرِ اللهِ تَعالَى به في هَيئةِ العَمَلِ أو أقوالِ اللِّسانِ",
+			"audio": "/files/quiz/akida/shirk/audio/5495.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3017",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "شِركُ الأُلوهيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "شِركُ الرَّجاءِ",
+				"t": 0
+			},
+			{
+				"answer": "الشِّركُ الأصغَرُ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5495_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5498,
+		"q": {
+			"q": "التَّوكُّلُ على اللهِ هو الأخذُ بالسَّبَبِ",
+			"audio": "/files/quiz/akida/shirk/audio/5498.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/3030",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "والاعتِمادُ عَليهِ كُلِّيًّا، واعتِقادُ أنَّ اللهَ هو النَّافِعُ الضَّارُّ",
+				"t": 0
+			},
+			{
+				"answer": "واعتِقادُ أنَّهُ النَّافِعُ الضَّارُّ",
+				"t": 0
+			},
+			{
+				"answer": "واعتِقادُ أنَّه لا أثَرَ له إلا بمَشيئةِ اللهِ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5498_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 5484,
+		"q": {
+			"q": "ظَهَرت مَقالاتُ التَّعطيلِ على يَدِ",
+			"audio": "/files/quiz/akida/shirk/audio/5484.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/aqeeda/2983",
+		"section": "shirk",
+		"answers": [
+			{
+				"answer": "واصِلِ بنِ عَطاءٍ",
+				"t": 0
+			},
+			{
+				"answer": "أبي الحَسَنِ الأشعريِّ",
+				"t": 0
+			},
+			{
+				"answer": "الجَعدِ بنِ دِرهَمٍ",
+				"t": 1,
+				"audio": "/files/quiz/akida/shirk/audio/answers/5484_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

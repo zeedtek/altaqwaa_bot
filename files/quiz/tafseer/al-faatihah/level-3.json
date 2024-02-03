@@ -1,0 +1,542 @@
+[
+	{
+		"id": 52,
+		"q": {
+			"q": "من صِفاتِ الذينَ أنعمَ اللهُ تعالى عليهم",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/52.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "أنَّهم يَسْكنونَ في القُرى دونَ الباديةِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّهم لَيْسوا كالنَّصارى، ومَن سلَكَ طريقتَهم ممَّن جهِلوا الحقَّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/52_Answer.mp3"
+			},
+			{
+				"answer": "أنَّهم لا يَمْشونَ في الأسْواقِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 47,
+		"q": {
+			"q": "في قولِه: {اهْدِنَا الصِّرَاطَ}  فِعلُ أمرٍ، المقصودُ به",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/47.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt9",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "الالتِماسُ والدُّعاءُ، لا حقيقةُ الأمرِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/47_Answer.mp3"
+			},
+			{
+				"answer": "الأمْر التَّعبُّدِي ",
+				"t": 0
+			},
+			{
+				"answer": "إظْهارُ الاستِضْعافِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 48,
+		"q": {
+			"q": "وصْفُ اللهِ سُبحانَه نَفْسَه بالرُّبوبيَّةِ التي تَعني أنَّه السيِّدُ، المالِكُ، والتي قد يُفهَمُ منها معنى الجَبَروتِ والقَهرِ؛ جاء وصفُه بالرَّحمةِ بعدَها:",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/48.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt7",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "للإنذارِ",
+				"t": 0
+			},
+			{
+				"answer": "للترغيب",
+				"t": 0
+			},
+			{
+				"answer": "لينبسِطَ أملُ العبدِ في العفوِ إنْ زلَّ، ويَقْوَى رجاؤُه إنْ هفَا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/48_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 41,
+		"q": {
+			"q": "منَ القِراءاتِ المتَواتِرةِ {مَلِكِ يَوْمِ الدِّينِ} ومعنى {مَلِكِ}",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/41.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt7",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "المتصرِّفُ بالقولِ أمرًا ونَهيًا فيمَن هو مَلِكٌ عليهم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/41_Answer.mp3"
+			},
+			{
+				"answer": "المتَّصِفُ بالرحمةِ",
+				"t": 0
+			},
+			{
+				"answer": "المتفضِّلُ على عِبادِه بالسترِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 43,
+		"q": {
+			"q": "قولُه تعالى: (إِيَّاكَ) يُفيدُ: ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/43.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt9",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "الاستِثْناءَ المنقَطِعَ",
+				"t": 0
+			},
+			{
+				"answer": "القَصرَ والاختِصاصَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/43_Answer.mp3"
+			},
+			{
+				"answer": "الالتِماسَ والدُّعاءَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 56,
+		"q": {
+			"q": "لماذا سُمِّيتِ الفاتحةُ بالقُرآنِ العَظيمِ؟",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/56.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1#tt1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "لأنَّها يُقرَأُ بها في الصَّلاةِ",
+				"t": 0
+			},
+			{
+				"answer": "لافْتِتاحِها بالحَمدِ للهِ ربِّ العالَمينَ",
+				"t": 0
+			},
+			{
+				"answer": "لتَضمُّنِها جميعَ علومِ القُرآنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/56_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 55,
+		"q": {
+			"q": "من حِكَمِ تقديمِ المَغضُوبِ عَلَيهِمْ -وهمُ اليهودُ- على الضَّالِّينَ -وهمُ النَّصارى-: ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/55.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "لأنَّ اليَهودَ أكثرُ عَددًا",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّ اليَهودَ سابِقونَ على النَّصارى في الزمنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/55_Answer.mp3"
+			},
+			{
+				"answer": "النَّصارى أضعَفُ منَ اليَهودِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 51,
+		"q": {
+			"q": "مُناسَبةُ افْتِتاحِ القرآنِ بسورةِ الفاتحةِ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/51.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1#tt1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "لأنَّها تَنزِلُ من سورِ القرآنِ منزلةَ دِيباجةِ الخُطبةِ أو الكتابِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/51_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّه يُشرَعُ عَقِبَه التأمينُ",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّها السَّبعُ المثاني",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 42,
+		"q": {
+			"q": "قدَّم (الْمَغْضِوبِ عَلَيْهِمْ) على (الضَّالِّينَ)",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/42.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt9",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "لأنَّهم حاربُوا دَعوةَ رَسولِ الله ﷺ أوَّلًا",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّهم أشَدُّ مخالَفةً للحقِّ من الضالِّينَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/42_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّهم يَقتُلونَ الأنْبياءَ بغيرِ حقٍّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 44,
+		"q": {
+			"q": "في قولِه: {صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ}\nتَصريحٌ بعدَ إبْهامٍ، وتَفْصيلٌ بعدَ إجْمالٍ، وفائدتُه:",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/44.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt9",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "تَشويقُ النَّفسِ، وتَهيئتُها؛ لتتلقَّى التفسيرَ والتفْصيلَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/44_Answer.mp3"
+			},
+			{
+				"answer": "التَّنبِيهُ والتَّحْذيرُ ",
+				"t": 0
+			},
+			{
+				"answer": "الحثُّ والتَّرغِيب",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 54,
+		"q": {
+			"q": "اللَّامُ في: (للهِ) في قولِه تعالى: {الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ} تُفيدُ:",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/54.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/tafseer/1/1#tt18",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "التَّجدُّد والاستِمرار",
+				"t": 0
+			},
+			{
+				"answer": "الاستحقاقَ والاختِصاصَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/54_Answer.mp3"
+			},
+			{
+				"answer": "المُبالغَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 57,
+		"q": {
+			"q": "منَ الأدلَّةِ على أنَّ سورةَ الفاتحةِ مَكيَّةٌ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/57.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1#tt1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "أنَّ فيها ذِكرَ الصِّراطِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ الصلاةَ لا تصِحُّ إلَّا بها، وقد شُرِعتِ الصَّلاةُ بمكَّةَ، أي: قبلَ الهجرةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/57_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ فيها ذِكرَ اليَهودِ والنَّصارى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 60,
+		"q": {
+			"q": "قال اللهُ تعالى: {الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}، أصْلُ كلمةِ (ربِّ) في اللُّغةِ:",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/60.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "المُلكُ التام بِلا مُنازِع",
+				"t": 0
+			},
+			{
+				"answer": "إصْلاحُ الشيءِ والقيامُ عليه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/60_Answer.mp3"
+			},
+			{
+				"answer": "النماء والازدهار",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 49,
+		"q": {
+			"q": "إيثارُ ذِكرِ إلهيَّتِه سُبحانَه ورُبوبيَّتِه ورحمتِه ومُلكِه في أوَّلِ سورةِ الفاتحةِ على ذِكرِ سائرِ الصِّفاتِ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/49.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt7",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "لأنَّ هذه الصِّفاتِ الأربعَ مُستلزِمةٌ لجميعِ صِفاتِ كَمالِه عزَّ وجلَّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/49_Answer.mp3"
+			},
+			{
+				"answer": "للإنذارِ والترهيبِ",
+				"t": 0
+			},
+			{
+				"answer": "لبَيانِ شِدةِ انْتِقامِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 50,
+		"q": {
+			"q": "من مَقاصِدِ سورةِ الفاتحةِ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/50.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1#tt1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "الحثُّ على الصدَقاتِ",
+				"t": 0
+			},
+			{
+				"answer": "التعريفُ بالمعبودِ تبارَكَ وتعالى",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/50_Answer.mp3"
+			},
+			{
+				"answer": "تَفْصيلُ أحْكامِ الصلاةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 53,
+		"q": {
+			"q": "قولُه تعالى: {إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ}: ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/53.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "فيه كِنايةٌ عن صِدقِ الدُّعاءِ",
+				"t": 0
+			},
+			{
+				"answer": "فيه الْتِفاتٌ من ضَميرِ الغَيبةِ إلى ضَميرِ الخِطابِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/53_Answer.mp3"
+			},
+			{
+				"answer": "فيه تَصريحٌ بعدَ إبْهامٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 45,
+		"q": {
+			"q": "يجوزُ أنْ يكونَ قولُه تعالى: {صِرَاطَ الَّذِينَ} عَطفَ بَيانٍ، وفائدتُه:",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/45.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt9",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "الإطْنابُ",
+				"t": 0
+			},
+			{
+				"answer": "التوكيدُ اللفظيُّ",
+				"t": 0
+			},
+			{
+				"answer": "الإيضاحُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/45_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 59,
+		"q": {
+			"q": "قال اللهُ تعالى: {الرَّحْمَنِ الرَّحِيمِ} هذان الاسمان مَعْناهما:",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/59.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "كِلاهما بمعنًى، وهو أنَّهما يَعْنيانِ: ذي الرَّحمةِ الواسِعةِ لجميعِ الخَلقِ",
+				"t": 0
+			},
+			{
+				"answer": "الرَّحمنُ: أي واسِع الرَّحمَة، والرَّحيمُ: أي دَائم الرَّحمَة",
+				"t": 0
+			},
+			{
+				"answer": "الرَّحْمَنُ: ذو الرَّحمةِ الواسِعةِ لجميعِ خَلقِه، والرَّحِيمُ: ذو رحمةٍ خاصَّةٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/59_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 58,
+		"q": {
+			"q": "في افْتِتاحِ القُرآنِ بسورةِ الفاتحةِ",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/58.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1#tt1",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "مُشاكَلةٌ",
+				"t": 0
+			},
+			{
+				"answer": "بَراعةُ استِهْلالٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/58_Answer.mp3"
+			},
+			{
+				"answer": "طِباقٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 46,
+		"q": {
+			"q": "تناسُبُ الفَواصِلِ، وتوافُقُ رُؤوسِ الآياتِ في الفاتحةِ: هو مِن",
+			"audio": "/files/quiz/tafseer/al-faatihah/audio/46.mp3"
+		},
+		"level": 3,
+		"link": "https://dorar.net/tafseer/1/1#tt9",
+		"section": "al-faatihah",
+		"answers": [
+			{
+				"answer": "بَراعةِ الاستِهْلالِ",
+				"t": 0
+			},
+			{
+				"answer": "حُسنِ الكَلامِ، وممَّا تتشنَّفُ به الأسماعُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/al-faatihah/audio/answers/46_Answer.mp3"
+			},
+			{
+				"answer": "مُراعاةِ الترتيبِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

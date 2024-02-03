@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2577,
+		"q": {
+			"q": "المُوالاة بَينَ الرَّميات السَّبْع",
+			"audio": "/files/quiz/figh/hajj/audio/2577.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3059",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "واجِب",
+				"t": 0
+			},
+			{
+				"answer": "شَرْط",
+				"t": 0
+			},
+			{
+				"answer": "مُستَحَبَّة",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2577_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2565,
+		"q": {
+			"q": "الإحرام بالعُمرة في أشْهُر الحَجِّ",
+			"audio": "/files/quiz/figh/hajj/audio/2565.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2945",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "مُستَحَبٌّ في التَّمتُّع",
+				"t": 0
+			},
+			{
+				"answer": "شَرط لِلمُتمَتِّع بالإجماع",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2565_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَه لِلمُتمَتِّع",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2575,
+		"q": {
+			"q": "جَمْع والمَشعَر الحَرام مِن أسماء",
+			"audio": "/files/quiz/figh/hajj/audio/2575.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3035",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "المُزدَلِفة",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2575_Answer.mp3"
+			},
+			{
+				"answer": "مِنًى",
+				"t": 0
+			},
+			{
+				"answer": "جَبَل الرَّحمة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2573,
+		"q": {
+			"q": "مَن كان عاجِزًا عن المَشْي، وطافَ راكبًا:",
+			"audio": "/files/quiz/figh/hajj/audio/2573.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2988",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "لا يُجزِئُه",
+				"t": 0
+			},
+			{
+				"answer": "لا فِداء، ولا إثْم عليه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2573_Answer.mp3"
+			},
+			{
+				"answer": "يُجزِئه مع فِديَةِ دَمٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2563,
+		"q": {
+			"q": "التَّطيُّب في ثَوْب الإحرام",
+			"audio": "/files/quiz/figh/hajj/audio/2563.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2931",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "يُمنَع مِن تَطييب ثياب إحرامِه قَبلَ الإحرام وبَعدَه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2563_Answer.mp3"
+			},
+			{
+				"answer": "مَكروه",
+				"t": 0
+			},
+			{
+				"answer": "مَشروع",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2580,
+		"q": {
+			"q": "التَّحلُّل الأوَّل يُحِلُّ كل شَيء إلا",
+			"audio": "/files/quiz/figh/hajj/audio/2580.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3080",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "النِّساء والصَّيْد والطِّيب",
+				"t": 0
+			},
+			{
+				"answer": "النِّساء فحَسْبُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2580_Answer.mp3"
+			},
+			{
+				"answer": "النِّساء والطِّيب",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2572,
+		"q": {
+			"q": "طَوافُ المُستَحاضة ومَن به سَلَسُ البَوْل ونَحو ذلك:",
+			"audio": "/files/quiz/figh/hajj/audio/2572.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2988",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "مَكرُوه",
+				"t": 0
+			},
+			{
+				"answer": "لا يُجزِئ",
+				"t": 0
+			},
+			{
+				"answer": "جائِزٌ، ولا شيء عليهما",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2572_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2562,
+		"q": {
+			"q": "إذا كان العبدُ قادرًا ببَدَنه ومالِه فإنَّه:",
+			"audio": "/files/quiz/figh/hajj/audio/2562.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2895",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "يُباح الحَجُّ والعُمرة بنَفْسه",
+				"t": 0
+			},
+			{
+				"answer": "يَلزَمه الحَجُّ والعُمرة بنَفْسِه بالإجماع",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2562_Answer.mp3"
+			},
+			{
+				"answer": "يُستَحَبُّ الحَجُّ والعُمرة بنَفْسِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2566,
+		"q": {
+			"q": "تَغطية الرَّأْس للمُحرِم الذَّكَر:",
+			"audio": "/files/quiz/figh/hajj/audio/2566.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2961",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "يُكرَه ولا يَحرُم",
+				"t": 0
+			},
+			{
+				"answer": "لا شَيء عليه",
+				"t": 0
+			},
+			{
+				"answer": "مِن مَحظورات الإحرام",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2566_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2567,
+		"q": {
+			"q": "حُكم عَقْد النِّكاح لِلمُحرِم\n ",
+			"audio": "/files/quiz/figh/hajj/audio/2567.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2966",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "يُكرَه له ابتِداءً",
+				"t": 0
+			},
+			{
+				"answer": "يجُوز",
+				"t": 0
+			},
+			{
+				"answer": "يَحرُم، ولا يَصِحُّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2567_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2576,
+		"q": {
+			"q": "مَن تَرَك المَبيت بمُزدَلِفة لغَير عُذْر",
+			"audio": "/files/quiz/figh/hajj/audio/2576.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3041",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "حَجُّه صَحيح ولا شَيءَ عليه",
+				"t": 0
+			},
+			{
+				"answer": "حَجُّه باطِل",
+				"t": 0
+			},
+			{
+				"answer": "يَلزَمه دَمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2576_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2574,
+		"q": {
+			"q": "هو: أنْ يَتوَشَّح برِدائه ويُخرِجَه مِن تَحتِ إبْطِه الأيمَن، ويُلقيه على مَنْكِبِه الأيسَر، ويُغطِّيه، ويُبدي مَنْكِبِه الأيمَنَ",
+			"audio": "/files/quiz/figh/hajj/audio/2574.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2990",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "الاضطِباع",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2574_Answer.mp3"
+			},
+			{
+				"answer": "الهَرْوَلَة",
+				"t": 0
+			},
+			{
+				"answer": "الرَّمَل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2560,
+		"q": {
+			"q": "وَقتُ العُمرة",
+			"audio": "/files/quiz/figh/hajj/audio/2560.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2881",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "مِنَ المَولِدِ النَّبويِّ إلى رَمَضان",
+				"t": 0
+			},
+			{
+				"answer": "في كُلِّ أوقات السَّنة لِمَن لم يَكُنْ مُتلَبِّسًا بأعمال الحَجِّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2560_Answer.mp3"
+			},
+			{
+				"answer": "في شُهور رَجَب وشَعبان ورَمَضان فقط",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2561,
+		"q": {
+			"q": "حُكم حَجِّ الكافِر",
+			"audio": "/files/quiz/figh/hajj/audio/2561.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2886",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "لا يَصِحُّ الحَجُّ مِنَ الكافِر، ويُجزِئُ عنه إنْ وَقَع منه",
+				"t": 0
+			},
+			{
+				"answer": "لا يَصِحُّ الحَجُّ مِنَ الكافِر، ولا يَجِب عليه، ولا يُجزِئ عنه إنْ وَقَعَ منه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2561_Answer.mp3"
+			},
+			{
+				"answer": "لا يَصِحُّ الحَجُّ مِنَ الكافِر، ويَجِب عليه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2579,
+		"q": {
+			"q": "الأكْل مِن هَدْي التَّطَوُّع",
+			"audio": "/files/quiz/figh/hajj/audio/2579.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3072",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "مُستَحَبٌّ",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2579_Answer.mp3"
+			},
+			{
+				"answer": "واجِب",
+				"t": 0
+			},
+			{
+				"answer": "حَرام",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2578,
+		"q": {
+			"q": "صِيامُ الأيَّامِ السَّبعةِ في مَكَّة بَعدَ انتِهاء الحَجِّ لمَن لم يجِد هَدْيًا:",
+			"audio": "/files/quiz/figh/hajj/audio/2578.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3072",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "يُجزِئ عنه، والأفضَل أنْ يَصومَها في وَطَنه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2578_Answer.mp3"
+			},
+			{
+				"answer": "لا يَجوز",
+				"t": 0
+			},
+			{
+				"answer": "يُجزِئ عنه وعليه فِديَةُ دَمٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2569,
+		"q": {
+			"q": "السِّواكُ لِلمُحْرِم",
+			"audio": "/files/quiz/figh/hajj/audio/2569.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2980",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "جائِز",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2569_Answer.mp3"
+			},
+			{
+				"answer": "واجِب",
+				"t": 0
+			},
+			{
+				"answer": "مَكروه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2568,
+		"q": {
+			"q": "فِدْية تَرْك الواجِب\n ",
+			"audio": "/files/quiz/figh/hajj/audio/2568.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2978",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "إِطعامُ سِتِّينَ مِسكينًا",
+				"t": 0
+			},
+			{
+				"answer": "دَمٌ، باتِّفاق المذاهِب الفِقهيَّة الأربَعة",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2568_Answer.mp3"
+			},
+			{
+				"answer": "صِيام ثلاثةِ أيَّامٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2571,
+		"q": {
+			"q": "لو طاف ناسيًا أو ساهيًا عن نوع الطَّواف",
+			"audio": "/files/quiz/figh/hajj/audio/2571.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/2988",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "أعادَ طَوافَه",
+				"t": 0
+			},
+			{
+				"answer": "يَصِحُّ مع فِديَةِ صِيامٍ",
+				"t": 0
+			},
+			{
+				"answer": "أجزأه عنِ الطَّواف المَشروع في وَقْته، ما دام قد نَوَى النُّسُك الذي هو فيه",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2571_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2581,
+		"q": {
+			"q": "يَنتَهي وَقتُ رَمْي الجَمَرات",
+			"audio": "/files/quiz/figh/hajj/audio/2581.mp3"
+		},
+		"level": 2,
+		"link": "https: //www.dorar.net/feqhia/3085",
+		"section": "hajj",
+		"answers": [
+			{
+				"answer": "نهايةَ شَهر ذي الحِجَّة",
+				"t": 0
+			},
+			{
+				"answer": "غُروبَ شَمس آخِر أيام التَّشريق",
+				"t": 1,
+				"audio": "/files/quiz/figh/hajj/audio/answers/2581_Answer.mp3"
+			},
+			{
+				"answer": "لا وَقتَ لآخِرِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

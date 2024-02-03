@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6237,
+		"q": {
+			"q": "المقصود بـ(الصَّافَّاتِ): أي: ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6237.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/1",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "المُصَلُّونَ الذين يَصطَفُّونَ صُفوفًا في الصَّلاةِ",
+				"t": 0
+			},
+			{
+				"answer": "السَّحابُ المُتَراصُّ بَعضُه بجانِبِ بَعضٍ في السَّماءِ",
+				"t": 0
+			},
+			{
+				"answer": "الملائِكةِ المُصطفِّونَ لرَبِّهم في السَّماءِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6237_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6235,
+		"q": {
+			"q": "قوله تعالى: {إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ} مَعنَى \"لَازِب\"  ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6235.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/2",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "مُلتَصِقٌ ثابتٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6235_Answer.mp3"
+			},
+			{
+				"answer": "مُبتَلٌ رَطِبٌ",
+				"t": 0
+			},
+			{
+				"answer": "يابِسٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6225,
+		"q": {
+			"q": "في قَولِه تعالى: {إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ} \"أَبَقَ\" أي: ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6225.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/13",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "هَرَب وفَرَّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6225_Answer.mp3"
+			},
+			{
+				"answer": "حَلَّ ونَزَلَ ",
+				"t": 0
+			},
+			{
+				"answer": "أُرسِلَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6234,
+		"q": {
+			"q": "قَولُ الله تعالى: {قَالَ قَائِلٌ مِنْهُمْ إِنِّي كَانَ لِي قَرِينٌ * يَقُولُ أَئِنَّكَ لَمِنَ الْمُصَدِّقِينَ} فيه:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6234.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/5",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "بَيانُ فَضلِ الصِّدقِ",
+				"t": 0
+			},
+			{
+				"answer": "خُطورَةُ وَسْوَسَةِ الشَّياطِين",
+				"t": 0
+			},
+			{
+				"answer": "تَحذِيرٌ مِن قُرَناءِ السُّوءِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6234_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6231,
+		"q": {
+			"q": " قَولُ الله تعالى: {إِنَّا كَذَلِكَ نَجْزِي الْمُحْسِنِينَ * إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ} المقصودُ منه بيانُ أنَّ أعظَمَ الدَّرَجاتِ وأشرَفَ المقاماتِ؛ وهو: ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6231.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/7",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "مَقامُ النُّبُوَّة",
+				"t": 0
+			},
+			{
+				"answer": "الإِحسانُ",
+				"t": 0
+			},
+			{
+				"answer": "الإيمانُ بالله",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6231_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6222,
+		"q": {
+			"q": "المقصود بـ\"الدِّين\" في قَولِه تعالى: {وَقَالُوا يَا وَيْلَنَا هَذَا يَوْمُ الدِّينِ}:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6222.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/2",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "البَعْثُ والنُّشُورُ",
+				"t": 0
+			},
+			{
+				"answer": "الجزاءُ والمحاسبةُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6222_Answer.mp3"
+			},
+			{
+				"answer": "الشَّرِيعَةُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6241,
+		"q": {
+			"q": "سُمِّيَت سُورَةُ \"الصَّافَّات\" بهذا الاسمِ: ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6241.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "لأنَّ لفظَ (صافَّات) لم يُذكَر في غَيرِها مِن السُّوَرِ",
+				"t": 0
+			},
+			{
+				"answer": "لافتِتاحِها بالقَسَمِ الإلهيِّ بالصَّافَّاتِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6241_Answer.mp3"
+			},
+			{
+				"answer": "لاشتِمالِها على قِصَّة أَصحابِ الصَّافاتِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6221,
+		"q": {
+			"q": "قَولُه تعالى: {وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ * إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ *وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ} فيه:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6221.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/16",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "تَهديدٌ لأَعداءِ الرُّسُلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6221_Answer.mp3"
+			},
+			{
+				"answer": "إِمهالُ الله عزَّ وجلَّ للعُصاةِ حتَّى يَتُوبُوا",
+				"t": 0
+			},
+			{
+				"answer": "بَيانُ نُصرَةِ المَلائكَةِ للمُؤمِنينَ في جِهادِهم الكفَّارَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6242,
+		"q": {
+			"q": "مِن أهَمِّ مَقاصِدِ سُورَةِ الصَّافَّات:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6242.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "إبطالُ مَطاعِنِ المشركينَ في النَّبيِّ صلَّى اللهُ عليه وسلَّم، وبَيانُ ضَلالِهم",
+				"t": 0
+			},
+			{
+				"answer": "إقامةُ الأدِلَّةِ على وَحدانيَّةِ الله تعالى وعلى أنَّ البَعثَ حَقٌّ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6242_Answer.mp3"
+			},
+			{
+				"answer": "مُخاطَبةُ النَّفْسِ البَشَريَّةِ بما مِن شأنِه أن يُسعِدَها ويُحيِيَها حياةً طَيِّبةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6224,
+		"q": {
+			"q": "قَولُه تَعالى: {وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ} هذا الكلامُ مِن قَولِ:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6224.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/15",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "المَلائِكَةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6224_Answer.mp3"
+			},
+			{
+				"answer": "الجِنِّ",
+				"t": 0
+			},
+			{
+				"answer": "كُفَّارِ قُريشٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6228,
+		"q": {
+			"q": "المَقصُودُ بقَولِه تعالى: {الْكِتَابَ الْمُسْتَبِينَ}:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6228.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/10",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "القُرآنُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّوراةُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6228_Answer.mp3"
+			},
+			{
+				"answer": "الإِنجِيلُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6226,
+		"q": {
+			"q": "في قَولِه تعالى: {وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ} \"شِيعَتِهِ\" أي: ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6226.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/8",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "أَهلِه وعَشيرَتِه",
+				"t": 0
+			},
+			{
+				"answer": "أتْباعِه وأهلِ مِلَّتِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6226_Answer.mp3"
+			},
+			{
+				"answer": "ذُرِّيَّتِهِ ونَسْلِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6233,
+		"q": {
+			"q": "في قَولِ الله تعالى عن أَهلِ الجنَّة: {يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ} \"مَعِينٍ\" أي:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6233.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/4",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "ماءٍ ظاهِرٍ جارٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6233_Answer.mp3"
+			},
+			{
+				"answer": "خَمْرٍ لا سُكْرَ فيها",
+				"t": 0
+			},
+			{
+				"answer": "نَهْرٍ مِن عَسَلٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6223,
+		"q": {
+			"q": "قَولُ الله تعالى: {رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا} بعدَ قولِه تعالى: {إِنَّ إِلَهَكُمْ لَوَاحِدٌ} يُستَفادُ مِنه:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6223.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/1",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "أنَّ الصِّفَةَ غيرُ الذَّاتِ",
+				"t": 0
+			},
+			{
+				"answer": "الرَّدُّ على مَن يَقُولُونَ بوِحدةِ الوُجُودِ",
+				"t": 0
+			},
+			{
+				"answer": "التَّلازُمُ بيْنَ توحيدِ الألوهيَّةِ وتوحيدِ الرُّبوبيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6223_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6230,
+		"q": {
+			"q": "قوله تعالى: {أَذَلِكَ خَيْرٌ نُزُلًا أَمْ شَجَرَةُ الزَّقُّومِ} النُّزُلُ هو: ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6230.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/6",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "ما يُعَدُّ للنَّازِلِ مِن ضَيفٍ وغيرِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6230_Answer.mp3"
+			},
+			{
+				"answer": "المَقَامُ والمُسْتَقَرُّ",
+				"t": 0
+			},
+			{
+				"answer": "كلُّ ما يَنزِلُ بالمَرءِ مِن خَيرٍ وشَرٍّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6236,
+		"q": {
+			"q": "قولُه تعالى: {احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ} فيه دَلالَةٌ على:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6236.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/3",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "أنَّ عاقِبةَ الظُّلمِ تكونُ في الدُّنيا قبلَ الآخِرَةِ",
+				"t": 0
+			},
+			{
+				"answer": "النَّهيِ عن مُقارَنةِ الفُجَّارِ ومُزاوجتِهم",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6236_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ الوَلاءَ والبَراءَ شَرطٌ في الإيمانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6232,
+		"q": {
+			"q": "في قوله تعالى: {وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِمْ مُصْبِحِينَ  وَبِاللَّيْلِ} لماذا عَيَّنَ اللهُ تعالى هَذينِ الوَقتينِ؟",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6232.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/12",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "لأنَّهُما وَقتُ الغَفلَةِ",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّ المسافِرَ إنَّما يَمشي في اللَّيلِ وفي أوَّلِ النَّهارِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6232_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّ العَربَ اعتَادَت أن تَسجُدَ للأصنامِ في هَذينِ الوَقتَينِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6229,
+		"q": {
+			"q": "في قَولِه تعالى: {أَتَدْعُونَ بَعْلًا} المَقصُودُ بالبَعْلِ:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6229.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/11",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "عِجلٌ من فِضَّة",
+				"t": 0
+			},
+			{
+				"answer": "اسمُ صَنَمٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6229_Answer.mp3"
+			},
+			{
+				"answer": "الزَّوجُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6227,
+		"q": {
+			"q": "في قَولِه تعالى: {فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ} المَقصُودُ بالسَّعْي:",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6227.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/9",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "العَمَلُ والتَّصَرُّفُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6227_Answer.mp3"
+			},
+			{
+				"answer": "السَّعيُ بين الصَّفا والمَروَة في مَناسِك الحَجِّ",
+				"t": 0
+			},
+			{
+				"answer": "جَبلُ (السَّعي) ويَقعُ أَسفَلَ جَزيرَةِ العَربِ مِن ناحِيَةِ الشَّامِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6238,
+		"q": {
+			"q": "في قَولِه تعالى: {وَحِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ} مَعنَى \"مَارِد\": ",
+			"audio": "/files/quiz/tafseer/as-Saffat/audio/6238.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/37/1",
+		"section": "as-Saffat",
+		"answers": [
+			{
+				"answer": "رَجِيمٌ مَطرُودٌ مِن رَحمَةِ الله",
+				"t": 0
+			},
+			{
+				"answer": "عاتٍ خارجٌ عن الطَّاعةِ، مُتعَرٍّ عن الخَيرِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/as-Saffat/audio/answers/6238_Answer.mp3"
+			},
+			{
+				"answer": "أي: مِن مَرَدَةِ الجِنِّ؛ وهُم نَسلُ إِبليسَ خاصَّةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

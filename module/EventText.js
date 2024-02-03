@@ -32,7 +32,6 @@ export default async function EventText(client) {
 
         // تفعيل البوت او ايقاف التفعيل 
         await handleScheduledMessages(ctx);
-
         // تحقق من وجود كلمات سيئة
         if (foundBadWords?.check) {
 

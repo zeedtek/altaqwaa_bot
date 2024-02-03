@@ -1,0 +1,542 @@
+[
+	{
+		"id": 819,
+		"q": {
+			"q": "كانت دَعوةُ إبراهيمَ عليه السَّلامُ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/819.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/10",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "أن يُصلِحَ اللهُ أباهُ آزَرَ",
+				"t": 0
+			},
+			{
+				"answer": "أنْ يُنجِّي اللهُ أَهلَه مِن الوادي القَفرِ",
+				"t": 0
+			},
+			{
+				"answer": "أن يُجنِّبَه اللهُ وأهلَه الأصنامَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/819_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 811,
+		"q": {
+			"q": "مَعنى (اجتُثَّت) في قولِه تعالَى: {اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/811.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/7",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "استُؤصِلَت وقُطِعَت",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/811_Answer.mp3"
+			},
+			{
+				"answer": "أنْبَتَت واخْضرَّت",
+				"t": 0
+			},
+			{
+				"answer": "أوقعت ثمراتها فوق الأرض",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 808,
+		"q": {
+			"q": "أفاد قولُه تعالَى: {أَلَمْ تَرَ أَنَّ اللَّهَ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ بِالْحَقِّ إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/808.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/5",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "أنهَّ تعالَى ما خلَقَ هذا العالَمَ إلَّا لداعيةِ الحِكمةِ والصَّوابِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/808_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ خَلْقَ السماواتِ والأرضِ كان قبلَ خَلْقِ الإنسانِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ في الكَونِ خَلقًا جَديدًا لا يعلمُ كُنهَهُ إلَّا الله سُبحانه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 810,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {خَالِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ تَحِيَّتُهُمْ فِيهَا سَلَامٌ} على:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/810.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/6",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "أنَّ السَّلامَ والخُلود دائمًا مُتلازِمان في الجنَّة",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ تَحيَّةَ أهلِ الجنَّةِ لبَعضٍ وتَحيَّةَ الملائكةِ لهم سَلامٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/810_Answer.mp3"
+			},
+			{
+				"answer": "أنَّ لأهلِ الجنَّةِ تَحيَّةً خاصَّةً بهم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 802,
+		"q": {
+			"q": "أنزَلَ اللهُ القرآنَ الكريمَ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/802.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/1",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "ليُخرِجَ الناسَ مِن ظُلماتِ الكُفرِ والمعاصي إلى نورِ الإيمانِ والطَّاعةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/802_Answer.mp3"
+			},
+			{
+				"answer": "لإِعجازِ العَربِ أن يأتوا بمِثلِه",
+				"t": 0
+			},
+			{
+				"answer": "للدَّلالةِ على وَحدانِيَّتِه سُبحانه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 801,
+		"q": {
+			"q": "من أهمِّ مَوضوعاتِ سُورةِ إبراهيمَ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/801.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "تَذكيرُ الناسِ بمآلِهِم يومَ القِيامَة",
+				"t": 0
+			},
+			{
+				"answer": "المُحاجاةُ بين الضُّعفاءِ والذين استَكْبروا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/801_Answer.mp3"
+			},
+			{
+				"answer": "ذِكرُ غَزوةِ حُنَينٍ وما وقَعَ فيها من أحداثٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 815,
+		"q": {
+			"q": "أفاد قولُه تعالَى: {قُلْ لِعِبَادِيَ الَّذِينَ آمَنُوا يُقِيمُوا الصَّلَاةَ وَيُنْفِقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا بَيْعٌ فِيهِ وَلَا خِلَالٌ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/815.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/8",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "دَعوةَ المُشرِكين أن يَدخُلوا في دينِ اللهِ قبْلَ أن يُغلَقَ بابُ التَّوبةِ",
+				"t": 0
+			},
+			{
+				"answer": "نُدبةَ أولياءِ اللهِ إلى الإقبالِ عمَّا أعرَضَ عنه أعداؤه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/815_Answer.mp3"
+			},
+			{
+				"answer": "وَصيَّةَ المؤمنينَ ألَّا يَدَّخِروا جُهدًا في الدَّعوةِ إلى اللهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 807,
+		"q": {
+			"q": "مَعنى الجزَعِ في قولِه تعالَى: {سَوَاءٌ عَلَيْنَا أَجَزِعْنَا}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/807.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/5",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "الرضا بما قَضاهُ اللهُ",
+				"t": 0
+			},
+			{
+				"answer": "الحُزنُ الذي يَصرِفُ الإنسانَ عمَّا هو بصَددِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/807_Answer.mp3"
+			},
+			{
+				"answer": "السَّخطُ على قدَرِ اللهِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 814,
+		"q": {
+			"q": "المَقصودونُ بقولِه تعالَى: {أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/814.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/8",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "اليهودُ",
+				"t": 0
+			},
+			{
+				"answer": "كُفَّارُ قُريشٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/814_Answer.mp3"
+			},
+			{
+				"answer": "مُنافِقو المدينةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 805,
+		"q": {
+			"q": "مَعنى (عاصف) في قولِه تعالَى: {اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/805.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/4",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "شَديدُ هُبوبِ الرِّيحِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/805_Answer.mp3"
+			},
+			{
+				"answer": "شَديدُ البَرْدِ",
+				"t": 0
+			},
+			{
+				"answer": "شَديدُ الحرارةِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 816,
+		"q": {
+			"q": "منَ الفَوائدِ التَّربويَّةِ التي في قولِه تعالَى: {أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/816.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/8",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "إرشادُ المُؤمِنينَ إلى حُسنِ التَّوكُّلِ على اللهِ عزَّ وجلَّ",
+				"t": 0
+			},
+			{
+				"answer": "التَّحذيرُ من كُفرانِ النِّعمةِ وصَرفِها فيما لا يُرضي اللهَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/816_Answer.mp3"
+			},
+			{
+				"answer": "التَّنبِيهُ على خُطورةِ التَّقوَى فهي عَمودُ الدِّين",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 818,
+		"q": {
+			"q": "مَعنى (تَهْوي) في قولِه تعالَى: {فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/818.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/10",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "تُشفِق",
+				"t": 0
+			},
+			{
+				"answer": "تَميلُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/818_Answer.mp3"
+			},
+			{
+				"answer": "تَذهَب",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 812,
+		"q": {
+			"q": "المرادُ بالشَّجرةِ الطَّيِّبةِ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/812.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/7",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "الشَّجرةُ التي بايَعَ الصَّحابةُ تحتَها رَسولَ الله ﷺ",
+				"t": 0
+			},
+			{
+				"answer": "الكلامُ الذي تآلَفَ لفْظُه ومَعناه",
+				"t": 0
+			},
+			{
+				"answer": "كَلمةُ التَّوحيدِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/812_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 813,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ} على أنَّ الكفْرَ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/813.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/7",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "لا يَثبُتُ ثُبوتًا نافعًا في قَلبِ صاحبهِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/813_Answer.mp3"
+			},
+			{
+				"answer": "يَجتَثُّ الكافرِينَ مِن الجنَّة فيَقذِفهُم في النَّار",
+				"t": 0
+			},
+			{
+				"answer": "مثله مثل ورق الشجر اليابس لا يثبت فوق الشجر",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 809,
+		"q": {
+			"q": "مُناسبةُ قولِه تعالَى: {وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/809.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/6",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "أنَّه تعالَى لمَّا تكلَّم عنِ النَّعيمِ الذي يَلقاهُ المؤمنون في الجنَّةِ، أعقَبَه بذِكرِ حالِ الكافرينَ مِن بابِ المُقابَلةِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ اللهَ لمَّا أخبَرَ في الآيةِ السَّابقةِ عن حالِ الكافِرين في الدُّنيا، أعقَبَه بذِكرِ حالِهم في النارِ",
+				"t": 0
+			},
+			{
+				"answer": "أنَّ اللهَ تعالى لَمَّا ذكَرَ مُحاورةَ الأتباعِ لرُؤسائِهم الكَفَرةِ، ذكَرَ مُحاورةَ الشَّيطانِ وأتباعِه منَ الإنسِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/809_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 820,
+		"q": {
+			"q": "مَعنى (مُهطِعين) في قولِه تعالَى: {مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/820.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/11",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "واقِفين",
+				"t": 0
+			},
+			{
+				"answer": "مُسرِعين",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/820_Answer.mp3"
+			},
+			{
+				"answer": "خائِفِين",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 804,
+		"q": {
+			"q": "أشار قولُه تعالَى: {جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ} أنَّ اللهَ أرسَلَ رُسلَه بالمُعجِزاتِ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/804.mp3"
+		},
+		"level": 2,
+		"link": " \nhttps://www.dorar.net/tafseer/14/3",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "للدَّلالةِ على صِدقِ الرُّسلِ وصِحَّةِ دَعوتِهمُ الناسَ إلى تَوحيدِ اللهِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/804_Answer.mp3"
+			},
+			{
+				"answer": "لإظهارِ تَفضيلِ رُسلِه -عليهم السلامُ- على الناسِ",
+				"t": 0
+			},
+			{
+				"answer": "لبَيانِ عَظيمِ قُدرتِه سبحانه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 817,
+		"q": {
+			"q": "دلَّ قولُه تعالَى: {إِنَّ الْإِنْسَانَ لَظَلُومٌ كَفَّارٌ} على  أنَّ الإنسانَ:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/817.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/9",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "مَطبوعٌ على حُبِّ نَفسِه",
+				"t": 0
+			},
+			{
+				"answer": "عَظيمُ الظُّلمِ لنَفْسِه",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/817_Answer.mp3"
+			},
+			{
+				"answer": "جُبِلَ على الحِقدِ والحَسَد",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 803,
+		"q": {
+			"q": "مَعنى (يَسْتحيُون) في قولِه تعالَى: {وَيَسْتَحْيُونَ نِسَاءَكُمْ}:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/803.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/2",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "يَذبَحون",
+				"t": 0
+			},
+			{
+				"answer": "يَقتُلون",
+				"t": 0
+			},
+			{
+				"answer": "يَسْتبْقُونَهنَّ أحياءً",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/803_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 806,
+		"q": {
+			"q": "شبَّه اللهُ تعالَى أعمالَ الكافرِ بالرَّماِد في:",
+			"audio": "/files/quiz/tafseer/ibraheem/audio/806.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/tafseer/14/4",
+		"section": "ibraheem",
+		"answers": [
+			{
+				"answer": "تَفريقِه وطَيَرانِه في الرِّيحِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/ibraheem/audio/answers/806_Answer.mp3"
+			},
+			{
+				"answer": "عدمِ الانتفاعِ بِه",
+				"t": 0
+			},
+			{
+				"answer": "قُبحِ رِيحِه وسَوادِ قَلبِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

@@ -1,0 +1,542 @@
+[
+	{
+		"id": 6841,
+		"q": {
+			"q": "كَلِمةُ (القامُوس) جاءَت مُرادِفةً لكَلِمةِ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6841.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2957",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "المُعَرَّب",
+				"t": 0
+			},
+			{
+				"answer": "الدَّليل",
+				"t": 0
+			},
+			{
+				"answer": "المُعجَم",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6841_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6848,
+		"q": {
+			"q": "تشْترِكُ مُعظَمُ مَعاجِم الفِقْهِ في الإكْثارِ مِنَ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6848.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2987",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "الاستِشهادِ بالحَديثِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6848_Answer.mp3"
+			},
+			{
+				"answer": "الاستِشهادِ بالقُرآنِ",
+				"t": 0
+			},
+			{
+				"answer": "الاستِشهادِ بالشِّعْرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6858,
+		"q": {
+			"q": "من مُمَيِّزاتُ كتاب مُعجَمُ العَينِ للخَليلِ الفَراهيديُّ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6858.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/3018",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "عُنِي بلُغاتِ العَربِ عِنايةً كَبيرةً",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6858_Answer.mp3"
+			},
+			{
+				"answer": "يُعالِجَ في كِتابتِه قَضايا عَصْرِه ومُشكِلاتِه",
+				"t": 0
+			},
+			{
+				"answer": "يَجمعُ بين الاهتِمامِ باللَّفظِ والمَعنَى الدَّلالي له",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6845,
+		"q": {
+			"q": "مِن أسْبابِ ظُهورِ المَعاجِمِ العربية:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6845.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2964",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "النَّهضَةُ العِلميَّةُ في العَصرِ العُثمانيِّ",
+				"t": 0
+			},
+			{
+				"answer": "العِنايةُ بفَهْمِ ألْفاظِ القُرآنِ لإيضاحِ مَعانيه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6845_Answer.mp3"
+			},
+			{
+				"answer": "انتِشارُ مَعاجِمِ النَّصارَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6853,
+		"q": {
+			"q": "خالَف البِشْبِيشيُّ نِظامَه في تَرتيبِ مُفرداتِ كِتابِه وجعَل اسمَ الجَلالةِ (الله) في:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6853.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2991",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "آخِرِ كِتابِه",
+				"t": 0
+			},
+			{
+				"answer": "وَسطِ كِتابِه",
+				"t": 0
+			},
+			{
+				"answer": "صَدرِ كِتابِه",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6853_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6846,
+		"q": {
+			"q": "الهَدَفُ الأساسيُّ من تَّبْويبِ وترتيبِ المعاجم على حسَبِ المَعْنى والمَوضوعاتِ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6846.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2972",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "تَجنُّبُ التَّكرارِ",
+				"t": 0
+			},
+			{
+				"answer": "جَمْعَ الألْفاظِ الَّتي تَدورُ حولَ مَوضوعٍ واحِدٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6846_Answer.mp3"
+			},
+			{
+				"answer": "حَصرُ غَريبِ الكَلماتِ على تَرتيبِ الهَجاءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6852,
+		"q": {
+			"q": "مِن الكُتُبِ المُؤلَّفَةِ في الكَلامِ المُعَرَّبِ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6852.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2991",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "كِتابُ \"المَجمُوع\" ",
+				"t": 0
+			},
+			{
+				"answer": "كتاب \"شَفاءُ الغليلِ فيما في كَلامِ العرَبِ من الدَّخيل\"",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6852_Answer.mp3"
+			},
+			{
+				"answer": "كِتابُ (المُغنِي) لابنِ قُدامَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6851,
+		"q": {
+			"q": "الغايةُ مِن مَعاجِمُ الألْفاظِ هي:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6851.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2991",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "الرُّقِيُّ باللُّغَةِ وتَطويرُها",
+				"t": 0
+			},
+			{
+				"answer": "شُمولُ كلِّ ما وَصَل إليْنا مِنَ اللُّغة",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6851_Answer.mp3"
+			},
+			{
+				"answer": "حَصرُ الكَلِماتِ التي جاءَت في الوَحْيَيْنِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6855,
+		"q": {
+			"q": "من أنواع مَعاجِمُ ألْفاظِ القُرآنِ الكَريمِ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6855.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2981",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "كِتابُ \" أَنوارُ التَّنزيلِ وأَسرارُ التَّأويلِ\" للبَيضاويِّ",
+				"t": 0
+			},
+			{
+				"answer": "كِتابُ \" أَمثالُ العَربِ\" للمُفضَّل الضَّبِّيِّ",
+				"t": 0
+			},
+			{
+				"answer": "كِتابُ (المُفرَدات في غَريب القُرآن) للرَّاغِبِ الأصْفَهاني",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6855_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6859,
+		"q": {
+			"q": "كَلِمةُ \"حيَّ\" مَعْناها:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6859.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/3022",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "مَرحبًا",
+				"t": 0
+			},
+			{
+				"answer": "حَياة",
+				"t": 0
+			},
+			{
+				"answer": "هَلُمَّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6859_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6844,
+		"q": {
+			"q": "كَلِمةُ لِسانُ العَربِ، بمَعْنى:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6844.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/3139",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "الأصواتِ التي تَدُلُّ على مَعنًى",
+				"t": 0
+			},
+			{
+				"answer": "لُغةِ العَربِ وما ورَد عنهم مِنَ الكَلامِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6844_Answer.mp3"
+			},
+			{
+				"answer": "لَهجَةِ أَهلِ البادِيَةِ والأَعرابِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6850,
+		"q": {
+			"q": "كِتابٌ جمَعَ الكَلِماتِ المُعَرَّبةَ الَّتي اسْتُخدِمتْ في القُرآنِ، والسنة، وكَلامِ العَربِ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6850.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2991",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "المُعَرَّب مِنَ الكَلامِ الأعْجَميِّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6850_Answer.mp3"
+			},
+			{
+				"answer": "دَليلُ الأَلفاظِ والمَعانِي",
+				"t": 0
+			},
+			{
+				"answer": "مُعجَمُ الأعاجِم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6860,
+		"q": {
+			"q": "مَعنى كَلِمةِ (قُحُّ):",
+			"audio": "/files/quiz/arabia/al-majm/audio/6860.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/3022",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "النُّعاسُ",
+				"t": 0
+			},
+			{
+				"answer": "الخالِصُ مِن كلِّ شيءٍ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6860_Answer.mp3"
+			},
+			{
+				"answer": "الدَّعوةُ إلى الخيرِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6847,
+		"q": {
+			"q": "كَلِمةُ (الصَّلاة) مَعْناها في اللُّغةِ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6847.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2987",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "الدُّعاءُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6847_Answer.mp3"
+			},
+			{
+				"answer": "الرِّضا",
+				"t": 0
+			},
+			{
+				"answer": "الصَّبرُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6856,
+		"q": {
+			"q": "مُصْطَلَحِ \"المَدارِسِ المُعجَميَّةِ\" المقصود بها: ",
+			"audio": "/files/quiz/arabia/al-majm/audio/6856.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2998",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "المَناهِجُ الَّتي أنشأها المُصنِّفون في تَرْتيبِ مَوادِّ مُعجَمِهم",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6856_Answer.mp3"
+			},
+			{
+				"answer": "المَدارِسُ التي اهتَمَّت بالمعَاجمِ نَشأةً وتَطويرًا",
+				"t": 0
+			},
+			{
+				"answer": "المَعالمُ التي يَستَخدِمُها اللُّغويُّونَ في دِراسَةِ المَعاجِم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6842,
+		"q": {
+			"q": "مِن أشْهَرِ أمْثِلةِ مَعاجِمِ الألفاظ:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6842.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2981",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "مَعاجِم ألْفاظِ القُرآنِ الكَريمِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6842_Answer.mp3"
+			},
+			{
+				"answer": "مُعاجِمُ المُصطَلحاتِ الغَرِيبَة",
+				"t": 0
+			},
+			{
+				"answer": "مُعجَم الدِّيوانِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6849,
+		"q": {
+			"q": "اهتمَّ العُلَماءُ بالألْفاظِ المُعَرَّبةِ والدَّخيلَةِ اهْتِمامًا شَديدًا؛ وذلك حينَ تَطرَّقوا إلى:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6849.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2991",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "مَسألَة: خُطبَة الجُمعَةِ باللُّغةِ العامِّيَّةِ",
+				"t": 0
+			},
+			{
+				"answer": "مَسألَة: هل يَصِحُّ الأذانُ بغيرِ العَربيَّة",
+				"t": 0
+			},
+			{
+				"answer": "مَسألَة: هل وقَع في القُرآنِ شيءٌ مِنَ الكَلامِ الأعْجَميِّ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6849_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6854,
+		"q": {
+			"q": "المُعجَمُ التَّاريخيُّ يُعالِجُ نَشْأةَ الألْفاظِ، وتَقْسيمَها إلى أنْواع، منها:",
+			"audio": "/files/quiz/arabia/al-majm/audio/6854.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/2995",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "الألْفاظُ العَربيَّةُ عند الإغريقِ",
+				"t": 0
+			},
+			{
+				"answer": "الألْفاظُ العَربيَّةُ الجاهِليَّةُ التي لم تُستَخدمُ بعد ظُهورِ الإِسلامِ",
+				"t": 0
+			},
+			{
+				"answer": "الألْفاظُ العَربيَّةُ الَّتي ابْتَكَرَها العَربُ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6854_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6857,
+		"q": {
+			"q": "كَلِمةُ (قَعَدَ) يُبحَثُ عنها في مادَّةِ (ع ق د) ",
+			"audio": "/files/quiz/arabia/al-majm/audio/6857.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/3007",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "لأنَّ العَينَ أبْعَدُ الحُروفِ مَخرَجًا",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6857_Answer.mp3"
+			},
+			{
+				"answer": "لأنَّها مِن نَفسِ الجِذرِ اللُّغويِّ",
+				"t": 0
+			},
+			{
+				"answer": "لأنَّها مَعكُوسَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 6843,
+		"q": {
+			"q": "اعْتَنتِ المَطبعةُ الكاثوليكيَّةُ بالمَعاجِمِ، وطبَعتْها طَبَعاتٍ فاخِرةً وكان هَدَفُهم: ",
+			"audio": "/files/quiz/arabia/al-majm/audio/6843.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/arabia/3302",
+		"section": "al-majm",
+		"answers": [
+			{
+				"answer": "تَزوِيرَ التَّارِيخَ",
+				"t": 0
+			},
+			{
+				"answer": "دَعوةَ النَّاسِ للنَّصْرانيَّةِ",
+				"t": 1,
+				"audio": "/files/quiz/arabia/al-majm/audio/answers/6843_Answer.mp3"
+			},
+			{
+				"answer": "سِرقَةَ دَواوِين الأَدَبِ العَربي",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

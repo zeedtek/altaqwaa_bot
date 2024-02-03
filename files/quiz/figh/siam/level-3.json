@@ -1,0 +1,542 @@
+[
+	{
+		"id": 2727,
+		"q": {
+			"q": "استِعمالُ التَّحاميلِ (اللَّبوسِ) في نَهارِ رَمَضانَ:",
+			"audio": "/files/quiz/figh/siam/audio/2727.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2754",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يُكرَهُ في الصَّومِ، وعَليهِ كفَّارةٌ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُفسِدُ الصَّومَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2727_Answer.mp3"
+			},
+			{
+				"answer": "يُفسِدُ الصَّومَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2724,
+		"q": {
+			"q": "القَلَسُ والدَّمُ الخارِجُ من أسنانِ الصَّائِم:",
+			"audio": "/files/quiz/figh/siam/audio/2724.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2723",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يُفطِّرُه، سَواء رَجَع إلى حَلْقِه أو لم يَرجِعْ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُفطِّرُه، طالَمَا لم يَرجِعْ إلى حَلْقِه بالإجماعِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2724_Answer.mp3"
+			},
+			{
+				"answer": "يُفطِّره إنْ نَوَى الإِمساكَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2738,
+		"q": {
+			"q": "وَقتُ نِهايةِ الاعتِكافِ في أيَّامِ العَشرِ الأواخِرِ من رَمَضانَ",
+			"audio": "/files/quiz/figh/siam/audio/2738.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2837",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "من بعدِ غُروبِ شَمسِ آخرِ يومٍ من رَمَضانَ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2738_Answer.mp3"
+			},
+			{
+				"answer": "من بعدِ غُروبِ شَمسِ لَيلةِ التَّاسِعِ والعِشرينَ",
+				"t": 0
+			},
+			{
+				"answer": "من بَعدِ غُروبِ شَمسِ لَيلةِ السَّابِعِ والعِشرينَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2715,
+		"q": {
+			"q": "قضاءُ البالِغِ لِمَا فاتَه قَبلَ البُلوغِ",
+			"audio": "/files/quiz/figh/siam/audio/2715.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2634",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "مُستَحبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجِبُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2715_Answer.mp3"
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2729,
+		"q": {
+			"q": "حُكمُ استِعمالِ الصَّائِمِ مَعجونَ الأسنانِ",
+			"audio": "/files/quiz/figh/siam/audio/2729.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2763",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يُكرَهُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2729_Answer.mp3"
+			},
+			{
+				"answer": "يَحرُم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2732,
+		"q": {
+			"q": "تَخصيصُ شَهرِ رَجبٍ بالصَّومِ",
+			"audio": "/files/quiz/figh/siam/audio/2732.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2784",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2732_Answer.mp3"
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2717,
+		"q": {
+			"q": "ممَّا يُسَنُّ التسحُّرُ به:",
+			"audio": "/files/quiz/figh/siam/audio/2717.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2649",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "الزَّبيبُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّمرُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2717_Answer.mp3"
+			},
+			{
+				"answer": "اللَّبَنُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2728,
+		"q": {
+			"q": "الوِصالُ في الصَّومِ",
+			"audio": "/files/quiz/figh/siam/audio/2728.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2761",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2728_Answer.mp3"
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2718,
+		"q": {
+			"q": "ممَّا تَختَصُّ به لَيلةُ القَدرِ",
+			"audio": "/files/quiz/figh/siam/audio/2718.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2663",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "قِيامُ لَيلِها بالصَّلاةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2718_Answer.mp3"
+			},
+			{
+				"answer": "زِيارةُ المَريضِ",
+				"t": 0
+			},
+			{
+				"answer": "السَّفَرُ إلى مكَّةَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2733,
+		"q": {
+			"q": "حُكمُ صَومِ المرأةِ نَفلًا بدونِ إذنِ زَوجِها",
+			"audio": "/files/quiz/figh/siam/audio/2733.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2793",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يَجوزُ وليس له أن يَمنَعَها",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "لا يَجوزُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2733_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2719,
+		"q": {
+			"q": "إذا أفطَرَ مَن كان به مرضٌ يُرجى بُرْؤهُ ثُمَّ شُفيَ؛ فإنَّه:",
+			"audio": "/files/quiz/figh/siam/audio/2719.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2681",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يُستحَبُّ له قضاءُ ما أفطَرَه من أيَّامٍ",
+				"t": 0
+			},
+			{
+				"answer": "ليس عَليهِ قضاءُ ما أفطَرَه من أيَّامٍ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ عَليهِ قضاءُ ما أفطَرَه من أيَّامٍ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2719_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2725,
+		"q": {
+			"q": "حُكمُ الأقراصِ التي توضَعُ تَحتَ اللِّسانِ لعِلاجِ الأَزَماتِ القَلبِيَّة",
+			"audio": "/files/quiz/figh/siam/audio/2725.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2748",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "تُفسِدُ الصَّومَ إجماعًا",
+				"t": 0
+			},
+			{
+				"answer": "لا تُفسِدُ الصَّومَ، بشَرطِ ألَّا يَبتلِعَ شيئًا ممَّا يتحَلَّلُ منها",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2725_Answer.mp3"
+			},
+			{
+				"answer": "لا تُفسِدُ الصَّومَ، سَواءٌ ابتَلَع شَيئًا أو لا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2722,
+		"q": {
+			"q": "إذا أفطَرَ الصَّائمُ في صومٍ واجبٍ؛ ظانًّا أنَّ الشَّمسَ قد غرَبَتْ، ثم تبيَّنَ له أنَّها لم تغرُبْ؛ فإنَّه:",
+			"audio": "/files/quiz/figh/siam/audio/2722.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2717",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "لا يَلزَمُه الإمساكُ",
+				"t": 0
+			},
+			{
+				"answer": "لا شَيءَ عَليهِ",
+				"t": 0
+			},
+			{
+				"answer": "يَلزَمُه الإمساكُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2722_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2736,
+		"q": {
+			"q": "ضابِطُ المَسجِدِ الذي يَصِحُّ فيه الاعتِكافُ",
+			"audio": "/files/quiz/figh/siam/audio/2736.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2831",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "أن يَكونَ في مسجِدٍ تُقامُ فيه الجَماعةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2736_Answer.mp3"
+			},
+			{
+				"answer": "أن يكونَ في مسجِدِ الحَيِّ",
+				"t": 0
+			},
+			{
+				"answer": "أن يكونَ في جامِعٍ تُقامُ فيه الجُمعَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2716,
+		"q": {
+			"q": "إذا عقَدَ الإنسانُ النِّيةَ على أنَّه إن كان غدًا رَمَضانُ فسأصومُ الفَرضَ، فتَبيَّنَ أنَّه رَمَضانُ؛ فإنَّ صَومَه:",
+			"audio": "/files/quiz/figh/siam/audio/2716.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2644",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "صَحيحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2716_Answer.mp3"
+			},
+			{
+				"answer": "مُعَلَّق",
+				"t": 0
+			},
+			{
+				"answer": "غيرُ صَحيحٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2723,
+		"q": {
+			"q": "إذا جُومِعَتِ المَرأةُ في نَهارِ رَمَضانَ طائعةً، يَلزَمُها:",
+			"audio": "/files/quiz/figh/siam/audio/2723.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2719",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "القَضاءُ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "الكَفَّارةُ فَقَط",
+				"t": 0
+			},
+			{
+				"answer": "القَضاءُ والكفَّارةُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2723_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2735,
+		"q": {
+			"q": "حُكمُ الاعتِكافِ في غيرِ المساجِدِ الثَّلاثةِ",
+			"audio": "/files/quiz/figh/siam/audio/2735.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2831",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "لا يُشترَطُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2735_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجِبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2734,
+		"q": {
+			"q": "التَّتابُعُ في قَضاءِ رَمَضانَ\n ",
+			"audio": "/files/quiz/figh/siam/audio/2734.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2797",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "لا يَجِبُ باتِّفاقِ المَذاهِبِ الفِقهيَّةِ الأربَعةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2734_Answer.mp3"
+			},
+			{
+				"answer": "لا يُشرَعُ",
+				"t": 0
+			},
+			{
+				"answer": "يَجِبُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2730,
+		"q": {
+			"q": "استِعمالُ قَطرةِ الأذُنِ للصَّائمِ",
+			"audio": "/files/quiz/figh/siam/audio/2730.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2763",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يُبطِلُ الصَّومَ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2730_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 2721,
+		"q": {
+			"q": "إذا أصبَحَ المريضُ صائمًا ثُمَّ بَرَأَ في النَّهارِ؛ فإنَّه:",
+			"audio": "/files/quiz/figh/siam/audio/2721.mp3"
+		},
+		"level": 3,
+		"link": "https://www.dorar.net/feqhia/2685",
+		"section": "siam",
+		"answers": [
+			{
+				"answer": "يُفطِرُ ولا يَلزَمُه الإتمامُ",
+				"t": 0
+			},
+			{
+				"answer": "لا يُفطِرُ ويلزَمُه الإتمامُ",
+				"t": 1,
+				"audio": "/files/quiz/figh/siam/audio/answers/2721_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَهُ له أن يُفطِرَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

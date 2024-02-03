@@ -1,0 +1,542 @@
+[
+	{
+		"id": 1892,
+		"q": {
+			"q": "لُبسُ الحريرِ للرجالِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1892.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3170/المطلب-الأول:-الشروط-والضوابط-العامة-للباس-الرجل-والمرأة#t-4",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "محرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1892_Answer.mp3"
+			},
+			{
+				"answer": "يجوزُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1901,
+		"q": {
+			"q": "إلباسُ الصبيِّ الصغيرِ الحريرَ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1901.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3210/الفرع-الخامس:-إلباس-الصبي-الصغير-الحرير",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "محرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1901_Answer.mp3"
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1888,
+		"q": {
+			"q": "حُكمُ لُبسِ الجوْربِ؛ وهو ما يُلبَسُ مِن القِماشِ ونَحوِه بالقَدَمينِ إلى ما فوقَ الكعبينِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1888.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3165",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1888_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1886,
+		"q": {
+			"q": "لُبْسُ الكعبِ العالي للمرأةِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1886.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3165",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَكروهٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1886_Answer.mp3"
+			},
+			{
+				"answer": "محرَّم",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1897,
+		"q": {
+			"q": "لُبسُ البُرقع:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1897.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3175/الفرع-الثاني:-الملابس-الخاصة-بالحجاب#t-4",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مَشروع",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1897_Answer.mp3"
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "محرَّم",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1894,
+		"q": {
+			"q": "مِن شروطِ حِجاب المرأةِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1894.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3173/الفرع-الأول:-شروط-وضوابط-حجاب-المرأة",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "أن يَستُرَ جميعَ جسدِها، وألا يَصِف أو يشِفَّ، وأن لا يكونَ معطرًا، وألَّا يكونَ زِينةً في نفسِه\n ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1894_Answer.mp3"
+			},
+			{
+				"answer": "السَّترُ والسَّعةُ",
+				"t": 0
+			},
+			{
+				"answer": "أن يكونَ أَسوَدَ ساتِرًا للرَّأسِ والبَدنِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1895,
+		"q": {
+			"q": "خِمارُ الرأسِ للمرأةِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1895.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3175/الفرع-الثاني:-الملابس-الخاصة-بالحجاب#t-2",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1895_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1882,
+		"q": {
+			"q": "سَترُ جميعِ بَدَنِ المَرأةِ",
+			"audio": "/files/quiz/figh/figh-zina/audio/1882.mp3"
+		},
+		"level": 2,
+		"link": "\r\nhttps://www.dorar.net/feqhia/3173",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "ليس من ضَوابِطِ حِجابِ المَرأةِ",
+				"t": 0
+			},
+			{
+				"answer": "من مُستحَبَّاتِ حِجابِ المرأةِ",
+				"t": 0
+			},
+			{
+				"answer": "من شُروطِ حِجابِ المَرأةِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1882_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1887,
+		"q": {
+			"q": "حُكمُ لُبسِ الخُفِّ؛ وهو ما يُلبَسُ في القدَمِ مِن جِلدٍ رَقيقٍ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1887.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3165",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1887_Answer.mp3"
+			},
+			{
+				"answer": "بِدعةٌ",
+				"t": 0
+			},
+			{
+				"answer": "واجبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1900,
+		"q": {
+			"q": "إسبالُ الرجُلِ الثوبَ لغيرِ الخيلاءِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1900.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3195/المبحث-الثاني:-حكم-الإسبال-بغير-خيلاء-للرجل",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "محرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1900_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1896,
+		"q": {
+			"q": "حُكمُ النِّقاب:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1896.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3175/الفرع-الثاني:-الملابس-الخاصة-بالحجاب#t-3",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "فرضٌ بالإجماعِ",
+				"t": 0
+			},
+			{
+				"answer": "بِدعةٌ لم يكن معروفًا من قبْلُ",
+				"t": 0
+			},
+			{
+				"answer": "مَشروعٌ، وهو سمْتُ المؤمناتِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1896_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1884,
+		"q": {
+			"q": "لُبسُ النِّساءِ للبَنطلون الواسِعُ الذي لا يَصِف العوْرة:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1884.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3163",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "حرامٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1884_Answer.mp3"
+			},
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1898,
+		"q": {
+			"q": "لُبس القُفازينِ في اليدينِ للمرأةِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1898.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3175/الفرع-الثاني:-الملابس-الخاصة-بالحجاب#t-5",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "محرَّم؛ بدليلِ نزعِه في الإحرامِ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَشروع",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1898_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1883,
+		"q": {
+			"q": "لُبسُ الرِّجالِ للبنطلون:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1883.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3163",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "بِدعة",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1883_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1889,
+		"q": {
+			"q": "لُبسُ الثَّوبِ الأسوَدِ للرِّجالِ والنِّساءِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1889.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3167",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1889_Answer.mp3"
+			},
+			{
+				"answer": "يُكرَه للرجال",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ للنساء دون الرِّجال",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1891,
+		"q": {
+			"q": "لُبسُ الشُّهرة:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1891.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3170/المطلب-الأول:-الشروط-والضوابط-العامة-للباس-الرجل-والمرأة#t-3",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "محرَّمٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1891_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مندوبٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1893,
+		"q": {
+			"q": "يُشترَطُ في اللباسِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1893.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3170/المطلب-الأول:-الشروط-والضوابط-العامة-للباس-الرجل-والمرأة#t-5",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "لبسُ البَياضِ",
+				"t": 0
+			},
+			{
+				"answer": "أن يكونَ سابِغًا للبَدَنِ",
+				"t": 0
+			},
+			{
+				"answer": "عدمُ الإسرافِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1893_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1899,
+		"q": {
+			"q": "إسبالُ الرجُلِ الثوبَ للخيلاءِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1899.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3193/المبحث-الأول:-حكم-الإسبال-للخيلاء",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "محرَّم",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1899_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ",
+				"t": 0
+			},
+			{
+				"answer": "مَكروهٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1885,
+		"q": {
+			"q": "حُكمُ لُبسِ رابطةِ العنقِ:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1885.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3163",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "مُستحَبٌّ",
+				"t": 0
+			},
+			{
+				"answer": "بدعةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُباحٌ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1885_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 1890,
+		"q": {
+			"q": "التشبُّه بيْن الرجالِ والنساءِ في اللِّباس:",
+			"audio": "/files/quiz/figh/figh-zina/audio/1890.mp3"
+		},
+		"level": 2,
+		"link": "https://www.dorar.net/feqhia/3170/المطلب-الأول:-الشروط-والضوابط-العامة-للباس-الرجل-والمرأة#t-1",
+		"section": "figh-zina",
+		"answers": [
+			{
+				"answer": "لا يجوزُ للرجالِ أن يتشبَّهوا بالنساءِ، ولا للنِّساء أن يتشبَّهْنَ بالرجالِ",
+				"t": 1,
+				"audio": "/files/quiz/figh/figh-zina/audio/answers/1890_Answer.mp3"
+			},
+			{
+				"answer": "جائزٌ للنساءِ لا الرجالِ",
+				"t": 0
+			},
+			{
+				"answer": "جائزٌ للرِّجال والنساءِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

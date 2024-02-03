@@ -1,0 +1,542 @@
+[
+	{
+		"id": 3183,
+		"q": {
+			"q": "متى أُحدِثَ ديوانُ المَواريثِ؟",
+			"audio": "/files/quiz/history/abasi/audio/3183.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=45",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "255 هـ في عهدِ المُهْتَدي",
+				"t": 0
+			},
+			{
+				"answer": "260 هـ في عهدِ المُعتَمِدِ",
+				"t": 0
+			},
+			{
+				"answer": "265 هـ في عَهدِ المُعتَمِدِ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3183_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3179,
+		"q": {
+			"q": "متى بَنى أحمدُ بنُ طولونَ مدينةَ القطائعِ؟",
+			"audio": "/files/quiz/history/abasi/audio/3179.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=43",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "260 هـ",
+				"t": 0
+			},
+			{
+				"answer": "254 هـ",
+				"t": 0
+			},
+			{
+				"answer": "256 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3179_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3177,
+		"q": {
+			"q": "متى بدأَتِ الدولةُ الطُّولونيَّةُ بمصرَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3177.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=42",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "260 هـ",
+				"t": 0
+			},
+			{
+				"answer": "250 هـ",
+				"t": 0
+			},
+			{
+				"answer": "254 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3177_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3166,
+		"q": {
+			"q": "متى تُوُفِّيَ المأْمونُ؟",
+			"audio": "/files/quiz/history/abasi/audio/3166.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=36",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "210 هـ",
+				"t": 0
+			},
+			{
+				"answer": "198 هـ\n ",
+				"t": 0
+			},
+			{
+				"answer": "218 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3166_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3181,
+		"q": {
+			"q": "متى بَنى أحمدُ بنُ طولونَ جامعَه المشهورَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3181.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=45",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "265 هـ",
+				"t": 0
+			},
+			{
+				"answer": "260 هـ",
+				"t": 0
+			},
+			{
+				"answer": "263 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3181_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3184,
+		"q": {
+			"q": "مَن أولُ مَنِ ابتدَعَ لعْنَ معاويةَ بنِ أبي سُفيانَ على المَنابرِ؟",
+			"audio": "/files/quiz/history/abasi/audio/3184.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=49",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "المُعتَضِدُ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3184_Answer.mp3"
+			},
+			{
+				"answer": "المُهتَدي",
+				"t": 0
+			},
+			{
+				"answer": "المُعتَمِدُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3170,
+		"q": {
+			"q": "مَنِ الذي رشَّحَه الإمامُ أحمدُ للقضاءِ للمتوكِّلِ بدلَ ابنِ أبي دؤادَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3170.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=39",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "يَحْيى بنُ أكثَمَ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3170_Answer.mp3"
+			},
+			{
+				"answer": "يَحْيى بنُ مَعينٍ",
+				"t": 0
+			},
+			{
+				"answer": "عليُّ بنُ المَدينيِّ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3171,
+		"q": {
+			"q": "متى تُوُفِّيَ أبو جَعفرٍ المَنصورُ؟\n ",
+			"audio": "/files/quiz/history/abasi/audio/3171.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=27\n",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "150 هـ",
+				"t": 0
+			},
+			{
+				"answer": "160 هـ",
+				"t": 0
+			},
+			{
+				"answer": "158 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3171_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3182,
+		"q": {
+			"q": "كم أنفَقَ ابنُ طولونَ في بناءِ جامعِه؟",
+			"audio": "/files/quiz/history/abasi/audio/3182.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=45",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "500 ألفِ درهمٍ",
+				"t": 0
+			},
+			{
+				"answer": "120 ألفَ دينارٍ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3182_Answer.mp3"
+			},
+			{
+				"answer": "100 ألفِ دينارٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3174,
+		"q": {
+			"q": "مَن أولُ الخُلفاءِ العباسيِّينَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3174.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=24",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "عبدُ اللهِ بنُ عليِّ بنِ عبدِ اللهِ بنِ عباسٍ",
+				"t": 0
+			},
+			{
+				"answer": "أبو العباسِ السفَّاحُ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3174_Answer.mp3"
+			},
+			{
+				"answer": "إبراهيمُ بنُ محمدِ بنِ عليِّ بنِ عبدِ اللهِ بنِ عباسٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3180,
+		"q": {
+			"q": "متى ابْتَنى أبو أحمَدَ الموفَّقُ بنُ المتوكِّلِ مدينةَ (الموفَّقيَّةِ)؟ ولمَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3180.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=45",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "270 هـ ليتَّخِذَها عاصمةً خاصةً به",
+				"t": 0
+			},
+			{
+				"answer": "267 هـ ليَستَعينَ بها على قتالِ صاحبِ الزَّنجِ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3180_Answer.mp3"
+			},
+			{
+				"answer": "265 هـ ليَستَعينَ بها على قتالِ صاحبِ الزَّنجِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3169,
+		"q": {
+			"q": "متى توفِّيَ أبو العباسِ السفَّاحُ؟\n ",
+			"audio": "/files/quiz/history/abasi/audio/3169.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=25\n",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "136 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3169_Answer.mp3"
+			},
+			{
+				"answer": "133",
+				"t": 0
+			},
+			{
+				"answer": "140 هـ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3172,
+		"q": {
+			"q": "مَن بَنى مدينةَ فاسَ؟ \n ",
+			"audio": "/files/quiz/history/abasi/audio/3172.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=29",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "إدْريسُ بنُ عبدِ اللهِ بنِ حسنٍ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3172_Answer.mp3"
+			},
+			{
+				"answer": "إدْريسُ بنُ عبدِ اللهِ الأوْديُّ ",
+				"t": 0
+			},
+			{
+				"answer": "إدْريسُ بنُ محمَّد",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3173,
+		"q": {
+			"q": "متى توَلَّى المأْمونُ الخلافةَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3173.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=33",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "195 هـ",
+				"t": 0
+			},
+			{
+				"answer": "200 هـ",
+				"t": 0
+			},
+			{
+				"answer": "198 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3173_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3185,
+		"q": {
+			"q": "متى توفِّيَ أحمدُ بنُ طولونَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3185.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=46",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "ذي الحِجَّةِ 270 هـ",
+				"t": 0
+			},
+			{
+				"answer": "شعبانَ 271 هـ",
+				"t": 0
+			},
+			{
+				"answer": "ذي القَعدةِ 270 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3185_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3178,
+		"q": {
+			"q": "بمَن بدأَ العَصرُ العباسيُّ الثاني (عصرُ الضعفِ)؟",
+			"audio": "/files/quiz/history/abasi/audio/3178.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=41",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "المتوكِّلُ على اللهِ",
+				"t": 0
+			},
+			{
+				"answer": "المُعتزُّ باللهِ",
+				"t": 0
+			},
+			{
+				"answer": "المُنتصرُ باللهِ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3178_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3167,
+		"q": {
+			"q": "متى وقَعَت معركةُ نهرِ الزابِ؟",
+			"audio": "/files/quiz/history/abasi/audio/3167.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=24",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "128 هـ",
+				"t": 0
+			},
+			{
+				"answer": "132 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3167_Answer.mp3"
+			},
+			{
+				"answer": "130 هـ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3168,
+		"q": {
+			"q": "ما المدينةُ التي بَناها العباسيونَ عاصمةً لمصرَ؟",
+			"audio": "/files/quiz/history/abasi/audio/3168.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=25",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "العَسكرُ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3168_Answer.mp3"
+			},
+			{
+				"answer": "القاهرةُ",
+				"t": 0
+			},
+			{
+				"answer": "القطائعُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3176,
+		"q": {
+			"q": "مَنِ الذي رفَع مِحنةَ خَلْقِ القرآنِ عن أهلِ السُّنةِ؟",
+			"audio": "/files/quiz/history/abasi/audio/3176.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=38",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "المعتصمُ",
+				"t": 0
+			},
+			{
+				"answer": "الواثقُ",
+				"t": 0
+			},
+			{
+				"answer": "المتوكِّلُ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3176_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3175,
+		"q": {
+			"q": "متى بَنى المُعتَصِمُ مدينةَ (سامَرَّاءَ)؟",
+			"audio": "/files/quiz/history/abasi/audio/3175.mp3"
+		},
+		"level": 1,
+		"link": "https://www.dorar.net/history/?page=37",
+		"section": "abasi",
+		"answers": [
+			{
+				"answer": "219 هـ",
+				"t": 0
+			},
+			{
+				"answer": "220 هـ",
+				"t": 0
+			},
+			{
+				"answer": "221 هـ",
+				"t": 1,
+				"audio": "/files/quiz/history/abasi/audio/answers/3175_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

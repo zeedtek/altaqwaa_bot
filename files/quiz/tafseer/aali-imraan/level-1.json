@@ -1,0 +1,542 @@
+[
+	{
+		"id": 133,
+		"q": {
+			"q": "المُخاطَبُ في قولِه تعالى: {فَإِنْ حَاجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلَّهِ وَمَنِ اتَّبَعَنِ}:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/133.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/7",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "مُوسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "عِيسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "مُحمدٌ صلَّى اللهُ عليه وسلَّمَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/133_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 134,
+		"q": {
+			"q": "في قولِه تعالى: {ذلِكَ بِأَنَّهُمْ قَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَاتٍ}: القائلُ هُم:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/134.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/9#tt4",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "اليَهودُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/134_Answer.mp3"
+			},
+			{
+				"answer": "مُشرِكُو قُريَشٍ",
+				"t": 0
+			},
+			{
+				"answer": "النَّصارَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 136,
+		"q": {
+			"q": "المقصودُ بقولِه تعالى: {الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ} هُم:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/136.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/9#tt18",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "المَجُوسُ",
+				"t": 0
+			},
+			{
+				"answer": "المُشرِكونَ",
+				"t": 0
+			},
+			{
+				"answer": "اليَهودُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/136_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 124,
+		"q": {
+			"q": "قال تعالى: {وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ}، أُنزِلَتِ التَّوراةُ والإنجِيلُ على:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/124.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/1#tt9",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "موسى وعيسى عليها السلامُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/124_Answer.mp3"
+			},
+			{
+				"answer": "داودَ وسُليمانَ عليهما السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "إبراهيمَ وإسماعيلَ عليهما السلامُ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 128,
+		"q": {
+			"q": "المقصودُ بقولِه تعالى: {وَأُخَرُ مُتَشَابِهَاتٌ}:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/128.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/2",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "الآياتُ المُتشابِهةُ في المعنى",
+				"t": 0
+			},
+			{
+				"answer": "الآياتُ المُتشابِهةُ في اللفظِ",
+				"t": 0
+			},
+			{
+				"answer": "ما احتَملَ منَ التَّأويلِ أَوْجُهًا بحيث يُحتاجُ إلى غيرِها في فَهمِ المرادِ منها",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/128_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 127,
+		"q": {
+			"q": "نَزلَت التَّوْراةُ:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/127.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/1#tt9",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "دفعةً واحِدَةً",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/127_Answer.mp3"
+			},
+			{
+				"answer": "ثلاثَ دُفعاتٍ",
+				"t": 0
+			},
+			{
+				"answer": "دفعتَينِ مُتتالِيَتينِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 130,
+		"q": {
+			"q": "ما معنى قولِه تعالى: {هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ}:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/130.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/2#tt9",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "أي: يُحدِّدُ آجالَكم وأرزاقَكم",
+				"t": 0
+			},
+			{
+				"answer": "أي: هو الذي يَرزُقُكم في بُطونِ أُمَّهاتِكم",
+				"t": 0
+			},
+			{
+				"answer": "أي: يَجعلُكم صُوَرًا في أَرحامِ أمَّهاتِكم على أيِّ كيفيَّةٍ شاءَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/130_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 126,
+		"q": {
+			"q": "نزَل القرآنُ:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/126.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/1#tt9",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "نزلَ مُفرَّقًا شيئًا بعدَ شيءٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/126_Answer.mp3"
+			},
+			{
+				"answer": "دُفعتَينِ مُتَتاليِتَينِ",
+				"t": 0
+			},
+			{
+				"answer": "دُفعَةً واحِدَةً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 140,
+		"q": {
+			"q": "في قولِه سُبحانَه: {وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ} بَيَّنَ تعالى أنَّ تمامَ الأجْرِ والثوابِ لا يصِلُ إلى المكلَّفِ إلَّا:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/140.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/53#tt17",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "يومَ القيامةِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/140_Answer.mp3"
+			},
+			{
+				"answer": "في حياةِ البَرزخِ",
+				"t": 0
+			},
+			{
+				"answer": "في الحياةِ الدُّنيا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 138,
+		"q": {
+			"q": "قال تعالى: {قَالَ رَبِّ أَنَّى يَكُونُ لِي غُلَامٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ وَامْرَأَتِي عَاقِرٌ}، المقصودُ (بـ: عاقِرٌ):",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/138.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/15#tt7",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "كَبيرةٌ في السِّنِّ",
+				"t": 0
+			},
+			{
+				"answer": "عَقيِمٌ لا تَلِدُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/138_Answer.mp3"
+			},
+			{
+				"answer": "ناشِزٌ لا تُطيعُني",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 121,
+		"q": {
+			"q": "سُمِّيَت سُورتا البقرةِ وآلِ عِمرانَ بـ:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/121.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "الشَّفيعَتَيْنِ",
+				"t": 0
+			},
+			{
+				"answer": "الفاتِحتَيْنِ",
+				"t": 0
+			},
+			{
+				"answer": "الزَّهْراوَيْنِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/121_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 131,
+		"q": {
+			"q": "قال اللهُ تعالى: {قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا} المَقصُودُ بالفِئَتينِ:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/131.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/4",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "المُسلِمونَ والرُّوم",
+				"t": 0
+			},
+			{
+				"answer": "المُسلِمونَ ومُشرِكو قُريشٍ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/131_Answer.mp3"
+			},
+			{
+				"answer": "اليَهودُ والنَّصارَى",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 132,
+		"q": {
+			"q": "في قولِه تعالى: {يَرَوْنَهُمْ مِثْلَيْهِمْ رَأْيَ العَيْنِ}: المقصودُ بالرُّؤيَةِ:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/132.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/4",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "الرُّؤيَةُ البَصَريَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/132_Answer.mp3"
+			},
+			{
+				"answer": "رُؤْيا المَنامِ",
+				"t": 0
+			},
+			{
+				"answer": "رُؤيةُ القَلْبِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 125,
+		"q": {
+			"q": "في قولِه تعالى: {اللَّهُ لَا إِلَهَ إِلَّا  هُوَ الْحَيُّ الْقَيُّومُ}:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/125.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/1#tt7",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "رَدٌّ على المجوس",
+				"t": 0
+			},
+			{
+				"answer": "ردٌّ على المشركين وعلى النَّصارى خاصَّة",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/125_Answer.mp3"
+			},
+			{
+				"answer": "رَدٌّ على المُشرِكينَ الذين قالو: إنَّ محمدًا ساحِرٌ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 122,
+		"q": {
+			"q": "سورةُ آلِ عِمرانَ",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/122.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "مدنيَّةٌ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/122_Answer.mp3"
+			},
+			{
+				"answer": "مكيَّةٌ",
+				"t": 0
+			},
+			{
+				"answer": "مُختَلَفٌ فيها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 129,
+		"q": {
+			"q": "مَنِ المقصودُ بقولِه تعالى: {الرَّاسِخُونَ في العِلمِ}",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/129.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/2",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "الذين أَتْقَنوا عِلْمَهم ووَعَوْه فحَفِظوه حِفظًا",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/129_Answer.mp3"
+			},
+			{
+				"answer": "الثَّابِتُونَ في زَمنِ الفِتَنِ",
+				"t": 0
+			},
+			{
+				"answer": "المُتعَلِّمونَ إخْلاصًا للهِ بلا رِياءٍ ولا سُمعَةٍ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 135,
+		"q": {
+			"q": "قال تعالى: {يُدْعَوْنَ إِلَى كِتَابِ اللَّهِ لِيَحْكُمَ بَيْنَهُمْ} الحُكمُ في كِتابِ اللهِ يَشمَلُ:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/135.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/9#tt17",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "الأحكامَ العَقديَّةَ",
+				"t": 0
+			},
+			{
+				"answer": "العِباداتِ والمُعاملاتِ والأَخلاقَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/135_Answer.mp3"
+			},
+			{
+				"answer": "الأحكامَ الفِقهيَّةَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 139,
+		"q": {
+			"q": "في قولِه تعالى: {إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ} المقصودُ بـ(بَكَّةَ):",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/139.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/31#tt7",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "مَكَّةُ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/139_Answer.mp3"
+			},
+			{
+				"answer": "المَدينَةُ",
+				"t": 0
+			},
+			{
+				"answer": "بَيتُ المَقدِسِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 123,
+		"q": {
+			"q": "قولُه تعالى: {وَأَنْزَلَ الْفُرْقَانَ}؛ الفُرقانُ هو:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/123.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/1#tt9",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "الذي يَفرُقُ بَينَ الحقِّ والباطِلِ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/123_Answer.mp3"
+			},
+			{
+				"answer": "الذي يَفرُقُ بينَ الجنَّةِ والنارِ",
+				"t": 0
+			},
+			{
+				"answer": "الذي يَفرُقُ بينَ السَّماءِ والأرضِ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 137,
+		"q": {
+			"q": "المُخاطَبُ في قولِه تعالى: {قُلِ اللَّهُمَّ مالِكَ الْمُلْكِ}:",
+			"audio": "/files/quiz/tafseer/aali-imraan/audio/137.mp3"
+		},
+		"level": 1,
+		"link": "https://dorar.net/tafseer/3/10",
+		"section": "aali-imraan",
+		"answers": [
+			{
+				"answer": "مُوسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "عِيسى عليه السلامُ",
+				"t": 0
+			},
+			{
+				"answer": "مُحمدٌ صلَّى اللهُ عليه وسلَّمَ",
+				"t": 1,
+				"audio": "/files/quiz/tafseer/aali-imraan/audio/answers/137_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]

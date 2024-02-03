@@ -1,0 +1,542 @@
+[
+	{
+		"id": 3548,
+		"q": {
+			"q": "نَهَى رَسولُ اللهِ ﷺ يَومَ خَيْبَرَ عن لُحُومِ الحُمُرِ الأهْلِيَّةِ، وَأَذِنَ في لُحُومِ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3548.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/23508",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "البِغالِ",
+				"t": 0
+			},
+			{
+				"answer": "الخَيْلِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3548_Answer.mp3"
+			},
+			{
+				"answer": "الحُمُرِ الإنْسِيَّة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3561,
+		"q": {
+			"q": "في الحَديثِ: أَيُّما رَجُلٍ قالَ لأخِيهِ: يا كافِرُ، فقَدْ باءَ بها:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3561.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/151123",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أحَدُهُما",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3561_Answer.mp3"
+			},
+			{
+				"answer": "هُو",
+				"t": 0
+			},
+			{
+				"answer": "آثِمًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3556,
+		"q": {
+			"q": "قام بشِراءِ صُهَيبٍ وأعتَقَه:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3556.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/8567",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "زَيدُ بنُ عَمرِو بنِ نُفَيلٍ",
+				"t": 0
+			},
+			{
+				"answer": "عَبدُ المُطَّلِبِ",
+				"t": 0
+			},
+			{
+				"answer": "ابنُ جُدْعانَ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3556_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3564,
+		"q": {
+			"q": "عن عَائِشَةَ قالَت: «لقَدْ رَأَيْتُ رَسولَ اللَّهِ ﷺ يَوْمًا علَى بَابِ حُجْرَتي والحَبَشَةُ يَلْعَبُونَ في المَسْجِدِ، ورَسولُ اللَّهِ ﷺ يَسْتُرُنِي برِدَائِهِ، أنْظُرُ إلى لَعِبِهِمْ» يُستَفادُ منَ الحَديثِ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3564.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/501",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "مَشرُوعِيَّة اللَّعِب للزَّوجةِ إذا كانت صَغيرة",
+				"t": 0
+			},
+			{
+				"answer": "إِباحَة اللَّعِب ولكن في غيرِ المَسجِد",
+				"t": 0
+			},
+			{
+				"answer": "حُسنُ خُلُقِه الكَريمِ، وجَميلُ مُعاشَرتِه لِأهلِه",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3564_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3551,
+		"q": {
+			"q": "عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قالَتْ: يَرْحَمُ اللَّهُ نِسَاءَ المُهَاجِرَاتِ الأُوَلَ؛ لَمَّا أنْزَلَ اللَّهُ: {وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ}:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3551.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/150984",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "بادَرْنَ بالحِجابِ حتَّى كأنَّهُنَّ الغِربانِ",
+				"t": 0
+			},
+			{
+				"answer": "شَقَقْنَ مُرُوطَهُنَّ فَاخْتَمَرْنَ بهَا",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3551_Answer.mp3"
+			},
+			{
+				"answer": "ضَربَت كلُّ امرأَةٍ مِنهُنَّ خِمارِها على جَيْبِها",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3553,
+		"q": {
+			"q": "في الحَديثِ: «إنَّ رَسولَ اللَّهِ ﷺ دَخَلَ عَلَيَّ مَسْرُورًا تَبْرُقُ أسارِيرُ وجْهِهِ» معنى «أسارِيرُ وجْهِهِ»:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3553.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/1316",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "لمَعانُ العَيْنِ الذي يكونُ عندما يُسَرُّ الإنسانُ",
+				"t": 0
+			},
+			{
+				"answer": "التَّكاسيرُ التي تَكونُ في الذَّقَنِ",
+				"t": 0
+			},
+			{
+				"answer": "الخُطوطُ الَّتي في الجَبْهةِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3553_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3558,
+		"q": {
+			"q": "عنِ المُغيرةِ رَضِيَ اللهُ عَنهُ قال: كُنْتُ مع النبيِّ ﷺ في سَفَرٍ، فَقالَ: يا مُغِيرَةُ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3558.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/5497",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "خُذِ الإدَاوَةَ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3558_Answer.mp3"
+			},
+			{
+				"answer": "لا يَزالُ لِسانُك رَطبًا بذِكرِ الله",
+				"t": 0
+			},
+			{
+				"answer": "اتَّقِ اللهَ يَجعَل لكَ مَخرجًا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3549,
+		"q": {
+			"q": "عن عائشةَ رَضِيَ اللهُ عنها قالت: كانَ رَسولُ اللَّهِ ﷺ يُحِبُّ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3549.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/6705",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "تَمرَ المَدينَةِ",
+				"t": 0
+			},
+			{
+				"answer": "الحَلْوَاءَ والعَسَلَ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3549_Answer.mp3"
+			},
+			{
+				"answer": "الخُبزَ المُرَقَّقَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3562,
+		"q": {
+			"q": "كان الحَبَشَةُ يَلْعَبُونَ عِنْدَ النبيِّ ﷺ بحِرَابِهِمْ.. مَن هُم الحَبَشَةُ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3562.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/5226",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "هُم جِنسٌ منَ السُّودانِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3562_Answer.mp3"
+			},
+			{
+				"answer": "اسمٌ يُطلَق على العَبيدِ",
+				"t": 0
+			},
+			{
+				"answer": "الغِلمانُ الصِّغارُ الذين قارَبُوا الحُلُمَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3546,
+		"q": {
+			"q": "قَالَ رَسُولُ اللَّهِ ﷺ: لَوْ كَانَتِ الدُّنْيَا تَعْدِلُ عِنْدَ اللَّهِ جَنَاحَ بَعُوضَةٍ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3546.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/35566",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "مَا سَقَى كَافِرًا مِنْهَا شَرْبَةَ مَاءٍ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3546_Answer.mp3"
+			},
+			{
+				"answer": "ما أَخرجَ آدمَ مِن الجنَّة",
+				"t": 0
+			},
+			{
+				"answer": "لَعَجَّلَ العَذابَ على أَهلِ الدُّنيا",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3557,
+		"q": {
+			"q": "في الحديث: «دَخَلْتُ علَى عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا وعَلَيْهَا دِرْعُ قِطْرٍ، ثَمَنُ خَمْسَةِ دَرَاهِمَ، فَقالَتْ: ارْفَعْ بَصَرَكَ إلى جَارِيَتي انْظُرْ إلَيْهَا؛ فإنَّهَا تُزْهَى أنْ تَلْبَسَهُ في البَيْتِ» معنى «تُزْهَى»:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3557.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/8714",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "تَتكبَّرُ وتَأنَفُ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3557_Answer.mp3"
+			},
+			{
+				"answer": "تُزَيَّنُ لعُرْسِها",
+				"t": 0
+			},
+			{
+				"answer": "تَصفَرُّ به حَياءً",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3550,
+		"q": {
+			"q": "عن قُرَّةَ بنِ إياسٍ رَضِيَ اللهُ عَنهُ قال: «أتيتُ رَسولَ اللَّهِ ﷺ في رَهْطٍ مِن مُزَيْنةَ، فَبايَعْناهُ، وإنَّ قَميصَهُ لمُطلَقُ الأزرارِ قالَ: فبايعتُهُ، ثمَّ أدخَلتُ يَدَيَّ في جَيبِ قَميصِهِ فمَسِسْتُ الخاتمَ» مَعنَى «الخاتَم» هو",
+			"audio": "/files/quiz/hadith/hadith05/audio/3550.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/28159",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "خاتَمُ النُّبُوَّةِ الَّذي كان في مُؤخَّرِ كَتِفِ النَّبيِّ ﷺ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3550_Answer.mp3"
+			},
+			{
+				"answer": "الخاتَمُ الَّذي أعَدَّه النَّبيُّ ﷺ مَهرًا لامرأةٍ من مُزَينةَ",
+				"t": 0
+			},
+			{
+				"answer": "الخاتَمُ الَّذي كان يَختِمُ به النَّبيُّ ﷺ كُتُبَه ورَسائلَه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3555,
+		"q": {
+			"q": "أسَرَ الرُّومُ صُهَيبًا، ثُمَّ اشتَراهُ رَجُلٌ من قَبيلةِ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3555.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/8567",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "قُضاعةَ",
+				"t": 0
+			},
+			{
+				"answer": "كَلبٍ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3555_Answer.mp3"
+			},
+			{
+				"answer": "هُزيل",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3552,
+		"q": {
+			"q": "«كانَ النبيُّ ﷺ يُعْجِبُهُ التَّيَمُّنُ، في تَنَعُّلِهِ، وتَرَجُّلِهِ، وطُهُورِهِ، وفي شَأْنِهِ كُلِّهِ» معنى (التَّيَمُّن):",
+			"audio": "/files/quiz/hadith/hadith05/audio/3552.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/11696",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "البِدءُ باليَمينِ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3552_Answer.mp3"
+			},
+			{
+				"answer": "الفَألُ الحَسَن",
+				"t": 0
+			},
+			{
+				"answer": "اليُمْنُ والبِشارَة",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3554,
+		"q": {
+			"q": "في حَديثِ عائِشةَ أنَّ النبيَّ ﷺ قال: «إنَّ هذِه الأقْدامَ بَعْضُها مِن بَعْضٍ». مَن يَقصِدُ النبيُّ ﷺ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3554.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/1316",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "العبَّاسَ بنَ عبدِ المُطَّلِب وابنَه عبدَالله رضي الله عنهما",
+				"t": 0
+			},
+			{
+				"answer": "عُمرَ بنَ الخطَّابِ وعبدَالله بنَ عُمرَ رضي الله عنهما",
+				"t": 0
+			},
+			{
+				"answer": "زَيدَ بنَ حارِثَةَ وأُسامَةَ بن زَيدٍ رضي الله عنهما",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3554_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3559,
+		"q": {
+			"q": "ما معنى الإدَاوَةَ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3559.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/5497",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "سِكِّينٌ صَغيرٌ تُذبَحُ به الغَنَمُ",
+				"t": 0
+			},
+			{
+				"answer": "وِعاءٌ صَغيرٌ يوضَعُ فيه الماءُ لِلوُضوءِ ونحوِه",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3559_Answer.mp3"
+			},
+			{
+				"answer": "المَحْبَرةُ التي يكونُ فيها المِدادُ الذي يُكتَب بِه",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3560,
+		"q": {
+			"q": "دِحيةُ الكَلبِيُّ هو أحَدُ أصحابِ النَّبيِّ؛ وكان:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3560.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/35477",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "يُضحِكُ النبيَّ ﷺ فيَقولُ له النبيُّ ﷺ: والله إنِّي لأُحِبُّك",
+				"t": 0
+			},
+			{
+				"answer": "مَريضًا مُزمِنًا فشَكَا إلى النبيِّ ﷺ وسَألَهُ أن يَدعُو الله له",
+				"t": 0
+			},
+			{
+				"answer": "جَميلًا فكان جِبريلُ يأْتِي إلى رَسولِ اللهِ ﷺ على صورَةِ دِحْيَةَ غالِبًا",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3560_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3563,
+		"q": {
+			"q": "بيْنَا الحَبَشَةُ يَلْعَبُونَ عِنْدَ النبيِّ ﷺ بحِرَابِهِمْ، دَخَلَ عُمَرُ فأهْوَى إلى الحَصَى فَحَصَبَهُمْ بهَا، فَقالَ له النبي ﷺ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3563.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/5226",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "أَبَيْنَ يَدَيْ رَسولِ الله ذلكَ يا عُمر",
+				"t": 0
+			},
+			{
+				"answer": "أَحسَنتَ يا عُمر",
+				"t": 0
+			},
+			{
+				"answer": "دَعْهُمْ يا عُمَرُ",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3563_Answer.mp3"
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3547,
+		"q": {
+			"q": "عَنِ النَّبِيِّ ﷺ قَالَ: لَمَّا خَلَقَ اللَّهُ الخَلْقَ كَتَبَ فِي كِتَابِهِ وَهُوَ يَكْتُبُ عَلَى نَفْسِهِ وَهُوَ وَضْعٌ عِنْدَهُ عَلَى العَرْشِ إِنَّ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3547.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/13397",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "عَذابي هو العَذابُ الأليمُ",
+				"t": 0
+			},
+			{
+				"answer": "رَحْمَتِي تَغْلِبُ  غَضَبِي",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3547_Answer.mp3"
+			},
+			{
+				"answer": "الجَنَّةَ لا يَدخُلُها إلَّا المُتَّقونَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	},
+	{
+		"id": 3565,
+		"q": {
+			"q": "قال رَسولُ اللهِ ﷺ: «السَّاعِي على الأَرمَلَةِ، والمِسكِينِ، كَالمُجاهِدِ في سَبيلِ اللهِ» مَعنَى السَّاعِي على الأرمَلَةِ، والمِسكينِ:",
+			"audio": "/files/quiz/hadith/hadith05/audio/3565.mp3"
+		},
+		"level": 2,
+		"link": "https://dorar.net/hadith/sharh/151176",
+		"section": "hadith05",
+		"answers": [
+			{
+				"answer": "عائِلهُم الذي يَعولُهم وتجبُ عليه نَفقَتُهم",
+				"t": 0
+			},
+			{
+				"answer": "الَّذي يَقضي لهم حَوائجَهُم ويُحسِنُ إليهم",
+				"t": 1,
+				"audio": "/files/quiz/hadith/hadith05/audio/answers/3565_Answer.mp3"
+			},
+			{
+				"answer": "الوالي الذي يَعيشُون في وِلايَتِه فيَتكفَّلُهم مِن بَيتِ مَالِ المُسلمِينَ",
+				"t": 0
+			}
+		],
+		"isAudio": true,
+		"isAudioAnswer": true
+	}
+]
