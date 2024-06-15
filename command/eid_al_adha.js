@@ -26,7 +26,7 @@ export default async function eid_al_adha(client, config) {
                 const htmlToImageBuffer = await eid_al_adha_generator(user?.name ? user.name : user.username, "./eid_al_adha.jpeg", config.executablePath);
                 let caption = `ـ ❁ …\n\n${user?.name ? user.name : user.username}\n\n`
                 caption += `دامت بهجة أعيادكم\nوتقبل الله طاعاتكم\nوكل عام وأنتم بأتمِّ\nسرور وعافية`
-                await sendMediaWithRetry(user.id, { source: htmlToImageBuffer }, `sendPhoto`, caption);
+                await client.telegram["sendPhoto"](user.id, { source: htmlToImageBuffer }, { parse_mode: 'HTML', caption });
             } catch (error) {
                 await error_handling(error, client);
             }
@@ -38,20 +38,6 @@ export default async function eid_al_adha(client, config) {
     //     const GetAllUsers = await get_database_telegram(userType);
     //     return GetAllUsers.filter(user => user?.permissions?.canSendMessages || user?.type === "private");
     // }
-
-    // Function to send media with retry mechanism
-    async function sendMediaWithRetry(chatId, media, method, caption = '') {
-        try {
-            await client.telegram[method](chatId, media, { parse_mode: 'HTML', caption });
-        } catch (error) {
-            if (error.response && error.response.ok === false && error.response.error_code === 504) {
-                console.log("Network timeout, retry after a delay (e.g., 5 seconds)");
-                setTimeout(() => sendMediaWithRetry(chatId, media, method, caption), 5000);
-            } else {
-                await error_handling(error, client);
-            }
-        }
-    }
 
     // Function to check if the command is sent by the bot owner
     function isBotOwner(ctx) {
