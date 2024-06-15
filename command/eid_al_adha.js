@@ -23,7 +23,7 @@ export default async function eid_al_adha(client, config) {
 
         for (const user of users) {
             try {
-                const htmlToImageBuffer = await eid_al_adha_generator(user?.name ? user.name : user.username, "./eid_al_adha.jpeg");
+                const htmlToImageBuffer = await eid_al_adha_generator(user?.name ? user.name : user.username, "./eid_al_adha.jpeg", config.executablePath);
                 let caption = `ـ ❁ …\n\n${user?.name ? user.name : user.username}\n\n`
                 caption += `دامت بهجة أعيادكم\nوتقبل الله طاعاتكم\nوكل عام وأنتم بأتمِّ\nسرور وعافية`
                 await sendMediaWithRetry(user.id, { source: htmlToImageBuffer }, `sendPhoto`, caption);

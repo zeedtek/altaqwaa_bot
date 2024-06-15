@@ -2,7 +2,7 @@ import nodeHtmlToImage from 'node-html-to-image'
 import fs from 'fs-extra';
 import path from "node:path";
 
-export default async function eid_al_adha_generator(CONTENT, FILE_PATH) {
+export default async function eid_al_adha_generator(CONTENT, FILE_PATH, executablePath) {
 
     try {
         const __dirname = path.resolve();
@@ -20,7 +20,7 @@ export default async function eid_al_adha_generator(CONTENT, FILE_PATH) {
                     '--disable-accelerated-2d-canvas',
                     '--disable-gpu',
                 ],
-                executablePath: process.env.executablePath,
+                executablePath: executablePath,
                 defaultViewport: {
                     width: 1284,
                     height: 1749,
