@@ -120,7 +120,7 @@ export default async function scheduling_messages(client) {
         }
 
         // تنفيذ الأحداث المتعلقة بمشاركة اسماء الله الحسنى
-        else if (time_names_off_allah.includes(time)) {
+        else if (time_names_off_allah.includes(time) && false) {
             // الحصول على تفاصيل التفسير الميسر
             const Names_Of_Allah = fs.readJsonSync(path.join(__dirname, './files/json/Names_Of_Allah.json'));
             const puppeteerConfig = {
@@ -280,7 +280,7 @@ export default async function scheduling_messages(client) {
         }
 
         // تنفيذ الأحداث المتعلقة بمشاركة فتاوى ابن باز رحمه الله
-        else if (time_fatwas.includes(time)) {
+        else if (time_fatwas.includes(time) && false) {
             for (const item of GetAllUsers) {
                 if (item?.evenPost && item?.permissions?.canSendMessages && item?.type !== "private") {
                     const nameUser = item?.username ? `@${item?.username}` : item?.name;
